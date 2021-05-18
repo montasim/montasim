@@ -62,7 +62,6 @@
 </p>
 
 <br>
-<br>
 
 [//]: # "My Resume"  
 <details>
