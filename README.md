@@ -741,7 +741,7 @@
 <br>
 
 [//]: # "Github Trophies Header"
-<h2 align="center"><img src="https://github.com/montasim/montasim/blob/master/Media/Images/trophy.png?raw=true" width="23px"> Github Trophies <img src="https://github.com/montasim/montasim/blob/master/Media/Images/trophy.png?raw=true" width="23px"></h2>  
+<h2 align="center"><img src="media/icons/trophy.png" width="23px"> Github Trophies <img src="media/icons/trophy.png" width="23px"></h2>  
 
 <br>
 
