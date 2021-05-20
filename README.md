@@ -46,7 +46,7 @@
 
 [//]: # "A guy is programming gif"
 
-<img align="right" alt="a guy is programming gif" src="media/gif/web-code.gif" width="350px">
+<img align="right" alt="a guy is programming gif" src="media/gif/web-code.gif" width="380px">
 
 <br>
 <br>
