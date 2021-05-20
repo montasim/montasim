@@ -333,7 +333,7 @@
 
 [//]: # "Scrolling in laptop gif"
 
-<img align="right" alt="Scrolling in laptop gif" src="media/gif/scrolling-in-laptop.gif" width="325px">
+<img align="right" alt="Scrolling in laptop gif" src="media/gif/star.gif" width="325px">
 
 <br>
 <br>
