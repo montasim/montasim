@@ -308,7 +308,7 @@
 
 [//]: # "Webpage scrolling gif"
 
-<img align="left" alt="Webpage scrolling gif" src="media/gif/webpage-scrolling.gif" width="380px">
+<img align="left" alt="Webpage scrolling gif" src="media/gif/web-code.gif" width="380px">
 
 <br>
 <br>
