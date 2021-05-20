@@ -319,11 +319,11 @@
 
 [//]: # "Talking about me notes"
 
--  I am a Programmer, Developer, Writer, and Learner.
--  I love to solve coding problems.
--  I usually work on various things.
--  I learn everything I find interesting.
--  Ask me about anything. I am happy to help.
+-  ɪ ᴀᴍ ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ, ᴅᴇᴠᴇʟᴏᴘᴇʀ, ᴡʀɪᴛᴇʀ, ᴀɴᴅ ʟᴇᴀʀɴᴇʀ.
+-  ɪ ʟᴏᴠᴇ ᴛᴏ ꜱᴏʟᴠᴇ ᴄᴏᴅɪɴɢ ᴘʀᴏʙʟᴇᴍꜱ.
+-  ɪ ᴜꜱᴜᴀʟʟʏ ᴡᴏʀᴋ ᴏɴ ᴠᴀʀɪᴏᴜꜱ ᴛʜɪɴɢꜱ.
+-  ɪ ʟᴇᴀʀɴ ᴇᴠᴇʀʏᴛʜɪɴɢ ɪ ꜰɪɴᴅ ɪɴᴛᴇʀᴇꜱᴛɪɴɢ.
+-  ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴀɴʏᴛʜɪɴɢ. ɪ ᴀᴍ ʜᴀᴘᴘʏ ᴛᴏ ʜᴇʟᴘ.
 
 
 <br>
