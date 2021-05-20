@@ -319,11 +319,11 @@
 
 [//]: # "Talking about me notes"
 
-- 𝙸 𝚊𝚖 𝚊 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛, 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝚆𝚛𝚒𝚝𝚎𝚛, 𝚊𝚗𝚍 𝙻𝚎𝚊𝚛𝚗𝚎𝚛.
-- 𝙸 𝚕𝚘𝚟𝚎 𝚝𝚘 𝚜𝚘𝚕𝚟𝚎 𝚌𝚘𝚍𝚒𝚗𝚐 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜.
-- 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝚝𝚑𝚒𝚗𝚐𝚜!
-- 𝙸 𝚕𝚎𝚊𝚛𝚗 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 𝙸 𝚏𝚒𝚗𝚍 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚒𝚗𝚐.
-- 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐. 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+-  I am a Programmer, Developer, Writer, and Learner.
+-  I love to solve coding problems.
+-  I usually work on various things.
+-  I learn everything I find interesting.
+-  Ask me about anything. I am happy to help.
 
 
 <br>
