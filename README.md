@@ -347,7 +347,9 @@ Permanent Address : Balapara, 20 Mega Watt, Rangpur Sadar, Rangpur </p>
     </tbody>
 </table>
 <!-- End Reference (s) -->
-<!-- End My Resume -->                 
+<!-- End My Resume -->
+<br>
+<br>
 </details>
 <!-- End Details -->
 <!-- End My Resume Section -->
