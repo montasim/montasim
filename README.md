@@ -843,8 +843,7 @@ Preferred Organization Types : Software Company </p>
 	
 <br>
 <br>
-<!-- My own dictionary  -->
-<h2 align="left"><b> ⚠️ My Own Dictionary  </b></h2>
+
 <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for his GitHub readme Stats
     <br>
