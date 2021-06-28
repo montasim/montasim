@@ -47,7 +47,6 @@
 <img align="right" alt="a guy is programming gif" src="media/gif/web-code.gif" width="380px">
 
 <br>
-<br>
 
 <h2 align="left">✍ 𝐒𝐨𝐦𝐞 𝐖𝐨𝐫𝐝 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</h2>
 
