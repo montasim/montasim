@@ -69,14 +69,14 @@
 <br>
 <br>
 
-<h2><a href="https://drive.google.com/file/d/1-GukZzFcrZmZU5WqZTACLGpmTVLrjabg/view?usp=sharing"> Ｄｏｗｎｌｏａｄ Ｍｙ Ｒｅｓｕｍｅ </a></h2>
+<h2><a href="https://github.com/montasim/DoNotDelete/raw/main/resume/Resume_of_Montasim.pdf"> Ｄｏｗｎｌｏａｄ Ｍｙ Ｒｅｓｕｍｅ </a></h2>
 
 <br>
 <br>
 
 <!-- Start My Resume -->
 <!-- Montasim's Photo -->
-<img align="right" alt="Montasim's Photo" src="media/images/montasim.png" width="180px">
+<img align="right" alt="Montasim's Photo" src="media/images/montasim.png" width="200px">
 
 <h2 align="left"> Mohammad Montasim -Al- Mamun Shuvo
 <br> <h3> Developer and Designer </h3> </h2>
