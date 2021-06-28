@@ -466,7 +466,7 @@ Preferred Organization Types : Software Company </p>
 <!-- Start 𝙼𝚘𝚛𝚎 𝚂𝚝𝚞𝚏𝚏 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 Section -->
 <details>
 <summary>
-	<b> 💡 𝙼𝚘𝚛𝚎 𝚂𝚝𝚞𝚏𝚏 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 </b>
+	<b> 💡 More Stuff About Me </b>
 </summary>
 	
 <br>
@@ -815,7 +815,7 @@ Preferred Organization Types : Software Company </p>
 <!-- Start 𝙼𝚢 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 Section --> 
 <details>
 <summary>
-    <b> 📌 𝙼𝚢 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 </b>
+    <b> 📌 My Statistics </b>
 </summary>
 	
 <br>
@@ -842,6 +842,32 @@ Preferred Organization Types : Software Company </p>
 
 </details>
 <!-- End 𝙼𝚢 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 Section --> 
+
+<!-- Start Special Thanks To Section -->  
+<details>
+<summary>
+    <b> ⌛ Special Thanks To </b>
+</summary>
+	
+<br>
+<br>
+
+[//]: # "hello world gif"
+<p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for his GitHub readme Stats
+    <br>
+    <a href="https://lottiefiles.com/">lottiefiles</a> for beautiful animatated gif collection
+    <br>
+    <a href="https://www.remove.bg/">remove.bg</a> for background removal
+    <br>
+    <a href="https://lingojam.com/FancyLetters">lingojam.com</a> for beautiful fonts
+</p>
+
+<br>
+<br>
+
+</details>
+<!-- End Special Thanks To Section --> 
 
 <br>
 <br>
