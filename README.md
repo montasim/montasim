@@ -60,7 +60,9 @@
 [//]: # "About me paragraph"
 
 <p>
-   ɪ ᴡᴀɴᴛ ᴛᴏ ᴍᴀᴋᴇ ᴅɪꜰꜰᴇʀᴇɴᴄᴇ ᴀɴᴅ ᴡɪʟʟɪɴɢ ᴛᴏ ᴡᴏʀᴋ ʜᴀʀᴅ ꜰᴏʀ ᴀ ꜱᴋɪʟʟꜰᴜʟ ᴄᴀʀᴇᴇʀ ʀᴀᴛʜᴇʀ ᴛʜᴀɴ ᴀ ʀᴇɢᴜʟᴀʀ ᴄᴀʀᴇᴇʀ ᴛʜᴀᴛ ɪ ᴄᴀɴ ʙᴇ ꜱᴀᴛɪꜱꜰɪᴇᴅ ᴡɪᴛʜ. ɪ ᴡᴀɴᴛ ᴛᴏ ᴡᴏʀᴋ ʜᴀʀᴅ, ʙᴇ ʀᴇꜱᴘᴏɴꜱɪʙʟᴇ ᴀɴᴅ ɪᴍᴘʀᴏᴠᴇ ᴍʏ ᴘʀᴏꜰᴇꜱꜱɪᴏɴ ᴀɴᴅ ꜱᴋɪʟʟꜱ ᴡɪᴛʜ ᴀ ʀᴇᴘᴜᴛᴇᴅ ᴏʀɢᴀɴɪᴢᴀᴛɪᴏɴ ɪɴ ᴀɴ ᴇᴛʜɪᴄᴀʟ ᴡᴀʏ ɪɴ ᴏʀᴅᴇʀ ᴛᴏ ᴀᴄᴄᴇᴘᴛ ᴄʜᴀʟʟᴇɴɢᴇꜱ.
+   Practical and versatile Software Engineer with significant experience in developing software and websites. I can handle multiple ta
+sks daily. I use a creative approach to solve problems. I am a dependable person who is great at time management. I am always 
+energetic and eager to learn new skills. 
 </p>
 
 <br>
@@ -73,8 +75,12 @@
 
 [//]: # "Name heading"
 
-<h1 align="left">𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐌𝐨𝐧𝐭𝐚𝐬𝐢𝐦 -𝐀𝐥- 𝐌𝐚𝐦𝐮𝐧 𝐒𝐡𝐮𝐯𝐨</h1>
+<h1 align="left">MOHAMMAD MONTASIM -AL- MAMUN SHUVO
+ <br> <h3>Developer and Designer</h3></h1>
+	
 <p align="left">
+<b>𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘:</b> <a href="https://www.𝚖𝚘𝚗𝚝𝚊𝚜𝚒𝚖.𝚐𝚒𝚝𝚑𝚞𝚋.𝚒𝚘">𝚖𝚘𝚗𝚝𝚊𝚜𝚒𝚖.𝚐𝚒𝚝𝚑𝚞𝚋.𝚒𝚘</a>
+ <br>
  <b>𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘:</b> <a href="https://www.𝚖𝚘𝚗𝚝𝚊𝚜𝚒𝚖.𝚐𝚒𝚝𝚑𝚞𝚋.𝚒𝚘">𝚖𝚘𝚗𝚝𝚊𝚜𝚒𝚖.𝚐𝚒𝚝𝚑𝚞𝚋.𝚒𝚘</a>
  <br>
  <b>𝙴𝚖𝚊𝚒𝚕:</b> <a href="mailto:montasimmamun@gmail.com">𝚖𝚘𝚗𝚝𝚊𝚜𝚒𝚖𝚖𝚊𝚖𝚞𝚗@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖</a></h4>
