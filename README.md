@@ -269,9 +269,9 @@ Preferred Organization Types : Software Company </p>
 <!-- Start Extra Curricular Activities -->
 <h2 align="left"> Extra Curricular Activities: </h2>
 
-- <h3> Ex. Cadet, second best cadet of Mohasthan Regiment at Bangladesh National Cadet Corps (BNCC) </h3>
-   
-- <h3> Event Organizer at Rangpur Zilla School </h3>
+<p>Ex. Cadet, second best cadet of Mohasthan Regiment at Bangladesh National Cadet Corps (BNCC)
+<br> 
+Event Organizer at Rangpur Zilla School </p>
 <!-- End Extra Curricular Activities -->    
 
 <br>
@@ -280,13 +280,19 @@ Preferred Organization Types : Software Company </p>
 <!-- Start Personal Details -->
 <h2 align="left"> Personal Details: </h2>
 
-- <h3> Father's Name : MD. Hafizar Rahman </h3>
-- <h3> Mother's Name : MST. Majida Begum Date of
-- <h3> Birth : December 16, 1998 
-- <h3> Nationality : Bangladeshi 
-- <h3> Blood Group : B+ 
-- <h3> Religion : Islam 
-- <h3> Permanent Address : Balapara, 20 Mega Watt, Rangpur Sadar, Rangpur </h3>
+<p> Father's Name : MD. Hafizar Rahman 
+<br> 
+Mother's Name : MST. Majida Begum Date of
+<br> 
+Birth : December 16, 1998 
+<br> 
+Nationality : Bangladeshi 
+<br> 
+Blood Group : B+ 
+<br> 
+Religion : Islam 
+<br> 
+Permanent Address : Balapara, 20 Mega Watt, Rangpur Sadar, Rangpur </p>
 <!-- End Personal Details -->    
  
 <br>
