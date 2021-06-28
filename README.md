@@ -69,7 +69,7 @@
 <br>
 <br>
 
-<h2><a href="https://github.com/montasim/DoNotDelete/raw/main/resume/Resume_of_Montasim.pdf"> Ｄｏｗｎｌｏａｄ Ｍｙ Ｒｅｓｕｍｅ </a></h2>
+<h2 align="center"><a href="https://github.com/montasim/DoNotDelete/raw/main/resume/Resume_of_Montasim.pdf"> Ｄｏｗｎｌｏａｄ Ｍｙ Ｒｅｓｕｍｅ </a></h2>
 
 <br>
 <br>
