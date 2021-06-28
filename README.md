@@ -781,14 +781,6 @@ Preferred Organization Types : Software Company </p>
 <br>
 <br>
 
-<!-- gitwar profile score -->
-<p align="center">
-    <img align="center" alt="gitwar profile score" src="https://gitwar.herokuapp.com/badge?username=montasim&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc" />
-</p>
-
-<br>
-<br>
-
 <!-- More --> 
 <!-- Start More Section -->  
 <details>
