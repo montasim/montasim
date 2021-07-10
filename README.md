@@ -444,10 +444,16 @@ Preferred Organization Types : Software Company </p>
 
 <br>
 <br>
+
+<!-- Montasim's Photo -->
+<img align="right" alt="Montasim's Photo" src="media/gif/favourite.png" width="500px">
+
+<br>
+<br>
 <br>
 
 <!-- Start Talking About Personal Stuffs -->
-<h2 align="left">💥 𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬</h2>
+<h2 align="center">💥 𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬</h2>
 
 
 -  ɪ ᴀᴍ ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ, ᴅᴇᴠᴇʟᴏᴘᴇʀ, ᴡʀɪᴛᴇʀ, ᴀɴᴅ ʟᴇᴀʀɴᴇʀ.
