@@ -519,10 +519,6 @@ Preferred Organization Types : Software Company </p>
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 
 <!-- My Specifications section -->
@@ -612,6 +608,7 @@ Preferred Organization Types : Software Company </p>
 <!-- end work experience section -->
 
 <br>
+<br>
 
 <!-- My Work Experience -->
 <h2 align="center"><b> ⌚ My Work Experience </b></h2>
@@ -638,6 +635,7 @@ Preferred Organization Types : Software Company </p>
 <br>
 <!-- end My Work Experience -->
 
+<br>
 <br>
 
 <!-- Projects I'm the most proud of -->
@@ -687,6 +685,7 @@ Preferred Organization Types : Software Company </p>
 <br>
 <!-- end Projects I'm the most proud of -->
 
+<br>
 <br>
 
 <!-- My own dictionary  -->
@@ -752,8 +751,6 @@ Preferred Organization Types : Software Company </p>
 - <b>𝙾𝚙𝚎𝚛𝚊𝚝𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖:</b> 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝟷𝟶
 - <b>𝚃𝚘 𝚂𝚝𝚊𝚢 𝚄𝚙𝚍𝚊𝚝𝚎𝚍:</b> <a href="https://www.linkedin.com/in/montasim">𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗</a>, <a href="https://www.github.com/montasim">𝙶𝚒𝚝𝙷𝚞𝚋</a>
 
-<br>
-<br>
 <br>
 <br>
 
