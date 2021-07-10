@@ -533,7 +533,7 @@ Preferred Organization Types : Software Company </p>
 
 <!-- Working server gif -->
 <p align="center">
-  <img alt="Working server animation gif" src="media/gif/delete.gif" width="350px">
+  <img alt="Working server animation gif" src="media/gif/pc-stats.gif" width="350px">
 </p>
 
 <h3 align="center">𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎  <img alt="heart gif" src="media/icons/heart.png" width="20px"> 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜. 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚐𝚒𝚟𝚎 𝚈𝚘𝚞𝚛 𝚂𝚞𝚐𝚐𝚎𝚜𝚝𝚒𝚘𝚗𝚜, 𝙸𝚜𝚜𝚞𝚎𝚜 𝚘𝚛 𝙿𝚁𝚜.</h3>
