@@ -489,12 +489,6 @@ Preferred Organization Types : Software Company </p>
 <br>
 
 <!-- Start My Absolute Favourites -->
-<!-- Scrolling in laptop gif -->
-<img align="center" alt="Scrolling in laptop gif" src="media/gif/settings.gif" width="325px">
-
-<br>
-<br>
-
 <h2 align="left">⚡ 𝐌𝐲 𝐀𝐛𝐬𝐨𝐥𝐮𝐭𝐞 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐞𝐬</h2>
 
 - 𝙸 𝚕𝚒𝚔𝚎 𝚙𝚕𝚊𝚢𝚒𝚗𝚐 𝚐𝚊𝚖𝚎𝚜.
