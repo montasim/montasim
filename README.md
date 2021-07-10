@@ -399,7 +399,6 @@ Preferred Organization Types : Software Company </p>
 <!-- End Reference (s) -->
 <!-- End My Resume -->
 <br>
-<br>
 </details>
 <!-- End Details -->
 <!-- End My Resume Section -->
