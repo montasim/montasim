@@ -443,8 +443,6 @@ Preferred Organization Types : Software Company </p>
 
 <br>
 <br>
-<br>
-
 <!-- Start Talking About Personal Stuffs -->
 <h2 align="left">💥 𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬</h2>
 
@@ -456,7 +454,6 @@ Preferred Organization Types : Software Company </p>
 -  ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴀɴʏᴛʜɪɴɢ. ɪ ᴀᴍ ʜᴀᴘᴘʏ ᴛᴏ ʜᴇʟᴘ.
 <!-- End Talking About Personal Stuffs -->
 
-<br>
 <br>
 
 <!-- Start My Absolute Favourites -->
