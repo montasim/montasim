@@ -44,7 +44,7 @@
 <br>
 
 <!-- A guy is programming gif -->
-<img align="right" alt="a guy is programming gif" src="media/gif/web-code.gif" width="380px">
+<img align="right" alt="a guy is programming gif" src="media/gif/code1.gif" width="380px">
 
 <br>
 
@@ -53,7 +53,7 @@
 <br>
 
 <p>
-   Practical and versatile Software Engineer with significant experience in developing software and websites. I can handle multiple tasks daily. I use a creative approach to solve problems. I am a dependable person who is great at time management. I am always energetic and eager to learn new skills. 
+   From a young age, I’ve always had a sense of motivation and passion driving me forward. Whether it’s exploring unique opportunities, learning additional skills, or meeting new people, I bring these values to every experience throughout my life on a personal and professional level. To learn more about me, keep exploring my site or reach out directly. 
 </p>
 
 <br>
@@ -61,13 +61,13 @@
 <!-- Start My Resume Section -->
 <!-- Start Details -->
 <details>
-<summary><b> 📑  My Resume </b></summary>
+<summary><b> 📑  𝙼𝚢 𝐑𝐞𝐬𝐮𝐦𝐞 </b></summary>
 
 <br>
 <br>
 <br>
 
-<h2 align="center"><a href="https://github.com/montasim/DoNotDelete/raw/main/resume/Resume_of_Montasim.pdf"> Ｄｏｗｎｌｏａｄ Ｍｙ Ｒｅｓｕｍｅ </a></h2>
+<h2 align="center"><a href="https://github.com/montasim/DoNotDelete/raw/main/resume/Resume_of_Montasim.pdf"> 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐌𝐲 𝐑𝐞𝐬𝐮𝐦𝐞 </a></h2>
 
 <br>
 <br>
@@ -83,8 +83,6 @@
 
 <!-- Start Links -->
 <p align="left">
-<b> Address: </b> Address: Balapara, 20 Mega Watt, Rangpur Sadar, Rangpur, Bangladesh
-<br>
 <b> Email: </b> <a href="montasimmamun@gmail.com"> montasimmamun@gmail.com</a>
 <br>
 <b> Portfolio: </b> <a href="https://montasim.github.io"> montasim.github.io </a>
@@ -100,16 +98,82 @@
 
 <!-- Start Career Objective -->
 <h2 align="left"> Career Objective: </h2>
+<hr>
 <p>
-   Practical and versatile Software Engineer with significant experience in developing software and websites. I can handle multiple tasks daily. I use a creative approach to solve problems. I am a dependable person who is great at time management. I am always energetic and eager to learn new skills. 
+   Practical and versatile Software Engineer with significant experience in developing Websites and Web Applications. I
+can handle multiple tasks daily. I use a creative approach to solve problems. I am a dependable person who is great
+at time management. I am always energetic and eager to learn new skills. 
 </p>
 <!-- End Career Objective -->
 
 <br>
 <br>
 
+<!-- Start Career Objective -->
+<h2 align="left"> Career Summary: </h2>
+<hr>
+<p>
+   I am a developer who is working on an organization named CODEZ Info Tech. My responsibility here is to design
+and develop Websites and Web Applications. My goal is to work hard to make my educational and professional skills
+in a flawless workplace. 
+</p>
+<!-- End Career Objective -->
+
+<br>
+<br>
+
+<!-- Start Experience -->
+<h2 align="left"> Experience: </h2>
+<hr>
+<table align="center">
+    <thead>
+        <tr>
+            <th align="left"><b></b> Company Name </th>
+	        <th align="left"><b> CODEZ Info Tech </b></th>
+            <th align="left"><b> Crystal It and Soft </b></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left"><b> Designation </b></td>
+            <td align="left"> Web Developer </td>
+            <td align="left"> Web Developer </td>
+        </tr>
+        <tr>
+            <td align="left"><b> Duration </b></td>
+            <td align="left"> December 10, 2020 - Present </td>
+            <td align="left"> August 2019 – September 2020 </td>
+        </tr>
+        <tr>
+            <td align="left"><b> Address </b></td>
+            <td align="left"> 3/359, Adarsha Nagar, Middle-Badda, Dhaka-1212 </td>
+            <td align="left"> Chartola Mor, Rangpur </td>
+        </tr>
+        <tr>
+            <td align="left"><b> Responsibility </b></td>
+            <td align="left"> Design and Develop Websites and Web Applications </td>
+            <td align="left"> Developed and maintained affiliate marketing website Crystal It and Soft, Rangpur </td>
+        </tr>
+        <tr>
+            <td align="left"><b>  </b></td>
+            <td align="left">  UI/UX Design </td>
+            <td align="left"> Wrote over 150 contents for those websites </td>
+        </tr>
+        <tr>
+            <td align="left"><b>  </b></td>
+            <td align="left"> Problem Solving </td>
+            <td align="left">  </td>
+        </tr>
+    </tbody>
+</table>
+<!-- End Experience -->
+
+<br>
+<br>
+
 <!-- Start Academic Qualification Summery -->
 <h2 align="left"> Academic Qualification: </h2>
+<hr>
 <table align="center">
     <thead>
         <tr>
@@ -151,8 +215,12 @@
 
 <!-- Start Undergraduate Thesis and Project --> 
 <h2 align="left"> Undergraduate Thesis and Project: </h2>
-<p> Hand pose estimation in single RGB image with Multiview Bootstrapping. </p> 
-<p>- Deep Learning, OpenCV, Convolutional Neural Network (CNN), Python </p>
+<hr>
+<p> <b> Hand Pose Estimation in Single RGB Image with Multiview Bootstrapping. </b>
+<br> 
+- Deep Learning, OpenCV <br>
+- Convolutional Neural Network (CNN) <br>
+- Python (TensorFlow, Matplotlib, Scikit-Learn, OpenCV, Media pipe) </p>
 <!-- End Undergraduate Thesis and Project --> 
 
 <br>
@@ -160,6 +228,7 @@
 
 <!-- Start Career and Application Information --> 
 <h2 align="left"> Career and Application Information: </h2>
+<hr>
 <p> Preferred Job Category : Engineer, IT, Telecommunication, Design, Creative 
 <br>
 Looking For : Entry Level Job 
@@ -176,6 +245,7 @@ Preferred Organization Types : Software Company </p>
 
 <!-- Start Specialization --> 
 <h2 align="left"> Specialization: </h2>
+<hr>
 <table align="center">
     <thead>
         <tr>
@@ -204,7 +274,7 @@ Preferred Organization Types : Software Company </p>
             <br> 05. Databases: SQL Server, MySQL, SQLite 
             <br> 06. Toolkits: LaTeX 
             <br> 07. Version Control: Git, GitHub 
-            <br> 08. Soft Skills: Leadership, Time Management </P> 
+            <br> 08. Human Skills: Leadership, Time Management </P> 
             </td>
         </tr>
     </tbody>
@@ -216,6 +286,7 @@ Preferred Organization Types : Software Company </p>
 
 <!-- Start Language Proficiency --> 
 <h2 align="left"> Language Proficiency: </h2>
+<hr>
 <table align="center">
     <thead>
         <tr>
@@ -249,8 +320,7 @@ Preferred Organization Types : Software Company </p>
 
 <!-- Start Training, Participation and Certification --> 
 <h2 align="left"> Training, Participation and Certification: </h2>
-
-[//]: # "Trainging and Participation summery"
+<hr>
 
 - <a href="#"> Mobile Game And Application Development For Android - at ICT Division of Bangladesh </a>
 - <a href="#"> PLC Training Course - at BAUST </a>
@@ -268,10 +338,9 @@ Preferred Organization Types : Software Company </p>
 
 <!-- Start Extra Curricular Activities -->
 <h2 align="left"> Extra Curricular Activities: </h2>
-
-<p>Ex. Cadet, second best cadet of Mohasthan Regiment at Bangladesh National Cadet Corps (BNCC)
-<br> 
-Event Organizer at Rangpur Zilla School </p>
+<hr>
+<p> - Ex. Cadet, second best cadet of Mohasthan Regiment at Bangladesh National Cadet Corps (BNCC) </p>
+<p> - Event Organizer at Rangpur Zilla School </p>
 <!-- End Extra Curricular Activities -->    
 
 <br>
@@ -279,20 +348,20 @@ Event Organizer at Rangpur Zilla School </p>
 
 <!-- Start Personal Details -->
 <h2 align="left"> Personal Details: </h2>
-
-<p> Father's Name : MD. Hafizar Rahman 
+<hr>
+<p> <b> Father's Name : MD. Hafizar Rahman </b>  
 <br> 
-Mother's Name : MST. Majida Begum Date of
+<b> Mother's Name : MST. Majida Begum </b> 
 <br> 
-Birth : December 16, 1998 
+<b> Date of Birth : December 16, 1998 </b>  
 <br> 
-Nationality : Bangladeshi 
+<b> Nationality : Bangladeshi </b>  
 <br> 
-Blood Group : B+ 
+<b> Blood Group : B+ </b>  
 <br> 
-Religion : Islam 
+<b> Religion : Islam </b>  
 <br> 
-Permanent Address : Balapara, 20 Mega Watt, Rangpur Sadar, Rangpur </p>
+<b> Permanent Address : Balapara, 20 Mega Watt, Rangpur Sadar, Rangpur </b> </p>
 <!-- End Personal Details -->    
  
 <br>
@@ -300,6 +369,7 @@ Permanent Address : Balapara, 20 Mega Watt, Rangpur Sadar, Rangpur </p>
 
 <!-- Start Reference (s) -->
 <h2 align="left"> Reference (s): </h2>
+<hr>
 <table align="center">
     <thead>
         <tr>
@@ -311,38 +381,38 @@ Permanent Address : Balapara, 20 Mega Watt, Rangpur Sadar, Rangpur </p>
     <tbody>
         <tr>
             <td align="left"><b> Name </b></td>
-            <td align="left"> Professor Dr. Md. Mamunur Rashid </td>
+            <td align="left"> Tareq Aziz </td>
             <td align="left"> Abu Saleh Musa Miah </td>
         </tr>
         <tr>
             <td align="left"><b> Organization </b></td>
-            <td align="left"> BAUST </td>
-            <td align="left"> BAUST </td>
+            <td align="left"> CODEZ Info Tech </td>
+            <td align="left"> Bangladesh Army University of Science and Technology (BAUST) </td>
         </tr>
         <tr>
             <td align="left"><b> Designation </b></td>
-            <td align="left"> Dean, Faculty of ECE </td>
+            <td align="left"> Data Engineer </td>
             <td align="left"> Lecturer </td>
         </tr>
         <tr>
             <td align="left"><b> Address </b></td>
-            <td align="left"> Saidpur Cantonment, Saidpur, Bangladesh </td>
+            <td align="left"> 3/359, Adarsha Nagar, Middle-Badda, Dhaka-1212 </td>
             <td align="left"> Saidpur Cantonment, Saidpur, Bangladesh </td>
         </tr>
         <tr>
             <td align="left"><b> Mobile </b></td>
-            <td align="left">  +8801769675558 </td>
+            <td align="left"> +8801947818375 </td>
             <td align="left"> +8801734264899 </td>
         </tr>
         <tr>
             <td align="left"><b> Email </b></td>
-            <td align="left"> hdcse@baust.edu.bd </td>
+            <td align="left"> tareqitbuzz@gmail.com </td>
             <td align="left"> abusalehcse.ru@gmail.com </td>
         </tr>
         <tr>
             <td align="left"><b> Relation </b></td>
-            <td align="left"> Academic </td>
-            <td align="left"> Academic </td>
+            <td align="left"> Colleague </td>
+            <td align="left"> Teacher </td>
         </tr>
     </tbody>
 </table>
@@ -404,7 +474,7 @@ Permanent Address : Balapara, 20 Mega Watt, Rangpur Sadar, Rangpur </p>
 
 <!-- Start Talking About Personal Stuffs -->
 <!-- Webpage scrolling gif -->
-<img align="left" alt="Webpage scrolling gif" src="media/gif/personal.gif" width="300px">
+<img align="left" alt="Webpage scrolling gif" src="media/gif/sleeping-code.gif" width="300px">
 
 <br>
 
@@ -422,7 +492,7 @@ Permanent Address : Balapara, 20 Mega Watt, Rangpur Sadar, Rangpur </p>
 
 <!-- Start My Absolute Favourites -->
 <!-- Scrolling in laptop gif -->
-<img align="right" alt="Scrolling in laptop gif" src="media/gif/star.gif" width="325px">
+<img align="right" alt="Scrolling in laptop gif" src="media/gif/settings.gif" width="325px">
 
 <br>
 <br>
@@ -463,7 +533,7 @@ Permanent Address : Balapara, 20 Mega Watt, Rangpur Sadar, Rangpur </p>
 
 <!-- Working server gif -->
 <p align="center">
-  <img alt="Working server animation gif" src="media/gif/working-server.gif" width="350px">
+  <img alt="Working server animation gif" src="media/gif/delete.gif" width="350px">
 </p>
 
 <h3 align="center">𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎  <img alt="heart gif" src="media/icons/heart.png" width="20px"> 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜. 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚐𝚒𝚟𝚎 𝚈𝚘𝚞𝚛 𝚂𝚞𝚐𝚐𝚎𝚜𝚝𝚒𝚘𝚗𝚜, 𝙸𝚜𝚜𝚞𝚎𝚜 𝚘𝚛 𝙿𝚁𝚜.</h3>
@@ -474,7 +544,7 @@ Permanent Address : Balapara, 20 Mega Watt, Rangpur Sadar, Rangpur </p>
 <!-- Start 𝙼𝚘𝚛𝚎 𝚂𝚝𝚞𝚏𝚏 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 Section -->
 <details>
 <summary>
-	<b> 💡 More Stuff About Me </b>
+	<b> 💡 𝙼𝚘𝚛𝚎 𝚂𝚝𝚞𝚏𝚏 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 </b>
 </summary>
 	
 <br>
@@ -815,7 +885,7 @@ Permanent Address : Balapara, 20 Mega Watt, Rangpur Sadar, Rangpur </p>
 <!-- Start 𝙼𝚢 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 Section --> 
 <details>
 <summary>
-    <b> 📌 My Statistics </b>
+    <b> 📌 𝙼𝚢 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 </b>
 </summary>
 	
 <br>
@@ -846,7 +916,7 @@ Permanent Address : Balapara, 20 Mega Watt, Rangpur Sadar, Rangpur </p>
 <!-- Start Special Thanks To Section -->  
 <details>
 <summary>
-    <b> ⌛ Special Thanks To </b>
+    <b> ⌛ 𝚂𝚙𝚎𝚌𝚒𝚊𝚕 𝚃𝚑𝚊𝚗𝚔𝚜 𝚃𝚘 </b>
 </summary>
 	
 <br>
