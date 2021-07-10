@@ -444,6 +444,8 @@ Preferred Organization Types : Software Company </p>
 
 <br>
 <br>
+<br>
+
 <!-- Start Talking About Personal Stuffs -->
 <h2 align="left">💥 𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬</h2>
 
@@ -504,16 +506,7 @@ Preferred Organization Types : Software Company </p>
 	
 <br>
 <br>
-	
-[//]: # "Man developing web gif"
 
-<img align="left" alt="Man developing web gif" src="media/gif/code3.gif" width="400px">
-
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <h2 align="left"> 📣 What I do </h2>
 
@@ -620,15 +613,6 @@ Preferred Organization Types : Software Company </p>
 
 <br>
 
-[//]: # "Development process gif"
-
-<p align="center">
-  <img alt="Development process gif" src="media/gif/process.gif" width="400px">
-</p>
-
-<br>
-<br>
-
 <!-- My Work Experience -->
 <h2 align="center"><b> ⌚ My Work Experience </b></h2>
 <table align="center">
@@ -654,15 +638,6 @@ Preferred Organization Types : Software Company </p>
 <br>
 <!-- end My Work Experience -->
 
-<br>
-
-[//]: # "Laptop app development gif"
-
-<p align="center">
-  <img alt="Laptop app development gif" src="media/gif/app.gif" width="200px">
-</p>
-
-<br>
 <br>
 
 <!-- Projects I'm the most proud of -->
@@ -760,13 +735,6 @@ Preferred Organization Types : Software Company </p>
 <br>
 <br>
 
-<!-- Office Yoga gif -->
-<img align="left" alt="Office Yoga gif" src="media/gif/idea.gif" width="500px">
-
-<br>
-<br>
-<br>
-
 <!-- 𝚃𝚑𝚒𝚗𝚐𝚜 𝙸 𝚄𝚜𝚎 𝚃𝚘 𝙶𝚎𝚝 𝚂𝚝𝚞𝚏𝚏 𝙳𝚘𝚗𝚎 heading -->
 
 <h2 align="left"> ⚙️ 𝚃𝚑𝚒𝚗𝚐𝚜 𝙸 𝚄𝚜𝚎 </h2>
@@ -783,17 +751,6 @@ Preferred Organization Types : Software Company </p>
 - <b>𝙲𝚘𝚍𝚎 𝙴𝚍𝚒𝚝𝚘𝚛:</b> 𝚅𝚒𝚜𝚞𝚊𝚕 𝚂𝚝𝚞𝚍𝚒𝚘 𝙲𝚘𝚍𝚎
 - <b>𝙾𝚙𝚎𝚛𝚊𝚝𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖:</b> 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝟷𝟶
 - <b>𝚃𝚘 𝚂𝚝𝚊𝚢 𝚄𝚙𝚍𝚊𝚝𝚎𝚍:</b> <a href="https://www.linkedin.com/in/montasim">𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗</a>, <a href="https://www.github.com/montasim">𝙶𝚒𝚝𝙷𝚞𝚋</a>
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<!-- dancing heart gif -->
-
-<img align="right" alt="dancing heart gif" src="media/gif/thanks.gif" width="325px">
 
 <br>
 <br>
@@ -812,33 +769,7 @@ Preferred Organization Types : Software Company </p>
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<!-- More --> 
-<!-- Start More Section -->  
-<details>
-<summary>
-    <b> More </b>
-</summary>
-	
-<br>
-<br>
-
-[//]: # "hello world gif"
-<p align="center">
-    <img align="right" alt="hello world gif" src="media/gif/hello-world.gif"/>
-</p>
-
-<br>
-<br>
-
-</details>
-<!-- End More Section --> 
 </details>
 <!-- End 𝙼𝚘𝚛𝚎 𝚂𝚝𝚞𝚏𝚏 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 Section -->
 
