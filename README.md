@@ -472,14 +472,11 @@ Preferred Organization Types : Software Company </p>
 <!-- End 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section --> 
 
 <br>
-
-<!-- Start Talking About Personal Stuffs -->
-<!-- Webpage scrolling gif -->
-<img align="left" alt="Webpage scrolling gif" src="media/gif/sleeping-code.gif" width="300px">
-
+<br>
 <br>
 
-<h2 align="right">💥 𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬</h2>
+<!-- Start Talking About Personal Stuffs -->
+<h2 align="left">💥 𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬</h2>
 
 -  ɪ ᴀᴍ ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ, ᴅᴇᴠᴇʟᴏᴘᴇʀ, ᴡʀɪᴛᴇʀ, ᴀɴᴅ ʟᴇᴀʀɴᴇʀ.
 -  ɪ ʟᴏᴠᴇ ᴛᴏ ꜱᴏʟᴠᴇ ᴄᴏᴅɪɴɢ ᴘʀᴏʙʟᴇᴍꜱ.
@@ -493,7 +490,7 @@ Preferred Organization Types : Software Company </p>
 
 <!-- Start My Absolute Favourites -->
 <!-- Scrolling in laptop gif -->
-<img align="right" alt="Scrolling in laptop gif" src="media/gif/settings.gif" width="325px">
+<img align="center" alt="Scrolling in laptop gif" src="media/gif/settings.gif" width="325px">
 
 <br>
 <br>
