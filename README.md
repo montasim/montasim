@@ -412,8 +412,10 @@ Preferred Organization Types : Software Company </p>
 
 
 <!-- handshake gif -->
-<img align="left" alt="handshake gif" src="media/gif/thanks1.png" width="180px">
+<img align="left" alt="handshake gif" src="media/gif/thanks1.png" width="150px">
  
+<br>
+<br>
 <br>
 <br>
 
