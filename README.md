@@ -46,7 +46,6 @@
 <br>
 
 <h2 align="left">✍ 𝐒𝐨𝐦𝐞 𝐖𝐨𝐫𝐝 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</h2>
-<hr>
 <p>
    From a young age, I’ve always had a sense of motivation and passion driving me forward. Whether it’s exploring unique opportunities, learning additional skills, or meeting new people, I bring these values to every experience throughout my life on a personal and professional level. To learn more about me, keep exploring my site or reach out directly. 
 </p>
@@ -93,7 +92,6 @@
 
 <!-- Start Career Objective -->
 <h2 align="left"> Career Objective: </h2>
-<hr>
 <p>
    Practical and versatile Software Engineer with significant experience in developing Websites and Web Applications. I
 can handle multiple tasks daily. I use a creative approach to solve problems. I am a dependable person who is great
@@ -106,7 +104,6 @@ at time management. I am always energetic and eager to learn new skills.
 
 <!-- Start Career Objective -->
 <h2 align="left"> Career Summary: </h2>
-<hr>
 <p>
    I am a developer who is working on an organization named CODEZ Info Tech. My responsibility here is to design
 and develop Websites and Web Applications. My goal is to work hard to make my educational and professional skills
@@ -119,7 +116,6 @@ in a flawless workplace.
 
 <!-- Start Experience -->
 <h2 align="left"> Experience: </h2>
-<hr>
 <table align="center">
     <thead>
         <tr>
@@ -168,7 +164,6 @@ in a flawless workplace.
 
 <!-- Start Academic Qualification Summery -->
 <h2 align="left"> Academic Qualification: </h2>
-<hr>
 <table align="center">
     <thead>
         <tr>
@@ -210,7 +205,6 @@ in a flawless workplace.
 
 <!-- Start Undergraduate Thesis and Project --> 
 <h2 align="left"> Undergraduate Thesis and Project: </h2>
-<hr>
 <p> <b> Hand Pose Estimation in Single RGB Image with Multiview Bootstrapping. </b>
 <br> 
 - Deep Learning, OpenCV <br>
@@ -223,7 +217,6 @@ in a flawless workplace.
 
 <!-- Start Career and Application Information --> 
 <h2 align="left"> Career and Application Information: </h2>
-<hr>
 <p> Preferred Job Category : Engineer, IT, Telecommunication, Design, Creative 
 <br>
 Looking For : Entry Level Job 
@@ -240,7 +233,6 @@ Preferred Organization Types : Software Company </p>
 
 <!-- Start Specialization --> 
 <h2 align="left"> Specialization: </h2>
-<hr>
 <table align="center">
     <thead>
         <tr>
@@ -281,7 +273,6 @@ Preferred Organization Types : Software Company </p>
 
 <!-- Start Language Proficiency --> 
 <h2 align="left"> Language Proficiency: </h2>
-<hr>
 <table align="center">
     <thead>
         <tr>
@@ -315,7 +306,6 @@ Preferred Organization Types : Software Company </p>
 
 <!-- Start Training, Participation and Certification --> 
 <h2 align="left"> Training, Participation and Certification: </h2>
-<hr>
 
 - <a href="#"> Mobile Game And Application Development For Android - at ICT Division of Bangladesh </a>
 - <a href="#"> PLC Training Course - at BAUST </a>
@@ -333,7 +323,6 @@ Preferred Organization Types : Software Company </p>
 
 <!-- Start Extra Curricular Activities -->
 <h2 align="left"> Extra Curricular Activities: </h2>
-<hr>
 <p> - Ex. Cadet, second best cadet of Mohasthan Regiment at Bangladesh National Cadet Corps (BNCC) </p>
 <p> - Event Organizer at Rangpur Zilla School </p>
 <!-- End Extra Curricular Activities -->    
@@ -343,7 +332,6 @@ Preferred Organization Types : Software Company </p>
 
 <!-- Start Personal Details -->
 <h2 align="left"> Personal Details: </h2>
-<hr>
 <p> <b> Father's Name : MD. Hafizar Rahman </b>  
 <br> 
 <b> Mother's Name : MST. Majida Begum </b> 
@@ -364,7 +352,6 @@ Preferred Organization Types : Software Company </p>
 
 <!-- Start Reference (s) -->
 <h2 align="left"> Reference (s): </h2>
-<hr>
 <table align="center">
     <thead>
         <tr>
@@ -466,7 +453,6 @@ Preferred Organization Types : Software Company </p>
 <!-- Start Talking About Personal Stuffs -->
 <h2 align="left">💥 𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬</h2>
 
-<hr>
 
 -  ɪ ᴀᴍ ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ, ᴅᴇᴠᴇʟᴏᴘᴇʀ, ᴡʀɪᴛᴇʀ, ᴀɴᴅ ʟᴇᴀʀɴᴇʀ.
 -  ɪ ʟᴏᴠᴇ ᴛᴏ ꜱᴏʟᴠᴇ ᴄᴏᴅɪɴɢ ᴘʀᴏʙʟᴇᴍꜱ.
@@ -480,7 +466,6 @@ Preferred Organization Types : Software Company </p>
 
 <!-- Start My Absolute Favourites -->
 <h2 align="left">⚡ 𝐌𝐲 𝐀𝐛𝐬𝐨𝐥𝐮𝐭𝐞 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐞𝐬</h2>
-<hr>
 
 - 𝙸 𝚕𝚒𝚔𝚎 𝚙𝚕𝚊𝚢𝚒𝚗𝚐 𝚐𝚊𝚖𝚎𝚜.
 - 𝚂𝚙𝚎𝚗𝚍 𝚊 𝚍𝚊𝚢 𝚝𝚘 𝚏𝚒𝚗𝚍 𝚊 𝚙𝚛𝚘𝚋𝚕𝚎𝚖 𝚊𝚗𝚍 𝚝𝚑𝚎𝚗 𝚏𝚒𝚡 𝚒𝚝 𝚠𝚒𝚝𝚑 𝚕𝚎𝚜𝚜 𝚎𝚏𝚏𝚘𝚛𝚝 𝚝𝚑𝚊𝚗 𝚏𝚒𝚗𝚍𝚒𝚗𝚐.
@@ -492,7 +477,6 @@ Preferred Organization Types : Software Company </p>
 
 <!-- Start My Github Stats -->
 <h2 align="center">💦 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬</h2>
-<hr>
 <br>
 
 <!-- Start Montasim's github readme stats -->
