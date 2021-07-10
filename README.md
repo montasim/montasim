@@ -405,8 +405,7 @@ Preferred Organization Types : Software Company </p>
 
 
 <!-- Start 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section --> 
-	
-<br>
+
 
 <!-- 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 -->
 <h2 align="right"><b> 🔸 Ｆｉｎｄ Ｍｅ Ｏｎ Ｓｏｃｉａｌ Ｍｅｄｉａ  </b></h2>
