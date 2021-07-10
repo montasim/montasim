@@ -45,14 +45,8 @@
 <br>
 <br>
 
-<!-- A guy is programming gif -->
-<img align="right" alt="a guy is programming gif" src="media/gif/code1.gif" width="380px">
-
-
 <h2 align="left">✍ 𝐒𝐨𝐦𝐞 𝐖𝐨𝐫𝐝 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</h2>
-
-<br>
-
+<hr>
 <p>
    From a young age, I’ve always had a sense of motivation and passion driving me forward. Whether it’s exploring unique opportunities, learning additional skills, or meeting new people, I bring these values to every experience throughout my life on a personal and professional level. To learn more about me, keep exploring my site or reach out directly. 
 </p>
@@ -478,6 +472,8 @@ Preferred Organization Types : Software Company </p>
 <!-- Start Talking About Personal Stuffs -->
 <h2 align="left">💥 𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬</h2>
 
+<hr>
+
 -  ɪ ᴀᴍ ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ, ᴅᴇᴠᴇʟᴏᴘᴇʀ, ᴡʀɪᴛᴇʀ, ᴀɴᴅ ʟᴇᴀʀɴᴇʀ.
 -  ɪ ʟᴏᴠᴇ ᴛᴏ ꜱᴏʟᴠᴇ ᴄᴏᴅɪɴɢ ᴘʀᴏʙʟᴇᴍꜱ.
 -  ɪ ᴜꜱᴜᴀʟʟʏ ᴡᴏʀᴋ ᴏɴ ᴠᴀʀɪᴏᴜꜱ ᴛʜɪɴɢꜱ.
@@ -490,6 +486,7 @@ Preferred Organization Types : Software Company </p>
 
 <!-- Start My Absolute Favourites -->
 <h2 align="left">⚡ 𝐌𝐲 𝐀𝐛𝐬𝐨𝐥𝐮𝐭𝐞 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐞𝐬</h2>
+<hr>
 
 - 𝙸 𝚕𝚒𝚔𝚎 𝚙𝚕𝚊𝚢𝚒𝚗𝚐 𝚐𝚊𝚖𝚎𝚜.
 - 𝚂𝚙𝚎𝚗𝚍 𝚊 𝚍𝚊𝚢 𝚝𝚘 𝚏𝚒𝚗𝚍 𝚊 𝚙𝚛𝚘𝚋𝚕𝚎𝚖 𝚊𝚗𝚍 𝚝𝚑𝚎𝚗 𝚏𝚒𝚡 𝚒𝚝 𝚠𝚒𝚝𝚑 𝚕𝚎𝚜𝚜 𝚎𝚏𝚏𝚘𝚛𝚝 𝚝𝚑𝚊𝚗 𝚏𝚒𝚗𝚍𝚒𝚗𝚐.
@@ -498,13 +495,10 @@ Preferred Organization Types : Software Company </p>
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
 <!-- Start My Github Stats -->
 <h2 align="center">💦 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬</h2>
-
+<hr>
 <br>
 
 <!-- Start Montasim's github readme stats -->
@@ -953,6 +947,7 @@ Preferred Organization Types : Software Company </p>
 <div align="center" class="footer">
     &copy; ᴍᴀᴅᴇ ʙʏ <a href="https://montasim.github.io/" target="_blank"> ᴇɴɢɪɴᴇᴇʀ Ｍｏｎｔａｓｉｍ</a>
 </div>
+<hr>
 
 <br>
 
