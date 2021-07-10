@@ -446,8 +446,9 @@ Preferred Organization Types : Software Company </p>
 <br>
 
 <!-- Montasim's Photo -->
-<img align="right" alt="Montasim's Photo" src="media/gif/favourite.png" width="500px">
+<img align="center" alt="Montasim's Photo" src="media/gif/favourite.png" width="500px">
 
+<br>
 <br>
 <br>
 <br>
