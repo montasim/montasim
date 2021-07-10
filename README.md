@@ -43,6 +43,7 @@
 
 <br>
 <br>
+<br>
 
 <!-- A guy is programming gif -->
 <img align="right" alt="a guy is programming gif" src="media/gif/code1.gif" width="380px">
