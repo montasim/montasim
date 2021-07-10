@@ -552,7 +552,7 @@ Preferred Organization Types : Software Company </p>
 	
 [//]: # "Man developing web gif"
 
-<img align="left" alt="Man developing web gif" src="media/gif/a-man-web-developing.gif" width="400px">
+<img align="left" alt="Man developing web gif" src="media/gif/code3.gif" width="400px">
 
 <br>
 <br>
@@ -668,7 +668,7 @@ Preferred Organization Types : Software Company </p>
 [//]: # "Development process gif"
 
 <p align="center">
-  <img alt="Development process gif" src="media/gif/development-process.gif" width="400px">
+  <img alt="Development process gif" src="media/gif/process.gif" width="400px">
 </p>
 
 <br>
@@ -704,7 +704,7 @@ Preferred Organization Types : Software Company </p>
 [//]: # "Laptop app development gif"
 
 <p align="center">
-  <img alt="Laptop app development gif" src="media/gif/laptop-app-development.gif" width="200px">
+  <img alt="Laptop app development gif" src="media/gif/app.gif" width="200px">
 </p>
 
 <br>
@@ -806,7 +806,7 @@ Preferred Organization Types : Software Company </p>
 <br>
 
 <!-- Office Yoga gif -->
-<img align="left" alt="Office Yoga gif" src="media/gif/office-yoga.gif" width="500px">
+<img align="left" alt="Office Yoga gif" src="media/gif/idea.gif" width="500px">
 
 <br>
 <br>
@@ -833,7 +833,7 @@ Preferred Organization Types : Software Company </p>
 
 <!-- dancing heart gif -->
 
-<img align="right" alt="dancing heart gif" src="media/gif/dancing-heart.gif" width="325px">
+<img align="right" alt="dancing heart gif" src="media/gif/thanks.gif" width="325px">
 
 <br>
 <br>
