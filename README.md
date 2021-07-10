@@ -421,10 +421,6 @@ Preferred Organization Types : Software Company </p>
 
 
 <!-- Start 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section --> 
-<details>
-<summary>
-    <b>📩  𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎</b>
-</summary>
 	
 <br>
 <br>
@@ -461,8 +457,6 @@ Preferred Organization Types : Software Company </p>
 <br>
 <br>
 <br>
-
-</details>
 <!-- End 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section --> 
 
 <br>
