@@ -458,16 +458,6 @@ Preferred Organization Types : Software Company </p>
 <!-- End Talking About Personal Stuffs -->
 
 <br>
-
-<!-- Start My Absolute Favourites -->
-<h2 align="left">⚡ 𝐌𝐲 𝐀𝐛𝐬𝐨𝐥𝐮𝐭𝐞 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐞𝐬</h2>
-
-- 𝙸 𝚕𝚒𝚔𝚎 𝚙𝚕𝚊𝚢𝚒𝚗𝚐 𝚐𝚊𝚖𝚎𝚜.
-- 𝚂𝚙𝚎𝚗𝚍 𝚊 𝚍𝚊𝚢 𝚝𝚘 𝚏𝚒𝚗𝚍 𝚊 𝚙𝚛𝚘𝚋𝚕𝚎𝚖 𝚊𝚗𝚍 𝚝𝚑𝚎𝚗 𝚏𝚒𝚡 𝚒𝚝 𝚠𝚒𝚝𝚑 𝚕𝚎𝚜𝚜 𝚎𝚏𝚏𝚘𝚛𝚝 𝚝𝚑𝚊𝚗 𝚏𝚒𝚗𝚍𝚒𝚗𝚐.
-- 𝙸 𝚕𝚘𝚟𝚎 𝚛𝚎𝚊𝚍𝚒𝚗𝚐 𝚋𝚘𝚘𝚔𝚜.
-<!-- End My Absolute Favourites -->
-
-<br>
 <br>
 
 <!-- Start My Github Stats -->
