@@ -930,6 +930,8 @@ Preferred Organization Types : Software Company </p>
     <a href="https://www.remove.bg/">remove.bg</a> for background removal
     <br>
     <a href="https://lingojam.com/FancyLetters">lingojam.com</a> for beautiful fonts
+    <br>
+    <a href="https://gifer.com/en/">lingojam.com</a> for transparent gif
 </p>
 
 <br>
