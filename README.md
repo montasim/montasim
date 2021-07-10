@@ -43,7 +43,6 @@
 
 <br>
 <br>
-<br>
 
 <h2 align="left">✍ 𝐒𝐨𝐦𝐞 𝐖𝐨𝐫𝐝 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</h2>
 <p>
@@ -419,7 +418,6 @@ Preferred Organization Types : Software Company </p>
 <!-- handshake gif -->
 <img align="left" alt="handshake gif" src="media/gif/handshake.gif" width="180px">
  
-<br>
 <br>
 <br>
 
