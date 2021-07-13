@@ -1,17 +1,46 @@
-[//]: # "Montasim's Github Profile"
-[//]: # "Created on : 18/5/2021"
-[//]: # "Author :  Mohammad Montasim -Al- Mamun Shuvo"
-[//]: # "Contact :  montasimmamun@gmail.com"
+<!--
 
+Montasim's Github Profile
+Created on : 18/5/2021
+Author :  Mohammad Montasim -Al- Mamun Shuvo
+Contact :  montasimmamun@gmail.com
 
-<h1 align="center">🎲 Ｈｅｌｌｏ， Ｎｉｃｅ ｔｏ ｍｅｅｔ ｙｏｕ 🎓</h1>
+Thank you if you like this profile README!
+
+BUT, please DO NOT copy this and create your profile based on it.
+
+You can use it as a reference, and copy a part of it, but DO NOT copy
+all of this and create your profile based on it.
+
+It is very common that you forget to change some information and leave
+mine in your profile. This has happened too many times.
+
+Only when you know what you are copying should you paste it. So, again,
+please DO NOT copy this and create your profile based on it.
+
+What's more, you can find other awesome profile READMEs at
+https://github.com/abhisheknaiidu/awesome-github-profile-readme. There
+could be a profile README that fits you better than this one.
+
+Wish you a good-looking profile README!
+
+                                   —— montasim (https://github.com/montasim)
+
+<img src="https://gist-count.vercel.app/api?username=montasim">
+-->
+
+<div>
+    <h1 align="center">🎲 Ｈｅｌｌｏ， Ｎｉｃｅ ｔｏ ｍｅｅｔ ｙｏｕ 🎓</h1>
 
 
 <!-- Start Some Hints Icons About Montasim -->
 <p align="center">
-    <img align="center" alt="status" src="https://img.shields.io/badge/status-up-brightgreen" />
-    <img align="center" alt="Gender" src="https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey" />
-    <img align="center" alt="relationship" src="https://img.shields.io/badge/Relationship-Single-red" />
+    <img align="center" alt="Status" src="https://img.shields.io/badge/Status-up-brightgreen" />
+    <img align="center" alt="Gender" src="https://img.shields.io/badge/Gender-%F0%9F%A4%B5-lightgrey" />
+    <img align="center" alt="Height" src="https://img.shields.io/badge/Heigt-5%20feet%206%20inches-lightblue" />
+    <img align="center" alt="Code Quality" src="https://img.shields.io/github/last-commit/montasim/montasim" />
+    <img align="center" alt="vulnerabilities" src="https://img.shields.io/badge/Vulnerabilities-high-critical" />
+    <img align="center" alt="Code Quality" src="https://img.shields.io/badge/Code%20Quality-Good-lightblue" />
     <img align="center" alt="visitor" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasimmamun" />
     <img align="center" alt="Thanks" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" />
 </p>
@@ -41,14 +70,33 @@
 </p>
 <!-- End Programming Languages Icon -->
 
+</div>
 <br>
 
-<h2 align="left">✍ 𝐒𝐨𝐦𝐞 𝐖𝐨𝐫𝐝 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</h2>
-<p>
-   𝙵𝚛𝚘𝚖 𝚊 𝚢𝚘𝚞𝚗𝚐 𝚊𝚐𝚎, 𝙸’𝚟𝚎 𝚊𝚕𝚠𝚊𝚢𝚜 𝚑𝚊𝚍 𝚊 𝚜𝚎𝚗𝚜𝚎 𝚘𝚏 𝚖𝚘𝚝𝚒𝚟𝚊𝚝𝚒𝚘𝚗 𝚊𝚗𝚍 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚍𝚛𝚒𝚟𝚒𝚗𝚐 𝚖𝚎 𝚏𝚘𝚛𝚠𝚊𝚛𝚍. 𝚆𝚑𝚎𝚝𝚑𝚎𝚛 𝚒𝚝’𝚜 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚞𝚗𝚒𝚚𝚞𝚎 𝚘𝚙𝚙𝚘𝚛𝚝𝚞𝚗𝚒𝚝𝚒𝚎𝚜, 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕 𝚜𝚔𝚒𝚕𝚕𝚜, 𝚘𝚛 𝚖𝚎𝚎𝚝𝚒𝚗𝚐 𝚗𝚎𝚠 𝚙𝚎𝚘𝚙𝚕𝚎, 𝙸 𝚋𝚛𝚒𝚗𝚐 𝚝𝚑𝚎𝚜𝚎 𝚟𝚊𝚕𝚞𝚎𝚜 𝚝𝚘 𝚎𝚟𝚎𝚛𝚢 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚝𝚑𝚛𝚘𝚞𝚐𝚑𝚘𝚞𝚝 𝚖𝚢 𝚕𝚒𝚏𝚎 𝚘𝚗 𝚊 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚊𝚗𝚍 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕 𝚕𝚎𝚟𝚎𝚕. 𝚃𝚘 𝚕𝚎𝚊𝚛𝚗 𝚖𝚘𝚛𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎, 𝚔𝚎𝚎𝚙 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚖𝚢 𝚜𝚒𝚝𝚎 𝚘𝚛 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚍𝚒𝚛𝚎𝚌𝚝𝚕𝚢.
+<p align="right">
+  <img src="https://weather-icon.journeyad.repl.co/@rangpur?v=1" align="right" width="100px">
 </p>
 
+<!-- Start Some Words About Me -->
+<h2 align="left"> ✍ 𝐒𝐨𝐦𝐞 𝐖𝐨𝐫𝐝 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 </h2>
+
+<img align="right" height="250" width="375" alt="" src="media/gif/coder.gif" />
+
+<p> 𝙸'𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝙵𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝙱𝚊𝚗𝚐𝚕𝚊𝚍𝚎𝚜𝚑. 𝙸'𝚟𝚎 𝚙𝚞𝚛𝚜𝚞𝚎𝚍 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝚒𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚏𝚛𝚘𝚖 𝙱𝚊𝚗𝚐𝚕𝚊𝚍𝚎𝚜𝚑 𝙰𝚛𝚖𝚢 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢. 𝙸'𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚕𝚎𝚊𝚛𝚗𝚎𝚛 𝚠𝚑𝚘'𝚜 𝚊𝚕𝚠𝚊𝚢𝚜 𝚠𝚒𝚕𝚕𝚒𝚗𝚐 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗 𝚊𝚗𝚍 𝚠𝚘𝚛𝚔 𝚊𝚌𝚛𝚘𝚜𝚜 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚗𝚍 𝚍𝚘𝚖𝚊𝚒𝚗𝚜. 𝙸 𝚕𝚘𝚟𝚎 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚗𝚍 𝚕𝚎𝚟𝚎𝚛𝚊𝚐𝚎 𝚝𝚑𝚎𝚖 𝚝𝚘 𝚜𝚘𝚕𝚟𝚎 𝚛𝚎𝚊𝚕-𝚕𝚒𝚏𝚎 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜. 𝙰𝚙𝚊𝚛𝚝 𝚏𝚛𝚘𝚖 𝚝𝚑𝚊𝚝 𝙸 𝚊𝚕𝚜𝚘 𝚕𝚘𝚟𝚎 𝚝𝚘 𝚐𝚞𝚒𝚍𝚎 𝚊𝚗𝚍 𝚖𝚎𝚗𝚝𝚘𝚛 𝚗𝚎𝚠𝚋𝚒𝚎𝚜. 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚒𝚗𝚝𝚘 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚊𝚗𝚍 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚖𝚢 𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜 𝚊𝚗𝚍 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜. <!-- 𝙵𝚛𝚘𝚖 𝚊 𝚢𝚘𝚞𝚗𝚐 𝚊𝚐𝚎, 𝙸’𝚟𝚎 𝚊𝚕𝚠𝚊𝚢𝚜 𝚑𝚊𝚍 𝚊 𝚜𝚎𝚗𝚜𝚎 𝚘𝚏 𝚖𝚘𝚝𝚒𝚟𝚊𝚝𝚒𝚘𝚗 𝚊𝚗𝚍 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚍𝚛𝚒𝚟𝚒𝚗𝚐 𝚖𝚎 𝚏𝚘𝚛𝚠𝚊𝚛𝚍. 𝚆𝚑𝚎𝚝𝚑𝚎𝚛 𝚒𝚝’𝚜 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚞𝚗𝚒𝚚𝚞𝚎 𝚘𝚙𝚙𝚘𝚛𝚝𝚞𝚗𝚒𝚝𝚒𝚎𝚜, 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕 𝚜𝚔𝚒𝚕𝚕𝚜, 𝚘𝚛 𝚖𝚎𝚎𝚝𝚒𝚗𝚐 𝚗𝚎𝚠 𝚙𝚎𝚘𝚙𝚕𝚎, 𝙸 𝚋𝚛𝚒𝚗𝚐 𝚝𝚑𝚎𝚜𝚎 𝚟𝚊𝚕𝚞𝚎𝚜 𝚝𝚘 𝚎𝚟𝚎𝚛𝚢 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚝𝚑𝚛𝚘𝚞𝚐𝚑𝚘𝚞𝚝 𝚖𝚢 𝚕𝚒𝚏𝚎 𝚘𝚗 𝚊 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚊𝚗𝚍 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕 𝚕𝚎𝚟𝚎𝚕.--> 𝙸 𝚕𝚘𝚟𝚎 𝚌𝚘𝚗𝚗𝚎𝚌𝚝𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚍𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚝 𝚙𝚎𝚘𝚙𝚕𝚎 𝚊𝚛𝚘𝚞𝚗𝚍 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍. 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚊𝚗𝚍 𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚎 𝚢𝚘𝚞𝚛𝚜𝚎𝚕𝚏. 𝚃𝚘 𝚕𝚎𝚊𝚛𝚗 𝚖𝚘𝚛𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎, 𝚔𝚎𝚎𝚙 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚖𝚢 𝚜𝚒𝚝𝚎 𝚘𝚛 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚍𝚒𝚛𝚎𝚌𝚝𝚕𝚢.
+</p>
+<!-- End Some Words About Me -->
+
 <br>
+
+<div>
+    <p align="left">
+        <img src="https://img.shields.io/website?label=montasim.github.io&style=for-the-badge&url=https%3A%2F%2Fmontasim.github.io">
+        <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630"/>
+        <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=C79600"/>
+        <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/montasimmamun?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
+        <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/montasim?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
+    </p>
+</div>
 
 <!-- Start My Resume Section -->
 <!-- Start Details -->
@@ -403,21 +451,18 @@ Preferred Organization Types : Software Company </p>
 <!-- End Details -->
 <!-- End My Resume Section -->
 
+<br>
 
 <!-- Start 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section --> 
-
-
 <!-- 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 -->
-<h2 align="right"><b> 🔸 Ｆｉｎｄ Ｍｅ Ｏｎ Ｓｏｃｉａｌ Ｍｅｄｉａ  </b></h2>
+<h2 align="right"> 🔸 Ｆｉｎｄ Ｍｅ Ｏｎ Ｓｏｃｉａｌ Ｍｅｄｉａ </h2>
 
+<br>
 
 <!-- handshake gif -->
-<img align="left" alt="handshake gif" src="media/gif/thanks1.png" width="150px">
- 
-<br>
-<br>
-<br>
-<br>
+<img align="left" alt="handshake gif" src="media/gif/handshake.gif" width="190px">
+
+<br><br>
 
 <!-- Start Social Links -->
 <table align="right">
@@ -436,56 +481,160 @@ Preferred Organization Types : Software Company </p>
 </table>
 <!-- End Social Links -->
  
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br>
 <!-- End 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section --> 
 
-<br>
-<br>
-<br>
+<br><br><br>
 
+<!-- handshake gif -->
+<img align="right" alt="handshake gif" src="media/gif/code4.gif" width="300px">
 
 <!-- Start Talking About Personal Stuffs -->
 <h2 align="left">💥 𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬</h2>
 
-
--  ɪ ᴀᴍ ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ, ᴅᴇᴠᴇʟᴏᴘᴇʀ, ᴡʀɪᴛᴇʀ, ᴀɴᴅ ʟᴇᴀʀɴᴇʀ. ɪ ʟᴏᴠᴇ ᴛᴏ ꜱᴏʟᴠᴇ ᴄᴏᴅɪɴɢ ᴘʀᴏʙʟᴇᴍꜱ. 
--  ɪ ᴜꜱᴜᴀʟʟʏ ᴡᴏʀᴋ ᴏɴ ᴠᴀʀɪᴏᴜꜱ ᴛʜɪɴɢꜱ. ɪ ʟᴇᴀʀɴ ᴇᴠᴇʀʏᴛʜɪɴɢ ɪ ꜰɪɴᴅ ɪɴᴛᴇʀᴇꜱᴛɪɴɢ.  
--  ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴀɴʏᴛʜɪɴɢ. ɪ ᴀᴍ ʜᴀᴘᴘʏ ᴛᴏ ʜᴇʟᴘ.
+- 🚀 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.
+- 👨🏻‍💻 ᴍᴏꜱᴛ ᴏꜰ ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ [🅶🅸🆃🅷🆄🅱](https://github.com/montasim).
+- 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴀɴʏᴛʜɪɴɢ [ʜᴇʀᴇ](ʜᴛᴛᴘꜱ:ᴍᴀɪʟᴛᴏ:ᴍᴏɴᴛᴀꜱɪᴍᴍᴀᴍᴜɴ@ɢᴍᴀɪʟ.ᴄᴏᴍ)! ɪ ᴀᴍ ʜᴀᴘᴘʏ ᴛᴏ ʜᴇʟᴘ.
+- 👾 ꜰᴜɴ ꜰᴀᴄᴛ: ᴇQᴜᴀʟ ɪꜱ ɴᴏᴛ ᴀʟᴡᴀʏꜱ ᴇQᴜᴀʟ ɪɴ ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ.
+- 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: [🅶🅼🅰🅸🅻.](mailto:montasimmamun@gmail.com)
+- 📝 ᴄʜᴇᴄᴋᴏᴜᴛ ᴍʏ [🆁🅴🆂🆄🅼🅴](https://github.com/montasim/resume/blob/main/Resume_of_Montasim%20.pdf).
+- 💻 ɪ ʟᴏᴠᴇ ᴇxᴘʟᴏʀɪɴɢ ɴᴇᴡ ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ ᴀɴᴅ ʙᴜɪʟᴅɪɴɢ ᴄᴏᴏʟ ꜱᴛᴜꜰꜰꜱ.
+- 📰 ʀᴇᴀᴅɪɴɢ & ᴡʀɪᴛɪɴɢ ᴛᴇᴄʜ ʙʟᴏɢꜱ ᴡʜᴇɴᴇᴠᴇʀ ᴘᴏꜱꜱɪʙʟᴇ.
+- 🍕 ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠɪɴɢ, ᴍᴇᴇᴛᴜᴘꜱ & ᴛᴇᴄʜ ᴇᴠᴇɴᴛꜱ.
 <!-- End Talking About Personal Stuffs -->
 
 <br>
-<br>
+
+<!-- Start Some Repositories Section -->  
+<details>
+<summary>
+    <b> ⌛ Some Repositories </b>
+</summary>
+	
+<br><br>
+
+<p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for his GitHub readme Stats
+    <br>
+    <a href="https://lottiefiles.com/">lottiefiles</a> for beautiful animatated gif collection
+    <br>
+    <a href="https://www.remove.bg/">remove.bg</a> for background removal
+    <br>
+    <a href="https://lingojam.com/FancyLetters">lingojam.com</a> for beautiful fonts
+    <br>
+    <a href="https://gifer.com/en/">lingojam.com</a> for transparent gif
+</p>
+
+<br><br>
+
+</details>
+<!-- End Some Repositories Section --> 
+
+<!-- Start My Projects Section -->  
+<details>
+<summary>
+    <b> ⌛ My Projects </b>
+</summary>
+	
+<br><br>
+
+<p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for his GitHub readme Stats
+    <br>
+    <a href="https://lottiefiles.com/">lottiefiles</a> for beautiful animatated gif collection
+    <br>
+    <a href="https://www.remove.bg/">remove.bg</a> for background removal
+    <br>
+    <a href="https://lingojam.com/FancyLetters">lingojam.com</a> for beautiful fonts
+    <br>
+    <a href="https://gifer.com/en/">lingojam.com</a> for transparent gif
+</p>
+
+<br><br>
+
+</details>
+<!-- End My Projects Section --> 
+
+<!-- Start Certificates Section -->  
+<details>
+<summary>
+    <b> ⌛ Certificates </b>
+</summary>
+	
+<br><br>
+
+<p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for his GitHub readme Stats
+    <br>
+    <a href="https://lottiefiles.com/">lottiefiles</a> for beautiful animatated gif collection
+    <br>
+    <a href="https://www.remove.bg/">remove.bg</a> for background removal
+    <br>
+    <a href="https://lingojam.com/FancyLetters">lingojam.com</a> for beautiful fonts
+    <br>
+    <a href="https://gifer.com/en/">lingojam.com</a> for transparent gif
+</p>
+
+<br><br>
+
+</details>
+<!-- End Certificates Section --> 
+
+<!-- Start My Followers Section -->  
+<details>
+<summary>
+    <b> ⌛ My Followers </b>
+</summary>
+	
+<br><br>
+
+<p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for his GitHub readme Stats
+    <br>
+    <a href="https://lottiefiles.com/">lottiefiles</a> for beautiful animatated gif collection
+    <br>
+    <a href="https://www.remove.bg/">remove.bg</a> for background removal
+    <br>
+    <a href="https://lingojam.com/FancyLetters">lingojam.com</a> for beautiful fonts
+    <br>
+    <a href="https://gifer.com/en/">lingojam.com</a> for transparent gif
+</p>
+
+<br><br>
+
+</details>
+<!-- End My Followers Section --> 
 
 <!-- Start My Github Stats -->
 <h2 align="center">💦 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬</h2>
 <br>
 
 <!-- Start Montasim's github readme stats -->
-<p align="center">
-  <img alt="Montasim's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=radical&line_height=27&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite">
-  <img alt="Montasim's Top Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=montasim&layout=compact&hide=css,html&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite">
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&border=61dafb&hide_border=true" alt="montasim" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 <!-- End Montasim's github readme stats -->
 
-<br>
-<br>
-
-<h3 align="center">😊 𝙸 𝚕𝚘𝚟𝚎 𝚌𝚘𝚗𝚗𝚎𝚌𝚝𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚍𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚝 𝚙𝚎𝚘𝚙𝚕𝚎 𝚊𝚛𝚘𝚞𝚗𝚍 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍. 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚊𝚗𝚍 𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚎 𝚢𝚘𝚞𝚛𝚜𝚎𝚕𝚏. (𝙳𝚘𝚗'𝚝 𝚓𝚞𝚜𝚝 𝚜𝚊𝚢 𝚑𝚒, 𝚝𝚎𝚕𝚕 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝚢𝚘𝚞𝚛𝚜𝚎𝚕𝚏.)  💜</h3>
-
-<br>
-
-<!-- Working server gif -->
-<p align="center">
-  <img alt="Working server animation gif" src="media/gif/pc-stats.gif" width="350px">
-</p>
+<br><br>
 
 <h3 align="center">𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎  <img alt="heart gif" src="media/icons/heart.png" width="20px"> 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜. 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚐𝚒𝚟𝚎 𝚈𝚘𝚞𝚛 𝚂𝚞𝚐𝚐𝚎𝚜𝚝𝚒𝚘𝚗𝚜, 𝙸𝚜𝚜𝚞𝚎𝚜 𝚘𝚛 𝙿𝚁𝚜.</h3>
 
-<br>
-<br>
+<br><br>
 
 <!-- Start 𝙼𝚘𝚛𝚎 𝚂𝚝𝚞𝚏𝚏 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 Section -->
 <details>
@@ -723,6 +872,19 @@ Preferred Organization Types : Software Company </p>
 <br>
 <br>
 
+#### 🧡 &nbsp;&nbsp;My passions
+
+* Technology and software
+* Science 
+* Machine learning ([my articles about it](https://aralroca.com/blog?q=machine-learning))
+* Books ([goodreads](https://www.goodreads.com/user/show/32447157-aral-roca-gomez))
+* Parkour ([instagram](https://www.instagram.com/aralroca/), [youtube](http://youtube.com/aralroca))
+* Nutrition
+* Nature
+
+<br>
+<br>
+
 <!-- 𝚃𝚑𝚒𝚗𝚐𝚜 𝙸 𝚄𝚜𝚎 𝚃𝚘 𝙶𝚎𝚝 𝚂𝚝𝚞𝚏𝚏 𝙳𝚘𝚗𝚎 heading -->
 
 <h2 align="left"> ⚙️ 𝚃𝚑𝚒𝚗𝚐𝚜 𝙸 𝚄𝚜𝚎 </h2>
@@ -738,7 +900,10 @@ Preferred Organization Types : Software Company </p>
 - <b>𝙱𝚛𝚘𝚠𝚜𝚎𝚛: </b> 𝙶𝚘𝚘𝚐𝚕𝚎 𝙲𝚑𝚛𝚘𝚖𝚎
 - <b>𝙲𝚘𝚍𝚎 𝙴𝚍𝚒𝚝𝚘𝚛:</b> 𝚅𝚒𝚜𝚞𝚊𝚕 𝚂𝚝𝚞𝚍𝚒𝚘 𝙲𝚘𝚍𝚎
 - <b>𝙾𝚙𝚎𝚛𝚊𝚝𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖:</b> 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝟷𝟶
-- <b>𝚃𝚘 𝚂𝚝𝚊𝚢 𝚄𝚙𝚍𝚊𝚝𝚎𝚍:</b> <a href="https://www.linkedin.com/in/montasim">𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗</a>, <a href="https://www.github.com/montasim">𝙶𝚒𝚝𝙷𝚞𝚋</a>
+- <b>𝚃𝚘 𝚂𝚝𝚊𝚢 𝚄𝚙𝚍𝚊𝚝𝚎𝚍:</b> <a href="https://www.linkedin.com/in/montasim">𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗</a>, <a href="https://www.github.com/montasim">𝙶𝚒𝚝𝙷𝚞𝚋</a>, <a href="mailto:i@blackcater.dev"> <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40", [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-3b5998?style=flat-square&logo=gmail&logoColor=white)](https://iampavangandhi.github.io/) />
+</a>
 
 <br>
 <br>
@@ -776,9 +941,12 @@ Preferred Organization Types : Software Company </p>
   <img alt="Github Trophies" src = "https://github-profile-trophy.vercel.app/?username=montasim&theme=onedark">
 </p>
 
-<!-- Github Readme Streak -->
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <img alt="Github Readme Streak" src = "https://github-readme-streak-stats.herokuapp.com/?user=montasim&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="montasim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
 <!-- Github Metrics --> 
@@ -796,8 +964,7 @@ Preferred Organization Types : Software Company </p>
     <b> ⌛ 𝚂𝚙𝚎𝚌𝚒𝚊𝚕 𝚃𝚑𝚊𝚗𝚔𝚜 𝚃𝚘 </b>
 </summary>
 	
-<br>
-<br>
+<br><br>
 
 <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for his GitHub readme Stats
@@ -811,29 +978,607 @@ Preferred Organization Types : Software Company </p>
     <a href="https://gifer.com/en/">lingojam.com</a> for transparent gif
 </p>
 
-<br>
-<br>
+<br><br>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+<h3 align="center"> My latest posts </h3>
+
+</td>
+<td width="40%" valign="top">
+
+<h3 align="center"> Miscellaneous </h3>
+
+
+<!-- https://github.com/lifeparticle/Gist-Count -->
+- [![Github gists](https://gist-count.vercel.app/api?username=montasim)](https://gist.github.com/montasim)
+
+</td>
+</tr>
+</table>
 
 </details>
 <!-- End Special Thanks To Section --> 
 
-<br>
-<br>
-<br>
+<br><br>
 
+<!--Start Footer-->
+<div align="center" class="footer">
 <!-- Wave svg --> 
 <p align="center">
   <img alt="Wave svg" src="media/images/wave.svg">
+</p>
+<br>
+<!-- Copyright --> 
+&copy; ᴍᴀᴅᴇ ʙʏ <a href="https://montasim.github.io/" target="_blank"> ᴇɴɢɪɴᴇᴇʀ Ｍｏｎｔａｓｉｍ</a>
+<hr>
+</div>
+<!--End Footer-->
+
+<br>
+
+<!-- Start 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section --> 
+<!-- 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 -->
+<h2 align="right"> 🔸 Ｆｉｎｄ Ｍｅ Ｏｎ Ｓｏｃｉａｌ Ｍｅｄｉａ </h2>
+
+<br>
+
+<!-- handshake gif -->
+<img align="left" alt="handshake gif" src="media/gif/handshake.gif" width="190px">
+
+<br><br>
+
+<!-- Start Social Links -->
+<table align="right">
+    <thead>
+        <tr>
+            <th align="center"><a href="https://www.linkedin.com/in/montasim"><img align="center" alt="LinkedIn" width="35px" src="media/icons/linkedin.png"/></a></th>
+	    <th align="center"><a href="https://www.github.com/montasim"><img align="center" alt="Github - montasim" width="35px"   src="media/icons/github.png"/></a></th>
+            <th align="center"><a href="https://stackoverflow.com/users/10429621/coderaid"><img align="center" alt="Stackoverflow - coderaid" width="35px" src="media/icons/stack-overflow.png"/></a></th>
+            <th align="center"><a href="https://montasim.github.io"><img align="center" alt="Website - montasim.github.io" width="35px" src="media/icons/website.png"/></a></th>
+            <th align="center"><a href="mailto:montasimmamun@gmail.com"><img align="center" alt="Gmail - montasimmamun@gmail.com" width="35px" src="media/icons/gmail.png"/></a></th>
+            <th align="center"><a href="https://twitter.com/montasimmamun"><img align="center" alt="Twitter - montasim" width="35px" src="media/icons/twitter.png"/></a></th>
+            <th align="center"><a href="https://www.instagram.com/mr.montasim"><img align="center" alt="Instagram - mr.montasim" width="35px" src="media/icons/instagram.png"/></a></th>
+            <th align="center"><a href="https://www.youtube.com/channel/UCkkBnedfjKU-toiKQ-rxvtA"><img align="center" alt="YouTube -Rohan Das" width="35px" src="media/icons/youtube.png"/></a></th>
+        </tr>
+    </thead>
+</table>
+<!-- End Social Links -->
+ 
+<br><br><br><br>
+<!-- End 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section --> 
+
+<br><br><br>
+
+<!-- handshake gif -->
+<img align="right" alt="handshake gif" src="media/gif/code4.gif" width="300px">
+
+<!-- Start Talking About Personal Stuffs -->
+<h2 align="left">💥 𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬</h2>
+
+- 🚀 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.
+- 👨🏻‍💻 ᴍᴏꜱᴛ ᴏꜰ ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ [🅶🅸🆃🅷🆄🅱](https://github.com/montasim).
+- 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴀɴʏᴛʜɪɴɢ [ʜᴇʀᴇ](ʜᴛᴛᴘꜱ:ᴍᴀɪʟᴛᴏ:ᴍᴏɴᴛᴀꜱɪᴍᴍᴀᴍᴜɴ@ɢᴍᴀɪʟ.ᴄᴏᴍ)! ɪ ᴀᴍ ʜᴀᴘᴘʏ ᴛᴏ ʜᴇʟᴘ.
+- 👾 ꜰᴜɴ ꜰᴀᴄᴛ: ᴇQᴜᴀʟ ɪꜱ ɴᴏᴛ ᴀʟᴡᴀʏꜱ ᴇQᴜᴀʟ ɪɴ ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ.
+- 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: [🅶🅼🅰🅸🅻.](mailto:montasimmamun@gmail.com)
+- 📝 ᴄʜᴇᴄᴋᴏᴜᴛ ᴍʏ [🆁🅴🆂🆄🅼🅴](https://github.com/montasim/resume/blob/main/Resume_of_Montasim%20.pdf).
+- 💻 ɪ ʟᴏᴠᴇ ᴇxᴘʟᴏʀɪɴɢ ɴᴇᴡ ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ ᴀɴᴅ ʙᴜɪʟᴅɪɴɢ ᴄᴏᴏʟ ꜱᴛᴜꜰꜰꜱ.
+- 📰 ʀᴇᴀᴅɪɴɢ & ᴡʀɪᴛɪɴɢ ᴛᴇᴄʜ ʙʟᴏɢꜱ ᴡʜᴇɴᴇᴠᴇʀ ᴘᴏꜱꜱɪʙʟᴇ.
+- 🍕 ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠɪɴɢ, ᴍᴇᴇᴛᴜᴘꜱ & ᴛᴇᴄʜ ᴇᴠᴇɴᴛꜱ.
+<!-- End Talking About Personal Stuffs -->
+
+<br>
+
+<!-- Start Some Repositories Section -->  
+<details>
+<summary>
+    <b> ⌛ Some Repositories </b>
+</summary>
+	
+<br><br>
+
+<p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for his GitHub readme Stats
+    <br>
+    <a href="https://lottiefiles.com/">lottiefiles</a> for beautiful animatated gif collection
+    <br>
+    <a href="https://www.remove.bg/">remove.bg</a> for background removal
+    <br>
+    <a href="https://lingojam.com/FancyLetters">lingojam.com</a> for beautiful fonts
+    <br>
+    <a href="https://gifer.com/en/">lingojam.com</a> for transparent gif
+</p>
+
+<br><br>
+
+</details>
+<!-- End Some Repositories Section --> 
+
+<!-- Start My Projects Section -->  
+<details>
+<summary>
+    <b> ⌛ My Projects </b>
+</summary>
+	
+<br><br>
+
+<p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for his GitHub readme Stats
+    <br>
+    <a href="https://lottiefiles.com/">lottiefiles</a> for beautiful animatated gif collection
+    <br>
+    <a href="https://www.remove.bg/">remove.bg</a> for background removal
+    <br>
+    <a href="https://lingojam.com/FancyLetters">lingojam.com</a> for beautiful fonts
+    <br>
+    <a href="https://gifer.com/en/">lingojam.com</a> for transparent gif
+</p>
+
+<br><br>
+
+</details>
+<!-- End My Projects Section --> 
+
+<!-- Start Certificates Section -->  
+<details>
+<summary>
+    <b> ⌛ Certificates </b>
+</summary>
+	
+<br><br>
+
+<p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for his GitHub readme Stats
+    <br>
+    <a href="https://lottiefiles.com/">lottiefiles</a> for beautiful animatated gif collection
+    <br>
+    <a href="https://www.remove.bg/">remove.bg</a> for background removal
+    <br>
+    <a href="https://lingojam.com/FancyLetters">lingojam.com</a> for beautiful fonts
+    <br>
+    <a href="https://gifer.com/en/">lingojam.com</a> for transparent gif
+</p>
+
+<br><br>
+
+</details>
+<!-- End Certificates Section --> 
+
+<!-- Start My Followers Section -->  
+<details>
+<summary>
+    <b> ⌛ My Followers </b>
+</summary>
+	
+<br><br>
+
+<p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for his GitHub readme Stats
+    <br>
+    <a href="https://lottiefiles.com/">lottiefiles</a> for beautiful animatated gif collection
+    <br>
+    <a href="https://www.remove.bg/">remove.bg</a> for background removal
+    <br>
+    <a href="https://lingojam.com/FancyLetters">lingojam.com</a> for beautiful fonts
+    <br>
+    <a href="https://gifer.com/en/">lingojam.com</a> for transparent gif
+</p>
+
+<br><br>
+
+</details>
+<!-- End My Followers Section --> 
+
+<!-- Start My Github Stats -->
+<h2 align="center">💦 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬</h2>
+<br>
+
+<!-- Start Montasim's github readme stats -->
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&border=61dafb&hide_border=true" alt="montasim" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+<!-- End Montasim's github readme stats -->
+
+<br><br>
+
+<h3 align="center">𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎  <img alt="heart gif" src="media/icons/heart.png" width="20px"> 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜. 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚐𝚒𝚟𝚎 𝚈𝚘𝚞𝚛 𝚂𝚞𝚐𝚐𝚎𝚜𝚝𝚒𝚘𝚗𝚜, 𝙸𝚜𝚜𝚞𝚎𝚜 𝚘𝚛 𝙿𝚁𝚜.</h3>
+
+<br><br>
+
+<!-- Start 𝙼𝚘𝚛𝚎 𝚂𝚝𝚞𝚏𝚏 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 Section -->
+<details>
+<summary>
+	<b> 💡 𝙼𝚘𝚛𝚎 𝚂𝚝𝚞𝚏𝚏 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 </b>
+</summary>
+	
+<br>
+<br>
+
+
+<h2 align="left"> 📣 What I do </h2>
+
+<p>
+	I do Open Source. In fact, I do Open Source so much, that majority of my work on
+	GitHub is free and open to everyone. I am really passionate about doing web
+	development. It is in my opinion the best combination of logical programming and
+	(sometimes) beautiful design.
 </p>
 
 <br>
 <br>
 
-<!-- Copyright --> 
-<div align="center" class="footer">
-    &copy; ᴍᴀᴅᴇ ʙʏ <a href="https://montasim.github.io/" target="_blank"> ᴇɴɢɪɴᴇᴇʀ Ｍｏｎｔａｓｉｍ</a>
-</div>
-<hr>
+
+<!-- My Specifications section -->
+<h2 align="center"><b> 💻 My Specifications </b></h2>
+<table align="center">
+    <thead>
+        <tr>
+            <th align="center"><b>Name \ Familiarity</b></th>
+            <th align="center"><b>High</b></th>
+            <th align="center"><b>Medium</b></th>
+            <th align="center"><b>Low</b></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left"><b>Programming Languages</b></td>
+            <td align="left">Python</td>
+            <td align="left">C, C++, PHP</td>
+            <td align="left">Java, JavaScript</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td align="left"><b>Web Technologies</b></td>
+            <td align="left">HTML, CSS</td>
+            <td align="left">Markdown</td>
+            <td align="left">XML</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td align="left"><b>Web Frameworks</b></td>
+            <td align="left">Bootstrap, Django</td>
+            <td align="left">Flask</td>
+            <td align="left">TailWind CSS</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td align="left"><b>Web Creation Platforms</b></td>
+            <td align="left">WordPress, Blogger</td>
+            <td align="left">Wix</td>
+            <td align="left"></td>
+        </tr>
+    </tbody><tbody>
+        <tr>
+            <td align="left"><b>Database</b></td>
+            <td align="left">MySQL</td>
+            <td align="left">SqlLite</td>
+            <td align="left"></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td align="left"><b>Version Control</b></td>
+            <td align="left">Git, Github</td>
+            <td align="left"></td>
+            <td align="left"></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td align="left"><b>Operating System</b></td>
+            <td align="left">Windows, Ubuntu</td>
+            <td align="left">Fedora, RedHat, Debian</td>
+            <td align="left">Linux Mint, Kali Linux</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td align="left"><b>Languages</b></td>
+            <td align="left">English (Native), Bangla (Native)</td>
+            <td align="left">Hindi</td>
+            <td align="left">Arabic</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td align="left"><b>Other interests</b></td>
+            <td align="left">Reading Books</td>
+            <td align="left">Playing Games, Watching Movies</td>
+            <td align="left">Sports</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<!-- end work experience section -->
+
+<br>
+<br>
+
+<!-- My Work Experience -->
+<h2 align="center"><b> ⌚ My Work Experience </b></h2>
+<table align="center">
+    <thead>
+        <tr>
+            <th align="center"><b>Job Name</b></th>
+	    <th align="center"><b>Job Place</b></th>
+            <th align="center"><b>Roles & responsibilities</b></th>
+            <th align="center"><b>Duration</b></th>
+            <th align="center"><b>Job Profile</b></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left"><b>Problem Solver</b></td>
+            <td align="left">HackerRank</td>
+            <td align="left">Problem Solver</td>
+            <td align="left">2018 - Present</td>
+            <td align="left"><a href="https://www.hackerrank.com/montasim">hackerrank.com/montasim</a></td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<!-- end My Work Experience -->
+
+<br>
+<br>
+
+<!-- Projects I'm the most proud of -->
+<h2 align="center"><b> 📌 Projects I'm The Most Proud Of </b></h2>
+<table align="center">
+    <thead>
+        <tr>
+            <th align="center"><b>Name</b></th>
+	    <th align="center"><b>Description</b></th>
+            <th align="center"><b>Language</b></th>
+            <th align="center"><b>Repo</b></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left"></td>
+            <td align="left"></td>
+            <td align="left"></td>
+            <td align="left"><a href="https://www.hackerrank.com/montasim"></a></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td align="left"></td>
+            <td align="left"></td>
+            <td align="left"></td>
+            <td align="left"><a href="https://www.hackerrank.com/montasim"></a></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td align="left"></td>
+            <td align="left"></td>
+            <td align="left"></td>
+            <td align="left"><a href="https://www.hackerrank.com/montasim"></a></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td align="left"></td>
+            <td align="left"></td>
+            <td align="left"></td>
+            <td align="left"><a href="https://www.hackerrank.com/montasim"></a></td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<!-- end Projects I'm the most proud of -->
+
+<br>
+<br>
+
+<!-- My own dictionary  -->
+<h2 align="center"><b> ⚠️ My Own Dictionary  </b></h2>
+<table align="center">
+    <thead>
+        <tr>
+            <th align="center"><b>Word / Abreviation</b></th>
+	    <th align="center"><b>Meaning</b></th>
+            <th align="center"><b>Note</b></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left"></td>
+            <td align="left"></td>
+            <td align="left"></td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<!-- end My own dictionary  -->
+
+<br>
+<br>
+
+[//]: # "Trainging and Participation heading"
+
+<h2 align="left"> 🏅 Trainging and Participation </h2>
+
+[//]: # "Trainging and Participation summery"
+
+- <a href="#">𝙼𝚘𝚋𝚒𝚕𝚎 𝙶𝚊𝚖𝚎 𝙰𝚗𝚍 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝙵𝚘𝚛 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 - 𝚊𝚝 𝙸𝙲𝚃 𝙳𝚒𝚟𝚒𝚜𝚒𝚘𝚗 𝚘𝚏 𝙱𝚊𝚗𝚐𝚕𝚊𝚍𝚎𝚜𝚑</a>
+- <a href="#">𝙿𝙻𝙲 𝚃𝚛𝚊𝚒𝚗𝚒𝚗𝚐 𝙲𝚘𝚞𝚛𝚜𝚎 - 𝚊𝚝 𝙱𝙰𝚄𝚂𝚃</a>
+- <a href="https://www.udemy.com/certificate/UC-9SJEY17Z/">𝚃𝚑𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎 𝙲 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎</a>
+- <a href="https://www.udemy.com/certificate/UC-4c1e3560-c268-4c37-87c3-b3e1235b67f2/">𝙲++ 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 𝚂𝚎𝚛𝚒𝚎𝚜, 𝚃𝚑𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎 𝙲𝚘𝚍𝚒𝚗𝚐 𝙶𝚞𝚒𝚍𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎</a>
+- <a href="https://www.udemy.com/certificate/UC-57c8fb24-5d8a-450b-9001-76c2dfac993b/">𝙻𝚎𝚊𝚛𝚗 𝙲++ 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙼𝚒𝚗𝚒 𝙲𝚘𝚞𝚛𝚜𝚎, 𝙿𝚘𝚠𝚎𝚛 𝚘𝚏 𝙰𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎</a>
+- <a href="https://www.udemy.com/certificate/UC-77OW1SDX/">𝙷𝚃𝙼𝙻𝟻 𝙲𝚘𝚍𝚒𝚗𝚐 𝚏𝚛𝚘𝚖 𝚂𝚌𝚛𝚊𝚝𝚌𝚑 - 𝙱𝚞𝚒𝚕𝚍 𝚈𝚘𝚞𝚛 𝙾𝚠𝚗 𝚆𝚎𝚋𝚜𝚒𝚝𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎</a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/DKL6A3KTYL34">𝙿𝚘𝚜𝚒𝚝𝚒𝚘𝚗 𝙴𝚕𝚎𝚖𝚎𝚗𝚝𝚜 𝚘𝚗 𝚊 𝙿𝚊𝚐𝚎 𝚠𝚒𝚝𝚑 𝙲𝚂𝚂 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎</a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/5XKX3V74MZA6">𝙶𝚒𝚝 + 𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚛 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎</a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/HHS3XUAFQWZU">𝚄𝚜𝚎 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚊𝚗𝚍 𝙲𝚛𝚎𝚊𝚝𝚎 𝚊 𝚁𝚎𝚖𝚘𝚝𝚎 𝙶𝚒𝚝 𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎</a>
+- <a href="https://www.hackerrank.com/montasim">𝙶𝚘𝚘𝚐𝚕𝚎 𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝚂𝚎𝚊𝚛𝚌𝚑: 𝙵𝚒𝚗𝚍 𝚂𝚝𝚞𝚏𝚏 𝙻𝚒𝚔𝚎 𝚊 𝙱𝚘𝚜𝚜 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎</a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/CC7F3ETBKK8U">𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙻𝚒𝚗𝚎 𝚒𝚗 𝙻𝚒𝚗𝚞𝚡 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎</a>
+- <a href="https://www.udemy.com/certificate/UC-91b6cfe1-6f98-40ec-a1b1-2f5a1714f637/">𝙻𝚎𝚊𝚛𝚗 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙻𝚒𝚗𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎</a>
+
+<br>
+<br>
+
+#### 🧡 &nbsp;&nbsp;My passions
+
+* Technology and software
+* Science 
+* Machine learning ([my articles about it](https://aralroca.com/blog?q=machine-learning))
+* Books ([goodreads](https://www.goodreads.com/user/show/32447157-aral-roca-gomez))
+* Parkour ([instagram](https://www.instagram.com/aralroca/), [youtube](http://youtube.com/aralroca))
+* Nutrition
+* Nature
+
+<br>
+<br>
+
+<!-- 𝚃𝚑𝚒𝚗𝚐𝚜 𝙸 𝚄𝚜𝚎 𝚃𝚘 𝙶𝚎𝚝 𝚂𝚝𝚞𝚏𝚏 𝙳𝚘𝚗𝚎 heading -->
+
+<h2 align="left"> ⚙️ 𝚃𝚑𝚒𝚗𝚐𝚜 𝙸 𝚄𝚜𝚎 </h2>
+
+[//]: # "𝚃𝚑𝚒𝚗𝚐𝚜 𝙸 𝚄𝚜𝚎 𝚃𝚘 𝙶𝚎𝚝 𝚂𝚝𝚞𝚏𝚏 𝙳𝚘𝚗𝚎 notes"
+
+- <b>𝐃𝐞𝐬𝐤𝐭𝐨𝐩: </b> 𝚁𝚢𝚣𝚎𝚗 𝟽 𝟸𝟽𝟶𝟶𝚇, 𝙶𝚒𝚐𝚊𝚋𝚢𝚝𝚎 𝙰𝚘𝚛𝚞𝚜 𝙿𝚛𝚘 𝚆𝚒𝚏𝚒, 𝟷𝟼𝙶𝙱 𝙳𝙳𝚁𝟺, 𝟸𝟺𝟶𝙶𝙱 𝚂𝚂𝙳, 𝟷𝚃𝙱 𝙷𝙳𝙳, 𝚁𝙾𝙶-𝚂𝚃𝚁𝙸𝚇-𝚁𝚇𝟻𝟾𝟶-𝙾𝟾𝙶-𝙶𝙰𝙼𝙸𝙽𝙶, 𝚃𝚑𝚎𝚛𝚖𝚊𝚕𝚝𝚊𝚔𝚎 𝚃𝚘𝚞𝚐𝚑𝚙𝚘𝚠𝚎𝚛 𝙶𝙵𝟷 𝙰𝚁𝙶𝙱 𝟾𝟻𝟶𝚆 𝟾𝟶 𝙿𝚕𝚞𝚜 𝙶𝚘𝚕𝚍 𝙵𝚞𝚕𝚕𝚢 𝙼𝚘𝚍𝚞𝚕𝚊𝚛 𝙿𝚘𝚠𝚎𝚛 𝚂𝚞𝚙𝚙𝚕𝚢, 𝚃𝚑𝚊𝚛𝚖𝚊𝚕𝚝𝚊𝚔𝚎 𝙲𝚘𝚘𝚕𝚒𝚗𝚐 𝙵𝚊𝚗
+- <b>𝙻𝚊𝚙𝚝𝚘𝚙: </b> 𝙰𝚂𝚄𝚂 𝚇𝟺𝟻𝟼𝚄𝚀 (𝙸𝚗𝚝𝚎𝚕® 𝙲𝚘𝚛𝚎™ 𝚒𝟻), 𝟾𝙶𝙱 𝙳𝙳𝚁𝟺, 𝟷𝚃𝙱 𝙷𝙳𝙳, 𝙽𝚟𝚒𝚍𝚒𝚊 𝟿𝟺𝟶𝙼𝚇
+- <b>𝐌𝐨𝐛𝐢𝐥𝐞: </b> 𝚂𝚊𝚖𝚜𝚞𝚗𝚐 𝙶𝚊𝚕𝚊𝚡𝚢 𝙰𝟻𝟶
+- <b>𝐓𝐚𝐛𝐥𝐞𝐭: </b> 𝐇𝐮𝐚𝐰𝐞𝐢 𝐌𝐞𝐝𝐢𝐚𝐏𝐚𝐝 𝐓𝟕
+- <b>𝐒𝐦𝐚𝐫𝐭𝐰𝐚𝐭𝐜𝐡: </b> 𝙷𝚊𝚢𝚕𝚞 𝚂𝚘𝚕𝚊𝚛 𝙻𝚂𝟶𝟻
+- <b>𝙴𝚊𝚛𝚋𝚞𝚍𝚜: </b> 𝚄𝚒𝚒𝚜𝚒𝚒 𝚃𝚆𝚂𝟾𝟶𝟾 𝙳𝚄𝙰𝙻 𝙳𝚁𝙸𝚅𝙴𝚁 𝙰𝙸𝚁𝙿𝙾𝙳𝚂
+- <b>𝙱𝚛𝚘𝚠𝚜𝚎𝚛: </b> 𝙶𝚘𝚘𝚐𝚕𝚎 𝙲𝚑𝚛𝚘𝚖𝚎
+- <b>𝙲𝚘𝚍𝚎 𝙴𝚍𝚒𝚝𝚘𝚛:</b> 𝚅𝚒𝚜𝚞𝚊𝚕 𝚂𝚝𝚞𝚍𝚒𝚘 𝙲𝚘𝚍𝚎
+- <b>𝙾𝚙𝚎𝚛𝚊𝚝𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖:</b> 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝟷𝟶
+- <b>𝚃𝚘 𝚂𝚝𝚊𝚢 𝚄𝚙𝚍𝚊𝚝𝚎𝚍:</b> <a href="https://www.linkedin.com/in/montasim">𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗</a>, <a href="https://www.github.com/montasim">𝙶𝚒𝚝𝙷𝚞𝚋</a>, <a href="mailto:i@blackcater.dev"> <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40", [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-3b5998?style=flat-square&logo=gmail&logoColor=white)](https://iampavangandhi.github.io/) />
+</a>
+
+<br>
+<br>
+
+<h2 align="left"> 🔌 Website I Use Causualy </h2>
+
+<b> My website has quite a few of them. Here's a list of the public ones. </b>
+
+
+- [noobtrack.blogspot.com](https://noobtrack.blogspot.com/) - This is my own cracked apps download website.
+- [download.trnck.dev](http://download.trnck.dev) - download some important
+  assets, which I personally use
+- [qr.trnck.dev](https://qr.trnck.dev) - create a QR code in 2 seconds
+
+<br>
+<br>
+
+</details>
+<!-- End 𝙼𝚘𝚛𝚎 𝚂𝚝𝚞𝚏𝚏 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 Section -->
+
+<!-- Start 𝙼𝚢 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 Section --> 
+<details>
+<summary>
+    <b> 📌 𝙼𝚢 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 </b>
+</summary>
+	
+<br>
+
+<h2 align="center"><img src="media/icons/trophy.png" width="23px"> Github Trophies <img src="media/icons/trophy.png" width="23px"></h2>  
 
 <br>
 
+<!-- Github Trophies -->
+<p align="center">
+  <img alt="Github Trophies" src = "https://github-profile-trophy.vercel.app/?username=montasim&theme=onedark">
+</p>
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="montasim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+
+<!-- Github Metrics --> 
+<p align="center">
+  <img alt="Github Metrics" src = "https://metrics.lecoq.io/montasim">
+</p>
+<br>
+
+</details>
+<!-- End 𝙼𝚢 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 Section --> 
+
+<!-- Start Special Thanks To Section -->  
+<details>
+<summary>
+    <b> ⌛ 𝚂𝚙𝚎𝚌𝚒𝚊𝚕 𝚃𝚑𝚊𝚗𝚔𝚜 𝚃𝚘 </b>
+</summary>
+	
+<br><br>
+
+<p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for his GitHub readme Stats
+    <br>
+    <a href="https://lottiefiles.com/">lottiefiles</a> for beautiful animatated gif collection
+    <br>
+    <a href="https://www.remove.bg/">remove.bg</a> for background removal
+    <br>
+    <a href="https://lingojam.com/FancyLetters">lingojam.com</a> for beautiful fonts
+    <br>
+    <a href="https://gifer.com/en/">lingojam.com</a> for transparent gif
+</p>
+
+<br><br>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+<h3 align="center"> My latest posts </h3>
+
+</td>
+<td width="40%" valign="top">
+
+<h3 align="center"> Miscellaneous </h3>
+
+
+<!-- https://github.com/lifeparticle/Gist-Count -->
+- [![Github gists](https://gist-count.vercel.app/api?username=montasim)](https://gist.github.com/montasim)
+
+</td>
+</tr>
+</table>
+
+</details>
+<!-- End Special Thanks To Section --> 
+
+<br><br>
+
+<!--Start Footer-->
+<div align="center" class="footer">
+<!-- Wave svg --> 
+<p align="center">
+  <img alt="Wave svg" src="media/images/wave.svg">
+</p>
+<br>
+<!-- Copyright --> 
+&copy; ᴍᴀᴅᴇ ʙʏ <a href="https://montasim.github.io/" target="_blank"> ᴇɴɢɪɴᴇᴇʀ Ｍｏｎｔａｓｉｍ</a>
+<hr>
+</div>
+<!--End Footer-->
