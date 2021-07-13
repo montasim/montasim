@@ -564,7 +564,7 @@ Preferred Organization Types : Software Company </p>
 <!-- Start Some Repositories Section -->  
 <details>
 <summary>
-    <b> 🔯 Ⓢⓞⓜⓔ Ⓡⓔⓟⓞⓢⓘⓣⓞⓡⓘⓔⓢ
+    <b> 🔯 Some Repositories
  </b>
 </summary>
 	
@@ -1099,9 +1099,14 @@ Preferred Organization Types : Software Company </p>
 <summary>
     <b> ⌛ 𝚂𝚙𝚎𝚌𝚒𝚊𝚕 𝚃𝚑𝚊𝚗𝚔𝚜 𝚃𝚘 </b>
 </summary>
-	
+
 <br><br>
 
+<table>
+<tr>
+<td>
+
+<h3 align="center"> My latest posts </h3>
 <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for his GitHub readme Stats
     <br>
@@ -1113,14 +1118,6 @@ Preferred Organization Types : Software Company </p>
     <br>
     <a href="https://gifer.com/en/">lingojam.com</a> for transparent gif
 </p>
-
-<br><br>
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-<h3 align="center"> My latest posts </h3>
 
 </td>
 <td width="40%" valign="top">
