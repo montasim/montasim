@@ -563,17 +563,19 @@ Preferred Organization Types : Software Company </p>
 	
 <br><br>
 
-<p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for his GitHub readme Stats
-    <br>
-    <a href="https://lottiefiles.com/">lottiefiles</a> for beautiful animatated gif collection
-    <br>
-    <a href="https://www.remove.bg/">remove.bg</a> for background removal
-    <br>
-    <a href="https://lingojam.com/FancyLetters">lingojam.com</a> for beautiful fonts
-    <br>
-    <a href="https://gifer.com/en/">lingojam.com</a> for transparent gif
-</p>
+<!-- Start Training, Participation and Certification --> 
+<h2 align="left"> Training, Participation and Certification: </h2>
+
+- <a href="#"> Mobile Game And Application Development For Android - at ICT Division of Bangladesh </a>
+- <a href="#"> PLC Training Course - at BAUST </a>
+- <a href="https://www.udemy.com/certificate/UC-9SJEY17Z/"> The Complete C Programming Tutorial - at Udemy online course </a>
+- <a href="https://www.udemy.com/certificate/UC-4c1e3560-c268-4c37-87c3-b3e1235b67f2/"> C++ Development Tutorial Series - The Complete Coding Guide - at Udemy online course </a>
+- <a href="https://www.udemy.com/certificate/UC-57c8fb24-5d8a-450b-9001-76c2dfac993b/"> Learn C++ Programming Mini Course - Power of Animation - at Udemy online course </a>
+- <a href="https://www.udemy.com/certificate/UC-77OW1SDX/"> HTML5 Coding from Scratch - Build Your Own Website - at Udemy online course</a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/DKL6A3KTYL34"> Position Elements on a Page with CSS - at Coursera online course</a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/5XKX3V74MZA6"> Git + GitHub for Open Source Collaboration - at Coursera online course </a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/HHS3XUAFQWZU"> Use Commands and Create a Remote Git Repository - at Coursera online course </a>
+<!-- End Training, Participation and Certification --> 
 
 <br><br>
 
@@ -588,17 +590,114 @@ Preferred Organization Types : Software Company </p>
 	
 <br><br>
 
-<p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for his GitHub readme Stats
-    <br>
-    <a href="https://lottiefiles.com/">lottiefiles</a> for beautiful animatated gif collection
-    <br>
-    <a href="https://www.remove.bg/">remove.bg</a> for background removal
-    <br>
-    <a href="https://lingojam.com/FancyLetters">lingojam.com</a> for beautiful fonts
-    <br>
-    <a href="https://gifer.com/en/">lingojam.com</a> for transparent gif
-</p>
+### :sparkles: My Followers
+
+<!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/snowdream">
+        <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
+      </a>
+      <br />
+      <a href="https://github.com/snowdream">snowdream</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/donmartz">
+        <img src="https://avatars2.githubusercontent.com/u/78443365" width="100px;" alt="donmartz"/>
+      </a>
+      <br />
+      <a href="https://github.com/donmartz">donmartz</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bitmote">
+        <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
+      </a>
+      <br />
+      <a href="https://github.com/bitmote">ZhengXiaolei</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Neustradamus">
+        <img src="https://avatars2.githubusercontent.com/u/104737" width="100px;" alt="Neustradamus"/>
+      </a>
+      <br />
+      <a href="https://github.com/Neustradamus">Neustradamus</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cnsuhao">
+        <img src="https://avatars2.githubusercontent.com/u/23429527" width="100px;" alt="cnsuhao"/>
+      </a>
+      <br />
+      <a href="https://github.com/cnsuhao">cnsuhao</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/swhgoon">
+        <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
+      </a>
+      <br />
+      <a href="https://github.com/swhgoon">SwhGo_oN</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zhuwenxing">
+        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
+      </a>
+      <br />
+      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MadhavDev-prog">
+        <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
+      </a>
+      <br />
+      <a href="https://github.com/MadhavDev-prog">suffixdev</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lowlighter">
+        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
+      </a>
+      <br />
+      <a href="https://github.com/lowlighter">Simon Lecoq</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Tim2906">
+        <img src="https://avatars2.githubusercontent.com/u/69757707" width="100px;" alt="Tim2906"/>
+      </a>
+      <br />
+      <a href="https://github.com/Tim2906">Tim</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/imknown">
+        <img src="https://avatars2.githubusercontent.com/u/5681447" width="100px;" alt="imknown"/>
+      </a>
+      <br />
+      <a href="https://github.com/imknown">imknown J. Kimu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ziaochina">
+        <img src="https://avatars2.githubusercontent.com/u/4494312" width="100px;" alt="ziaochina"/>
+      </a>
+      <br />
+      <a href="https://github.com/ziaochina">liujian zhang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gee1k">
+        <img src="https://avatars2.githubusercontent.com/u/12059800" width="100px;" alt="gee1k"/>
+      </a>
+      <br />
+      <a href="https://github.com/gee1k">Svend</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MagicMashRoom">
+        <img src="https://avatars2.githubusercontent.com/u/19260780" width="100px;" alt="MagicMashRoom"/>
+      </a>
+      <br />
+      <a href="https://github.com/MagicMashRoom">MagicMashRoom</a>
+    </td>
+  </tr>
+</table>
+<!--END_SECTION:top-followers-->
 
 <br><br>
 
