@@ -101,7 +101,7 @@ Wish you a good-looking profile README!
 <!-- Start My Resume Section -->
 <!-- Start Details -->
 <details>
-<summary><b> 📑  𝙼𝚢 𝐑𝐞𝐬𝐮𝐦𝐞 </b></summary>
+<summary><b> 📑  🅼🆈 🆁🅴🆂🆄🅼🅴 </b></summary>
 
 <br>
 <br>
@@ -454,7 +454,7 @@ Preferred Organization Types : Software Company </p>
 <!-- Start My Experience Section -->  
 <details>
 <summary>
-    <b> ⌛ My Experience </b>
+    <b> ✨ 🅼🆈 🅴🆇🅿🅴🆁🅸🅴🅽🅲🅴 </b>
 </summary>
 	
 <br><br>
@@ -564,22 +564,13 @@ Preferred Organization Types : Software Company </p>
 <!-- Start Some Repositories Section -->  
 <details>
 <summary>
-    <b> ⌛ Some Repositories </b>
+    <b> 🔯 Ⓢⓞⓜⓔ Ⓡⓔⓟⓞⓢⓘⓣⓞⓡⓘⓔⓢ
+ </b>
 </summary>
 	
 <br><br>
 
-<p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for his GitHub readme Stats
-    <br>
-    <a href="https://lottiefiles.com/">lottiefiles</a> for beautiful animatated gif collection
-    <br>
-    <a href="https://www.remove.bg/">remove.bg</a> for background removal
-    <br>
-    <a href="https://lingojam.com/FancyLetters">lingojam.com</a> for beautiful fonts
-    <br>
-    <a href="https://gifer.com/en/">lingojam.com</a> for transparent gif
-</p>
+	
 
 <br><br>
 
@@ -589,22 +580,12 @@ Preferred Organization Types : Software Company </p>
 <!-- Start My Projects Section -->  
 <details>
 <summary>
-    <b> ⌛ My Projects </b>
+    <b> 💛 My Projects </b>
 </summary>
 	
 <br><br>
 
-<p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for his GitHub readme Stats
-    <br>
-    <a href="https://lottiefiles.com/">lottiefiles</a> for beautiful animatated gif collection
-    <br>
-    <a href="https://www.remove.bg/">remove.bg</a> for background removal
-    <br>
-    <a href="https://lingojam.com/FancyLetters">lingojam.com</a> for beautiful fonts
-    <br>
-    <a href="https://gifer.com/en/">lingojam.com</a> for transparent gif
-</p>
+
 
 <br><br>
 
@@ -614,7 +595,7 @@ Preferred Organization Types : Software Company </p>
 <!-- Start Certificates Section -->  
 <details>
 <summary>
-    <b> ⌛ Certificates </b>
+    <b> 🏅 Certificates </b>
 </summary>
 	
 <br><br>
@@ -641,7 +622,7 @@ Preferred Organization Types : Software Company </p>
 <!-- Start My Followers Section -->  
 <details>
 <summary>
-    <b> ⌛ My Followers </b>
+    <b> 🕺 My Followers </b>
 </summary>
 	
 <br><br>
