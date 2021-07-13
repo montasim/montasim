@@ -509,8 +509,6 @@ Preferred Organization Types : Software Company </p>
 </details>
 <!-- End My Experience Section --> 
 
-<br>
-
 <!-- Start 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section --> 
 <!-- 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 -->
 <h2 align="right"> 🔸 Ｆｉｎｄ Ｍｅ Ｏｎ Ｓｏｃｉａｌ Ｍｅｄｉａ </h2>
