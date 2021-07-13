@@ -451,6 +451,64 @@ Preferred Organization Types : Software Company </p>
 <!-- End Details -->
 <!-- End My Resume Section -->
 
+<!-- Start My Experience Section -->  
+<details>
+<summary>
+    <b> ⌛ My Experience </b>
+</summary>
+	
+<br><br>
+
+<!-- Start Experience -->
+<h2 align="left"> Experience: </h2>
+<table align="center">
+    <thead>
+        <tr>
+            <th align="left"><b></b> Company Name </th>
+	        <th align="left"><b> CODEZ Info Tech </b></th>
+            <th align="left"><b> Crystal It and Soft </b></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left"><b> Designation </b></td>
+            <td align="left"> Web Developer </td>
+            <td align="left"> Web Developer </td>
+        </tr>
+        <tr>
+            <td align="left"><b> Duration </b></td>
+            <td align="left"> December 10, 2020 - Present </td>
+            <td align="left"> August 2019 – September 2020 </td>
+        </tr>
+        <tr>
+            <td align="left"><b> Address </b></td>
+            <td align="left"> 3/359, Adarsha Nagar, Middle-Badda, Dhaka-1212 </td>
+            <td align="left"> Chartola Mor, Rangpur </td>
+        </tr>
+        <tr>
+            <td align="left"><b> Responsibility </b></td>
+            <td align="left"> Design and Develop Websites and Web Applications </td>
+            <td align="left"> Developed and maintained affiliate marketing website Crystal It and Soft, Rangpur </td>
+        </tr>
+        <tr>
+            <td align="left"><b>  </b></td>
+            <td align="left">  UI/UX Design </td>
+            <td align="left"> Wrote over 150 contents for those websites </td>
+        </tr>
+        <tr>
+            <td align="left"><b>  </b></td>
+            <td align="left"> Problem Solving </td>
+            <td align="left">  </td>
+        </tr>
+    </tbody>
+</table>
+<!-- End Experience -->
+
+<br><br>
+
+</details>
+<!-- End My Experience Section --> 
+
 <br>
 
 <!-- Start 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section --> 
@@ -484,7 +542,7 @@ Preferred Organization Types : Software Company </p>
 <br><br><br><br>
 <!-- End 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section --> 
 
-<br><br><br>
+<br><br>
 
 <!-- handshake gif -->
 <img align="right" alt="handshake gif" src="media/gif/code4.gif" width="300px">
