@@ -1230,38 +1230,41 @@ Preferred Organization Types : Software Company </p>
 </details>
 <!-- End Special Thanks To Section --> 
 
+<!-- Start Find More On Social Media Section -->
 <details>
   <summary> 📛 ꜰɪɴᴅ ᴍᴏʀᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </summary>
   <br>
 
-<details>
-  <summary> 📺 ʟᴀᴛᴇꜱᴛ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏꜱ </summary>
-
+<table align="center">
+    <thead>
+        <tr>
+            <th align="left"><b></b> 📺 ʟᴀᴛᴇꜱᴛ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏꜱ </th>
+	        <th align="left"><b> 📕 ʟᴀᴛᴇꜱᴛ ʙʟᴏɢ ᴘᴏꜱᴛꜱ </b></th>
+            <th align="left"><b> ⌨️ ʀᴇᴄᴇɴᴛ ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ </b></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left">
 <!-- YOUTUBE:START -->
 
-<!-- YOUTUBE:END -->
-</details>
-
-
-<details>
-  <summary> 📕 ʟᴀᴛᴇꜱᴛ ʙʟᴏɢ ᴘᴏꜱᴛꜱ </summary>
-
+<!-- YOUTUBE:END --></td>
+<td align="left"> 
+            
 <!-- BLOG-POST-LIST:START -->
 
-<!-- BLOG-POST-LIST:END -->
-</details>
-
-<details>
-  <summary> ⌨️ ʀᴇᴄᴇɴᴛ ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ </summary>
-  
+<!-- BLOG-POST-LIST:END --> </td>
+<td align="left"> 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
+<!--END_SECTION:activity--> </td>
+</tr>
+</tbody>
+</table>
 </details>
+<!-- End Find More On Social Media Section -->
+
 <br><br>
-</details>
-
 
 <!--Start Footer-->
 <div align="center" class="footer">
