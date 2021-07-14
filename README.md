@@ -1233,7 +1233,7 @@ Preferred Organization Types : Software Company </p>
 <br><br>
 
 <details>
-  <summary> 📺 Latest YouTube Videos </summary>
+  <summary> 📺 ʟᴀᴛᴇꜱᴛ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏꜱ </summary>
 
 <!-- YOUTUBE:START -->
 
@@ -1242,7 +1242,7 @@ Preferred Organization Types : Software Company </p>
 
 
 <details>
-  <summary> 📕 Latest Blog Posts </summary>
+  <summary> 📕 ʟᴀᴛᴇꜱᴛ ʙʟᴏɢ ᴘᴏꜱᴛꜱ </summary>
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -1250,7 +1250,7 @@ Preferred Organization Types : Software Company </p>
 </details>
 
 <details>
-  <summary> Recent GitHub Activity </summary>
+  <summary> ⌨️ ʀᴇᴄᴇɴᴛ ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ </summary>
   
 <!--START_SECTION:activity-->
 
