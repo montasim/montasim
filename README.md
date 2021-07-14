@@ -80,7 +80,7 @@ Wish you a good-looking profile README!
 <!-- Start Some Words About Me -->
 <h2 align="left"> ✍ 𝐒𝐨𝐦𝐞 𝐖𝐨𝐫𝐝 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 </h2>
 
-<img align="right" height="250" width="375" alt="" src="media/gif/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="media/gif/code4.gif" />
 
 <p> 𝙸'𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝙵𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝙱𝚊𝚗𝚐𝚕𝚊𝚍𝚎𝚜𝚑. 𝙸'𝚟𝚎 𝚙𝚞𝚛𝚜𝚞𝚎𝚍 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝚒𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚏𝚛𝚘𝚖 𝙱𝚊𝚗𝚐𝚕𝚊𝚍𝚎𝚜𝚑 𝙰𝚛𝚖𝚢 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢. 𝙸'𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚕𝚎𝚊𝚛𝚗𝚎𝚛 𝚠𝚑𝚘'𝚜 𝚊𝚕𝚠𝚊𝚢𝚜 𝚠𝚒𝚕𝚕𝚒𝚗𝚐 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗 𝚊𝚗𝚍 𝚠𝚘𝚛𝚔 𝚊𝚌𝚛𝚘𝚜𝚜 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚗𝚍 𝚍𝚘𝚖𝚊𝚒𝚗𝚜. 𝙸 𝚕𝚘𝚟𝚎 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚗𝚍 𝚕𝚎𝚟𝚎𝚛𝚊𝚐𝚎 𝚝𝚑𝚎𝚖 𝚝𝚘 𝚜𝚘𝚕𝚟𝚎 𝚛𝚎𝚊𝚕-𝚕𝚒𝚏𝚎 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜. 𝙰𝚙𝚊𝚛𝚝 𝚏𝚛𝚘𝚖 𝚝𝚑𝚊𝚝 𝙸 𝚊𝚕𝚜𝚘 𝚕𝚘𝚟𝚎 𝚝𝚘 𝚐𝚞𝚒𝚍𝚎 𝚊𝚗𝚍 𝚖𝚎𝚗𝚝𝚘𝚛 𝚗𝚎𝚠𝚋𝚒𝚎𝚜. 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚒𝚗𝚝𝚘 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚊𝚗𝚍 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚖𝚢 𝙳𝚊𝚝𝚊 𝚂𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜 𝚊𝚗𝚍 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜. <!-- 𝙵𝚛𝚘𝚖 𝚊 𝚢𝚘𝚞𝚗𝚐 𝚊𝚐𝚎, 𝙸’𝚟𝚎 𝚊𝚕𝚠𝚊𝚢𝚜 𝚑𝚊𝚍 𝚊 𝚜𝚎𝚗𝚜𝚎 𝚘𝚏 𝚖𝚘𝚝𝚒𝚟𝚊𝚝𝚒𝚘𝚗 𝚊𝚗𝚍 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚍𝚛𝚒𝚟𝚒𝚗𝚐 𝚖𝚎 𝚏𝚘𝚛𝚠𝚊𝚛𝚍. 𝚆𝚑𝚎𝚝𝚑𝚎𝚛 𝚒𝚝’𝚜 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚞𝚗𝚒𝚚𝚞𝚎 𝚘𝚙𝚙𝚘𝚛𝚝𝚞𝚗𝚒𝚝𝚒𝚎𝚜, 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕 𝚜𝚔𝚒𝚕𝚕𝚜, 𝚘𝚛 𝚖𝚎𝚎𝚝𝚒𝚗𝚐 𝚗𝚎𝚠 𝚙𝚎𝚘𝚙𝚕𝚎, 𝙸 𝚋𝚛𝚒𝚗𝚐 𝚝𝚑𝚎𝚜𝚎 𝚟𝚊𝚕𝚞𝚎𝚜 𝚝𝚘 𝚎𝚟𝚎𝚛𝚢 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚝𝚑𝚛𝚘𝚞𝚐𝚑𝚘𝚞𝚝 𝚖𝚢 𝚕𝚒𝚏𝚎 𝚘𝚗 𝚊 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚊𝚗𝚍 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕 𝚕𝚎𝚟𝚎𝚕.--> 𝙸 𝚕𝚘𝚟𝚎 𝚌𝚘𝚗𝚗𝚎𝚌𝚝𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚍𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚝 𝚙𝚎𝚘𝚙𝚕𝚎 𝚊𝚛𝚘𝚞𝚗𝚍 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍. 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚊𝚗𝚍 𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚎 𝚢𝚘𝚞𝚛𝚜𝚎𝚕𝚏. 𝚃𝚘 𝚕𝚎𝚊𝚛𝚗 𝚖𝚘𝚛𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎, 𝚔𝚎𝚎𝚙 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚖𝚢 𝚜𝚒𝚝𝚎 𝚘𝚛 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚍𝚒𝚛𝚎𝚌𝚝𝚕𝚢.
 </p>
@@ -543,7 +543,7 @@ Preferred Organization Types : Software Company </p>
 <br><br>
 
 <!-- handshake gif -->
-<img align="right" alt="handshake gif" src="media/gif/code4.gif" width="300px">
+<img align="right" alt="handshake gif" src="media/gif/coder.gif" height="250" width="375">
 
 <!-- Start Talking About Personal Stuffs -->
 <h2 align="left">💥 𝐓𝐚𝐥𝐤𝐢𝐧𝐠 𝐀𝐛𝐨𝐮𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐒𝐭𝐮𝐟𝐟𝐬</h2>
@@ -1232,29 +1232,25 @@ Preferred Organization Types : Software Company </p>
 
 <br><br>
 
----
-
-### 📺 Latest YouTube Videos
+<details>
+  <summary> 📺 Latest YouTube Videos </summary>
 
 <!-- YOUTUBE:START -->
 
 <!-- YOUTUBE:END -->
+</details>
 
 
----
-
-### 📕 Latest Blog Posts
+<details>
+  <summary> 📕 Latest Blog Posts </summary>
 
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://montasim.github.io)
-
----
+</details>
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary> Recent GitHub Activity </summary>
   
 <!--START_SECTION:activity-->
 
