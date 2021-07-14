@@ -540,10 +540,12 @@ Preferred Organization Types : Software Company </p>
 <br><br><br><br>
 <!-- End 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section --> 
 
-<br><br>
+<br><br><br><br><br>
 
+
+<div>
 <!-- coder gif -->
-<img align="right" alt="handshake gif" src="media/gif/coder.gif" height="250" width="375">
+<img align="right" alt="handshake gif" src="media/gif/coder.gif"  height="250" width="375">
 
 <!-- Start Talking About Personal Stuffs -->
 <h2 align="left">💥 ᴛᴀʟᴋɪɴɢ ᴀʙᴏᴜᴛ ᴘᴇʀꜱᴏɴᴀʟ ꜱᴛᴀꜰꜰ </h2>
@@ -566,7 +568,8 @@ Preferred Organization Types : Software Company </p>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; ♦ ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠɪɴɢ, ᴍᴇᴇᴛᴜᴘꜱ & ᴛᴇᴄʜ ᴇᴠᴇɴᴛꜱ.
 <!-- End Talking About Personal Stuffs -->
-
+<div>
+	
 <br><br><br>
 
 <!-- coder gif -->
