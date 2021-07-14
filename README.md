@@ -586,22 +586,6 @@ Preferred Organization Types : Software Company </p>
 <img src="https://readme-jokes.vercel.app/api/?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" />
 </p>
 
-<!-- Start Some Repositories Section -->  
-<details>
-<summary>
-    <b> 🔯 ꜱᴏᴍᴇ ʀᴇᴘᴏꜱɪᴛᴏʀɪᴇꜱ </b>
-</summary>
-	
-<br><br>
-
-https://github-readme-stats.vercel.app/api/pin/?username=Knowledge-Precipitation-Tribe&repo=Spatio-Temporal-papers
-https://github-readme-stats.vercel.app/api/pin/?username=Knowledge-Precipitation-Tribe&repo=Spatio-Temporal-papers
-
-<br><br>
-
-</details>
-<!-- End Some Repositories Section --> 
-
 <!-- Start My Projects Section -->  
 <details>
 <summary>
@@ -610,7 +594,14 @@ https://github-readme-stats.vercel.app/api/pin/?username=Knowledge-Precipitation
 	
 <br><br>
 
-
+<p align="center">
+<a href="https://github.com/montasim/montasim.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=montasim.github.io&show_icons=true&theme=react&border_color=61dafb&hide_border=true"></a>
+<a href="https://github.com/montasim/Car-Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=Car-Game&show_icons=true&theme=react&border_color=61dafb&hide_border=true"></a>
+<a href="https://github.com/montasim/UndergraduateThesis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=UndergraduateThesis&show_icons=true&theme=react&border_color=61dafb&hide_border=true"></a>
+<a href="https://github.com/montasim/SecurePasswordPython"><img src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=SecurePasswordPython&show_icons=true&theme=react&border_color=61dafb&hide_border=true"></a>
+<a href="https://github.com/montasim/E-HealthCare"><img src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=E-HealthCare&show_icons=true&theme=react&border_color=61dafb&hide_border=true"></a>
+<a href="https://github.com/montasim/Noob-Track-Blog"><img src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=Noob-Track-Blog&show_icons=true&theme=react&border_color=61dafb&hide_border=true"></a>
+</p>
 
 <br><br>
 
