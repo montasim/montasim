@@ -592,6 +592,104 @@ Preferred Organization Types : Software Company </p>
 </details>
 <!-- End My Projects Section --> 
 
+<!-- Start My Skills Section -->  
+<details>
+<summary>
+    <b> 🔍 My Skills </b>
+</summary>
+	
+<br><br>
+
+<!-- Start My Skills -->
+<h2 align="center"><b> My Skills </b></h2>
+<table align="center">
+    <thead>
+        <tr>
+            <th align="center"><b>Name \ Familiarity</b></th>
+            <th align="center"><b>High</b></th>
+            <th align="center"><b>Medium</b></th>
+            <th align="center"><b>Low</b></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left"><b>Programming Languages</b></td>
+            <td align="left">Python</td>
+            <td align="left">C, C++, PHP</td>
+            <td align="left">Java, JavaScript</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td align="left"><b>Web Technologies</b></td>
+            <td align="left">HTML, CSS</td>
+            <td align="left">Markdown</td>
+            <td align="left">XML</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td align="left"><b>Web Frameworks</b></td>
+            <td align="left">Bootstrap, Django</td>
+            <td align="left">Flask</td>
+            <td align="left">TailWind CSS</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td align="left"><b>Web Creation Platforms</b></td>
+            <td align="left">WordPress, Blogger</td>
+            <td align="left">Wix</td>
+            <td align="left"></td>
+        </tr>
+    </tbody><tbody>
+        <tr>
+            <td align="left"><b>Database</b></td>
+            <td align="left">MySQL</td>
+            <td align="left">SqlLite</td>
+            <td align="left"></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td align="left"><b>Version Control</b></td>
+            <td align="left">Git, Github</td>
+            <td align="left"></td>
+            <td align="left"></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td align="left"><b>Operating System</b></td>
+            <td align="left">Windows, Ubuntu</td>
+            <td align="left">Fedora, RedHat, Debian</td>
+            <td align="left">Linux Mint, Kali Linux</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td align="left"><b>Languages</b></td>
+            <td align="left">English (Native), Bangla (Native)</td>
+            <td align="left">Hindi</td>
+            <td align="left">Arabic</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td align="left"><b>Other interests</b></td>
+            <td align="left">Reading Books</td>
+            <td align="left">Playing Games, Watching Movies</td>
+            <td align="left">Sports</td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<!-- End My Skills -->
+<br><br>
+
+</details>
+<!-- End My Skills Section --> 
+
 <!-- Start Certificates Section -->  
 <details>
 <summary>
@@ -1036,9 +1134,7 @@ Preferred Organization Types : Software Company </p>
 - <b>𝙱𝚛𝚘𝚠𝚜𝚎𝚛: </b> 𝙶𝚘𝚘𝚐𝚕𝚎 𝙲𝚑𝚛𝚘𝚖𝚎
 - <b>𝙲𝚘𝚍𝚎 𝙴𝚍𝚒𝚝𝚘𝚛:</b> 𝚅𝚒𝚜𝚞𝚊𝚕 𝚂𝚝𝚞𝚍𝚒𝚘 𝙲𝚘𝚍𝚎
 - <b>𝙾𝚙𝚎𝚛𝚊𝚝𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖:</b> 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝟷𝟶
-- <b>𝚃𝚘 𝚂𝚝𝚊𝚢 𝚄𝚙𝚍𝚊𝚝𝚎𝚍:</b> <a href="https://www.linkedin.com/in/montasim">𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗</a>, <a href="https://www.github.com/montasim">𝙶𝚒𝚝𝙷𝚞𝚋</a>, <a href="mailto:i@blackcater.dev"> <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40", [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-3b5998?style=flat-square&logo=gmail&logoColor=white)](https://iampavangandhi.github.io/) />
+- <b>𝚃𝚘 𝚂𝚝𝚊𝚢 𝚄𝚙𝚍𝚊𝚝𝚎𝚍:</b> <a href=""> 🅻🅸🅽🅺🅴🅳🅸🅽 </a><a href=""> 🅶🅸🆃🅷🆄🅱 </a><a href=""> 🅶🅼🅰🅸🅻 </a><a href=""> 🆆🅴🅱🆂🅸🆃🅴 </a><a href=""> 🅵🅰🅲🅴🅱🅾🅾🅺 </a>
 </a>
 
 <br>
@@ -1137,6 +1233,50 @@ Preferred Organization Types : Software Company </p>
 
 <br><br>
 
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [7 HOUR React Course, Quantum Computing, and Top CSS Frameworks 🤯 // STACKr News Weekly - Issue 2](https://www.youtube.com/watch?v=z8RAL5f-SF0)
+- [Top VS Code Updates | v1.58 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=lWC3bSuADRw)
+- [AI Copilots, Dinosaurs, and AWS 🤯 // STACKr News Weekly - Issue 1](https://www.youtube.com/watch?v=7kmb7-tFuXM)
+- [First Look at GitHub Copilot in VS Code | Just Another AI Programming Tool?](https://www.youtube.com/watch?v=calK4DpJV8A)
+- [The Secret Blog Writing Formula That Actually Works](https://www.youtube.com/watch?v=-7ztydZcSgY)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/codestackr)
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://codestackr.com)
+
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
+2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/portfolio-sass/pull/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
+3. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+4. 🗣 Commented on [#11](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/11) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+5. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
+<!--END_SECTION:activity-->
+
+</details>
+
+
 <!--Start Footer-->
 <div align="center" class="footer">
 <!-- Wave svg --> 
@@ -1149,3 +1289,16 @@ Preferred Organization Types : Software Company </p>
 <hr>
 </div>
 <!--End Footer-->
+
+<!--Start Links-->
+[website]: https://montasim.github.io
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/montasimmamun
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/mr.montasim
+[linkedin]: https://linkedin.com/in/montasim
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+<!--End Links-->
