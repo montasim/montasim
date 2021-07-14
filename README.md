@@ -598,7 +598,7 @@ Preferred Organization Types : Software Company </p>
 <br><br>
 
 <p float="left">
-  <img src="media/images/header1.png" />
+  <img src="media/images/banner.png"/>
 </p>
 
 <br><br>
