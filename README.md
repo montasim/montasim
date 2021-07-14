@@ -1233,6 +1233,9 @@ Preferred Organization Types : Software Company </p>
 <br><br>
 
 <details>
+  <summary> 📛 ꜰɪɴᴅ ᴍᴏʀᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </summary>
+
+<details>
   <summary> 📺 ʟᴀᴛᴇꜱᴛ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏꜱ </summary>
 
 <!-- YOUTUBE:START -->
@@ -1257,6 +1260,7 @@ Preferred Organization Types : Software Company </p>
 <!--END_SECTION:activity-->
 
 </details>
+</details>
 
 
 <!--Start Footer-->
@@ -1268,7 +1272,6 @@ Preferred Organization Types : Software Company </p>
 <br>
 <!-- Copyright --> 
 &copy; ᴍᴀᴅᴇ ʙʏ <a href="https://montasim.github.io/" target="_blank"> ᴇɴɢɪɴᴇᴇʀ Ｍｏｎｔａｓｉｍ</a>
-<hr>
 </div>
 <!--End Footer-->
 
