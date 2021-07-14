@@ -580,18 +580,17 @@ Preferred Organization Types : Software Company </p>
 <br>
 <!-- End Talking About Personal Stuffs -->
 
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api/?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" />
-<img src="https://github-readme-stackoverflow.vercel.app/?userID=10429621&theme=dark">
 </p>
-
-
+	
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical" />
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical" />
 </p>
+
+<br><br>
 
 <!-- Start My Projects Section -->  
 <details>
@@ -1266,22 +1265,6 @@ Preferred Organization Types : Software Company </p>
 <!-- End Twitter Section -->
 
 <br>
-
-<!-- Start Spotify Section -->  
-<b> ⌛ Spotify </b>
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=v3f8k041d9blwge8fi4411irw&cover_image=true&theme=default">
-<!-- End Spotify Section -->
-
-<!-- Start LinkedIn Section -->  
-<b> ⌛ LinkedIn </b>
-<img src="https://github-readme-linkedin-psi.vercel.app/user?username=montasim" width="730" height="100" />
-<!--End LinkedIn Section-->
-
-<!-- Start LinkedIn Section -->  
-<b> ⌛ LinkedIn </b>
-<img src="https://github-readme-medium.vercel.app/?username=montasim" />
-<!--End LinkedIn Section-->
 
 </details>
 <!-- End Find More On Social Media Section -->
