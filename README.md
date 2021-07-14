@@ -101,7 +101,7 @@ Wish you a good-looking profile README!
 <!-- Start My Resume Section -->
 <!-- Start Details -->
 <details>
-<summary><b> 📑  🅼🆈 🆁🅴🆂🆄🅼🅴 </b></summary>
+<summary><b> 📑 ᴍʏ ʀᴇꜱᴜᴍᴇ </b></summary>
 
 <br>
 <br>
@@ -454,7 +454,7 @@ Preferred Organization Types : Software Company </p>
 <!-- Start My Experience Section -->  
 <details>
 <summary>
-    <b> ✨ 🅼🆈 🅴🆇🅿🅴🆁🅸🅴🅽🅲🅴 </b>
+    <b> ✨ ᴍʏ ᴇxᴘᴇʀɪᴇɴᴄᴇ </b>
 </summary>
 	
 <br><br>
@@ -564,8 +564,7 @@ Preferred Organization Types : Software Company </p>
 <!-- Start Some Repositories Section -->  
 <details>
 <summary>
-    <b> 🔯 Some Repositories
- </b>
+    <b> 🔯 ꜱᴏᴍᴇ ʀᴇᴘᴏꜱɪᴛᴏʀɪᴇꜱ </b>
 </summary>
 	
 <br><br>
@@ -580,7 +579,7 @@ Preferred Organization Types : Software Company </p>
 <!-- Start My Projects Section -->  
 <details>
 <summary>
-    <b> 💛 My Projects </b>
+    <b> 💛 ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ </b>
 </summary>
 	
 <br><br>
@@ -595,7 +594,7 @@ Preferred Organization Types : Software Company </p>
 <!-- Start My Skills Section -->  
 <details>
 <summary>
-    <b> 🔍 My Skills </b>
+    <b> 🔍 ᴍʏ ꜱᴋɪʟʟꜱ </b>
 </summary>
 	
 <br><br>
@@ -693,7 +692,7 @@ Preferred Organization Types : Software Company </p>
 <!-- Start Certificates Section -->  
 <details>
 <summary>
-    <b> 🏅 Certificates </b>
+    <b> 🏅 ᴄᴇʀᴛɪꜰɪᴄᴀᴛᴇꜱ </b>
 </summary>
 	
 <br><br>
@@ -720,12 +719,12 @@ Preferred Organization Types : Software Company </p>
 <!-- Start My Followers Section -->  
 <details>
 <summary>
-    <b> 🕺 My Followers </b>
+    <b> 🕺 ᴍʏ ꜰᴏʟʟᴏᴡᴇʀꜱ </b>
 </summary>
 	
 <br><br>
 
-### :sparkles: My Followers
+### My Followers
 
 <!--START_SECTION:top-followers-->
 <table>
@@ -873,7 +872,7 @@ Preferred Organization Types : Software Company </p>
 <!-- Start 𝙼𝚘𝚛𝚎 𝚂𝚝𝚞𝚏𝚏 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 Section -->
 <details>
 <summary>
-	<b> 💡 𝙼𝚘𝚛𝚎 𝚂𝚝𝚞𝚏𝚏 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 </b>
+	<b> 💡 ᴍᴏʀᴇ ꜱᴛᴀꜰꜰ ᴀʙᴏᴜᴛ ᴍᴇ </b>
 </summary>
 	
 <br>
@@ -1159,7 +1158,7 @@ Preferred Organization Types : Software Company </p>
 <!-- Start 𝙼𝚢 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 Section --> 
 <details>
 <summary>
-    <b> 📌 𝙼𝚢 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 </b>
+    <b> 📌 ᴍʏ ꜱᴛᴀᴛɪꜱᴛɪᴄꜱ </b>
 </summary>
 	
 <br>
@@ -1193,7 +1192,7 @@ Preferred Organization Types : Software Company </p>
 <!-- Start Special Thanks To Section -->  
 <details>
 <summary>
-    <b> ⌛ 𝚂𝚙𝚎𝚌𝚒𝚊𝚕 𝚃𝚑𝚊𝚗𝚔𝚜 𝚃𝚘 </b>
+    <b> ⌛ ꜱᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋꜱ ᴛᴏ </b>
 </summary>
 
 <br><br>
