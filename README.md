@@ -584,6 +584,13 @@ Preferred Organization Types : Software Company </p>
 
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api/?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" />
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=10429621&theme=dark">
+</p>
+
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical" />
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical" />
 </p>
 
 <!-- Start My Projects Section -->  
@@ -1252,32 +1259,30 @@ Preferred Organization Types : Software Company </p>
   <summary> 📛 ꜰɪɴᴅ ᴍᴏʀᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </summary>
   <br>
 
-<table align="center">
-    <thead>
-        <tr>
-            <th align="left"><b></b> 📺 ʟᴀᴛᴇꜱᴛ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏꜱ </th>
-	        <th align="left"><b> 📕 ʟᴀᴛᴇꜱᴛ ʙʟᴏɢ ᴘᴏꜱᴛꜱ </b></th>
-            <th align="left"><b> ⌨️ ʀᴇᴄᴇɴᴛ ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ </b></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left">
-<!-- YOUTUBE:START -->
+<!-- Start Twitter Section -->  
+<b> ⌛ Twitter </b>
 
-<!-- YOUTUBE:END --></td>
-<td align="left"> 
-            
-<!-- BLOG-POST-LIST:START -->
+<img src="https://github-readme-twitter.gazf.vercel.app/api?id=montasimmamun&layout=wide">
+<!-- End Twitter Section -->
 
-<!-- BLOG-POST-LIST:END --> </td>
-<td align="left"> 
-<!--START_SECTION:activity-->
+<br>
 
-<!--END_SECTION:activity--> </td>
-</tr>
-</tbody>
-</table>
+<!-- Start Spotify Section -->  
+<b> ⌛ Spotify </b>
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=v3f8k041d9blwge8fi4411irw&cover_image=true&theme=default">
+<!-- End Spotify Section -->
+
+<!-- Start LinkedIn Section -->  
+<b> ⌛ LinkedIn </b>
+<img src="https://github-readme-linkedin-psi.vercel.app/user?username=montasim" width="730" height="100" />
+<!--End LinkedIn Section-->
+
+<!-- Start LinkedIn Section -->  
+<b> ⌛ LinkedIn </b>
+<img src="https://github-readme-medium.vercel.app/?username=montasim" />
+<!--End LinkedIn Section-->
+
 </details>
 <!-- End Find More On Social Media Section -->
 
@@ -1291,7 +1296,7 @@ Preferred Organization Types : Software Company </p>
 </p>
 <br>
 <!-- Copyright --> 
-&copy; ᴍᴀᴅᴇ ʙʏ <a href="https://montasim.github.io/" target="_blank"> ᴇɴɢɪɴᴇᴇʀ Ｍｏｎｔａｓｉｍ</a>
+<a href="https://montasim.github.io/" target="_blank"> <img src="https://readme-typing-svg.herokuapp.com?color=F7496E&size=15&center=true&vCenter=true&lines=%C2%A9+%E1%B4%8D%E1%B4%80%E1%B4%85%E1%B4%87+%CA%99%CA%8F+%E1%B4%87%C9%B4%C9%A2%C9%AA%C9%B4%E1%B4%87%E1%B4%87%CA%80+%EF%BC%AD%EF%BD%8F%EF%BD%8E%EF%BD%94%EF%BD%81%EF%BD%93%EF%BD%89%EF%BD%8D"></a>
 </div>
 <!--End Footer-->
 
