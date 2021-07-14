@@ -1230,10 +1230,9 @@ Preferred Organization Types : Software Company </p>
 </details>
 <!-- End Special Thanks To Section --> 
 
-<br><br>
-
 <details>
   <summary> 📛 ꜰɪɴᴅ ᴍᴏʀᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </summary>
+  <br>
 
 <details>
   <summary> 📺 ʟᴀᴛᴇꜱᴛ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏꜱ </summary>
@@ -1260,6 +1259,7 @@ Preferred Organization Types : Software Company </p>
 <!--END_SECTION:activity-->
 
 </details>
+<br><br>
 </details>
 
 
