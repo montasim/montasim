@@ -537,7 +537,7 @@ Preferred Organization Types : Software Company </p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ♦ 𝚃𝚘 𝚕𝚎𝚊𝚛𝚗 𝚖𝚘𝚛𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎, 𝚔𝚎𝚎𝚙 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚖𝚢 𝚜𝚒𝚝𝚎.
 <!-- End Some Words About Me -->
 
-<br><br><br>
+<br><br><br><br>
 
 <!-- coder gif -->
 <img align="right" alt="handshake gif" src="media/gif/coder.gif"  height="250" width="375">
