@@ -558,7 +558,7 @@ Preferred Organization Types : Software Company </p>
 &nbsp;&nbsp;&nbsp;&nbsp; ♦ ᴄʜᴇᴄᴋᴏᴜᴛ ᴍʏ [🆁🅴🆂🆄🅼🅴](https://github.com/montasim/resume/blob/main/Resume_of_Montasim%20.pdf).
 <!-- End Talking About Personal Stuffs -->
 	
-<br><br><br><br>
+<br><br><br><br><br>
 
 <!-- coder gif -->
 <img align="left" alt="handshake gif" src="media/gif/sleeping-code.gif" height="250" width="375">
