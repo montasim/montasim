@@ -528,8 +528,6 @@ Preferred Organization Types : Software Company </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ♦ Ａ 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝙵𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝙱𝚊𝚗𝚐𝚕𝚊𝚍𝚎𝚜𝚑.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ♦ P𝚞𝚛𝚜𝚞𝚎𝚍 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝚒𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐
-<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ♦ A 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚕𝚎𝚊𝚛𝚗𝚎𝚛 𝚠𝚑𝚘'𝚜 𝚊𝚕𝚠𝚊𝚢𝚜 𝚠𝚒𝚕𝚕𝚒𝚗𝚐 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ♦ W𝚘𝚛𝚔 𝚊𝚌𝚛𝚘𝚜𝚜 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚗𝚍 𝚍𝚘𝚖𝚊𝚒𝚗𝚜.
