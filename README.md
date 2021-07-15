@@ -633,46 +633,46 @@ Preferred Organization Types : Software Company </p>
     <tbody>
         <tr>
             <td align="left"><b>Programming Languages</b></td>
-            <td align="left">Python</td>
-            <td align="left">C, C++, PHP</td>
-            <td align="left">Java, JavaScript</td>
+            <td align="center"><img alt="python" src="media/icons/python.png" width="40px"></td>
+            <td align="center"><img alt="c" src="media/icons/c.png" width="40px"> <img alt="c++" src="media/icons/c++.png" width="40px"> <img alt="php" src="media/icons/php.png" width="40px"></td>
+            <td align="center"><img alt="java" src="media/icons/java.png" width="40px"> <img alt="javascript" src="media/icons/javascript.png" width="40px"></td>
         </tr>
     </tbody>
     <tbody>
         <tr>
             <td align="left"><b>Web Technologies</b></td>
-            <td align="left">HTML, CSS</td>
-            <td align="left">Markdown</td>
-            <td align="left">XML</td>
+            <td align="center"> <img alt="html" src="media/icons/html-5.png" width="40px"> <img alt="css" src="media/icons/css3.png" width="40px"> </td>
+            <td align="center"> <img alt="markdown" src="media/icons/markdown.png" width="40px"> </td>
+            <td align="center"> <img alt="xml" src="media/icons/xml.png" width="40px"> </td>
         </tr>
     </tbody>
     <tbody>
         <tr>
             <td align="left"><b>Web Frameworks</b></td>
-            <td align="left">Bootstrap, Django</td>
-            <td align="left">Flask</td>
-            <td align="left">TailWind CSS</td>
+            <td align="center"> <img alt="bootstrap" src="media/icons/bootstrap.png" width="40px"> <img alt="django" src="media/icons/django.png" width="40px"> </td>
+            <td align="center"> <img alt="flask" src="media/icons/flask.png" width="40px"> </td>
+            <td align="center"> <img alt="tailwind css" src="media/icons/tailwindcss.svg" width="40px"> </td>
         </tr>
     </tbody>
     <tbody>
         <tr>
             <td align="left"><b>Web Creation Platforms</b></td>
-            <td align="left">WordPress, Blogger</td>
-            <td align="left">Wix</td>
-            <td align="left"></td>
+            <td align="center"> <img alt="wordpress" src="media/icons/wordpress.png" width="40px"> <img alt="blogger" src="media/icons/blogger.png" width="40px"> </td>
+            <td align="center"> <img alt="wix" src="media/icons/wix.png" width="40px"> </td>
+            <td align="center"></td>
         </tr>
     </tbody><tbody>
         <tr>
             <td align="left"><b>Database</b></td>
-            <td align="left">MySQL</td>
-            <td align="left">SqlLite</td>
-            <td align="left"></td>
+            <td align="center"> <img alt="mysql" src="media/icons/mysql.png" width="40px"> </td>
+            <td align="center"> <img alt="sqllite" src="media/icons/sqllite.jpg" width="40px"> </td>
+            <td align="center"></td>
         </tr>
     </tbody>
     <tbody>
         <tr>
             <td align="left"><b>Version Control</b></td>
-            <td align="left">Git, Github</td>
+            <td align="center"> <img alt="git" src="media/icons/git.png" width="40px"> <img alt="github" src="media/icons/github.png" width="40px"></td>
             <td align="left"></td>
             <td align="left"></td>
         </tr>
@@ -680,9 +680,9 @@ Preferred Organization Types : Software Company </p>
     <tbody>
         <tr>
             <td align="left"><b>Operating System</b></td>
-            <td align="left">Windows, Ubuntu</td>
-            <td align="left">Fedora, RedHat, Debian</td>
-            <td align="left">Linux Mint, Kali Linux</td>
+            <td align="center"> <img alt="windows" src="media/icons/windows.png" width="40px"> <img alt="ubuntu" src="media/icons/ubuntu.png" width="40px"> </td>
+            <td align="center"> <img alt="fedora" src="media/icons/fedora.png" width="40px"> <img alt="redhat" src="media/icons/redhat.png" width="40px"> <img alt="debian" src="media/icons/debian.jpg" width="40px"></td>
+            <td align="center"> <img alt="linux mint" src="media/icons/linuxmint.jpg" width="40px"> <img alt="kali" src="media/icons/kali.png" width="40px"> </td>
         </tr>
     </tbody>
     <tbody>
