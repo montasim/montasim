@@ -70,6 +70,10 @@ Wish you a good-looking profile README!
 
 <br><br>
 
+<p align="right">
+  <img src="https://weather-icon.journeyad.repl.co/@rangpur?v=1" align="right" width="100px">
+</p>
+
 <h2 align="left"> 👋 ʜɪ, ɪ'ᴍ ᴍᴏɴᴛᴀꜱɪᴍ </h2>
 <p align="left"> 𝙵𝚛𝚘𝚖 𝚊 𝚢𝚘𝚞𝚗𝚐 𝚊𝚐𝚎, 𝙸’𝚟𝚎 𝚊𝚕𝚠𝚊𝚢𝚜 𝚑𝚊𝚍 𝚊 𝚜𝚎𝚗𝚜𝚎 𝚘𝚏 𝚖𝚘𝚝𝚒𝚟𝚊𝚝𝚒𝚘𝚗 𝚊𝚗𝚍 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚍𝚛𝚒𝚟𝚒𝚗𝚐 𝚖𝚎 𝚏𝚘𝚛𝚠𝚊𝚛𝚍. 𝚆𝚑𝚎𝚝𝚑𝚎𝚛 𝚒𝚝’𝚜 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚞𝚗𝚒𝚚𝚞𝚎 𝚘𝚙𝚙𝚘𝚛𝚝𝚞𝚗𝚒𝚝𝚒𝚎𝚜, 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕 𝚜𝚔𝚒𝚕𝚕𝚜, 𝚘𝚛 𝚖𝚎𝚎𝚝𝚒𝚗𝚐 𝚗𝚎𝚠 𝚙𝚎𝚘𝚙𝚕𝚎, 𝙸 𝚋𝚛𝚒𝚗𝚐 𝚝𝚑𝚎𝚜𝚎 𝚟𝚊𝚕𝚞𝚎𝚜 𝚝𝚘 𝚎𝚟𝚎𝚛𝚢 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚝𝚑𝚛𝚘𝚞𝚐𝚑𝚘𝚞𝚝 𝚖𝚢 𝚕𝚒𝚏𝚎 𝚘𝚗 𝚊 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚊𝚗𝚍 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕 𝚕𝚎𝚟𝚎𝚕. 𝙸 𝚕𝚘𝚟𝚎 𝚌𝚘𝚗𝚗𝚎𝚌𝚝𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚍𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚝 𝚙𝚎𝚘𝚙𝚕𝚎 𝚊𝚛𝚘𝚞𝚗𝚍 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍. 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚊𝚗𝚍 𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚎 𝚢𝚘𝚞𝚛𝚜𝚎𝚕𝚏. 𝚃𝚘 𝚕𝚎𝚊𝚛𝚗 𝚖𝚘𝚛𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎, 𝚔𝚎𝚎𝚙 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚖𝚢 𝚜𝚒𝚝𝚎 𝚘𝚛 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚍𝚒𝚛𝚎𝚌𝚝𝚕𝚢.</p>
 
@@ -483,6 +487,37 @@ Preferred Organization Types : Software Company </p>
 
 </details>
 <!-- End My Experience Section -->  
+
+<!-- Start 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section --> 
+<!-- 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 -->
+<h2 align="right"> 🔺 ꜰɪɴᴅ ᴍᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </h2>
+
+<br>
+
+<!-- handshake gif -->
+<img align="left" alt="handshake" src="media/images/handshake.png" width="190px">
+
+<br><br>
+
+<!-- Start Social Links -->
+<table align="right">
+    <thead>
+        <tr>
+            <th align="center"><a href="https://www.linkedin.com/in/montasim"><img align="center" alt="LinkedIn" width="35px" src="media/icons/linkedin.png"/></a></th>
+	    <th align="center"><a href="https://www.github.com/montasim"><img align="center" alt="Github - montasim" width="35px"   src="media/icons/github.png"/></a></th>
+            <th align="center"><a href="https://stackoverflow.com/users/10429621/coderaid"><img align="center" alt="Stackoverflow - coderaid" width="35px" src="media/icons/stack-overflow.png"/></a></th>
+            <th align="center"><a href="https://montasim.github.io"><img align="center" alt="Website - montasim.github.io" width="35px" src="media/icons/website.png"/></a></th>
+            <th align="center"><a href="mailto:montasimmamun@gmail.com"><img align="center" alt="Gmail - montasimmamun@gmail.com" width="35px" src="media/icons/gmail.png"/></a></th>
+            <th align="center"><a href="https://twitter.com/montasimmamun"><img align="center" alt="Twitter - montasim" width="35px" src="media/icons/twitter.png"/></a></th>
+            <th align="center"><a href="https://www.instagram.com/mr.montasim"><img align="center" alt="Instagram - mr.montasim" width="35px" src="media/icons/instagram.png"/></a></th>
+            <th align="center"><a href="https://www.youtube.com/channel/UCkkBnedfjKU-toiKQ-rxvtA"><img align="center" alt="YouTube -Rohan Das" width="35px" src="media/icons/youtube.png"/></a></th>
+        </tr>
+    </thead>
+</table>
+<!-- End Social Links -->
+ 
+<br><br><br><br>
+<!-- End 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section -->
 
 <br><br>
 
