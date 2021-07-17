@@ -523,6 +523,8 @@ Preferred Organization Types : Software Company </p>
 
 <img align="left" height="250" width="375" alt="" src="media/gif/code4.gif" />
 
+<br>
+
 <!-- Start Some Words About Me -->
 <h2> ✍ ꜱᴏᴍᴇ ᴡᴏʀᴅ ᴀʙᴏᴜᴛ ᴍᴇ </h2>
 
@@ -541,6 +543,8 @@ Preferred Organization Types : Software Company </p>
 
 <!-- coder gif -->
 <img align="right" alt="handshake gif" src="media/gif/coder.gif"  height="250" width="375">
+
+<br>
 
 <!-- Start Talking About Personal Stuffs -->
 <h2 align="left">💥 ᴛᴀʟᴋɪɴɢ ᴀʙᴏᴜᴛ ᴘᴇʀꜱᴏɴᴀʟ ꜱᴛᴀꜰꜰ </h2>
@@ -562,6 +566,8 @@ Preferred Organization Types : Software Company </p>
 
 <!-- coder gif -->
 <img align="left" alt="handshake gif" src="media/gif/installing-program.gif" height="250" width="375">
+
+<br>
 
 <!-- Start Talking About Personal Stuffs -->
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💮 ᴍʏ ᴀʙꜱᴏʟᴜᴛᴇ ꜰᴀᴠᴏᴜʀɪᴛᴇ </h2>
