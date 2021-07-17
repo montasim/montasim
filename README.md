@@ -561,7 +561,7 @@ Preferred Organization Types : Software Company </p>
 <br><br><br><br><br>
 
 <!-- coder gif -->
-<img align="left" alt="handshake gif" src="media/gif/sleeping-code.gif" height="250" width="375">
+<img align="left" alt="handshake gif" src="media/gif/installing-program.gif" height="250" width="375">
 
 <!-- Start Talking About Personal Stuffs -->
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💮 ᴍʏ ᴀʙꜱᴏʟᴜᴛᴇ ꜰᴀᴠᴏᴜʀɪᴛᴇ </h2>
