@@ -590,8 +590,6 @@ Preferred Organization Types : Software Company </p>
             <th align="center"><a href="https://stackoverflow.com/users/10429621/coderaid"><img align="center" alt="Stackoverflow - coderaid" width="35px" src="media/icons/stack-overflow.png"/></a></th>
             <th align="center"><a href="https://montasim.github.io"><img align="center" alt="Website - montasim.github.io" width="35px" src="media/icons/website.png"/></a></th>
             <th align="center"><a href="mailto:montasimmamun@gmail.com"><img align="center" alt="Gmail - montasimmamun@gmail.com" width="35px" src="media/icons/gmail.png"/></a></th>
-            <th align="center"><a href="https://twitter.com/montasimmamun"><img align="center" alt="Twitter - montasim" width="35px" src="media/icons/twitter.png"/></a></th>
-            <th align="center"><a href="https://www.instagram.com/mr.montasim"><img align="center" alt="Instagram - mr.montasim" width="35px" src="media/icons/instagram.png"/></a></th>
             <th align="center"><a href="https://www.youtube.com/channel/UCkkBnedfjKU-toiKQ-rxvtA"><img align="center" alt="YouTube -Rohan Das" width="35px" src="media/icons/youtube.png"/></a></th>
         </tr>
     </thead>
