@@ -34,10 +34,7 @@ Wish you a good-looking profile README!
 <!-- Start Some Hints Icons About Montasim -->
 <p align="center">
     <img align="center" alt="Status" src="https://img.shields.io/badge/Status-up-brightgreen" />
-    <img align="center" alt="Gender" src="https://img.shields.io/badge/Gender-%F0%9F%A4%B5-lightgrey" />
-    <img align="center" alt="Height" src="https://img.shields.io/badge/Heigt-5%20feet%206%20inches-lightblue" />
     <img align="center" alt="Code Quality" src="https://img.shields.io/github/last-commit/montasim/montasim" />
-    <img align="center" alt="vulnerabilities" src="https://img.shields.io/badge/Vulnerabilities-high-critical" />
     <img align="center" alt="Code Quality" src="https://img.shields.io/badge/Code%20Quality-Good-lightblue" />
     <img align="center" alt="visitor" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasimmamun" />
     <img align="center" alt="Thanks" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" />
@@ -46,25 +43,12 @@ Wish you a good-looking profile README!
 
 <!-- Start Programming Languages Icon -->
 <p align="center">
-  <img alt="c" src="media/icons/c.png" width="35px">
-  <img alt="c++" src="media/icons/c++.png" width="35px">
-  <img alt="java" src="media/icons/java.png" width="35px">  
+  <img alt="c++" src="media/icons/c++.png" width="35px"> 
   <img alt="python" src="media/icons/python.png" width="35px">  
-  <img alt="php" src="media/icons/php.png" width="35px">  
-  <img alt="html5" src="media/icons/html-5.png" width="35px">   
-  <img alt="css3" src="media/icons/css3.png" width="35px">    
+  <img alt="php" src="media/icons/php.png" width="35px">     
   <img alt="bootstrap" src="media/icons/bootstrap.png" width="35px">
-  <img alt="flask" src="media/icons/flask.png" width="35px">
   <img alt="django" src="media/icons/django.png" width="35px">
-  <img alt="wordpress" src="media/icons/wordpress.png" width="35px"> 
-  <img alt="markdown" src="media/icons/markdown.png" width="35px"> 
-  <img alt="git" src="media/icons/git.png" width="35px">
-  <img alt="github" src="media/icons/github.png" width="35px">
-  <img alt="intellij idea" src="media/icons/intellij-idea.png" width="35px">
-  <img alt="pycharm" src="media/icons/pycharm.png" width="35px">
-  <img alt="visual studio code" src="media/icons/visual-studio-code.png" width="35px"> 
-  <img alt="blender" src="media/icons/blender.png" width="35px">
-  <img alt="adobe photoshop" src="media/icons/adobe-photoshop.png" width="35px"> 
+  <img alt="wordpress" src="media/icons/wordpress.png" width="35px">
 </p>
 <!-- End Programming Languages Icon -->
 
