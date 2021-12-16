@@ -33,7 +33,6 @@ Wish you a good-looking profile README!
 
 <!-- Start Some Hints Icons About Montasim -->
 <p align="center">
-    <img align="center" alt="Status" src="https://img.shields.io/badge/Status-up-brightgreen" />
     <img align="center" alt="Code Quality" src="https://img.shields.io/github/last-commit/montasim/montasim" />
     <img align="center" alt="Code Quality" src="https://img.shields.io/badge/Code%20Quality-Good-lightblue" />
     <img align="center" alt="visitor" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasimmamun" />
@@ -43,7 +42,8 @@ Wish you a good-looking profile README!
 
 <!-- Start Programming Languages Icon -->
 <p align="center">
-  <img alt="c++" src="media/icons/c++.png" width="35px"> 
+  <img alt="c++" src="media/icons/c++.png" width="35px">
+  <img alt="c++" src="media/icons/javascript.png" width="35px">
   <img alt="python" src="media/icons/python.png" width="35px">  
   <img alt="php" src="media/icons/php.png" width="35px">     
   <img alt="bootstrap" src="media/icons/bootstrap.png" width="35px">
