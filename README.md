@@ -1339,10 +1339,18 @@ Preferred Organization Types : Software Company </p>
 </div>
 <!--End Footer-->
 
-# StackOverflow Activity
+<!-- Start Find More On Social Media Section -->
+<details>
+    <summary> 📛 ꜰɪɴᴅ ᴍᴏʀᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </summary><br>
+    # StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
+
+    <br>
+
+</details>
+<!-- End Find More On Social Media Section -->
 
 <!--Start Links-->
 
