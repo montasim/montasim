@@ -1277,33 +1277,27 @@ Preferred Organization Types : Software Company </p>
 <br><br>
 
 <table>
-<tr>
-<td>
-
-<h3 align="center"> My latest posts </h3>
-<p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for his GitHub readme Stats
-    <br>
-    <a href="https://lottiefiles.com/">lottiefiles</a> for beautiful animatated gif collection
-    <br>
-    <a href="https://www.remove.bg/">remove.bg</a> for background removal
-    <br>
-    <a href="https://lingojam.com/FancyLetters">lingojam.com</a> for beautiful fonts
-    <br>
-    <a href="https://gifer.com/en/">lingojam.com</a> for transparent gif
-</p>
-
-</td>
-<td width="40%" valign="top">
-
-<h3 align="center"> Miscellaneous </h3>
-
-<!-- https://github.com/lifeparticle/Gist-Count -->
-
-[![Github gists](https://gist-count.vercel.app/api?username=montasim)](https://gist.github.com/montasim)
-
-</td>
-</tr>
+    <tr>
+        <td>
+            <h3 align="center"> My latest posts </h3>
+            <p align="left">
+                <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for his GitHub readme Stats
+                <br>
+                <a href="https://lottiefiles.com/">lottiefiles</a> for beautiful animatated gif collection
+                <br>
+                <a href="https://www.remove.bg/">remove.bg</a> for background removal
+                <br>
+                <a href="https://lingojam.com/FancyLetters">lingojam.com</a> for beautiful fonts
+                <br>
+                <a href="https://gifer.com/en/">lingojam.com</a> for transparent gif
+            </p>
+        </td>
+        <td width="40%" valign="top">
+            <h3 align="center"> Miscellaneous </h3>
+            <!-- https://github.com/lifeparticle/Gist-Count -->
+            [![Github gists](https://gist-count.vercel.app/api?username=montasim)](https://gist.github.com/montasim)
+        </td>
+    </tr>
 </table>
 
 </details>
@@ -1311,18 +1305,12 @@ Preferred Organization Types : Software Company </p>
 
 <!-- Start Find More On Social Media Section -->
 <details>
-  <summary> 📛 ꜰɪɴᴅ ᴍᴏʀᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </summary>
-  <br>
-
-<!-- Start Twitter Section -->
-
-<b> ⌛ Twitter </b>
-
-<img src="https://github-readme-twitter.gazf.vercel.app/api?id=montasimmamun&layout=wide">
-<!-- End Twitter Section -->
-
-<br>
-
+    <summary> 📛 ꜰɪɴᴅ ᴍᴏʀᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </summary><br>
+    <!-- Start Twitter Section -->
+    <b> ⌛ Twitter </b>
+    <img src="https://github-readme-twitter.gazf.vercel.app/api?id=montasimmamun&layout=wide">
+    <!-- End Twitter Section -->
+    <br>
 </details>
 <!-- End Find More On Social Media Section -->
 
@@ -1330,13 +1318,15 @@ Preferred Organization Types : Software Company </p>
 
 <!--Start Footer-->
 <div align="center" class="footer">
-<!-- Wave svg --> 
-<p align="center">
-  <img alt="Wave svg" src="media/images/wave.svg">
-</p>
-<br>
-<!-- Copyright --> 
-<a href="https://montasim.github.io/" target="_blank"> <img src="https://readme-typing-svg.herokuapp.com?color=F7496E&size=15&center=true&vCenter=true&lines=%C2%A9+%E1%B4%8D%E1%B4%80%E1%B4%85%E1%B4%87+%CA%99%CA%8F+%E1%B4%87%C9%B4%C9%A2%C9%AA%C9%B4%E1%B4%87%E1%B4%87%CA%80+%EF%BC%AD%EF%BD%8F%EF%BD%8E%EF%BD%94%EF%BD%81%EF%BD%93%EF%BD%89%EF%BD%8D"></a>
+    <!-- Wave svg --> 
+    <p align="center">
+        <img alt="Wave svg" src="media/images/wave.svg">
+    </p>
+    <br>
+    <!-- Copyright --> 
+    <a href="https://montasim.github.io/" target="_blank"> 
+        <img src="https://readme-typing-svg.herokuapp.com?color=F7496E&size=15&center=true&vCenter=true&lines=%C2%A9+%E1%B4%8D%E1%B4%80%E1%B4%85%E1%B4%87+%CA%99%CA%8F+%E1%B4%87%C9%B4%C9%A2%C9%AA%C9%B4%E1%B4%87%E1%B4%87%CA%80+%EF%BC%AD%EF%BD%8F%EF%BD%8E%EF%BD%94%EF%BD%81%EF%BD%93%EF%BD%89%EF%BD%8D">
+    </a>
 </div>
 <!--End Footer-->
 
