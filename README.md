@@ -672,7 +672,7 @@ Preferred Organization Types : Software Company </p>
 
 <!-- Start 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section -->
 <!-- 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 -->
-<h2 align="right"> 🔺 ꜰɪɴᴅ ᴍᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </h2>
+<h2 align="right"> &#x1F53B; ꜰɪɴᴅ ᴍᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </h2>
 
 <br>
 
@@ -730,15 +730,15 @@ Preferred Organization Types : Software Company </p>
 <!-- Start Some Words About Me -->
 <h2> ✍ ꜱᴏᴍᴇ ᴡᴏʀᴅ ᴀʙᴏᴜᴛ ᴍᴇ </h2>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ♦ Ａ 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝙵𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝙱𝚊𝚗𝚐𝚕𝚊𝚍𝚎𝚜𝚑.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; Ａ 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝙵𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝙱𝚊𝚗𝚐𝚕𝚊𝚍𝚎𝚜𝚑.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ♦ A 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚕𝚎𝚊𝚛𝚗𝚎𝚛 𝚠𝚑𝚘'𝚜 𝚊𝚕𝚠𝚊𝚢𝚜 𝚠𝚒𝚕𝚕𝚒𝚗𝚐 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; A 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚕𝚎𝚊𝚛𝚗𝚎𝚛 𝚠𝚑𝚘'𝚜 𝚊𝚕𝚠𝚊𝚢𝚜 𝚠𝚒𝚕𝚕𝚒𝚗𝚐 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ♦ W𝚘𝚛𝚔 𝚊𝚌𝚛𝚘𝚜𝚜 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚗𝚍 𝚍𝚘𝚖𝚊𝚒𝚗𝚜.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; W𝚘𝚛𝚔 𝚊𝚌𝚛𝚘𝚜𝚜 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚗𝚍 𝚍𝚘𝚖𝚊𝚒𝚗𝚜.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ♦ L𝚘𝚟𝚎 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; L𝚘𝚟𝚎 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ♦ 𝚃𝚘 𝚕𝚎𝚊𝚛𝚗 𝚖𝚘𝚛𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎, 𝚔𝚎𝚎𝚙 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚖𝚢 𝚜𝚒𝚝𝚎.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; 𝚃𝚘 𝚕𝚎𝚊𝚛𝚗 𝚖𝚘𝚛𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎, 𝚔𝚎𝚎𝚙 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚖𝚢 𝚜𝚒𝚝𝚎.
 
 <!-- End Some Words About Me -->
 
@@ -750,17 +750,17 @@ Preferred Organization Types : Software Company </p>
 <!-- Start Talking About Personal Stuffs -->
 <h2 align="left">💥 ᴛᴀʟᴋɪɴɢ ᴀʙᴏᴜᴛ ᴘᴇʀꜱᴏɴᴀʟ ꜱᴛᴀꜰꜰ </h2>
 
-&nbsp;&nbsp;&nbsp;&nbsp; ♦ ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.
+&nbsp;&nbsp;&nbsp;&nbsp; &#x1F539; ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; ♦ ᴍᴏꜱᴛ ᴏꜰ ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ [🅶🅸🆃🅷🆄🅱](https://github.com/montasim).
+&nbsp;&nbsp;&nbsp;&nbsp; &#x1F539; ᴍᴏꜱᴛ ᴏꜰ ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ [🅶🅸🆃🅷🆄🅱](https://github.com/montasim).
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; ♦ ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴀɴʏᴛʜɪɴɢ [ʜᴇʀᴇ](ʜᴛᴛᴘꜱ:ᴍᴀɪʟᴛᴏ:ᴍᴏɴᴛᴀꜱɪᴍᴍᴀᴍᴜɴ@ɢᴍᴀɪʟ.ᴄᴏᴍ)! ɪ ᴀᴍ ʜᴀᴘᴘʏ ᴛᴏ ʜᴇʟᴘ.
+&nbsp;&nbsp;&nbsp;&nbsp; &#x1F539; ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴀɴʏᴛʜɪɴɢ [ʜᴇʀᴇ](ʜᴛᴛᴘꜱ:ᴍᴀɪʟᴛᴏ:ᴍᴏɴᴛᴀꜱɪᴍᴍᴀᴍᴜɴ@ɢᴍᴀɪʟ.ᴄᴏᴍ)! ɪ ᴀᴍ ʜᴀᴘᴘʏ ᴛᴏ ʜᴇʟᴘ.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; ♦ ꜰᴜɴ ꜰᴀᴄᴛ: ᴇQᴜᴀʟ ɪꜱ ɴᴏᴛ ᴀʟᴡᴀʏꜱ ᴇQᴜᴀʟ ɪɴ ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ.
+&nbsp;&nbsp;&nbsp;&nbsp; &#x1F539; ꜰᴜɴ ꜰᴀᴄᴛ: ᴇQᴜᴀʟ ɪꜱ ɴᴏᴛ ᴀʟᴡᴀʏꜱ ᴇQᴜᴀʟ ɪɴ ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; ♦ ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: [🅶🅼🅰🅸🅻.](mailto:montasimmamun@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp; &#x1F539; ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: [🅶🅼🅰🅸🅻.](mailto:montasimmamun@gmail.com)
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; ♦ ᴄʜᴇᴄᴋᴏᴜᴛ ᴍʏ [🆁🅴🆂🆄🅼🅴](https://github.com/montasim/resume/blob/main/Resume_of_Montasim%20.pdf).
+&nbsp;&nbsp;&nbsp;&nbsp; &#x1F539; ᴄʜᴇᴄᴋᴏᴜᴛ ᴍʏ [🆁🅴🆂🆄🅼🅴](https://github.com/montasim/resume/blob/main/Resume_of_Montasim%20.pdf).
 
 <!-- End Talking About Personal Stuffs -->
 
@@ -772,11 +772,11 @@ Preferred Organization Types : Software Company </p>
 <!-- Start Talking About Personal Stuffs -->
 <h2> 💮 ᴍʏ ᴀʙꜱᴏʟᴜᴛᴇ ꜰᴀᴠᴏᴜʀɪᴛᴇ </h2>
 
-&nbsp;&nbsp;&nbsp;&nbsp; ♦ ɪ ʟᴏᴠᴇ ᴇxᴘʟᴏʀɪɴɢ ɴᴇᴡ ᴛᴇᴄʜ ᴀɴᴅ ʙᴜɪʟᴅɪɴɢ ᴄᴏᴏʟ ꜱᴛᴜꜰꜰꜱ.
+&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ɪ ʟᴏᴠᴇ ᴇxᴘʟᴏʀɪɴɢ ɴᴇᴡ ᴛᴇᴄʜ ᴀɴᴅ ʙᴜɪʟᴅɪɴɢ ᴄᴏᴏʟ ꜱᴛᴜꜰꜰꜱ.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; ♦ ʀᴇᴀᴅɪɴɢ & ᴡʀɪᴛɪɴɢ ᴛᴇᴄʜ ʙʟᴏɢꜱ ᴡʜᴇɴᴇᴠᴇʀ ᴘᴏꜱꜱɪʙʟᴇ.
+&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ʀᴇᴀᴅɪɴɢ & ᴡʀɪᴛɪɴɢ ᴛᴇᴄʜ ʙʟᴏɢꜱ ᴡʜᴇɴᴇᴠᴇʀ ᴘᴏꜱꜱɪʙʟᴇ.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; ♦ ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠɪɴɢ, ᴍᴇᴇᴛᴜᴘꜱ & ᴛᴇᴄʜ ᴇᴠᴇɴᴛꜱ.
+&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠɪɴɢ, ᴍᴇᴇᴛᴜᴘꜱ & ᴛᴇᴄʜ ᴇᴠᴇɴᴛꜱ.
 <br>
 
 <!-- End Talking About Personal Stuffs -->
@@ -797,7 +797,7 @@ Preferred Organization Types : Software Company </p>
 <!-- Start My Projects Section -->
 <details>
 <summary>
-    <b> 💛 ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ </b>
+    <b> &#x1F49B; ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ </b>
 </summary>
 	
 <br><br>
@@ -1338,19 +1338,6 @@ Preferred Organization Types : Software Company </p>
     </a>
 </div>
 <!--End Footer-->
-
-<!-- Start Find More On Social Media Section -->
-<details>
-    <summary> 📛 ꜰɪɴᴅ ᴍᴏʀᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </summary><br>
-    # StackOverflow Activity
-
-<!-- STACKOVERFLOW:START -->
-<!-- STACKOVERFLOW:END -->
-
-<br>
-
-</details>
-<!-- End Find More On Social Media Section -->
 
 <!--Start Links-->
 
