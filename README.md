@@ -1347,7 +1347,7 @@ Preferred Organization Types : Software Company </p>
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
-    <br>
+<br>
 
 </details>
 <!-- End Find More On Social Media Section -->
