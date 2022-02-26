@@ -577,7 +577,7 @@ Preferred Organization Types : Software Company </p>
 <br>
 
 <!-- handshake gif -->
-<img align="left" alt="handshake" src="media/images/handshake.png" width="190px">
+<img align="left" alt="handshake" src="media/gif/handshake.gif" width="190px">
 
 <br><br>
 
