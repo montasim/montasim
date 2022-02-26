@@ -787,10 +787,10 @@ Preferred Organization Types : Software Company </p>
 <h2 align="left"> 💠 ꜱᴏᴍᴇ ʀᴀɴᴅᴏᴍ ᴊᴏᴋᴇꜱ </h2>
 <br>
 <!-- Start Montasim's github readme stats -->
-<p align=center>
+<div align=center>
       <img src="https://readme-jokes.vercel.app/api/?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" />
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
-</p>
+</div>
 
 <br><br>
 
@@ -802,7 +802,7 @@ Preferred Organization Types : Software Company </p>
 	
 <br><br>
 
-<p align="center">
+<div align="center">
     <a href="https://github.com/montasim/montasim.github.io">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=montasim.github.io&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
     </a>
@@ -821,7 +821,7 @@ Preferred Organization Types : Software Company </p>
     <a href="https://github.com/montasim/Noob-Track-Blog">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=Noob-Track-Blog&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
     </a>
-</p>
+</div>
 
 <br><br>
 
@@ -970,12 +970,12 @@ Preferred Organization Types : Software Company </p>
 
 <h2 align="left"> 📣 What I do </h2>
 
-<p>
+<div>
 	I do Open Source. In fact, I do Open Source so much, that majority of my work on
 	GitHub is free and open to everyone. I am really passionate about doing web
 	development. It is in my opinion the best combination of logical programming and
 	(sometimes) beautiful design.
-</p>
+</div>
 
 <br>
 <br>
@@ -1256,22 +1256,22 @@ Preferred Organization Types : Software Company </p>
 <br>
 
 <!-- Github Trophies -->
-<p align="center">
+<div align="center">
   <img alt="Github Trophies" src = "https://github-profile-trophy.vercel.app/?username=montasim&theme=onedark">
-</p>
+</div>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
+<div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="montasim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
+</div>
 
 <!-- Github Metrics -->
-<p align="center">
+<div align="center">
   <img alt="Github Metrics" src = "https://metrics.lecoq.io/montasim">
-</p>
+</div>
 <br>
 
 </details>
@@ -1289,7 +1289,7 @@ Preferred Organization Types : Software Company </p>
     <tr>
         <td>
             <h3 align="center"> My latest posts </h3>
-            <p align="left">
+            <div align="left">
                 <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for his GitHub readme Stats
                 <br>
                 <a href="https://lottiefiles.com/">lottiefiles</a> for beautiful animatated gif collection
@@ -1299,7 +1299,7 @@ Preferred Organization Types : Software Company </p>
                 <a href="https://lingojam.com/FancyLetters">lingojam.com</a> for beautiful fonts
                 <br>
                 <a href="https://gifer.com/en/">lingojam.com</a> for transparent gif
-            </p>
+            </div>
         </td>
         <td width="40%" valign="top">
             <h3 align="center"> Miscellaneous </h3>
@@ -1328,9 +1328,9 @@ Preferred Organization Types : Software Company </p>
 <!--Start Footer-->
 <div align="center" class="footer">
     <!-- Wave svg --> 
-    <p align="center">
+    <div>
         <img alt="Wave svg" src="media/images/wave.svg">
-    </p>
+    </div>
     <br>
     <!-- Copyright --> 
     <a href="https://montasim.github.io/" target="_blank"> 
