@@ -120,24 +120,22 @@ Wish you a good-looking profile README!
 
 <!-- Start Career Objective -->
 <h2 align="left"> Career Objective: </h2>
-<p>
+<div>
    Practical and versatile Software Engineer with significant experience in developing Websites and Web Applications. I 
    can handle multiple tasks daily. I use a creative approach to solve problems. I am a dependable person who is great 
    at time management. I am always energetic and eager to learn new skills. 
-</p>
+</div>
 <!-- End Career Objective -->
 
-<br>
 <br>
 
 <!-- Start Career Objective -->
 <h2 align="left"> Career Summary: </h2>
-<p>
+<div>
    I am a developer who is working on an organization named CODEZ Info Tech. My responsibility here is to design and develop Websites and Web Applications. My goal is to work hard to make my educational and professional skills in a flawless workplace. 
-</p>
+</div>
 <!-- End Career Objective -->
 
-<br>
 <br>
 
 <!-- Start Experience -->
