@@ -59,7 +59,9 @@ Wish you a good-looking profile README!
 </p>
 
 <h2 align="left"> 👋 ʜɪ, ɪ'ᴍ ᴍᴏɴᴛᴀꜱɪᴍ </h2>
-<p align="left"> 𝙵𝚛𝚘𝚖 𝚊 𝚢𝚘𝚞𝚗𝚐 𝚊𝚐𝚎, 𝙸’𝚟𝚎 𝚊𝚕𝚠𝚊𝚢𝚜 𝚑𝚊𝚍 𝚊 𝚜𝚎𝚗𝚜𝚎 𝚘𝚏 𝚖𝚘𝚝𝚒𝚟𝚊𝚝𝚒𝚘𝚗 𝚊𝚗𝚍 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚍𝚛𝚒𝚟𝚒𝚗𝚐 𝚖𝚎 𝚏𝚘𝚛𝚠𝚊𝚛𝚍. 𝚆𝚑𝚎𝚝𝚑𝚎𝚛 𝚒𝚝’𝚜 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚞𝚗𝚒𝚚𝚞𝚎 𝚘𝚙𝚙𝚘𝚛𝚝𝚞𝚗𝚒𝚝𝚒𝚎𝚜, 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕 𝚜𝚔𝚒𝚕𝚕𝚜, 𝚘𝚛 𝚖𝚎𝚎𝚝𝚒𝚗𝚐 𝚗𝚎𝚠 𝚙𝚎𝚘𝚙𝚕𝚎, 𝙸 𝚋𝚛𝚒𝚗𝚐 𝚝𝚑𝚎𝚜𝚎 𝚟𝚊𝚕𝚞𝚎𝚜 𝚝𝚘 𝚎𝚟𝚎𝚛𝚢 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚝𝚑𝚛𝚘𝚞𝚐𝚑𝚘𝚞𝚝 𝚖𝚢 𝚕𝚒𝚏𝚎 𝚘𝚗 𝚊 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚊𝚗𝚍 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕 𝚕𝚎𝚟𝚎𝚕. 𝙸 𝚕𝚘𝚟𝚎 𝚌𝚘𝚗𝚗𝚎𝚌𝚝𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚍𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚝 𝚙𝚎𝚘𝚙𝚕𝚎 𝚊𝚛𝚘𝚞𝚗𝚍 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍. 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚊𝚗𝚍 𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚎 𝚢𝚘𝚞𝚛𝚜𝚎𝚕𝚏. 𝚃𝚘 𝚕𝚎𝚊𝚛𝚗 𝚖𝚘𝚛𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎, 𝚔𝚎𝚎𝚙 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚖𝚢 𝚜𝚒𝚝𝚎 𝚘𝚛 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚍𝚒𝚛𝚎𝚌𝚝𝚕𝚢.</p>
+<p align="left"> 
+    𝙵𝚛𝚘𝚖 𝚊 𝚢𝚘𝚞𝚗𝚐 𝚊𝚐𝚎, 𝙸’𝚟𝚎 𝚊𝚕𝚠𝚊𝚢𝚜 𝚑𝚊𝚍 𝚊 𝚜𝚎𝚗𝚜𝚎 𝚘𝚏 𝚖𝚘𝚝𝚒𝚟𝚊𝚝𝚒𝚘𝚗 𝚊𝚗𝚍 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚍𝚛𝚒𝚟𝚒𝚗𝚐 𝚖𝚎 𝚏𝚘𝚛𝚠𝚊𝚛𝚍. 𝚆𝚑𝚎𝚝𝚑𝚎𝚛 𝚒𝚝’𝚜 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚞𝚗𝚒𝚚𝚞𝚎 𝚘𝚙𝚙𝚘𝚛𝚝𝚞𝚗𝚒𝚝𝚒𝚎𝚜, 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕 𝚜𝚔𝚒𝚕𝚕𝚜, 𝚘𝚛 𝚖𝚎𝚎𝚝𝚒𝚗𝚐 𝚗𝚎𝚠 𝚙𝚎𝚘𝚙𝚕𝚎, 𝙸 𝚋𝚛𝚒𝚗𝚐 𝚝𝚑𝚎𝚜𝚎 𝚟𝚊𝚕𝚞𝚎𝚜 𝚝𝚘 𝚎𝚟𝚎𝚛𝚢 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚝𝚑𝚛𝚘𝚞𝚐𝚑𝚘𝚞𝚝 𝚖𝚢 𝚕𝚒𝚏𝚎 𝚘𝚗 𝚊 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚊𝚗𝚍 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕 𝚕𝚎𝚟𝚎𝚕. 𝙸 𝚕𝚘𝚟𝚎 𝚌𝚘𝚗𝚗𝚎𝚌𝚝𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚍𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚝 𝚙𝚎𝚘𝚙𝚕𝚎 𝚊𝚛𝚘𝚞𝚗𝚍 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍. 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚊𝚗𝚍 𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚎 𝚢𝚘𝚞𝚛𝚜𝚎𝚕𝚏. 𝚃𝚘 𝚕𝚎𝚊𝚛𝚗 𝚖𝚘𝚛𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎, 𝚔𝚎𝚎𝚙 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚖𝚢 𝚜𝚒𝚝𝚎 𝚘𝚛 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚍𝚒𝚛𝚎𝚌𝚝𝚕𝚢.
+</p>
 
 <!-- Start My Resume Section -->
 <!-- Start Details -->
@@ -70,7 +72,11 @@ Wish you a good-looking profile README!
 <br>
 <br>
 
-<h2 align="center"><a href="https://github.com/montasim/DoNotDelete/raw/main/resume/Resume_of_Montasim.pdf"> 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐌𝐲 𝐑𝐞𝐬𝐮𝐦𝐞 </a></h2>
+<h2 align="center">
+    <a href="https://github.com/montasim/DoNotDelete/raw/main/resume/Resume_of_Montasim.pdf"> 
+        𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐌𝐲 𝐑𝐞𝐬𝐮𝐦𝐞 
+    </a>
+</h2>
 
 <br>
 <br>
@@ -80,19 +86,21 @@ Wish you a good-looking profile README!
 <img align="right" alt="Montasim's Photo" src="media/images/montasim.png" width="200px">
 
 <h2 align="left"> Mohammad Montasim -Al- Mamun Shuvo
-<br> <h3> Developer and Designer </h3> </h2>
+    <br>
+    <h3> Developer and Designer </h3> 
+</h2>
 	
 <br>
 
 <!-- Start Links -->
 <p align="left">
-<b> Email: </b> <a href="montasimmamun@gmail.com"> montasimmamun@gmail.com</a>
-<br>
-<b> Portfolio: </b> <a href="https://montasim.github.io"> montasim.github.io </a>
-<br>
-<b> Mobile: </b> <a href="+8801722815469"> +8801722815469 </a>
-<br>
-<b> GitHub: </b> <a href="https://github.com/montasim"> github.com/montasim </a>
+    <b> Email: </b> <a href="montasimmamun@gmail.com"> montasimmamun@gmail.com</a>
+    <br>
+    <b> Portfolio: </b> <a href="https://montasim.github.io"> montasim.github.io </a>
+    <br>
+    <b> Mobile: </b> <a href="+8801722815469"> +8801722815469 </a>
+    <br>
+    <b> GitHub: </b> <a href="https://github.com/montasim"> github.com/montasim </a>
 </p>
 <!-- End Links -->
 
@@ -102,9 +110,9 @@ Wish you a good-looking profile README!
 <!-- Start Career Objective -->
 <h2 align="left"> Career Objective: </h2>
 <p>
-   Practical and versatile Software Engineer with significant experience in developing Websites and Web Applications. I
-can handle multiple tasks daily. I use a creative approach to solve problems. I am a dependable person who is great
-at time management. I am always energetic and eager to learn new skills. 
+   Practical and versatile Software Engineer with significant experience in developing Websites and Web Applications. I 
+   can handle multiple tasks daily. I use a creative approach to solve problems. I am a dependable person who is great 
+   at time management. I am always energetic and eager to learn new skills. 
 </p>
 <!-- End Career Objective -->
 
@@ -114,9 +122,7 @@ at time management. I am always energetic and eager to learn new skills.
 <!-- Start Career Objective -->
 <h2 align="left"> Career Summary: </h2>
 <p>
-   I am a developer who is working on an organization named CODEZ Info Tech. My responsibility here is to design
-and develop Websites and Web Applications. My goal is to work hard to make my educational and professional skills
-in a flawless workplace. 
+   I am a developer who is working on an organization named CODEZ Info Tech. My responsibility here is to design and develop Websites and Web Applications. My goal is to work hard to make my educational and professional skills in a flawless workplace. 
 </p>
 <!-- End Career Objective -->
 
@@ -128,29 +134,43 @@ in a flawless workplace.
 <table align="center">
     <thead>
         <tr>
-            <th align="left"><b></b> Company Name </th>
-	        <th align="left"><b> CODEZ Info Tech </b></th>
-            <th align="left"><b> Crystal It and Soft </b></th>
+            <th align="left">
+                <b> Company Name </b>
+            </th>
+	        <th align="left">
+                <b> CODEZ Info Tech </b>
+            </th>
+            <th align="left">
+                <b> Crystal It and Soft </b>
+            </th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="left"><b> Designation </b></td>
+            <td align="left">
+                <b> Designation </b>
+            </td>
             <td align="left"> Web Developer </td>
             <td align="left"> Web Developer </td>
         </tr>
         <tr>
-            <td align="left"><b> Duration </b></td>
+            <td align="left">
+                <b> Duration </b>
+            </td>
             <td align="left"> December 10, 2020 - Present </td>
             <td align="left"> August 2019 – September 2020 </td>
         </tr>
         <tr>
-            <td align="left"><b> Address </b></td>
+            <td align="left">
+                <b> Address </b>
+            </td>
             <td align="left"> 3/359, Adarsha Nagar, Middle-Badda, Dhaka-1212 </td>
             <td align="left"> Chartola Mor, Rangpur </td>
         </tr>
         <tr>
-            <td align="left"><b> Responsibility </b></td>
+            <td align="left">
+                <b> Responsibility </b>
+            </td>
             <td align="left"> Design and Develop Websites and Web Applications </td>
             <td align="left"> Developed and maintained affiliate marketing website Crystal It and Soft, Rangpur </td>
         </tr>
@@ -176,11 +196,21 @@ in a flawless workplace.
 <table align="center">
     <thead>
         <tr>
-            <th align="left"><b> Exam Title </b></th>
-	        <th align="left"><b> Concentration / Major </b></th>
-            <th align="left"><b> Institute </b></th>
-            <th align="left"><b> Result </b></th>
-            <th align="left"><b> Passing Year </b></th>
+            <th align="left">
+                <b> Exam Title </b>
+            </th>
+	        <th align="left">
+                <b> Concentration / Major </b>
+            </th>
+            <th align="left">
+                <b> Institute </b>
+            </th>
+            <th align="left">
+                <b> Result </b>
+            </th>
+            <th align="left">
+                <b> Passing Year </b>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -212,19 +242,20 @@ in a flawless workplace.
 <br>
 <br>
 
-<!-- Start Undergraduate Thesis and Project --> 
+<!-- Start Undergraduate Thesis and Project -->
 <h2 align="left"> Undergraduate Thesis and Project: </h2>
-<p> <b> Hand Pose Estimation in Single RGB Image with Multiview Bootstrapping. </b>
+<p> 
+    <b> Hand Pose Estimation in Single RGB Image with Multiview Bootstrapping. </b>
 <br> 
 - Deep Learning, OpenCV <br>
 - Convolutional Neural Network (CNN) <br>
 - Python (TensorFlow, Matplotlib, Scikit-Learn, OpenCV, Media pipe) </p>
-<!-- End Undergraduate Thesis and Project --> 
+<!-- End Undergraduate Thesis and Project -->
 
 <br>
 <br>
 
-<!-- Start Career and Application Information --> 
+<!-- Start Career and Application Information -->
 <h2 align="left"> Career and Application Information: </h2>
 <p> Preferred Job Category : Engineer, IT, Telecommunication, Design, Creative 
 <br>
@@ -235,12 +266,12 @@ Available For : Full Time
 Preferred District : Dhaka, Rangpur 
 <br>
 Preferred Organization Types : Software Company </p>
-<!-- End Career and Application Information --> 
+<!-- End Career and Application Information -->
 
 <br>
 <br>
 
-<!-- Start Specialization --> 
+<!-- Start Specialization -->
 <h2 align="left"> Specialization: </h2>
 <table align="center">
     <thead>
@@ -252,35 +283,37 @@ Preferred Organization Types : Software Company </p>
     <tbody>
         <tr>
             <td align="left"> C Programming 
-            <br> C++ Programming 
-            <br> Java Programming 
-            <br> Python Programming 
-            <br> HTML5 & CSS3 
-            <br> Bootstrap, Tailwind CSS 
-            <br> Word Press, Blogger 
-            <br> SQLite 
-            <br> LaTeX 
-            <br> Git, GitHub 
-            <br> Leadership, Time Management 
+                <br> C++ Programming 
+                <br> Java Programming 
+                <br> Python Programming 
+                <br> HTML5 & CSS3 
+                <br> Bootstrap, Tailwind CSS 
+                <br> Word Press, Blogger 
+                <br> SQLite 
+                <br> LaTeX 
+                <br> Git, GitHub 
+                <br> Leadership, Time Management 
             </td>
-            <td align="left"><p> 01. Programming Languages: C, C++, JAVA, Python, PHP, SQL 
-            <br> 02. Web Frameworks: Django, Flask, PyGame, Bootstrap, Tailwind CSS 
-            <br> 03. Web Technologies: PHP, HTML, CSS, XML, Markdown 
-            <br> 04. Content Management System (CMS): Word Press, Blogger 
-            <br> 05. Databases: SQL Server, MySQL, SQLite 
-            <br> 06. Toolkits: LaTeX 
-            <br> 07. Version Control: Git, GitHub 
-            <br> 08. Human Skills: Leadership, Time Management </P> 
+            <td align="left">
+                <p> 
+                  1. Programming Languages: C, C++, JAVA, Python, PHP, SQL 
+                  <br> 02. Web Frameworks: Django, Flask, PyGame, Bootstrap, Tailwind CSS 
+                  <br> 03. Web Technologies: PHP, HTML, CSS, XML, Markdown 
+                  <br> 04. Content Management System (CMS): Word Press, Blogger 
+                  <br> 05. Databases: SQL Server, MySQL, SQLite 
+                  <br> 06. Toolkits: LaTeX 
+                  <br> 07. Version Control: Git, GitHub 
+                  <br> 08. Human Skills: Leadership, Time Management 
+                </P> 
             </td>
         </tr>
     </tbody>
 </table>
-<!-- End Specialization --> 
+<!-- End Specialization -->
 
 <br>
 
-
-<!-- Start Language Proficiency --> 
+<!-- Start Language Proficiency -->
 <h2 align="left"> Language Proficiency: </h2>
 <table align="center">
     <thead>
@@ -306,14 +339,12 @@ Preferred Organization Types : Software Company </p>
         </tr>
     </tbody>
 </table>
-<!-- End Language Proficiency --> 
-
+<!-- End Language Proficiency -->
 
 <br>
 <br>
 
-
-<!-- Start Training, Participation and Certification --> 
+<!-- Start Training, Participation and Certification -->
 <h2 align="left"> Training, Participation and Certification: </h2>
 
 - <a href="#"> Mobile Game And Application Development For Android - at ICT Division of Bangladesh </a>
@@ -325,7 +356,7 @@ Preferred Organization Types : Software Company </p>
 - <a href="https://www.coursera.org/account/accomplishments/certificate/DKL6A3KTYL34"> Position Elements on a Page with CSS - at Coursera online course</a>
 - <a href="https://www.coursera.org/account/accomplishments/certificate/5XKX3V74MZA6"> Git + GitHub for Open Source Collaboration - at Coursera online course </a>
 - <a href="https://www.coursera.org/account/accomplishments/certificate/HHS3XUAFQWZU"> Use Commands and Create a Remote Git Repository - at Coursera online course </a>
-<!-- End Training, Participation and Certification --> 
+<!-- End Training, Participation and Certification -->
 
 <br>
 <br>
@@ -334,7 +365,7 @@ Preferred Organization Types : Software Company </p>
 <h2 align="left"> Extra Curricular Activities: </h2>
 <p> - Ex. Cadet, second best cadet of Mohasthan Regiment at Bangladesh National Cadet Corps (BNCC) </p>
 <p> - Event Organizer at Rangpur Zilla School </p>
-<!-- End Extra Curricular Activities -->    
+<!-- End Extra Curricular Activities -->
 
 <br>
 <br>
@@ -414,7 +445,7 @@ Preferred Organization Types : Software Company </p>
 <!-- End Details -->
 <!-- End My Resume Section -->
 
-<!-- Start My Experience Section -->  
+<!-- Start My Experience Section -->
 <details>
 <summary>
     <b> ✨ ᴍʏ ᴇxᴘᴇʀɪᴇɴᴄᴇ </b>
@@ -470,9 +501,9 @@ Preferred Organization Types : Software Company </p>
 <br><br>
 
 </details>
-<!-- End My Experience Section -->  
+<!-- End My Experience Section -->
 
-<!-- Start My Skills Section -->  
+<!-- Start My Skills Section -->
 <details>
 <summary>
     <b> 🔍 ᴍʏ ꜱᴋɪʟʟꜱ </b>
@@ -493,62 +524,120 @@ Preferred Organization Types : Software Company </p>
     </thead>
     <tbody>
         <tr>
-            <td align="left"><b>Programming Languages</b></td>
-            <td align="center"><img alt="python" src="media/icons/python.png" width="40px"></td>
-            <td align="center"><img alt="c" src="media/icons/c.png" width="40px"> <img alt="c++" src="media/icons/c++.png" width="40px"> <img alt="php" src="media/icons/php.png" width="40px"></td>
-            <td align="center"><img alt="java" src="media/icons/java.png" width="40px"> <img alt="javascript" src="media/icons/javascript.png" width="40px"></td>
+            <td align="left">
+                <b>Programming Languages</b>
+            </td>
+            <td align="center">
+                <img alt="python" src="media/icons/python.png" width="40px">
+            </td>
+            <td align="center">
+                <img alt="c" src="media/icons/c.png" width="40px"> 
+                <img alt="c++" src="media/icons/c++.png" width="40px"> <img alt="php" src="media/icons/php.png" width="40px">
+            </td>
+            <td align="center">
+                <img alt="java" src="media/icons/java.png" width="40px"> <img alt="javascript" src="media/icons/javascript.png" width="40px">
+            </td>
         </tr>
     </tbody>
     <tbody>
         <tr>
-            <td align="left"><b>Web Technologies</b></td>
-            <td align="center"> <img alt="html" src="media/icons/html-5.png" width="40px"> <img alt="css" src="media/icons/css3.png" width="40px"> </td>
-            <td align="center"> <img alt="markdown" src="media/icons/markdown.png" width="40px"> </td>
-            <td align="center"> <img alt="xml" src="media/icons/xml.png" width="40px"> </td>
+            <td align="left">
+                <b>Web Technologies</b>
+            </td>
+            <td align="center"> 
+                <img alt="html" src="media/icons/html-5.png" width="40px"> 
+                <img alt="css" src="media/icons/css3.png" width="40px"> 
+            </td>
+            <td align="center"> 
+                <img alt="markdown" src="media/icons/markdown.png" width="40px"> 
+            </td>
+            <td align="center"> 
+                <img alt="xml" src="media/icons/xml.png" width="40px">
+            </td>
         </tr>
     </tbody>
     <tbody>
         <tr>
-            <td align="left"><b>Web Frameworks</b></td>
-            <td align="center"> <img alt="bootstrap" src="media/icons/bootstrap.png" width="40px"> <img alt="django" src="media/icons/django.png" width="40px"> </td>
-            <td align="center"> <img alt="flask" src="media/icons/flask.png" width="40px"> </td>
-            <td align="center"> <img alt="tailwind css" src="media/icons/tailwindcss.svg" width="40px"> </td>
+            <td align="left">
+                <b>Web Frameworks</b>
+            </td>
+            <td align="center"> 
+                <img alt="bootstrap" src="media/icons/bootstrap.png" width="40px"> 
+                <img alt="django" src="media/icons/django.png" width="40px"> 
+            </td>
+            <td align="center"> 
+                <img alt="flask" src="media/icons/flask.png" width="40px"> 
+            </td>
+            <td align="center"> 
+                <img alt="tailwind css" src="media/icons/tailwindcss.svg" width="40px">
+            </td>
         </tr>
     </tbody>
     <tbody>
         <tr>
-            <td align="left"><b>Web Creation Platforms</b></td>
-            <td align="center"> <img alt="wordpress" src="media/icons/wordpress.png" width="40px"> <img alt="blogger" src="media/icons/blogger.png" width="40px"> </td>
-            <td align="center"> <img alt="wix" src="media/icons/wix.png" width="40px"> </td>
+            <td align="left">
+                <b>Web Creation Platforms</b>
+            </td>
+            <td align="center"> 
+                <img alt="wordpress" src="media/icons/wordpress.png" width="40px"> <img alt="blogger" src="media/icons/blogger.png" width="40px"> 
+            </td>
+            <td align="center"> 
+                <img alt="wix" src="media/icons/wix.png" width="40px"> 
+            </td>
             <td align="center"></td>
         </tr>
     </tbody><tbody>
         <tr>
-            <td align="left"><b>Database</b></td>
-            <td align="center"> <img alt="mysql" src="media/icons/mysql.png" width="40px"> </td>
-            <td align="center"> <img alt="sqllite" src="media/icons/sqllite.jpg" width="40px"> </td>
+            <td align="left">
+                <b>Database</b>
+            </td>
+            <td align="center"> 
+                <img alt="mysql" src="media/icons/mysql.png" width="40px"> 
+            </td>
+            <td align="center"> 
+                <img alt="sqllite" src="media/icons/sqllite.jpg" width="40px"> 
+            </td>
             <td align="center"></td>
         </tr>
     </tbody>
     <tbody>
         <tr>
-            <td align="left"><b>Version Control</b></td>
-            <td align="center"> <img alt="git" src="media/icons/git.png" width="40px"> <img alt="github" src="media/icons/github.png" width="40px"></td>
+            <td align="left">
+                <b>Version Control</b>
+            </td>
+            <td align="center"> 
+                <img alt="git" src="media/icons/git.png" width="40px"> 
+                <img alt="github" src="media/icons/github.png" width="40px">
+            </td>
             <td align="left"></td>
             <td align="left"></td>
         </tr>
     </tbody>
     <tbody>
         <tr>
-            <td align="left"><b>Operating System</b></td>
-            <td align="center"> <img alt="windows" src="media/icons/windows.png" width="40px"> <img alt="ubuntu" src="media/icons/ubuntu.png" width="40px"> </td>
-            <td align="center"> <img alt="fedora" src="media/icons/fedora.png" width="40px"> <img alt="redhat" src="media/icons/redhat.png" width="40px"> <img alt="debian" src="media/icons/debian.jpg" width="40px"></td>
-            <td align="center"> <img alt="linux mint" src="media/icons/linuxmint.jpg" width="40px"> <img alt="kali" src="media/icons/kali.png" width="40px"> </td>
+            <td align="left">
+                <b>Operating System</b>
+            </td>
+            <td align="center"> 
+                <img alt="windows" src="media/icons/windows.png" width="40px"> 
+                <img alt="ubuntu" src="media/icons/ubuntu.png" width="40px"> 
+            </td>
+            <td align="center"> 
+                <img alt="fedora" src="media/icons/fedora.png" width="40px"> 
+                <img alt="redhat" src="media/icons/redhat.png" width="40px"> 
+                <img alt="debian" src="media/icons/debian.jpg" width="40px">
+            </td>
+            <td align="center"> 
+                <img alt="linux mint" src="media/icons/linuxmint.jpg" width="40px"> 
+                <img alt="kali" src="media/icons/kali.png" width="40px"> 
+            </td>
         </tr>
     </tbody>
     <tbody>
         <tr>
-            <td align="left"><b>Languages</b></td>
+            <td align="left">
+                <b>Languages</b>
+            </td>
             <td align="left">English (Native), Bangla (Native)</td>
             <td align="left">Hindi</td>
             <td align="left">Arabic</td>
@@ -556,7 +645,9 @@ Preferred Organization Types : Software Company </p>
     </tbody>
     <tbody>
         <tr>
-            <td align="left"><b>Other interests</b></td>
+            <td align="left">
+                <b>Other interests</b>
+            </td>
             <td align="left">Reading Books</td>
             <td align="left">Playing Games, Watching Movies</td>
             <td align="left">Sports</td>
@@ -568,9 +659,9 @@ Preferred Organization Types : Software Company </p>
 <br><br>
 
 </details>
-<!-- End My Skills Section --> 
+<!-- End My Skills Section -->
 
-<!-- Start 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section --> 
+<!-- Start 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section -->
 <!-- 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 -->
 <h2 align="right"> 🔺 ꜰɪɴᴅ ᴍᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </h2>
 
@@ -585,12 +676,36 @@ Preferred Organization Types : Software Company </p>
 <table align="right">
     <thead>
         <tr>
-            <th align="center"><a href="https://www.linkedin.com/in/montasim"><img align="center" alt="LinkedIn" width="35px" src="media/icons/linkedin.png"/></a></th>
-	    <th align="center"><a href="https://www.github.com/montasim"><img align="center" alt="Github - montasim" width="35px"   src="media/icons/github.png"/></a></th>
-            <th align="center"><a href="https://stackoverflow.com/users/10429621/coderaid"><img align="center" alt="Stackoverflow - coderaid" width="35px" src="media/icons/stack-overflow.png"/></a></th>
-            <th align="center"><a href="https://montasim.github.io"><img align="center" alt="Website - montasim.github.io" width="35px" src="media/icons/website.png"/></a></th>
-            <th align="center"><a href="mailto:montasimmamun@gmail.com"><img align="center" alt="Gmail - montasimmamun@gmail.com" width="35px" src="media/icons/gmail.png"/></a></th>
-            <th align="center"><a href="https://www.youtube.com/channel/UCkkBnedfjKU-toiKQ-rxvtA"><img align="center" alt="YouTube -Rohan Das" width="35px" src="media/icons/youtube.png"/></a></th>
+            <th align="center">
+                <a href="https://www.linkedin.com/in/montasim">
+                    <img align="center" alt="LinkedIn" width="35px" src="media/icons/linkedin.png"/>
+                </a>
+            </th>
+            <th align="center">
+                <a href="https://www.github.com/montasim">
+                    <img align="center" alt="Github - montasim" width="35px"   src="media/icons/github.png"/>
+                </a>
+            </th>
+            <th align="center">
+                <a href="https://stackoverflow.com/users/10429621/coderaid">
+                    <img align="center" alt="Stackoverflow - coderaid" width="35px" src="media/icons/stack-overflow.png"/>
+                </a>
+            </th>
+            <th align="center">
+                <a href="https://montasim.github.io">
+                    <img align="center" alt="Website - montasim.github.io" width="35px" src="media/icons/website.png"/>
+                </a>
+            </th>
+            <th align="center">
+                <a href="mailto:montasimmamun@gmail.com">
+                    <img align="center" alt="Gmail - montasimmamun@gmail.com" width="35px" src="media/icons/gmail.png"/>
+                </a>
+            </th>
+            <th align="center">
+                <a href="https://www.youtube.com/channel/UCkkBnedfjKU-toiKQ-rxvtA">
+                    <img align="center" alt="YouTube -Rohan Das" width="35px" src="media/icons/youtube.png"/>
+                </a>
+            </th>
         </tr>
     </thead>
 </table>
@@ -615,13 +730,13 @@ Preferred Organization Types : Software Company </p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ♦ L𝚘𝚟𝚎 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ♦ 𝚃𝚘 𝚕𝚎𝚊𝚛𝚗 𝚖𝚘𝚛𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎, 𝚔𝚎𝚎𝚙 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚖𝚢 𝚜𝚒𝚝𝚎.
+
 <!-- End Some Words About Me -->
 
 <br><br><br><br><br><br>
 
 <!-- coder gif -->
 <img align="right" alt="handshake gif" src="media/gif/coder.gif"  height="250" width="375">
-
 
 <!-- Start Talking About Personal Stuffs -->
 <h2 align="left">💥 ᴛᴀʟᴋɪɴɢ ᴀʙᴏᴜᴛ ᴘᴇʀꜱᴏɴᴀʟ ꜱᴛᴀꜰꜰ </h2>
@@ -637,8 +752,9 @@ Preferred Organization Types : Software Company </p>
 &nbsp;&nbsp;&nbsp;&nbsp; ♦ ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: [🅶🅼🅰🅸🅻.](mailto:montasimmamun@gmail.com)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; ♦ ᴄʜᴇᴄᴋᴏᴜᴛ ᴍʏ [🆁🅴🆂🆄🅼🅴](https://github.com/montasim/resume/blob/main/Resume_of_Montasim%20.pdf).
+
 <!-- End Talking About Personal Stuffs -->
-	
+
 <br><br><br><br><br>
 
 <!-- coder gif -->
@@ -647,12 +763,13 @@ Preferred Organization Types : Software Company </p>
 <!-- Start Talking About Personal Stuffs -->
 <h2> 💮 ᴍʏ ᴀʙꜱᴏʟᴜᴛᴇ ꜰᴀᴠᴏᴜʀɪᴛᴇ </h2>
 
-&nbsp;&nbsp;&nbsp;&nbsp; ♦ ɪ ʟᴏᴠᴇ ᴇxᴘʟᴏʀɪɴɢ ɴᴇᴡ ᴛᴇᴄʜ ᴀɴᴅ ʙᴜɪʟᴅɪɴɢ ᴄᴏᴏʟ ꜱᴛᴜꜰꜰꜱ. 
+&nbsp;&nbsp;&nbsp;&nbsp; ♦ ɪ ʟᴏᴠᴇ ᴇxᴘʟᴏʀɪɴɢ ɴᴇᴡ ᴛᴇᴄʜ ᴀɴᴅ ʙᴜɪʟᴅɪɴɢ ᴄᴏᴏʟ ꜱᴛᴜꜰꜰꜱ.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; ♦ ʀᴇᴀᴅɪɴɢ & ᴡʀɪᴛɪɴɢ ᴛᴇᴄʜ ʙʟᴏɢꜱ ᴡʜᴇɴᴇᴠᴇʀ ᴘᴏꜱꜱɪʙʟᴇ. 
+&nbsp;&nbsp;&nbsp;&nbsp; ♦ ʀᴇᴀᴅɪɴɢ & ᴡʀɪᴛɪɴɢ ᴛᴇᴄʜ ʙʟᴏɢꜱ ᴡʜᴇɴᴇᴠᴇʀ ᴘᴏꜱꜱɪʙʟᴇ.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; ♦ ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠɪɴɢ, ᴍᴇᴇᴛᴜᴘꜱ & ᴛᴇᴄʜ ᴇᴠᴇɴᴛꜱ. 
+&nbsp;&nbsp;&nbsp;&nbsp; ♦ ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠɪɴɢ, ᴍᴇᴇᴛᴜᴘꜱ & ᴛᴇᴄʜ ᴇᴠᴇɴᴛꜱ.
 <br>
+
 <!-- End Talking About Personal Stuffs -->
 
 <br><br><br><br><br><br><br>
@@ -668,7 +785,7 @@ Preferred Organization Types : Software Company </p>
 
 <br><br>
 
-<!-- Start My Projects Section -->  
+<!-- Start My Projects Section -->
 <details>
 <summary>
     <b> 💛 ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ </b>
@@ -677,21 +794,32 @@ Preferred Organization Types : Software Company </p>
 <br><br>
 
 <p align="center">
-<a href="https://github.com/montasim/montasim.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=montasim.github.io&show_icons=true&theme=react&border_color=61dafb&hide_border=true"></a>
-<a href="https://github.com/montasim/Car-Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=Car-Game&show_icons=true&theme=react&border_color=61dafb&hide_border=true"></a>
-<a href="https://github.com/montasim/UndergraduateThesis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=UndergraduateThesis&show_icons=true&theme=react&border_color=61dafb&hide_border=true"></a>
-<a href="https://github.com/montasim/SecurePasswordPython"><img src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=SecurePasswordPython&show_icons=true&theme=react&border_color=61dafb&hide_border=true"></a>
-<a href="https://github.com/montasim/E-HealthCare"><img src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=E-HealthCare&show_icons=true&theme=react&border_color=61dafb&hide_border=true"></a>
-<a href="https://github.com/montasim/Noob-Track-Blog"><img src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=Noob-Track-Blog&show_icons=true&theme=react&border_color=61dafb&hide_border=true"></a>
+    <a href="https://github.com/montasim/montasim.github.io">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=montasim.github.io&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
+    </a>
+    <a href="https://github.com/montasim/Car-Game">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=Car-Game&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
+    </a>
+    <a href="https://github.com/montasim/UndergraduateThesis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=UndergraduateThesis&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
+    </a>
+    <a href="https://github.com/montasim/SecurePasswordPython">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=SecurePasswordPython&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
+    </a>
+    <a href="https://github.com/montasim/E-HealthCare">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=E-HealthCare&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
+    </a>
+    <a href="https://github.com/montasim/Noob-Track-Blog">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=Noob-Track-Blog&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
+    </a>
 </p>
 
 <br><br>
 
 </details>
-<!-- End My Projects Section --> 
+<!-- End My Projects Section -->
 
-
-<!-- Start Certificates Section -->  
+<!-- Start Certificates Section -->
 <details>
 <summary>
     <b> 🏅 ᴄᴇʀᴛɪꜰɪᴄᴀᴛᴇꜱ </b>
@@ -699,7 +827,7 @@ Preferred Organization Types : Software Company </p>
 	
 <br><br>
 
-<!-- Start Training, Participation and Certification --> 
+<!-- Start Training, Participation and Certification -->
 <h2 align="left"> Training, Participation and Certification: </h2>
 
 - <a href="#"> Mobile Game And Application Development For Android - at ICT Division of Bangladesh </a>
@@ -711,14 +839,14 @@ Preferred Organization Types : Software Company </p>
 - <a href="https://www.coursera.org/account/accomplishments/certificate/DKL6A3KTYL34"> Position Elements on a Page with CSS - at Coursera online course</a>
 - <a href="https://www.coursera.org/account/accomplishments/certificate/5XKX3V74MZA6"> Git + GitHub for Open Source Collaboration - at Coursera online course </a>
 - <a href="https://www.coursera.org/account/accomplishments/certificate/HHS3XUAFQWZU"> Use Commands and Create a Remote Git Repository - at Coursera online course </a>
-<!-- End Training, Participation and Certification --> 
+<!-- End Training, Participation and Certification -->
 
 <br><br>
 
 </details>
-<!-- End Certificates Section --> 
+<!-- End Certificates Section -->
 
-<!-- Start My Followers Section -->  
+<!-- Start My Followers Section -->
 <details>
 <summary>
     <b> 💢 ᴍʏ ꜰᴏʟʟᴏᴡᴇʀꜱ </b>
@@ -733,58 +861,58 @@ Preferred Organization Types : Software Company </p>
   <tr>
     <td align="center">
         <img src="https://avatars.githubusercontent.com/u/60427103?s=100&v=4" width="100px;" />
-      <br />
+        <br />
     </td>
     <td align="center">
       <a href="https://github.com/donmartz">
         <img src="https://avatars.githubusercontent.com/u/40871658?s=100&v=4" width="100px;" />
-      <br />
+        <br />
     </td>
     <td align="center">
         <img src="https://avatars.githubusercontent.com/u/43262000?s=100&v=4" width="100px;" />
-      <br />
+        <br />
     </td>
     <td align="center">
         <img src="https://avatars.githubusercontent.com/u/34787290?s=100&v=4" width="100px;" />
-      <br />
+        <br />
     </td>
     <td align="center">
         <img src="https://avatars.githubusercontent.com/u/69847499?s=100&v=4" width="100px;" />
-      <br />
+        <br />
     </td>
     <td align="center">
         <img src="https://avatars.githubusercontent.com/u/71976987?s=100&v=4" width="100px;" />
-      <br />
+        <br />
     </td>
     <td align="center">
         <img src="https://avatars.githubusercontent.com/u/53873688?s=100&v=4" width="100px;" />
-      <br />
+        <br />
     </td>
   </tr>
   <tr>
     <td align="center">
         <img src="https://avatars.githubusercontent.com/u/75871974?s=100&v=4" width="100px;" />
-      <br />
+        <br />
     </td>
     <td align="center">
         <img src="https://avatars.githubusercontent.com/u/39973552?s=100&v=4" width="100px;" />
-      <br />
+        <br />
     </td>
     <td align="center">
         <img src="https://avatars.githubusercontent.com/u/4786022?s=100&v=4" width="100px;" />
-      <br />
+        <br />
     </td>
     <td align="center">
         <img src="https://avatars.githubusercontent.com/u/76847887?s=100&v=4" width="100px;" />
-      <br />
+        <br />
     </td>
     <td align="center">
         <img src="https://avatars.githubusercontent.com/u/76745218?s=100&v=4" width="100px;" />
-      <br />
+        <br />
     </td>
     <td align="center">
         <img src="https://avatars.githubusercontent.com/u/7357679?s=100&v=4" width="100px;" />
-      <br />
+        <br />
     </td>
     <td align="center">
         <img src="https://avatars.githubusercontent.com/u/25494368?s=100&v=4" width="100px;" />
@@ -797,31 +925,30 @@ Preferred Organization Types : Software Company </p>
 <br><br>
 
 </details>
-<!-- End My Followers Section --> 
+<!-- End My Followers Section -->
 
 <!-- Start My Github Stats -->
 <h2 align="center">💦 ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ </h2>
 <br>
 
 <!-- Start Montasim's github readme stats -->
-<p align=center>
+<div align=center>
   <div align=center>
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&border=61dafb&hide_border=true" alt="montasim" />
-    </a>
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
   </div>
   <br><br><br>
   <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+</div>
 <!-- End Montasim's github readme stats -->
 
-<a href="https://montasim.github.io/"> <img alt="heart gif" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=1000&height=100&lines=%F0%9D%9A%82%F0%9D%9A%91%F0%9D%9A%98%F0%9D%9A%A0+%F0%9D%9A%9C%F0%9D%9A%98%F0%9D%9A%96%F0%9D%9A%8E+%F0%9F%92%96;B%F0%9D%9A%A2+%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90+%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E+%F0%9D%9A%9B%F0%9D%9A%8E%F0%9D%9A%99%F0%9D%9A%98%F0%9D%9A%9C%F0%9D%9A%92%F0%9D%9A%9D%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8E%F0%9D%9A%9C.;G%F0%9D%9A%92%F0%9D%9A%9F%F0%9D%9A%8E+%F0%9D%9A%88%F0%9D%9A%98%F0%9D%9A%9E%F0%9D%9A%9B+%F0%9D%9A%82%F0%9D%9A%9E%F0%9D%9A%90%F0%9D%9A%90%F0%9D%9A%8E%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%92%F0%9D%9A%98%F0%9D%9A%97%F0%9D%9A%9C."> </a>
+<a href="https://montasim.github.io/"> 
+    <img alt="heart gif" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=1000&height=100&lines=%F0%9D%9A%82%F0%9D%9A%91%F0%9D%9A%98%F0%9D%9A%A0+%F0%9D%9A%9C%F0%9D%9A%98%F0%9D%9A%96%F0%9D%9A%8E+%F0%9F%92%96;B%F0%9D%9A%A2+%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90+%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E+%F0%9D%9A%9B%F0%9D%9A%8E%F0%9D%9A%99%F0%9D%9A%98%F0%9D%9A%9C%F0%9D%9A%92%F0%9D%9A%9D%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8E%F0%9D%9A%9C.;G%F0%9D%9A%92%F0%9D%9A%9F%F0%9D%9A%8E+%F0%9D%9A%88%F0%9D%9A%98%F0%9D%9A%9E%F0%9D%9A%9B+%F0%9D%9A%82%F0%9D%9A%9E%F0%9D%9A%90%F0%9D%9A%90%F0%9D%9A%8E%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%92%F0%9D%9A%98%F0%9D%9A%97%F0%9D%9A%9C."> 
+</a>
 
 <!-- Start 𝙼𝚘𝚛𝚎 𝚂𝚝𝚞𝚏𝚏 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 Section -->
 <details>
@@ -831,7 +958,6 @@ Preferred Organization Types : Software Company </p>
 	
 <br>
 <br>
-
 
 <h2 align="left"> 📣 What I do </h2>
 
@@ -844,7 +970,6 @@ Preferred Organization Types : Software Company </p>
 
 <br>
 <br>
-
 
 <!-- My Specifications section -->
 <h2 align="center"><b> 💻 My Specifications </b></h2>
@@ -941,7 +1066,7 @@ Preferred Organization Types : Software Company </p>
     <thead>
         <tr>
             <th align="center"><b>Job Name</b></th>
-	    <th align="center"><b>Job Place</b></th>
+	        <th align="center"><b>Job Place</b></th>
             <th align="center"><b>Roles & responsibilities</b></th>
             <th align="center"><b>Duration</b></th>
             <th align="center"><b>Job Profile</b></th>
@@ -968,10 +1093,18 @@ Preferred Organization Types : Software Company </p>
 <table align="center">
     <thead>
         <tr>
-            <th align="center"><b>Name</b></th>
-	    <th align="center"><b>Description</b></th>
-            <th align="center"><b>Language</b></th>
-            <th align="center"><b>Repo</b></th>
+            <th align="center">
+                <b>Name</b>
+            </th>
+	        <th align="center">
+                <b>Description</b>
+            </th>
+            <th align="center">
+                <b>Language</b>
+            </th>
+            <th align="center">
+                <b>Repo</b>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -1018,9 +1151,15 @@ Preferred Organization Types : Software Company </p>
 <table align="center">
     <thead>
         <tr>
-            <th align="center"><b>Word / Abreviation</b></th>
-	    <th align="center"><b>Meaning</b></th>
-            <th align="center"><b>Note</b></th>
+            <th align="center">
+                <b>Word / Abreviation</b>
+            </th>
+	        <th align="center">
+                <b>Meaning</b>
+            </th>
+            <th align="center">
+                <b>Note</b>
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -1075,7 +1214,7 @@ Preferred Organization Types : Software Company </p>
 - <b>𝙲𝚘𝚍𝚎 𝙴𝚍𝚒𝚝𝚘𝚛:</b> 𝚅𝚒𝚜𝚞𝚊𝚕 𝚂𝚝𝚞𝚍𝚒𝚘 𝙲𝚘𝚍𝚎
 - <b>𝙾𝚙𝚎𝚛𝚊𝚝𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖:</b> 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝟷𝟶
 - <b>𝚃𝚘 𝚂𝚝𝚊𝚢 𝚄𝚙𝚍𝚊𝚝𝚎𝚍:</b> <a href=""> 🅻🅸🅽🅺🅴🅳🅸🅽 </a><a href=""> 🅶🅸🆃🅷🆄🅱 </a><a href=""> 🅶🅼🅰🅸🅻 </a><a href=""> 🆆🅴🅱🆂🅸🆃🅴 </a><a href=""> 🅵🅰🅲🅴🅱🅾🅾🅺 </a>
-</a>
+  </a>
 
 <br>
 <br>
@@ -1083,7 +1222,6 @@ Preferred Organization Types : Software Company </p>
 <h2 align="left"> 🔌 Website I Use Causualy </h2>
 
 <b> My website has quite a few of them. Here's a list of the public ones. </b>
-
 
 - [noobtrack.blogspot.com](https://noobtrack.blogspot.com/) - This is my own cracked apps download website.
 - [download.trnck.dev](http://download.trnck.dev) - download some important
@@ -1096,7 +1234,7 @@ Preferred Organization Types : Software Company </p>
 </details>
 <!-- End 𝙼𝚘𝚛𝚎 𝚂𝚝𝚞𝚏𝚏 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 Section -->
 
-<!-- Start 𝙼𝚢 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 Section --> 
+<!-- Start 𝙼𝚢 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 Section -->
 <details>
 <summary>
     <b> 📌 ᴍʏ ꜱᴛᴀᴛɪꜱᴛɪᴄꜱ </b>
@@ -1104,7 +1242,7 @@ Preferred Organization Types : Software Company </p>
 	
 <br>
 
-<h2 align="center"><img src="media/icons/trophy.png" width="23px"> Github Trophies <img src="media/icons/trophy.png" width="23px"></h2>  
+<h2 align="center"><img src="media/icons/trophy.png" width="23px"> Github Trophies <img src="media/icons/trophy.png" width="23px"></h2>
 
 <br>
 
@@ -1121,16 +1259,16 @@ Preferred Organization Types : Software Company </p>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
-<!-- Github Metrics --> 
+<!-- Github Metrics -->
 <p align="center">
   <img alt="Github Metrics" src = "https://metrics.lecoq.io/montasim">
 </p>
 <br>
 
 </details>
-<!-- End 𝙼𝚢 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 Section --> 
+<!-- End 𝙼𝚢 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 Section -->
 
-<!-- Start Special Thanks To Section -->  
+<!-- Start Special Thanks To Section -->
 <details>
 <summary>
     <b> ⌛ ꜱᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋꜱ ᴛᴏ </b>
@@ -1160,8 +1298,8 @@ Preferred Organization Types : Software Company </p>
 
 <h3 align="center"> Miscellaneous </h3>
 
-
 <!-- https://github.com/lifeparticle/Gist-Count -->
+
 [![Github gists](https://gist-count.vercel.app/api?username=montasim)](https://gist.github.com/montasim)
 
 </td>
@@ -1169,14 +1307,15 @@ Preferred Organization Types : Software Company </p>
 </table>
 
 </details>
-<!-- End Special Thanks To Section --> 
+<!-- End Special Thanks To Section -->
 
 <!-- Start Find More On Social Media Section -->
 <details>
   <summary> 📛 ꜰɪɴᴅ ᴍᴏʀᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </summary>
   <br>
 
-<!-- Start Twitter Section -->  
+<!-- Start Twitter Section -->
+
 <b> ⌛ Twitter </b>
 
 <img src="https://github-readme-twitter.gazf.vercel.app/api?id=montasimmamun&layout=wide">
@@ -1202,6 +1341,7 @@ Preferred Organization Types : Software Company </p>
 <!--End Footer-->
 
 <!--Start Links-->
+
 [website]: https://montasim.github.io
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/montasimmamun
@@ -1212,4 +1352,5 @@ Preferred Organization Types : Software Company </p>
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
 <!--End Links-->
