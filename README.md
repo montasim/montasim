@@ -730,15 +730,15 @@ Preferred Organization Types : Software Company </p>
 <!-- Start Some Words About Me -->
 <h2> ✍ ꜱᴏᴍᴇ ᴡᴏʀᴅ ᴀʙᴏᴜᴛ ᴍᴇ </h2>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; Ａ 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝙵𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝙱𝚊𝚗𝚐𝚕𝚊𝚍𝚎𝚜𝚑.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ꜰᴜʟʟ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ꜱᴛᴀᴄᴋ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; A 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚕𝚎𝚊𝚛𝚗𝚎𝚛 𝚠𝚑𝚘'𝚜 𝚊𝚕𝚠𝚊𝚢𝚜 𝚠𝚒𝚕𝚕𝚒𝚗𝚐 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ᴀʟᴡᴀʏꜱ ᴡɪʟʟɪɴɢ ᴛᴏ ʟᴇᴀʀɴ
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; W𝚘𝚛𝚔 𝚊𝚌𝚛𝚘𝚜𝚜 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚗𝚍 𝚍𝚘𝚖𝚊𝚒𝚗𝚜.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ᴡᴏʀᴋ ᴀᴄʀᴏꜱꜱ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ ᴀɴᴅ ᴅᴏᴍᴀɪɴ
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; L𝚘𝚟𝚎 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ʟᴏᴠᴇ ᴛᴏ ᴇxᴘʟᴏʀᴇ ɴᴇᴡ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; 𝚃𝚘 𝚕𝚎𝚊𝚛𝚗 𝚖𝚘𝚛𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎, 𝚔𝚎𝚎𝚙 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚖𝚢 𝚜𝚒𝚝𝚎.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ᴛᴏ ʟᴇᴀʀɴ ᴍᴏʀᴇ ᴋᴇᴇᴘ ᴇxᴘʟᴏʀɪɴɢ ᴍʏ ꜱɪᴛᴇ
 
 <!-- End Some Words About Me -->
 
