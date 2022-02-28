@@ -758,7 +758,7 @@ Preferred Organization Types : Software Company </p>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; &#x1F539; ꜰᴜɴ ꜰᴀᴄᴛ: ᴇQᴜᴀʟ ɪꜱ ɴᴏᴛ ᴀʟᴡᴀʏꜱ ᴇQᴜᴀʟ ɪɴ ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; &#x1F539; ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: [🅶🅼🅰🅸🅻.](mailto:montasimmamun@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp; &#x1F539; ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: [🅶🅼🅰🅸🅻](mailto:montasimmamun@gmail.com)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; &#x1F539; ᴄʜᴇᴄᴋᴏᴜᴛ ᴍʏ [🆁🅴🆂🆄🅼🅴](https://github.com/montasim/resume/blob/main/Resume_of_Montasim%20.pdf)
 
