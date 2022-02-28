@@ -1332,7 +1332,7 @@ Preferred Organization Types : Software Company </p>
     <br>
     <!-- Copyright --> 
     <a href="https://montasim.github.io/" target="_blank"> 
-        <img src="https://readme-typing-svg.herokuapp.com?color=F7496E&size=15&center=true&vCenter=true&lines=%C2%A9+%E1%B4%8D%E1%B4%80%E1%B4%85%E1%B4%87+%CA%99%CA%8F+%E1%B4%87%C9%B4%C9%A2%C9%AA%C9%B4%E1%B4%87%E1%B4%87%CA%80+%EF%BC%AD%EF%BD%8F%EF%BD%8E%EF%BD%94%EF%BD%81%EF%BD%93%EF%BD%89%EF%BD%8D">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%23D04060&center=true&vCenter=true&lines=Made+By+Montasim">
     </a>
 </div>
 <!--End Footer-->
