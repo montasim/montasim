@@ -679,7 +679,7 @@ Preferred Organization Types : Software Company </p>
 <!-- handshake gif -->
 <img align="left" alt="handshake" src="media/gif/handshake.gif" width="190px">
 
-<br><br>
+<br>
 
 <!-- Start Social Links -->
 <table align="right">
