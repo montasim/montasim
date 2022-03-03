@@ -1296,7 +1296,7 @@ Preferred Organization Types : Software Company </p>
                 <br>
                 <a href="https://lingojam.com/FancyLetters">lingojam.com</a> for beautiful fonts
                 <br>
-                <a href="https://gifer.com/en/">lingojam.com</a> for transparent gif
+                <a href="https://gifer.com/en/">gifer.com</a> for transparent gif
             </div>
         </td>
         <td width="40%" valign="top">
