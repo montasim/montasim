@@ -723,7 +723,7 @@ Preferred Organization Types : Software Company </p>
 
 <br><br>
 
-<img align="left" height="250" width="375" alt="" src="media/gif/code4.gif" />
+<img align="left" height="250" width="375" alt="code gif" src="media/gif/code4.gif" />
 
 <!-- Start Some Words About Me -->
 <h2> ✍ ꜱᴏᴍᴇ ᴡᴏʀᴅ ᴀʙᴏᴜᴛ ᴍᴇ </h2>
@@ -743,7 +743,7 @@ Preferred Organization Types : Software Company </p>
 <br><br><br><br><br><br>
 
 <!-- coder gif -->
-<img align="right" alt="handshake gif" src="media/gif/coder.gif"  height="250" width="375">
+<img align="right" alt="coder gif" src="media/gif/coder.gif"  height="250" width="375">
 
 <!-- Start Talking About Personal Stuffs -->
 <h2 align="left">💥 ᴛᴀʟᴋɪɴɢ ᴀʙᴏᴜᴛ ᴘᴇʀꜱᴏɴᴀʟ ꜱᴛᴀꜰꜰ </h2>
@@ -765,7 +765,7 @@ Preferred Organization Types : Software Company </p>
 <br><br><br><br><br>
 
 <!-- coder gif -->
-<img align="left" alt="handshake gif" src="media/gif/sleeping-coding.gif.gif" height="250" width="375">
+<img align="left" alt="sleeping coding gif" src="media/gif/sleeping-coding.gif" height="250" width="375">
 
 <!-- Start Talking About Personal Stuffs -->
 <h2> 💮 ᴍʏ ᴀʙꜱᴏʟᴜᴛᴇ ꜰᴀᴠᴏᴜʀɪᴛᴇ </h2>
