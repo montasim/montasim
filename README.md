@@ -196,7 +196,6 @@ Wish you a good-looking profile README!
 <!-- End Experience -->
 
 <br>
-<br>
 
 <!-- Start Academic Qualification Summery -->
 <h2 align="left"> Academic Qualification: </h2>
@@ -247,71 +246,70 @@ Wish you a good-looking profile README!
 <!-- End Academic Qualification Summery -->          
                                     
 <br>
-<br>
 
 <!-- Start Undergraduate Thesis and Project -->
 <h2 align="left"> Undergraduate Thesis and Project: </h2>
 <p> 
     <b> Hand Pose Estimation in Single RGB Image with Multiview Bootstrapping. </b>
-<br> 
+<br>
+
 - Deep Learning, OpenCV <br>
 - Convolutional Neural Network (CNN) <br>
 - Python (TensorFlow, Matplotlib, Scikit-Learn, OpenCV, Media pipe) </p>
 <!-- End Undergraduate Thesis and Project -->
 
 <br>
-<br>
 
 <!-- Start Career and Application Information -->
 <h2 align="left"> Career and Application Information: </h2>
-<p> Preferred Job Category : Engineer, IT, Telecommunication, Design, Creative 
-<br>
-Looking For : Entry Level Job 
-<br>
-Available For : Full Time 
-<br>
-Preferred District : Dhaka, Rangpur 
-<br>
-Preferred Organization Types : Software Company </p>
+
+<table>
+    <tbody>
+        <tr>
+            <td> <b> Preferred Job Category </b> 
+                <br> <b> Looking For </b> 
+                <br> <b> Available For </b> 
+                <br> <b> Preferred District </b> 
+                <br> <b> Preferred Organization Types </b>
+            </td>
+            <td>
+                : Engineer, IT, Telecommunication, Design, Creative 
+                <br> : Entry Level Job 
+                <br> : Full Time 
+                <br> : Dhaka, Rangpur 
+                <br> : Software Company
+            </td>
+        </tr>
+    </tbody>
+</table>  
 <!-- End Career and Application Information -->
 
 <br>
-<br>
 
 <!-- Start Specialization -->
-<h2 align="left"> Specialization: </h2>
-<table align="center">
-    <thead>
-        <tr>
-        <th align="center"><b> Fields of Specialization </b></th>
-	    <th align="center"><b> Description </b></th>
-        </tr>
-    </thead>
+<h2> Specialization: (8)</h2>
+<table>
     <tbody>
         <tr>
-            <td align="left"> C Programming 
-                <br> C++ Programming 
-                <br> Java Programming 
-                <br> Python Programming 
-                <br> HTML5 & CSS3 
-                <br> Bootstrap, Tailwind CSS 
-                <br> Word Press, Blogger 
-                <br> SQLite 
-                <br> LaTeX 
-                <br> Git, GitHub 
-                <br> Leadership, Time Management 
+            <td> 
+                <b> Programming Languages </b> 
+                <br> <b> Web Frameworks </b> 
+                <br> <b> Web Technologies </b> 
+                <br> <b> Content Management System (CMS) </b> 
+                <br> <b> Databases </b>
+                <br> <b> Toolkits </b> 
+                <br> <b> Version Control </b> 
+                <br> <b> Human Skills </b> 
             </td>
-            <td align="left">
-                <p> 
-                  1. Programming Languages: C, C++, JAVA, Python, PHP, SQL 
-                  <br> 02. Web Frameworks: Django, Flask, PyGame, Bootstrap, Tailwind CSS 
-                  <br> 03. Web Technologies: PHP, HTML, CSS, XML, Markdown 
-                  <br> 04. Content Management System (CMS): Word Press, Blogger 
-                  <br> 05. Databases: SQL Server, MySQL, SQLite 
-                  <br> 06. Toolkits: LaTeX 
-                  <br> 07. Version Control: Git, GitHub 
-                  <br> 08. Human Skills: Leadership, Time Management 
-                </P> 
+            <td>
+                  : C, C++, JavaScript, SQL 
+                  <br> : Bootstrap, Tailwind CSS 
+                  <br> : HTML, CSS, Markdown 
+                  <br> : Word Press, Blogger 
+                  <br> : SQL Server, MySQL, SQLite 
+                  <br> : LaTeX 
+                  <br> : Git, GitHub 
+                  <br> : Leadership, Time Management
             </td>
         </tr>
     </tbody>
@@ -321,38 +319,43 @@ Preferred Organization Types : Software Company </p>
 <br>
 
 <!-- Start Language Proficiency -->
-<h2 align="left"> Language Proficiency: </h2>
-<table align="center">
+<h2> Language Proficiency: (3)</h2>
+<table>
     <thead>
         <tr>
-            <th align="center"><b> Language </b></th>
-	        <th align="center"><b> Reading </b></th>
-            <th align="center"><b> Writing </b></th>
-            <th align="center"><b> Speaking </b></th>
+            <th><b> Language </b></th>
+	        <th><b> Reading </b></th>
+            <th><b> Writing </b></th>
+            <th><b> Speaking </b></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="left"> English </td>
-            <td align="left"> High </td>
-            <td align="left"> High </td>
-            <td align="left"> High </td>
+            <td> English </td>
+            <td> High </td>
+            <td> High </td>
+            <td> High </td>
         </tr>
         <tr>
-            <td align="left"> Bangla </td>
-            <td align="left"> High </td>
-            <td align="left"> High </td>
-            <td align="left"> High </td>
+            <td> Bangla </td>
+            <td> High </td>
+            <td> High </td>
+            <td> High </td>
+        </tr>
+        <tr>
+            <td> Hindi </td>
+            <td> None </td>
+            <td> None </td>
+            <td> Basic </td>
         </tr>
     </tbody>
 </table>
 <!-- End Language Proficiency -->
 
 <br>
-<br>
 
 <!-- Start Training, Participation and Certification -->
-<h2 align="left"> Training, Participation and Certification: </h2>
+<h2 align="left"> Training, Participation and Certification: (9)</h2>
 
 - <a href="#"> Mobile Game And Application Development For Android - at ICT Division of Bangladesh </a>
 - <a href="#"> PLC Training Course - at BAUST </a>
@@ -366,39 +369,49 @@ Preferred Organization Types : Software Company </p>
 <!-- End Training, Participation and Certification -->
 
 <br>
-<br>
 
 <!-- Start Extra Curricular Activities -->
-<h2 align="left"> Extra Curricular Activities: </h2>
-<p> - Ex. Cadet, second best cadet of Mohasthan Regiment at Bangladesh National Cadet Corps (BNCC) </p>
-<p> - Event Organizer at Rangpur Zilla School </p>
-<!-- End Extra Curricular Activities -->
+<h2 align="left"> Extra Curricular Activities: (2)</h2>
 
-<br>
+- <p> Ex. Cadet, second best cadet of Mohasthan Regiment at Bangladesh National Cadet Corps (BNCC) </p>
+- <p> Event Organizer at Rangpur Zilla School </p>
+  <!-- End Extra Curricular Activities -->
+
 <br>
 
 <!-- Start Personal Details -->
 <h2 align="left"> Personal Details: </h2>
-<p> <b> Father's Name : MD. Hafizar Rahman </b>  
-<br> 
-<b> Mother's Name : MST. Majida Begum </b> 
-<br> 
-<b> Date of Birth : December 16, 1998 </b>  
-<br> 
-<b> Nationality : Bangladeshi </b>  
-<br> 
-<b> Blood Group : B+ </b>  
-<br> 
-<b> Religion : Islam </b>  
-<br> 
-<b> Permanent Address : Balapara, 20 Mega Watt, Rangpur Sadar, Rangpur </b> </p>
+
+<table>
+    <tbody>
+        <tr>
+            <td> Father's Name 
+                <br> Mother's Name 
+                <br> Date of Birth 
+                <br> Nationality 
+                <br> Blood Group
+                <br> Religion 
+                <br> Permanent Address
+            </td>
+            <td>
+                MD. Hafizar Rahman 
+                <br> MST. Majida Begum 
+                <br> December 16, 1998 
+                <br> Bangladeshi 
+                <br> B+
+                <br> Islam 
+                <br> Balapara, 20 Mega Watt, Rangpur Sadar, Rangpur
+            </td>
+        </tr>
+    </tbody>
+</table>
 <!-- End Personal Details -->    
  
 <br>
-<br>
 
 <!-- Start Reference (s) -->
-<h2 align="left"> Reference (s): </h2>
+<h2 align="left"> Reference (s): (2)</h2>
+
 <table align="center">
     <thead>
         <tr>
