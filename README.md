@@ -62,8 +62,6 @@ Wish you a good-looking profile README!
   <img src="https://weather-icon.journeyad.repl.co/@rangpur?v=1" align="right" width="100px">
 </div>
 
-<br>
-
 <div align="left">
     <h2> 👋 ʜɪ, ɪ'ᴍ ᴍᴏɴᴛᴀꜱɪᴍ </h2>
     <div>
