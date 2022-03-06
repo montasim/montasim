@@ -98,8 +98,6 @@ Wish you a good-looking profile README!
 
 <h2 align="left"> Mohammad Montasim -Al- Mamun Shuvo</h2>
 
-<br>
-
 <h3> Developer and Designer </h3>
 
 <br>
