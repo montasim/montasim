@@ -967,9 +967,11 @@ Wish you a good-looking profile README!
 </div>
 <!-- End Montasim's github readme stats -->
 
+<!-- start animated text -->
 <a href="https://montasim.github.io/"> 
     <img alt="heart gif" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=1000&height=100&lines=%F0%9D%9A%82%F0%9D%9A%91%F0%9D%9A%98%F0%9D%9A%A0+%F0%9D%9A%9C%F0%9D%9A%98%F0%9D%9A%96%F0%9D%9A%8E+%F0%9F%92%96;B%F0%9D%9A%A2+%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90+%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E+%F0%9D%9A%9B%F0%9D%9A%8E%F0%9D%9A%99%F0%9D%9A%98%F0%9D%9A%9C%F0%9D%9A%92%F0%9D%9A%9D%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8E%F0%9D%9A%9C.;G%F0%9D%9A%92%F0%9D%9A%9F%F0%9D%9A%8E+%F0%9D%9A%88%F0%9D%9A%98%F0%9D%9A%9E%F0%9D%9A%9B+%F0%9D%9A%82%F0%9D%9A%9E%F0%9D%9A%90%F0%9D%9A%90%F0%9D%9A%8E%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%92%F0%9D%9A%98%F0%9D%9A%97%F0%9D%9A%9C."> 
 </a>
+<!-- end animated text -->
 
 <!-- Start 𝙼𝚘𝚛𝚎 𝚂𝚝𝚞𝚏𝚏 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 Section -->
 <details>
@@ -977,10 +979,9 @@ Wish you a good-looking profile README!
 	<b> 💡 ᴍᴏʀᴇ ꜱᴛᴀꜰꜰ ᴀʙᴏᴜᴛ ᴍᴇ </b>
 </summary>
 	
-<br>
-<br>
+<br><br>
 
-<h2 align="left"> 📣 What I do </h2>
+<h2> 📣 What I do </h2>
 
 <div>
 	I do Open Source. In fact, I do Open Source so much, that majority of my work on
@@ -989,94 +990,94 @@ Wish you a good-looking profile README!
 	(sometimes) beautiful design.
 </div>
 
-<br>
-<br>
+<br><br>
 
-<!-- My Specifications section -->
+<!-- start my specification section -->
 <h2 align="center"><b> 💻 My Specifications </b></h2>
 <table align="center">
-    <thead>
+    <thead align="center">
         <tr>
-            <th align="center"><b>Name \ Familiarity</b></th>
-            <th align="center"><b>High</b></th>
-            <th align="center"><b>Medium</b></th>
-            <th align="center"><b>Low</b></th>
+            <th><b>Name \ Familiarity</b></th>
+            <th><b>High</b></th>
+            <th><b>Medium</b></th>
+            <th><b>Low</b></th>
         </tr>
     </thead>
-    <tbody>
+    <tbody align="left">
         <tr>
-            <td align="left"><b>Programming Languages</b></td>
-            <td align="left">Python</td>
-            <td align="left">C, C++, PHP</td>
-            <td align="left">Java, JavaScript</td>
+            <td><b>Programming Languages</b></td>
+            <td>Python</td>
+            <td>C, C++, PHP</td>
+            <td>Java, JavaScript</td>
         </tr>
     </tbody>
-    <tbody>
+    <tbody align="left">
         <tr>
-            <td align="left"><b>Web Technologies</b></td>
-            <td align="left">HTML, CSS</td>
-            <td align="left">Markdown</td>
-            <td align="left">XML</td>
+            <td><b>Web Technologies</b></td>
+            <td>HTML, CSS</td>
+            <td>Markdown</td>
+            <td>XML</td>
         </tr>
     </tbody>
-    <tbody>
+    <tbody align="left">
         <tr>
-            <td align="left"><b>Web Frameworks</b></td>
-            <td align="left">Bootstrap, Django</td>
-            <td align="left">Flask</td>
-            <td align="left">TailWind CSS</td>
+            <td><b>Web Frameworks</b></td>
+            <td>Bootstrap, Django</td>
+            <td>Flask</td>
+            <td>TailWind CSS</td>
         </tr>
     </tbody>
-    <tbody>
+    <tbody align="left">
         <tr>
-            <td align="left"><b>Web Creation Platforms</b></td>
-            <td align="left">WordPress, Blogger</td>
-            <td align="left">Wix</td>
-            <td align="left"></td>
-        </tr>
-    </tbody><tbody>
-        <tr>
-            <td align="left"><b>Database</b></td>
-            <td align="left">MySQL</td>
-            <td align="left">SqlLite</td>
-            <td align="left"></td>
+            <td><b>Web Creation Platforms</b></td>
+            <td>WordPress, Blogger</td>
+            <td>Wix</td>
+            <td></td>
         </tr>
     </tbody>
-    <tbody>
+    <tbody align="left">
         <tr>
-            <td align="left"><b>Version Control</b></td>
-            <td align="left">Git, Github</td>
-            <td align="left"></td>
-            <td align="left"></td>
+            <td><b>Database</b></td>
+            <td>MySQL</td>
+            <td>SqlLite</td>
+            <td></td>
         </tr>
     </tbody>
-    <tbody>
+    <tbody align="left">
         <tr>
-            <td align="left"><b>Operating System</b></td>
-            <td align="left">Windows, Ubuntu</td>
-            <td align="left">Fedora, RedHat, Debian</td>
-            <td align="left">Linux Mint, Kali Linux</td>
+            <td><b>Version Control</b></td>
+            <td>Git, Github</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
-    <tbody>
+    <tbody align="left">
         <tr>
-            <td align="left"><b>Languages</b></td>
-            <td align="left">English (Native), Bangla (Native)</td>
-            <td align="left">Hindi</td>
-            <td align="left">Arabic</td>
+            <td><b>Operating System</b></td>
+            <td>Windows, Ubuntu</td>
+            <td>Fedora, RedHat, Debian</td>
+            <td>Linux Mint, Kali Linux</td>
         </tr>
     </tbody>
-    <tbody>
+    <tbody align="left">
         <tr>
-            <td align="left"><b>Other interests</b></td>
-            <td align="left">Reading Books</td>
-            <td align="left">Playing Games, Watching Movies</td>
-            <td align="left">Sports</td>
+            <td><b>Languages</b></td>
+            <td>English (Native), Bangla (Native)</td>
+            <td>Hindi</td>
+            <td>Arabic</td>
+        </tr>
+    </tbody>
+    <tbody align="left">
+        <tr>
+            <td><b>Other interests</b></td>
+            <td>Reading Books</td>
+            <td>Playing Games, Watching Movies</td>
+            <td>Sports</td>
         </tr>
     </tbody>
 </table>
 <br>
-<!-- end work experience section -->
+<!-- end my specification section -->
 
 <br>
 <br>
