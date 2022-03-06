@@ -474,7 +474,7 @@ Wish you a good-looking profile README!
 <br><br>
 
 <!-- Start Experience -->
-<h2 align="left"> Experience: </h2>
+<h2> Experience: </h2>
 <table align="center">
     <thead align="left">
         <tr>
