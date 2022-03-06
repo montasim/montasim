@@ -1080,125 +1080,119 @@ Wish you a good-looking profile README!
 
 <br>
 
-<!-- My Work Experience -->
+<!-- start my Work Experience -->
 <h2 align="center"><b> ⌚ My Work Experience </b></h2>
 <table align="center">
     <thead>
         <tr>
-            <th align="center"><b>Job Name</b></th>
-	        <th align="center"><b>Job Place</b></th>
-            <th align="center"><b>Roles & responsibilities</b></th>
-            <th align="center"><b>Duration</b></th>
-            <th align="center"><b>Job Profile</b></th>
+            <th><b>Job Name</b></th>
+	        <th><b>Job Place</b></th>
+            <th><b>Roles & responsibilities</b></th>
+            <th><b>Duration</b></th>
+            <th><b>Job Profile</b></th>
         </tr>
     </thead>
-    <tbody>
+    <tbody align="left">
         <tr>
-            <td align="left"><b>Problem Solver</b></td>
-            <td align="left">HackerRank</td>
-            <td align="left">Problem Solver</td>
-            <td align="left">2018 - Present</td>
-            <td align="left"><a href="https://www.hackerrank.com/montasim">hackerrank.com/montasim</a></td>
+            <td><b>Problem Solver</b></td>
+            <td>HackerRank</td>
+            <td>Problem Solver</td>
+            <td>2018 - Present</td>
+            <td><a href="https://www.hackerrank.com/montasim">hackerrank.com/montasim</a></td>
         </tr>
     </tbody>
 </table>
-<br>
-<!-- end My Work Experience -->
+<!-- end my Work Experience -->
 
-<br>
 <br>
 
 <!-- Projects I'm the most proud of -->
 <h2 align="center"><b> 📌 Projects I'm The Most Proud Of </b></h2>
 <table align="center">
     <thead>
-        <tr>
-            <th align="center">
+        <tr align="center">
+            <th>
                 <b>Name</b>
             </th>
-	        <th align="center">
+	        <th>
                 <b>Description</b>
             </th>
-            <th align="center">
+            <th>
                 <b>Language</b>
             </th>
-            <th align="center">
+            <th>
                 <b>Repo</b>
             </th>
         </tr>
     </thead>
-    <tbody>
+    <tbody align="left">
         <tr>
-            <td align="left"></td>
-            <td align="left"></td>
-            <td align="left"></td>
-            <td align="left"><a href="https://www.hackerrank.com/montasim"></a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><a href="https://www.hackerrank.com/montasim"></a></td>
         </tr>
     </tbody>
-    <tbody>
+    <tbody align="left">
         <tr>
-            <td align="left"></td>
-            <td align="left"></td>
-            <td align="left"></td>
-            <td align="left"><a href="https://www.hackerrank.com/montasim"></a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><a href="https://www.hackerrank.com/montasim"></a></td>
         </tr>
     </tbody>
-    <tbody>
+    <tbody align="left">
         <tr>
-            <td align="left"></td>
-            <td align="left"></td>
-            <td align="left"></td>
-            <td align="left"><a href="https://www.hackerrank.com/montasim"></a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><a href="https://www.hackerrank.com/montasim"></a></td>
         </tr>
     </tbody>
-    <tbody>
+    <tbody align="left">
         <tr>
-            <td align="left"></td>
-            <td align="left"></td>
-            <td align="left"></td>
-            <td align="left"><a href="https://www.hackerrank.com/montasim"></a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><a href="https://www.hackerrank.com/montasim"></a></td>
         </tr>
     </tbody>
 </table>
-<br>
 <!-- end Projects I'm the most proud of -->
 
-<br>
 <br>
 
 <!-- My own dictionary  -->
 <h2 align="center"><b> ⚠️ My Own Dictionary  </b></h2>
 <table align="center">
     <thead>
-        <tr>
-            <th align="center">
+        <tr align="center">
+            <th>
                 <b>Word / Abreviation</b>
             </th>
-	        <th align="center">
+	        <th>
                 <b>Meaning</b>
             </th>
-            <th align="center">
+            <th>
                 <b>Note</b>
             </th>
         </tr>
     </thead>
-    <tbody>
+    <tbody align="left">
         <tr>
-            <td align="left"></td>
-            <td align="left"></td>
-            <td align="left"></td>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
-<br>
 <!-- end My own dictionary  -->
 
-<br>
 <br>
 
 [//]: # "Trainging and Participation heading"
 
-<h2 align="left"> 🏅 Trainging and Participation </h2>
+<h2> 🏅 Trainging and Participation </h2>
 
 [//]: # "Trainging and Participation summery"
 
@@ -1216,11 +1210,10 @@ Wish you a good-looking profile README!
 - <a href="https://www.udemy.com/certificate/UC-91b6cfe1-6f98-40ec-a1b1-2f5a1714f637/">𝙻𝚎𝚊𝚛𝚗 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙻𝚒𝚗𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎</a>
 
 <br>
-<br>
 
 <!-- 𝚃𝚑𝚒𝚗𝚐𝚜 𝙸 𝚄𝚜𝚎 𝚃𝚘 𝙶𝚎𝚝 𝚂𝚝𝚞𝚏𝚏 𝙳𝚘𝚗𝚎 heading -->
 
-<h2 align="left"> ⚙️ 𝚃𝚑𝚒𝚗𝚐𝚜 𝙸 𝚄𝚜𝚎 </h2>
+<h2> ⚙️ 𝚃𝚑𝚒𝚗𝚐𝚜 𝙸 𝚄𝚜𝚎 </h2>
 
 [//]: # "𝚃𝚑𝚒𝚗𝚐𝚜 𝙸 𝚄𝚜𝚎 𝚃𝚘 𝙶𝚎𝚝 𝚂𝚝𝚞𝚏𝚏 𝙳𝚘𝚗𝚎 notes"
 
@@ -1237,9 +1230,8 @@ Wish you a good-looking profile README!
   </a>
 
 <br>
-<br>
 
-<h2 align="left"> 🔌 Website I Use Causualy </h2>
+<h2> 🔌 Website I Use Causualy </h2>
 
 <b> My website has quite a few of them. Here's a list of the public ones. </b>
 
@@ -1248,7 +1240,6 @@ Wish you a good-looking profile README!
   assets, which I personally use
 - [qr.trnck.dev](https://qr.trnck.dev) - create a QR code in 2 seconds
 
-<br>
 <br>
 
 </details>
