@@ -534,12 +534,12 @@ Wish you a good-looking profile README!
 <!-- Start My Skills -->
 <h2 align="center"><b> My Skills </b></h2>
 <table align="center">
-    <thead>
+    <thead align="center">
         <tr>
-            <th align="center"><b>Name \ Familiarity</b></th>
-            <th align="center"><b>High</b></th>
-            <th align="center"><b>Medium</b></th>
-            <th align="center"><b>Low</b></th>
+            <th><b>Name \ Familiarity</b></th>
+            <th><b>High</b></th>
+            <th><b>Medium</b></th>
+            <th><b>Low</b></th>
         </tr>
     </thead>
     <tbody>
@@ -606,7 +606,8 @@ Wish you a good-looking profile README!
             </td>
             <td align="center"></td>
         </tr>
-    </tbody><tbody>
+    </tbody>
+    <tbody>
         <tr>
             <td align="left">
                 <b>Database</b>
