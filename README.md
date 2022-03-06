@@ -34,9 +34,7 @@ Wish you a good-looking profile README!
 -->
 
 <!-- heading start -->
-<div align="center">
-    <h1>🎲 Ｈｅｌｌｏ， Ｎｉｃｅ ｔｏ ｍｅｅｔ ｙｏｕ 🎓</h1>
-</div>
+<h1 align="center">🎲 Ｈｅｌｌｏ， Ｎｉｃｅ ｔｏ ｍｅｅｔ ｙｏｕ 🎓</h1>
 <!-- heading end -->
 
 <!-- Start Some Hints Icons About Montasim -->
@@ -62,25 +60,28 @@ Wish you a good-looking profile README!
 
 <br><br>
 
+<!-- start weather -->
 <img align="right" src="https://weather-icon.journeyad.repl.co/@rangpur?v=1" width="100px">
-  
+<!-- end weather -->
+
+<!-- start my summary  -->
 <div align="left">
     <h2> 👋 ʜɪ, ɪ'ᴍ ᴍᴏɴᴛᴀꜱɪᴍ </h2>
-    <div>
+    <p>
         ꜰʀᴏᴍ ᴀ ʏᴏᴜɴɢ ᴀɢᴇ, ɪ'ᴠᴇ ᴀʟᴡᴀʏꜱ ʜᴀᴅ ᴀ ꜱᴇɴꜱᴇ ᴏꜰ ᴍᴏᴛɪᴠᴀᴛɪᴏɴ ᴀɴᴅ ᴘᴀꜱꜱɪᴏɴ ᴅʀɪᴠɪɴɢ ᴍᴇ ꜰᴏʀᴡᴀʀᴅ. ᴡʜᴇᴛʜᴇʀ ɪᴛ ɪꜱ ᴇxᴘʟᴏʀɪɴɢ ᴜɴɪQᴜᴇ ᴏᴘᴘᴏʀᴛᴜɴɪᴛɪᴇꜱ, ʟᴇᴀʀɴɪɴɢ ᴀᴅᴅɪᴛɪᴏɴᴀʟ ꜱᴋɪʟʟꜱ, ᴏʀ ᴍᴇᴇᴛɪɴɢ ɴᴇᴡ ᴘᴇᴏᴘʟᴇ, ɪ ʙʀɪɴɢ ᴛʜᴇꜱᴇ ᴠᴀʟᴜᴇꜱ ᴛᴏ ᴇᴠᴇʀʏ ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴛʜʀᴏᴜɢʜᴏᴜᴛ ᴍʏ ʟɪꜰᴇ ᴏɴ ᴀ ᴘᴇʀꜱᴏɴᴀʟ ᴀɴᴅ ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ʟᴇᴠᴇʟ. ɪ ʟᴏᴠᴇ ᴄᴏɴɴᴇᴄᴛɪɴɢ ᴡɪᴛʜ ᴅɪꜰꜰᴇʀᴇɴᴛ ᴘᴇᴏᴘʟᴇ ᴀʀᴏᴜɴᴅ ᴛʜᴇ ᴡᴏʀʟᴅ. ꜰᴇᴇʟ ꜰʀᴇᴇ ᴛᴏ ʀᴇᴀᴄʜ ᴏᴜᴛ ᴀɴᴅ ɪɴᴛʀᴏᴅᴜᴄᴇ ʏᴏᴜʀꜱᴇʟꜰ. ᴛᴏ ʟᴇᴀʀɴ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ, ᴋᴇᴇᴘ ᴇxᴘʟᴏʀɪɴɢ ᴍʏ ꜱɪᴛᴇ ᴏʀ ʀᴇᴀᴄʜ ᴏᴜᴛ ᴅɪʀᴇᴄᴛʟʏ.
-    </div>
+    </p>
 </div>
+<!-- end my summary  -->
 
 <br><br>
 
 <!-- Start My Resume Section -->
+
 <!-- Start Details -->
 <details>
 <summary><b> 📑 ᴍʏ ʀᴇꜱᴜᴍᴇ </b></summary>
 
-<br>
-<br>
-<br>
+<br><br><br>
 
 <h2 align="center">
     <a href="https://github.com/montasim/DoNotDelete/raw/main/resume/Resume_of_Montasim.pdf"> 
@@ -88,10 +89,10 @@ Wish you a good-looking profile README!
     </a>
 </h2>
 
-<br>
-<br>
+<br><br>
 
 <!-- Start My Resume -->
+
 <!-- Montasim's Photo -->
 <img align="right" alt="Montasim's Photo" src="media/images/montasim.png" width="200px">
 
@@ -114,25 +115,24 @@ Wish you a good-looking profile README!
 </div>
 <!-- End Links -->
 
-<br>
-<br>
+<br><br>
 
 <!-- Start Career Objective -->
 <h2 align="left"> Career Objective: </h2>
-<div>
+<p>
    Practical and versatile Software Engineer with significant experience in developing Websites and Web Applications. I 
    can handle multiple tasks daily. I use a creative approach to solve problems. I am a dependable person who is great 
    at time management. I am always energetic and eager to learn new skills. 
-</div>
+</p>
 <!-- End Career Objective -->
 
 <br>
 
 <!-- Start Career Objective -->
 <h2 align="left"> Career Summary: </h2>
-<div>
+<p>
    I am a developer who is working on an organization named CODEZ Info Tech. My responsibility here is to design and develop Websites and Web Applications. My goal is to work hard to make my educational and professional skills in a flawless workplace. 
-</div>
+</p>
 <!-- End Career Objective -->
 
 <br>
@@ -140,57 +140,57 @@ Wish you a good-looking profile README!
 <!-- Start Experience -->
 <h2 align="left"> Experience: </h2>
 <table align="center">
-    <thead>
+    <thead align="left">
         <tr>
-            <th align="left">
+            <th>
                 <b> Company Name </b>
             </th>
-	        <th align="left">
+	        <th>
                 <b> CODEZ Info Tech </b>
             </th>
-            <th align="left">
+            <th>
                 <b> Crystal It and Soft </b>
             </th>
         </tr>
     </thead>
-    <tbody>
+    <tbody align="left">
         <tr>
-            <td align="left">
+            <td>
                 <b> Designation </b>
             </td>
-            <td align="left"> Web Developer </td>
-            <td align="left"> Web Developer </td>
+            <td> Web Developer </td>
+            <td> Web Developer </td>
         </tr>
         <tr>
-            <td align="left">
+            <td>
                 <b> Duration </b>
             </td>
-            <td align="left"> December 10, 2020 - Present </td>
-            <td align="left"> August 2019 – September 2020 </td>
+            <td> December 10, 2020 - Present </td>
+            <td> August 2019 – September 2020 </td>
         </tr>
         <tr>
-            <td align="left">
+            <td>
                 <b> Address </b>
             </td>
-            <td align="left"> 3/359, Adarsha Nagar, Middle-Badda, Dhaka-1212 </td>
-            <td align="left"> Chartola Mor, Rangpur </td>
+            <td> 3/359, Adarsha Nagar, Middle-Badda, Dhaka-1212 </td>
+            <td> Chartola Mor, Rangpur </td>
         </tr>
         <tr>
-            <td align="left">
+            <td>
                 <b> Responsibility </b>
             </td>
-            <td align="left"> Design and Develop Websites and Web Applications </td>
-            <td align="left"> Developed and maintained affiliate marketing website Crystal It and Soft, Rangpur </td>
+            <td> Design and Develop Websites and Web Applications </td>
+            <td> Developed and maintained affiliate marketing website Crystal It and Soft, Rangpur </td>
         </tr>
         <tr>
-            <td align="left"><b>  </b></td>
-            <td align="left">  UI/UX Design </td>
-            <td align="left"> Wrote over 150 contents for those websites </td>
+            <td><b>  </b></td>
+            <td>  UI/UX Design </td>
+            <td> Wrote over 150 contents for those websites </td>
         </tr>
         <tr>
-            <td align="left"><b>  </b></td>
-            <td align="left"> Problem Solving </td>
-            <td align="left">  </td>
+            <td><b>  </b></td>
+            <td> Problem Solving </td>
+            <td>  </td>
         </tr>
     </tbody>
 </table>
