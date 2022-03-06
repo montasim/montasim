@@ -477,42 +477,42 @@ Wish you a good-looking profile README!
 <h2 align="left"> Experience: </h2>
 <table align="center">
     <thead>
-        <tr>
-            <th align="left"><b></b> Company Name </th>
-	        <th align="left"><b> CODEZ Info Tech </b></th>
-            <th align="left"><b> Crystal It and Soft </b></th>
+        <tr align="left">
+            <th><b></b> Company Name </th>
+	        <th><b> CODEZ Info Tech </b></th>
+            <th><b> Disabled Rehabilitation and Research Association (DRRA) </b></th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td align="left"><b> Designation </b></td>
-            <td align="left"> Web Developer </td>
-            <td align="left"> Web Developer </td>
+        <tr align="left">
+            <td><b> Designation </b></td>
+            <td> Web Developer </td>
+            <td> MIS Officer </td>
         </tr>
-        <tr>
-            <td align="left"><b> Duration </b></td>
-            <td align="left"> December 10, 2020 - Present </td>
-            <td align="left"> August 2019 – September 2020 </td>
+        <tr align="left">
+            <td><b> Duration </b></td>
+            <td> December 10, 2020 - Present </td>
+            <td> December 2021 – Present </td>
         </tr>
-        <tr>
-            <td align="left"><b> Address </b></td>
-            <td align="left"> 3/359, Adarsha Nagar, Middle-Badda, Dhaka-1212 </td>
-            <td align="left"> Chartola Mor, Rangpur </td>
+        <tr align="left">
+            <td><b> Address </b></td>
+            <td> 3/359, Adarsha Nagar, Middle-Badda, Dhaka-1212 </td>
+            <td> Ershadnagar, Tongi, Gazipur </td>
         </tr>
-        <tr>
-            <td align="left"><b> Responsibility </b></td>
-            <td align="left"> Design and Develop Websites and Web Applications </td>
-            <td align="left"> Developed and maintained affiliate marketing website </td>
+        <tr align="left">
+            <td><b> Responsibility </b></td>
+            <td> Design and Develop Websites and Web Applications </td>
+            <td> Monitor and Maintain MIS Data </td>
         </tr>
-        <tr>
-            <td align="left"><b>  </b></td>
-            <td align="left">  UI/UX Design </td>
-            <td align="left"> Wrote over 150 contents for those websites </td>
+        <tr align="left">
+            <td><b>  </b></td>
+            <td> UI/UX Design </td>
+            <td> Create and Apply Efficient Work Process </td>
         </tr>
-        <tr>
-            <td align="left"><b>  </b></td>
-            <td align="left"> Problem Solving </td>
-            <td align="left">  </td>
+        <tr align="left">
+            <td><b>  </b></td>
+            <td> Problem Solving </td>
+            <td>  </td>
         </tr>
     </tbody>
 </table>
