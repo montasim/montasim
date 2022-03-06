@@ -1076,10 +1076,8 @@ Wish you a good-looking profile README!
         </tr>
     </tbody>
 </table>
-<br>
 <!-- end my specification section -->
 
-<br>
 <br>
 
 <!-- My Work Experience -->
