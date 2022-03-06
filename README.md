@@ -2,8 +2,10 @@
 
 Montasim's Github Profile
 Created on : 18/5/2021
-Author :  Mohammad Montasim -Al- Mamun Shuvo
-Contact :  montasimmamun@gmail.com
+Author : Mohammad Montasim -Al- Mamun Shuvo
+Contact : montasimmamun@gmail.com
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
 
 Thank you if you like this profile README!
 
@@ -18,9 +20,11 @@ mine in your profile. This has happened too many times.
 Only when you know what you are copying should you paste it. So, again,
 please DO NOT copy this and create your profile based on it.
 
+---------------------------------------------------------------------
 What's more, you can find other awesome profile READMEs at
-https://github.com/abhisheknaiidu/awesome-github-profile-readme. There
-could be a profile README that fits you better than this one.
+https://github.com/abhisheknaiidu/awesome-github-profile-readme.
+There could be a profile README that fits you better than this one.
+---------------------------------------------------------------------
 
 Wish you a good-looking profile README!
 
