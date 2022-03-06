@@ -96,11 +96,12 @@ Wish you a good-looking profile README!
 <!-- Montasim's Photo -->
 <img align="right" alt="Montasim's Photo" src="media/images/montasim.png" width="200px">
 
-<h2 align="left"> Mohammad Montasim -Al- Mamun Shuvo
-    <br>
-    <h3> Developer and Designer </h3> 
-</h2>
-	
+<h2 align="left"> Mohammad Montasim -Al- Mamun Shuvo</h2>
+
+<br>
+
+<h3> Developer and Designer </h3>
+
 <br>
 
 <!-- Start Links -->
