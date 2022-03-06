@@ -73,8 +73,7 @@ Wish you a good-looking profile README!
     </div>
 </div>
 
-<br>
-<br>
+<br><br>
 
 <!-- Start My Resume Section -->
 <!-- Start Details -->
