@@ -60,7 +60,7 @@ Wish you a good-looking profile README!
 </div>
 <!-- End Programming Languages Icon -->
 
-<br><br>
+<br>
 
 <div align="right">
   <img src="https://weather-icon.journeyad.repl.co/@rangpur?v=1" width="100px">
