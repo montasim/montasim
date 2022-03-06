@@ -39,7 +39,7 @@ Wish you a good-looking profile README!
 
 <!-- Start Some Hints Icons About Montasim -->
 <div align="center">
-    <img alt="Code Quality" src="https://img.shields.io/github/last-commit/montasim/montasim" />
+    <img alt="last commit" src="https://img.shields.io/github/last-commit/montasim/montasim" />
     <img alt="Code Quality" src="https://img.shields.io/badge/Code%20Quality-Good-lightblue" />
     <img alt="visitor" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasimmamun" />
     <img alt="Thanks" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" />
@@ -48,24 +48,24 @@ Wish you a good-looking profile README!
 
 <!-- Start Programming Languages Icon -->
 <div align="center">
-  <img alt="c++" src="media/icons/c++.png" width="35px">
-  <img alt="c++" src="media/icons/javascript.png" width="35px">
-  <img alt="python" src="media/icons/python.png" width="35px">  
-  <img alt="php" src="media/icons/php.png" width="35px">     
-  <img alt="bootstrap" src="media/icons/bootstrap.png" width="35px">
-  <img alt="django" src="media/icons/django.png" width="35px">
-  <img alt="wordpress" src="media/icons/wordpress.png" width="35px">
+  <img alt="c++ icon" src="media/icons/c++.png" width="35px">
+  <img alt="javascript icon" src="media/icons/javascript.png" width="35px">
+  <img alt="python icon" src="media/icons/python.png" width="35px">  
+  <img alt="php icon" src="media/icons/php.png" width="35px">     
+  <img alt="bootstrap icon" src="media/icons/bootstrap.png" width="35px">
+  <img alt="django icon" src="media/icons/django.png" width="35px">
+  <img alt="wordpress icon" src="media/icons/wordpress.png" width="35px">
 </div>
 <!-- End Programming Languages Icon -->
 
 <br><br>
 
 <!-- start weather -->
-<img align="right" src="https://weather-icon.journeyad.repl.co/@rangpur?v=1" width="100px">
+<img align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@rangpur?v=1" width="100px">
 <!-- end weather -->
 
 <!-- start my summary  -->
-<div align="left">
+<div>
     <h2> 👋 ʜɪ, ɪ'ᴍ ᴍᴏɴᴛᴀꜱɪᴍ </h2>
     <p>
         ꜰʀᴏᴍ ᴀ ʏᴏᴜɴɢ ᴀɢᴇ, ɪ'ᴠᴇ ᴀʟᴡᴀʏꜱ ʜᴀᴅ ᴀ ꜱᴇɴꜱᴇ ᴏꜰ ᴍᴏᴛɪᴠᴀᴛɪᴏɴ ᴀɴᴅ ᴘᴀꜱꜱɪᴏɴ ᴅʀɪᴠɪɴɢ ᴍᴇ ꜰᴏʀᴡᴀʀᴅ. ᴡʜᴇᴛʜᴇʀ ɪᴛ ɪꜱ ᴇxᴘʟᴏʀɪɴɢ ᴜɴɪQᴜᴇ ᴏᴘᴘᴏʀᴛᴜɴɪᴛɪᴇꜱ, ʟᴇᴀʀɴɪɴɢ ᴀᴅᴅɪᴛɪᴏɴᴀʟ ꜱᴋɪʟʟꜱ, ᴏʀ ᴍᴇᴇᴛɪɴɢ ɴᴇᴡ ᴘᴇᴏᴘʟᴇ, ɪ ʙʀɪɴɢ ᴛʜᴇꜱᴇ ᴠᴀʟᴜᴇꜱ ᴛᴏ ᴇᴠᴇʀʏ ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴛʜʀᴏᴜɢʜᴏᴜᴛ ᴍʏ ʟɪꜰᴇ ᴏɴ ᴀ ᴘᴇʀꜱᴏɴᴀʟ ᴀɴᴅ ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ʟᴇᴠᴇʟ. ɪ ʟᴏᴠᴇ ᴄᴏɴɴᴇᴄᴛɪɴɢ ᴡɪᴛʜ ᴅɪꜰꜰᴇʀᴇɴᴛ ᴘᴇᴏᴘʟᴇ ᴀʀᴏᴜɴᴅ ᴛʜᴇ ᴡᴏʀʟᴅ. ꜰᴇᴇʟ ꜰʀᴇᴇ ᴛᴏ ʀᴇᴀᴄʜ ᴏᴜᴛ ᴀɴᴅ ɪɴᴛʀᴏᴅᴜᴄᴇ ʏᴏᴜʀꜱᴇʟꜰ. ᴛᴏ ʟᴇᴀʀɴ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ, ᴋᴇᴇᴘ ᴇxᴘʟᴏʀɪɴɢ ᴍʏ ꜱɪᴛᴇ ᴏʀ ʀᴇᴀᴄʜ ᴏᴜᴛ ᴅɪʀᴇᴄᴛʟʏ.
@@ -94,15 +94,15 @@ Wish you a good-looking profile README!
 <!-- Start My Resume -->
 
 <!-- Montasim's Photo -->
-<img align="right" alt="Montasim's Photo" src="media/images/montasim.png" width="200px">
+<img align="right" alt="Montasim's resume Photo" src="media/images/montasim.png" width="200px">
 
-<h2 align="left"> Mohammad Montasim -Al- Mamun Shuvo</h2>
+<h2> Mohammad Montasim -Al- Mamun Shuvo</h2>
 <h3> Developer and Designer </h3>
 
 <br>
 
 <!-- Start Links -->
-<div align="left">
+<div>
     <b> Email: </b> <a href="montasimmamun@gmail.com"> montasimmamun@gmail.com</a>
     <br>
     <b> Portfolio: </b> <a href="https://montasim.github.io"> montasim.github.io </a>
@@ -116,7 +116,7 @@ Wish you a good-looking profile README!
 <br><br>
 
 <!-- Start Career Objective -->
-<h2 align="left"> Career Objective: </h2>
+<h2> Career Objective: </h2>
 <p>
    Practical and versatile Software Engineer with significant experience in developing Websites and Web Applications. I 
    can handle multiple tasks daily. I use a creative approach to solve problems. I am a dependable person who is great 
@@ -127,7 +127,7 @@ Wish you a good-looking profile README!
 <br>
 
 <!-- Start Career Objective -->
-<h2 align="left"> Career Summary: </h2>
+<h2> Career Summary: </h2>
 <p>
    I am a developer who is working on an organization named CODEZ Info Tech. My responsibility here is to design and develop Websites and Web Applications. My goal is to work hard to make my educational and professional skills in a flawless workplace. 
 </p>
@@ -136,7 +136,7 @@ Wish you a good-looking profile README!
 <br>
 
 <!-- Start Experience -->
-<h2 align="left"> Experience: </h2>
+<h2> Experience: </h2>
 <table align="center">
     <thead align="left">
         <tr>
@@ -197,7 +197,7 @@ Wish you a good-looking profile README!
 <br>
 
 <!-- Start Academic Qualification Summery -->
-<h2 align="left"> Academic Qualification: </h2>
+<h2> Academic Qualification: </h2>
 <table align="center">
     <thead>
         <tr>
@@ -247,7 +247,7 @@ Wish you a good-looking profile README!
 <br>
 
 <!-- Start Undergraduate Thesis and Project -->
-<h2 align="left"> Undergraduate Thesis and Project: </h2>
+<h2> Undergraduate Thesis and Project: </h2>
 <p> 
     <b> Hand Pose Estimation in Single RGB Image with Multiview Bootstrapping. </b>
 <br>
@@ -260,7 +260,7 @@ Wish you a good-looking profile README!
 <br>
 
 <!-- Start Career and Application Information -->
-<h2 align="left"> Career and Application Information: </h2>
+<h2> Career and Application Information: </h2>
 
 <table>
     <tbody>
@@ -354,7 +354,7 @@ Wish you a good-looking profile README!
 <br>
 
 <!-- Start Training, Participation and Certification -->
-<h2 align="left"> Training, Participation and Certification: (9)</h2>
+<h2> Training, Participation and Certification: (9)</h2>
 
 - <a href="#"> Mobile Game And Application Development For Android - at ICT Division of Bangladesh </a>
 - <a href="#"> PLC Training Course - at BAUST </a>
@@ -370,7 +370,7 @@ Wish you a good-looking profile README!
 <br>
 
 <!-- Start Extra Curricular Activities -->
-<h2 align="left"> Extra Curricular Activities: (2)</h2>
+<h2> Extra Curricular Activities: (2)</h2>
 
 - <p> Ex. Cadet, second best cadet of Mohasthan Regiment at Bangladesh National Cadet Corps (BNCC) </p>
 - <p> Event Organizer at Rangpur Zilla School </p>
@@ -379,7 +379,7 @@ Wish you a good-looking profile README!
 <br>
 
 <!-- Start Personal Details -->
-<h2 align="left"> Personal Details: </h2>
+<h2> Personal Details: </h2>
 
 <table>
     <tbody>
@@ -409,7 +409,7 @@ Wish you a good-looking profile README!
 <br>
 
 <!-- Start Reference (s) -->
-<h2 align="left"> Reference (s): (2)</h2>
+<h2> Reference (s): (2)</h2>
 
 <table align="center">
     <thead>
