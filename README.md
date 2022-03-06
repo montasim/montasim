@@ -954,7 +954,6 @@ Wish you a good-looking profile README!
 <div align=center>
   <div>
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&border=61dafb&hide_border=true" alt="montasim" />
-      <br>
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
 
