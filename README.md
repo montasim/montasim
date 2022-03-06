@@ -476,40 +476,40 @@ Wish you a good-looking profile README!
 <!-- Start Experience -->
 <h2 align="left"> Experience: </h2>
 <table align="center">
-    <thead>
-        <tr align="left">
+    <thead align="left">
+        <tr>
             <th><b></b> Company Name </th>
 	        <th><b> CODEZ Info Tech </b></th>
             <th><b> Disabled Rehabilitation and Research Association (DRRA) </b></th>
         </tr>
     </thead>
-    <tbody>
-        <tr align="left">
+    <tbody align="left">
+        <tr>
             <td><b> Designation </b></td>
             <td> Web Developer </td>
             <td> MIS Officer </td>
         </tr>
-        <tr align="left">
+        <tr>
             <td><b> Duration </b></td>
             <td> December 10, 2020 - Present </td>
             <td> December 2021 – Present </td>
         </tr>
-        <tr align="left">
+        <tr>
             <td><b> Address </b></td>
             <td> 3/359, Adarsha Nagar, Middle-Badda, Dhaka-1212 </td>
             <td> Ershadnagar, Tongi, Gazipur </td>
         </tr>
-        <tr align="left">
+        <tr>
             <td><b> Responsibility </b></td>
             <td> Design and Develop Websites and Web Applications </td>
             <td> Monitor and Maintain MIS Data </td>
         </tr>
-        <tr align="left">
+        <tr>
             <td><b>  </b></td>
             <td> UI/UX Design </td>
             <td> Create and Apply Efficient Work Process </td>
         </tr>
-        <tr align="left">
+        <tr>
             <td><b>  </b></td>
             <td> Problem Solving </td>
             <td>  </td>
