@@ -855,11 +855,13 @@ Wish you a good-looking profile README!
 <!-- Start Talking About Personal Stuffs -->
 <h2> 💮 ᴍʏ ᴀʙꜱᴏʟᴜᴛᴇ ꜰᴀᴠᴏᴜʀɪᴛᴇ </h2>
 
+<div align="right">
 &nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ɪ ʟᴏᴠᴇ ᴇxᴘʟᴏʀɪɴɢ ɴᴇᴡ ᴛᴇᴄʜ ᴀɴᴅ ʙᴜɪʟᴅɪɴɢ ᴄᴏᴏʟ ꜱᴛᴜꜰꜰꜱ
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ʀᴇᴀᴅɪɴɢ & ᴡʀɪᴛɪɴɢ ᴛᴇᴄʜ ʙʟᴏɢꜱ ᴡʜᴇɴᴇᴠᴇʀ ᴘᴏꜱꜱɪʙʟᴇ
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠɪɴɢ, ᴍᴇᴇᴛᴜᴘꜱ & ᴛᴇᴄʜ ᴇᴠᴇɴᴛꜱ
+</div>
 
 <!-- End Talking About Personal Stuffs -->
 
