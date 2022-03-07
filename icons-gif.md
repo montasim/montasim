@@ -1,5 +1,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+
 <img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/5047569?s=200&v=4"/>
 
 📊 &nbsp;**This week I spent my time on**
