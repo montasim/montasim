@@ -102,7 +102,7 @@ Wish you a good-looking profile README!
 <br>
 
 <!-- Start Links -->
-<table align="left">
+<table>
     <thead>
         <tr>
             <th>
@@ -162,7 +162,7 @@ Wish you a good-looking profile README!
 <h2> Experience: </h2>
 
 <table align="center">
-    <thead align="left">
+    <thead>
         <tr>
             <th>
                 <b> Company Name </b>
@@ -175,7 +175,7 @@ Wish you a good-looking profile README!
             </th>
         </tr>
     </thead>
-    <tbody align="left">
+    <tbody>
         <tr>
             <td>
                 <b> Designation </b>
@@ -225,44 +225,44 @@ Wish you a good-looking profile README!
 <table align="center">
     <thead>
         <tr>
-            <th align="left">
+            <th>
                 <b> Exam Title </b>
             </th>
-	        <th align="left">
+	        <th>
                 <b> Concentration / Major </b>
             </th>
-            <th align="left">
+            <th>
                 <b> Institute </b>
             </th>
-            <th align="left">
+            <th>
                 <b> Result </b>
             </th>
-            <th align="left">
+            <th>
                 <b> Passing Year </b>
             </th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="left"> Bachelor of Science (B. Sc.) </td>
-            <td align="left"> Computer Science & Engineering </td>
-            <td align="left"> Bangladesh Army University of Science and Technology </td>
-            <td align="left"> 2.96 </td>
-            <td align="left"> 2021 </td>
+            <td> Bachelor of Science (B. Sc.) </td>
+            <td> Computer Science & Engineering </td>
+            <td> Bangladesh Army University of Science and Technology </td>
+            <td> 2.96 </td>
+            <td> 2021 </td>
         </tr>
         <tr>
-            <td align="left"> HSC </td>
-            <td align="left"> Science </td>
-            <td align="left"> Carmichael College Rangpur </td>
-            <td align="left"> 4.58 </td>
-            <td align="left"> 2016 </td>
+            <td> HSC </td>
+            <td> Science </td>
+            <td> Carmichael College Rangpur </td>
+            <td> 4.58 </td>
+            <td> 2016 </td>
         </tr>
         <tr>
-            <td align="left"> SSC </td>
-            <td align="left"> Science </td>
-            <td align="left"> Rangpur Zilla School </td>
-            <td align="left"> 5.00 </td>
-            <td align="left"> 2014 </td>
+            <td> SSC </td>
+            <td> Science </td>
+            <td> Rangpur Zilla School </td>
+            <td> 5.00 </td>
+            <td> 2014 </td>
         </tr>
     </tbody>
 </table>
@@ -486,46 +486,46 @@ Wish you a good-looking profile README!
 <table align="center">
     <thead>
         <tr>
-            <th align="left"><b></b></th>
-	        <th align="left"><b> Reference: 01 </b></th>
-            <th align="left"><b> Reference: 02 </b></th>
+            <th><b></b></th>
+	        <th><b> Reference: 01 </b></th>
+            <th><b> Reference: 02 </b></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td align="left"><b> Name </b></td>
-            <td align="left"> Tareq Aziz </td>
-            <td align="left"> Abu Saleh Musa Miah </td>
+            <td><b> Name </b></td>
+            <td> Tareq Aziz </td>
+            <td> Abu Saleh Musa Miah </td>
         </tr>
         <tr>
-            <td align="left"><b> Organization </b></td>
-            <td align="left"> CODEZ Info Tech </td>
-            <td align="left"> Bangladesh Army University of Science and Technology (BAUST) </td>
+            <td><b> Organization </b></td>
+            <td> CODEZ Info Tech </td>
+            <td> Bangladesh Army University of Science and Technology (BAUST) </td>
         </tr>
         <tr>
-            <td align="left"><b> Designation </b></td>
-            <td align="left"> Data Engineer </td>
-            <td align="left"> Lecturer </td>
+            <td><b> Designation </b></td>
+            <td> Data Engineer </td>
+            <td> Lecturer </td>
         </tr>
         <tr>
-            <td align="left"><b> Address </b></td>
-            <td align="left"> 3/359, Adarsha Nagar, Middle-Badda, Dhaka-1212 </td>
-            <td align="left"> Saidpur Cantonment, Saidpur, Bangladesh </td>
+            <td><b> Address </b></td>
+            <td> 3/359, Adarsha Nagar, Middle-Badda, Dhaka-1212 </td>
+            <td> Saidpur Cantonment, Saidpur, Bangladesh </td>
         </tr>
         <tr>
-            <td align="left"><b> Mobile </b></td>
-            <td align="left"> +8801947818375 </td>
-            <td align="left"> +8801734264899 </td>
+            <td><b> Mobile </b></td>
+            <td> +8801947818375 </td>
+            <td> +8801734264899 </td>
         </tr>
         <tr>
-            <td align="left"><b> Email </b></td>
-            <td align="left"> tareqitbuzz@gmail.com </td>
-            <td align="left"> abusalehcse.ru@gmail.com </td>
+            <td><b> Email </b></td>
+            <td> tareqitbuzz@gmail.com </td>
+            <td> abusalehcse.ru@gmail.com </td>
         </tr>
         <tr>
-            <td align="left"><b> Relation </b></td>
-            <td align="left"> Colleague </td>
-            <td align="left"> Teacher </td>
+            <td><b> Relation </b></td>
+            <td> Colleague </td>
+            <td> Teacher </td>
         </tr>
     </tbody>
 </table>
@@ -547,14 +547,14 @@ Wish you a good-looking profile README!
 <!-- Start Experience -->
 <h2> Experience: </h2>
 <table align="center">
-    <thead align="left">
+    <thead>
         <tr>
             <th><b></b> Company Name </th>
 	        <th><b> CODEZ Info Tech </b></th>
             <th><b> Disabled Rehabilitation and Research Association (DRRA) </b></th>
         </tr>
     </thead>
-    <tbody align="left">
+    <tbody>
         <tr>
             <td><b> Designation </b></td>
             <td> Web Developer </td>
@@ -760,40 +760,40 @@ Wish you a good-looking profile README!
 <br>
 
 <!-- handshake gif -->
-<img align="left" alt="handshake" src="media/gif/handshake.gif" width="190px">
+<img alt="handshake" src="media/gif/handshake.gif" width="190px">
 
 <!-- Start Social Links -->
 <table align="right">
-    <thead>
+    <thead align="center">
         <tr>
-            <th align="center">
+            <th>
                 <a href="https://www.linkedin.com/in/montasim">
-                    <img align="center" alt="LinkedIn" width="35px" src="media/icons/linkedin.png"/>
+                <img alt="LinkedIn" width="35px" src="media/icons/linkedin.png"/>
                 </a>
             </th>
-            <th align="center">
+            <th>
                 <a href="https://www.github.com/montasim">
-                    <img align="center" alt="Github - montasim" width="35px"   src="media/icons/github.png"/>
+                <img alt="Github - montasim" width="35px"   src="media/icons/github.png"/>
                 </a>
             </th>
-            <th align="center">
+            <th>
                 <a href="https://stackoverflow.com/users/10429621/coderaid">
-                    <img align="center" alt="Stackoverflow - coderaid" width="35px" src="media/icons/stack-overflow.png"/>
+                <img alt="Stackoverflow - coderaid" width="35px" src="media/icons/stack-overflow.png"/>
                 </a>
             </th>
-            <th align="center">
+            <th>
                 <a href="https://montasim.github.io">
-                    <img align="center" alt="Website - montasim.github.io" width="35px" src="media/icons/website.png"/>
+                <img alt="Website - montasim.github.io" width="35px" src="media/icons/website.png"/>
                 </a>
             </th>
-            <th align="center">
+            <th>
                 <a href="mailto:montasimmamun@gmail.com">
-                    <img align="center" alt="Gmail - montasimmamun@gmail.com" width="35px" src="media/icons/gmail.png"/>
+                <img alt="Gmail - montasimmamun@gmail.com" width="35px" src="media/icons/gmail.png"/>
                 </a>
             </th>
-            <th align="center">
+            <th>
                 <a href="https://www.youtube.com/channel/UCkkBnedfjKU-toiKQ-rxvtA">
-                    <img align="center" alt="YouTube -Rohan Das" width="35px" src="media/icons/youtube.png"/>
+                <img alt="YouTube -Rohan Das" width="35px" src="media/icons/youtube.png"/>
                 </a>
             </th>
         </tr>
@@ -806,7 +806,7 @@ Wish you a good-looking profile README!
 
 <br><br>
 
-<img align="left" height="250" width="375" alt="code gif" src="media/gif/code4.gif" />
+<img height="250" width="375" alt="code gif" src="media/gif/code4.gif" />
 
 <!-- Start Some Words About Me -->
 <h2> ✍ ꜱᴏᴍᴇ ᴡᴏʀᴅ ᴀʙᴏᴜᴛ ᴍᴇ </h2>
@@ -829,7 +829,7 @@ Wish you a good-looking profile README!
 <img align="right" alt="coder gif" src="media/gif/coder.gif"  height="250" width="375">
 
 <!-- Start Talking About Personal Stuffs -->
-<h2 align="left">💥 ᴛᴀʟᴋɪɴɢ ᴀʙᴏᴜᴛ ᴘᴇʀꜱᴏɴᴀʟ ꜱᴛᴀꜰꜰ </h2>
+<h2>💥 ᴛᴀʟᴋɪɴɢ ᴀʙᴏᴜᴛ ᴘᴇʀꜱᴏɴᴀʟ ꜱᴛᴀꜰꜰ </h2>
 
 &nbsp;&nbsp;&nbsp;&nbsp; &#x1F539; ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ
 <br>
@@ -848,7 +848,7 @@ Wish you a good-looking profile README!
 <br><br><br><br><br>
 
 <!-- coder gif -->
-<img align="left" alt="sleeping coding gif" src="media/gif/installing-program.gif" height="250" width="375">
+<img alt="sleeping coding gif" src="media/gif/installing-program.gif" height="250" width="375">
 
 <!-- Start Talking About Personal Stuffs -->
 <h2> 💮 ᴍʏ ᴀʙꜱᴏʟᴜᴛᴇ ꜰᴀᴠᴏᴜʀɪᴛᴇ </h2>
@@ -865,7 +865,7 @@ Wish you a good-looking profile README!
 <br><br><br><br><br><br><br>
 
 <!-- Start My Github Stats -->
-<h2 align="left"> 💠 ꜱᴏᴍᴇ ʀᴀɴᴅᴏᴍ ᴊᴏᴋᴇꜱ </h2>
+<h2> 💠 ꜱᴏᴍᴇ ʀᴀɴᴅᴏᴍ ᴊᴏᴋᴇꜱ </h2>
 <br>
 <!-- Start Montasim's github readme stats -->
 <div align=center>
@@ -918,7 +918,7 @@ Wish you a good-looking profile README!
 <br><br>
 
 <!-- Start Training, Participation and Certification -->
-<h2 align="left"> Training, Participation and Certification: </h2>
+<h2> Training, Participation and Certification: </h2>
 
 - <a href="#"> Mobile Game And Application Development For Android - at ICT Division of Bangladesh </a>
 - <a href="#"> PLC Training Course - at BAUST </a>
@@ -948,63 +948,63 @@ Wish you a good-looking profile README!
 
 <!--START_SECTION:top-followers-->
 <table>
-  <tr>
-    <td align="center">
+  <tr align="center">
+    <td>
         <img src="https://avatars.githubusercontent.com/u/60427103?s=100&v=4" width="100px;" />
         <br />
     </td>
-    <td align="center">
+    <td>
       <a href="https://github.com/donmartz">
         <img src="https://avatars.githubusercontent.com/u/40871658?s=100&v=4" width="100px;" />
         <br />
     </td>
-    <td align="center">
+    <td>
         <img src="https://avatars.githubusercontent.com/u/43262000?s=100&v=4" width="100px;" />
         <br />
     </td>
-    <td align="center">
+    <td>
         <img src="https://avatars.githubusercontent.com/u/34787290?s=100&v=4" width="100px;" />
         <br />
     </td>
-    <td align="center">
+    <td>
         <img src="https://avatars.githubusercontent.com/u/69847499?s=100&v=4" width="100px;" />
         <br />
     </td>
-    <td align="center">
+    <td>
         <img src="https://avatars.githubusercontent.com/u/71976987?s=100&v=4" width="100px;" />
         <br />
     </td>
-    <td align="center">
+    <td>
         <img src="https://avatars.githubusercontent.com/u/53873688?s=100&v=4" width="100px;" />
         <br />
     </td>
   </tr>
-  <tr>
-    <td align="center">
+  <tr align="center">
+    <td>
         <img src="https://avatars.githubusercontent.com/u/75871974?s=100&v=4" width="100px;" />
         <br />
     </td>
-    <td align="center">
+    <td>
         <img src="https://avatars.githubusercontent.com/u/39973552?s=100&v=4" width="100px;" />
         <br />
     </td>
-    <td align="center">
+    <td>
         <img src="https://avatars.githubusercontent.com/u/4786022?s=100&v=4" width="100px;" />
         <br />
     </td>
-    <td align="center">
+    <td>
         <img src="https://avatars.githubusercontent.com/u/76847887?s=100&v=4" width="100px;" />
         <br />
     </td>
-    <td align="center">
+    <td>
         <img src="https://avatars.githubusercontent.com/u/76745218?s=100&v=4" width="100px;" />
         <br />
     </td>
-    <td align="center">
+    <td>
         <img src="https://avatars.githubusercontent.com/u/7357679?s=100&v=4" width="100px;" />
         <br />
     </td>
-    <td align="center">
+    <td>
         <img src="https://avatars.githubusercontent.com/u/25494368?s=100&v=4" width="100px;" />
       <br />
     </td>
@@ -1024,7 +1024,7 @@ Wish you a good-looking profile README!
 <!-- Start Montasim's github readme stats -->
 <div align=center>
   <div>
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&border=61dafb&hide_border=true" alt="montasim" />
+      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&border=61dafb&hide_border=true" alt="montasim" />
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
 <br><br><br><br><br><br><br><br><br>
@@ -1065,6 +1065,7 @@ Wish you a good-looking profile README!
 
 <!-- start my specification section -->
 <h2 align="center"><b> 💻 My Specifications </b></h2>
+
 <table align="center">
     <thead align="center">
         <tr>
@@ -1081,64 +1082,48 @@ Wish you a good-looking profile README!
             <td>C, C++, PHP</td>
             <td>Java, JavaScript</td>
         </tr>
-    </tbody>
-    <tbody align="left">
         <tr>
             <td><b>Web Technologies</b></td>
             <td>HTML, CSS</td>
             <td>Markdown</td>
             <td>XML</td>
         </tr>
-    </tbody>
-    <tbody align="left">
         <tr>
             <td><b>Web Frameworks</b></td>
             <td>Bootstrap, Django</td>
             <td>Flask</td>
             <td>TailWind CSS</td>
         </tr>
-    </tbody>
-    <tbody align="left">
         <tr>
             <td><b>Web Creation Platforms</b></td>
             <td>WordPress, Blogger</td>
             <td>Wix</td>
             <td></td>
         </tr>
-    </tbody>
-    <tbody align="left">
         <tr>
             <td><b>Database</b></td>
             <td>MySQL</td>
             <td>SqlLite</td>
             <td></td>
         </tr>
-    </tbody>
-    <tbody align="left">
         <tr>
             <td><b>Version Control</b></td>
             <td>Git, Github</td>
             <td></td>
             <td></td>
         </tr>
-    </tbody>
-    <tbody align="left">
         <tr>
             <td><b>Operating System</b></td>
             <td>Windows, Ubuntu</td>
             <td>Fedora, RedHat, Debian</td>
             <td>Linux Mint, Kali Linux</td>
         </tr>
-    </tbody>
-    <tbody align="left">
         <tr>
             <td><b>Languages</b></td>
             <td>English (Native), Bangla (Native)</td>
             <td>Hindi</td>
             <td>Arabic</td>
         </tr>
-    </tbody>
-    <tbody align="left">
         <tr>
             <td><b>Other interests</b></td>
             <td>Reading Books</td>
@@ -1153,6 +1138,7 @@ Wish you a good-looking profile README!
 
 <!-- start my Work Experience -->
 <h2 align="center"><b> ⌚ My Work Experience </b></h2>
+
 <table align="center">
     <thead>
         <tr>
@@ -1163,7 +1149,7 @@ Wish you a good-looking profile README!
             <th><b>Job Profile</b></th>
         </tr>
     </thead>
-    <tbody align="left">
+    <tbody>
         <tr>
             <td><b>Problem Solver</b></td>
             <td>HackerRank</td>
@@ -1180,8 +1166,8 @@ Wish you a good-looking profile README!
 <!-- Projects I'm the most proud of -->
 <h2 align="center"><b> 📌 Projects I'm The Most Proud Of </b></h2>
 <table align="center">
-    <thead>
-        <tr align="center">
+    <thead align="center">
+        <tr>
             <th>
                 <b>Name</b>
             </th>
@@ -1203,24 +1189,18 @@ Wish you a good-looking profile README!
             <td></td>
             <td><a href="https://www.hackerrank.com/montasim"></a></td>
         </tr>
-    </tbody>
-    <tbody align="left">
         <tr>
             <td></td>
             <td></td>
             <td></td>
             <td><a href="https://www.hackerrank.com/montasim"></a></td>
         </tr>
-    </tbody>
-    <tbody align="left">
         <tr>
             <td></td>
             <td></td>
             <td></td>
             <td><a href="https://www.hackerrank.com/montasim"></a></td>
         </tr>
-    </tbody>
-    <tbody align="left">
         <tr>
             <td></td>
             <td></td>
@@ -1236,8 +1216,8 @@ Wish you a good-looking profile README!
 <!-- My own dictionary  -->
 <h2 align="center"><b> ⚠️ My Own Dictionary  </b></h2>
 <table align="center">
-    <thead>
-        <tr align="center">
+    <thead align="center">
+        <tr>
             <th>
                 <b>Word / Abreviation</b>
             </th>
@@ -1249,7 +1229,7 @@ Wish you a good-looking profile README!
             </th>
         </tr>
     </thead>
-    <tbody align="left">
+    <tbody>
         <tr>
             <td></td>
             <td></td>
@@ -1384,7 +1364,7 @@ Wish you a good-looking profile README!
     <tr>
         <td>
             <h3 align="center"> My latest posts </h3>
-            <div align="left">
+            <div>
                 <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for his GitHub readme Stats
                 <br>
                 <a href="https://lottiefiles.com/">lottiefiles</a> for beautiful animatated gif collection
