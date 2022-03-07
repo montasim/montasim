@@ -1488,6 +1488,11 @@ Wish you a good-looking profile README!
 # StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by MONTASIM for Programming a button with javascript using outer files](https://stackoverflow.com/questions/71202556/programming-a-button-with-javascript-using-outer-files/71202707#71202707)
+- [Answer by MONTASIM for I am trying to make all classes &lpar;sometags&rpar; turn pink once I call it in javascript it has to be onClickEvent](https://stackoverflow.com/questions/71193951/i-am-trying-to-make-all-classes-sometags-turn-pink-once-i-call-it-in-javascrip/71194646#71194646)
+- [Two empty input field checking problem using JavaScript function](https://stackoverflow.com/questions/71178334/two-empty-input-field-checking-problem-using-javascript-function)
+- [Answer by MONTASIM for Can You remove a blank background from an icon with CSS?](https://stackoverflow.com/questions/63090205/can-you-remove-a-blank-background-from-an-icon-with-css/63090439#63090439)
+- [Answer by MONTASIM for Tailwind + Javascript](https://stackoverflow.com/questions/63043433/tailwind-javascript/63085360#63085360)
 <!-- STACKOVERFLOW:END -->
 </details>
 <!-- End Find More On Social Media Section -->
