@@ -20,7 +20,7 @@
 ⚡️Stay awesome!⚡️
 
 <p align="center">
-🐍&nbsp;<img src="https://i.imgur.com/uyzXdOe.gif" width="200">🐍
+<img src="https://i.imgur.com/uyzXdOe.gif" width="200">
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg">
 </p>
 
