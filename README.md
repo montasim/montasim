@@ -1438,6 +1438,10 @@ Wish you a good-looking profile README!
             <td> for background removal </td>
         </tr>
         <tr>
+            <td><a href="https://github-readme-quotes.herokuapp.com/">Dynamic Quotes</a> </td>
+            <td> for Github  Readme </td>
+        </tr>
+        <tr>
             <td> <a href="https://lingojam.com/FancyLetters">lingojam.com</a> </td>
             <td> for beautiful fonts </td>
         </tr>
