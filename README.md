@@ -860,7 +860,6 @@ Wish you a good-looking profile README!
 &nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ʀᴇᴀᴅɪɴɢ & ᴡʀɪᴛɪɴɢ ᴛᴇᴄʜ ʙʟᴏɢꜱ ᴡʜᴇɴᴇᴠᴇʀ ᴘᴏꜱꜱɪʙʟᴇ
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠɪɴɢ, ᴍᴇᴇᴛᴜᴘꜱ & ᴛᴇᴄʜ ᴇᴠᴇɴᴛꜱ
-<br>
 
 <!-- End Talking About Personal Stuffs -->
 
