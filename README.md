@@ -1414,8 +1414,6 @@ Wish you a good-looking profile README!
         <img src="https://readme-typing-svg.herokuapp.com?color=%23D04060&center=true&vCenter=true&lines=Made+By+Montasim">
     </a>
 </div>
-
-<hr>
 <!--End Footer-->
 
 <!--Start Links-->
