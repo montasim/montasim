@@ -1441,6 +1441,20 @@ Wish you a good-looking profile README!
     <a href="https://montasim.github.io/" target="_blank"> 
         <img src="https://readme-typing-svg.herokuapp.com?color=%23D04060&center=true&vCenter=true&lines=Made+By+Montasim">
     </a>
+
+<br><br>
+
+<!-- start about this readme -->
+<div>
+    <img src="https://img.shields.io/github/stars/montasim/montasim.github.io" alt="Stars Badge"/>
+    <img src="https://img.shields.io/github/forks/montasim/montasim.github.io" alt="Forks Badge"/>
+    <img src="https://img.shields.io/github/issues-pr/montasim/montasim.github.io" alt="Pull Requests Badge"/>
+    <img src="https://img.shields.io/github/issues/montasim/montasim.github.io" alt="Issues Badge"/>
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/montasim/montasim.github.io?color=2b9348">
+    <img src="https://img.shields.io/github/license/montasim/montasim.github.io?color=2b9348" alt="License Badge"/>
+</div>
+<!-- end about this readme -->
+
 </div>
 <!--End Footer-->
 
