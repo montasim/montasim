@@ -136,7 +136,7 @@ Wish you a good-looking profile README!
 </table>
 <!-- End Links -->
 
-<br><br><br>
+<br><br>
 
 <!-- Start Career Objective -->
 <h2> Career Objective: </h2>
@@ -165,7 +165,7 @@ Wish you a good-looking profile README!
     <thead>
         <tr>
             <th>
-                <b> Company Name </b>
+                <b> Organization </b>
             </th>
 	        <th>
                 <b> CODEZ Info Tech </b>
@@ -226,7 +226,7 @@ Wish you a good-looking profile README!
     <thead>
         <tr>
             <th>
-                <b> Exam Title </b>
+                <b> Exam </b>
             </th>
 	        <th>
                 <b> Concentration / Major </b>
@@ -549,7 +549,7 @@ Wish you a good-looking profile README!
 <table align="center">
     <thead>
         <tr>
-            <th><b></b> Company Name </th>
+            <th><b></b> Organization </th>
 	        <th><b> CODEZ Info Tech </b></th>
             <th><b> Disabled Rehabilitation and Research Association (DRRA) </b></th>
         </tr>
