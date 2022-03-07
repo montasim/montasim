@@ -891,7 +891,7 @@ Wish you a good-looking profile README!
 	
 <br><br>
 
-<table>
+<table align="center">
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
