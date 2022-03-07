@@ -877,10 +877,10 @@ Wish you a good-looking profile README!
 <!-- Start random jokes -->
 <h2> 💠 ꜱᴏᴍᴇ ʀᴀɴᴅᴏᴍ ᴊᴏᴋᴇꜱ </h2>
 <br>
-<!-- Start Montasim's github readme stats -->
+<!-- Start random jokes -->
 <div align=center>
-      <img src="https://readme-jokes.vercel.app/api/?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" />
-      <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=churchill&font=default">
+      <img src="https://readme-jokes.vercel.app/api/?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Fun Fact" />
+      <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=churchill&font=default" alt="Jokes Card">
 </div>
 
 <br><br>
