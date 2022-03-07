@@ -1081,7 +1081,7 @@ Wish you a good-looking profile README!
         <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
     </div>
     <div>
-        <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg">
+        <img src="https://raw.githubusercontent.com/montasim/montasim/output/github-contribution-grid-snake.svg">
     </div>
 </div>
 <!-- End Montasim's github readme stats -->
