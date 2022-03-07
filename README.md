@@ -1061,7 +1061,7 @@ Wish you a good-looking profile README!
 <!-- End My Followers Section -->
 
 <!-- Start My Github Stats -->
-<h2 align="center"> 📊 ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ </h2>
+<h2 align="center"> 📈 ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ </h2>
 <br>
 
 <!-- Start Montasim's github readme stats -->
@@ -1475,7 +1475,7 @@ Wish you a good-looking profile README!
 <div align="center" class="footer">
     <!-- Wave svg --> 
     <div>
-        <img alt="Wave svg" src="media/images/wave.svg">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
     </div>
     <br>
     <!-- Copyright --> 
