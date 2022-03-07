@@ -1371,8 +1371,8 @@ Wish you a good-looking profile README!
 <table align="center">
     <thead>
         <tr>
-            <td> Name </td>
-            <td> Contribution </td>
+            <td> <b> Name </b> </td>
+            <td> <b> Contribution </b> </td>
         </tr>
     </thead>
     <tbody>
