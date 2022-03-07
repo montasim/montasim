@@ -1392,6 +1392,12 @@ Wish you a good-looking profile README!
 </div>
 <br>
 
+<!-- Wakatime stats -->
+<div align="center">
+  <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=montasim&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="Wakatime stats">
+</div>
+<br>
+
 </details>
 <!-- End 𝙼𝚢 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 Section -->
 
