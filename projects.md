@@ -14,7 +14,30 @@
 
 `swyx at hey dot com`
 
-📫👯⚡📬🛎📚⭐🎁🍕🚀🔭🌱🛠️🔒🔗❤️🤷‍♂️👆🗒📝⛏⌚︎📅🌙🌆🌞🐤🗣🎉
+📫👯⚡📬🛎📚⭐🎁🍕🚀🔭🌱🛠️🔒🔗❤️🤷‍♂️👆🗒📝⛏⌚︎📅🌙🌆🌞🐤🗣🎉🎉 😎 🎊✈️ 🌎 🧳🌟🎲💭☁️📙📢✒️✏️🏊‍♂️📮⏰⏳📺📖🔑✨📧🌐➡️🥅
+📷💻🎮🎬❗️
+<img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
+
+<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" />
+
+:page_with_curl: I'm currently learning:
+<br><br>
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-38-informational?labelColor=7D898B)
+
+![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-28-blueviolet?labelColor=7D898B)
 
 <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-295%20Thousand%20lines%20of%20code-blue">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -52,3 +75,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
