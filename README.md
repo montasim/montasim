@@ -1369,7 +1369,7 @@ Wish you a good-looking profile README!
 <br><br>
 
 <table align="center">
-    <thead>
+    <thead align="center">
         <tr>
             <td> <b> Name </b> </td>
             <td> <b> Contribution </b> </td>
