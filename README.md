@@ -43,6 +43,7 @@ Wish you a good-looking profile README!
     <img alt="last commit" src="https://img.shields.io/github/last-commit/montasim/montasim" />
     <img alt="Code Quality" src="https://img.shields.io/badge/Code%20Quality-Good-lightblue" />
     <img alt="visitor" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasimmamun" />
+    <img alt="visitor" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasimmamun" />
     <img alt="Thanks" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" />
 </div>
 <!-- End Some Hints Icons About Montasim -->
