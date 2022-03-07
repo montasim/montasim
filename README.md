@@ -136,7 +136,7 @@ Wish you a good-looking profile README!
 </table>
 <!-- End Links -->
 
-<br><br><br><br>
+<br><br><br>
 
 <!-- Start Career Objective -->
 <h2> Career Objective: </h2>
