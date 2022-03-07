@@ -1485,7 +1485,7 @@ Wish you a good-looking profile README!
     <!-- End Twitter Section -->
     <br><br>
 
-# StackOverflow Activity
+### StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
