@@ -1500,7 +1500,7 @@ Wish you a good-looking profile README!
     <img src="https://img.shields.io/github/issues-pr/montasim/montasim.github.io" alt="Pull Requests Badge"/>
     <img src="https://img.shields.io/github/issues/montasim/montasim.github.io" alt="Issues Badge"/>
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/montasim/montasim.github.io?color=2b9348">
-    <img src="https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success" alt="License Badge"/>
+    <img src="https://img.shields.io/badge/license-feel%20free%20to%20use-success" alt="License Badge"/>
     <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" alt="Say Thanks"/>
 </div>
 <!-- end about this readme -->
