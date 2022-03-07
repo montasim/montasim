@@ -39,6 +39,7 @@ Wish you a good-looking profile README!
 
 <!-- Start Some Hints Icons About Montasim -->
 <div align="center">
+    <img src="https://img.shields.io/badge/version-07.March.2022-informational">
     <img alt="last commit" src="https://img.shields.io/github/last-commit/montasim/montasim" />
     <img alt="Code Quality" src="https://img.shields.io/badge/Code%20Quality-Good-lightblue" />
     <img alt="visitor" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasimmamun" />
@@ -1499,7 +1500,7 @@ Wish you a good-looking profile README!
     <img src="https://img.shields.io/github/issues-pr/montasim/montasim.github.io" alt="Pull Requests Badge"/>
     <img src="https://img.shields.io/github/issues/montasim/montasim.github.io" alt="Issues Badge"/>
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/montasim/montasim.github.io?color=2b9348">
-    <img src="https://img.shields.io/github/license/montasim/montasim.github.io?color=2b9348" alt="License Badge"/>
+    <img src="https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success" alt="License Badge"/>
 </div>
 <!-- end about this readme -->
 
