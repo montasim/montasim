@@ -546,6 +546,7 @@ Wish you a good-looking profile README!
 
 <!-- Start Experience -->
 <h2> Experience: </h2>
+
 <table align="center">
     <thead>
         <tr>
@@ -1367,28 +1368,37 @@ Wish you a good-looking profile README!
 
 <br><br>
 
-<table>
-    <tr>
-        <td>
-            <h3 align="center"> My latest posts </h3>
-            <div>
-                <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> for his GitHub readme Stats
-                <br>
-                <a href="https://lottiefiles.com/">lottiefiles</a> for beautiful animatated gif collection
-                <br>
-                <a href="https://www.remove.bg/">remove.bg</a> for background removal
-                <br>
-                <a href="https://lingojam.com/FancyLetters">lingojam.com</a> for beautiful fonts
-                <br>
-                <a href="https://gifer.com/en/">gifer.com</a> for transparent gif
-            </div>
-        </td>
-        <td width="40%" valign="top">
-            <h3 align="center"> Miscellaneous </h3>
-            <!-- https://github.com/lifeparticle/Gist-Count -->
-            [![Github gists](https://gist-count.vercel.app/api?username=montasim)](https://gist.github.com/montasim)
-        </td>
-    </tr>
+<table align="center">
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> </td>
+            <td> for his GitHub readme Stats </td>
+        </tr>
+        <!-- <tr>
+            <td>
+                <img src="https://gist-count.vercel.app/api?username=montasim">
+            </td>
+            <td> Github gists </td>
+        </tr> -->
+        <tr>
+            <td>
+                <a href="https://lottiefiles.com/">lottiefiles</a> 
+            </td>
+            <td> for beautiful animatated gif collection </td>
+        </tr>
+        <tr>
+            <td><a href="https://www.remove.bg/">remove.bg</a> </td>
+            <td> for background removal </td>
+        </tr>
+        <tr>
+            <td> <a href="https://lingojam.com/FancyLetters">lingojam.com</a> </td>
+            <td> for beautiful fonts </td>
+        </tr>
+        <tr>
+            <td> <a href="https://gifer.com/en/">gifer.com</a>  </td>
+            <td> for transparent gif </td>
+        </tr>
+    </tbody>
 </table>
 
 </details>
