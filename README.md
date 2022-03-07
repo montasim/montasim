@@ -39,7 +39,7 @@ Wish you a good-looking profile README!
 
 <!-- Start Some Hints Icons About Montasim -->
 <div align="center">
-    <img src="https://img.shields.io/badge/version-07.March.2022-informational">
+    <img alt="version" src="https://img.shields.io/badge/version-07%20March%202022-informational">
     <img alt="last commit" src="https://img.shields.io/github/last-commit/montasim/montasim" />
     <img alt="Code Quality" src="https://img.shields.io/badge/Code%20Quality-Good-lightblue" />
     <img alt="visitor" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasimmamun" />
