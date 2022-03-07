@@ -1496,7 +1496,7 @@ Wish you a good-looking profile README!
 - [Answer by MONTASIM for Tailwind + Javascript](https://stackoverflow.com/questions/63043433/tailwind-javascript/63085360#63085360)
 <!-- STACKOVERFLOW:END -->
 
-### Youtube posts
+### YouTube posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
