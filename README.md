@@ -856,7 +856,7 @@ Wish you a good-looking profile README!
 <br><br><br><br><br>
 
 <!-- coder gif -->
-<img align="left" alt="sleeping coding gif" src="media/gif/installing-program.gif" height="250" width="375">
+<img align="left" alt="sleeping coding gif" src="media/gif/installing-program1.gif" height="250" width="375">
 
 <!-- Start Talking About Personal Stuffs -->
 <h2> 💮 ᴍʏ ᴀʙꜱᴏʟᴜᴛᴇ ꜰᴀᴠᴏᴜʀɪᴛᴇ </h2>

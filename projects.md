@@ -9,6 +9,8 @@
     <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
+<img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DChungZH&longCache=true"/>
+
 <h1 align="center">Awesome GitHub Profile README
 <a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a>
 </h1>
@@ -25,9 +27,11 @@
 
 📫👯⚡📬🛎📚⭐🎁🍕🚀🔭🌱🛠️🔒🔗❤️🤷‍♂️👆🗒📝⛏⌚︎📅🌙🌆🌞🐤🗣🎉🎉 😎 🎊✈️ 🌎 🧳🌟🎲💭☁️📙📢✒️✏️🏊‍♂️📮⏰⏳📺📖🔑✨📧🌐➡️🥅
 📷💻🎮🎬❗️⭐️👁📔📗📘💼👨‍💻🧰🗄️🛸🤝💙🎓🔬🔍🕸️💡🏛👾📰☄️⚙️📚📱⬆🔔🔩👀🚪
-💊🧠💓
+💊🧠💓🪟🥬📇✈️🏠☕🥖
 
 ⚡️Stay awesome!⚡️
+
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=10429621">
 
 <div>
 
