@@ -160,6 +160,7 @@ Wish you a good-looking profile README!
 
 <!-- Start Experience -->
 <h2> Experience: </h2>
+
 <table align="center">
     <thead align="left">
         <tr>
@@ -285,25 +286,40 @@ Wish you a good-looking profile README!
 <!-- Start Career and Application Information -->
 <h2> Career and Application Information: </h2>
 
-<table>
+<table align="center">
     <tbody>
         <tr>
-            <td> <b> Preferred Job Category </b> 
-                <br> <b> Looking For </b> 
-                <br> <b> Available For </b> 
-                <br> <b> Preferred District </b> 
-                <br> <b> Preferred Organization Types </b>
-            </td>
             <td>
-                : Engineer, IT, Telecommunication, Design, Creative 
-                <br> : Entry Level Job 
-                <br> : Full Time 
-                <br> : Dhaka, Rangpur 
-                <br> : Software Company
+                <b> Preferred Job Category </b>
             </td>
+            <td> Engineer, IT, Telecommunication, Design, Creative </td>
+        </tr>
+        <tr>
+            <td>
+                <b> Looking For </b> 
+            </td>
+            <td> Entry Level Job </td>
+        </tr>
+        <tr>
+            <td>
+                <b> Available For </b>
+            </td>
+            <td> Full Time </td>
+        </tr>
+        <tr>
+            <td>
+                <b> Preferred District </b>
+            </td>
+            <td> Dhaka, Rangpur </td>
+        </tr>
+        <tr>
+            <td>
+                <b> Preferred Organization Types </b>
+            </td>
+            <td> Software Company </td>
         </tr>
     </tbody>
-</table>  
+</table>
 <!-- End Career and Application Information -->
 
 <br>
@@ -315,24 +331,48 @@ Wish you a good-looking profile README!
         <tr>
             <td> 
                 <b> Programming Languages </b> 
-                <br> <b> Web Frameworks </b> 
-                <br> <b> Web Technologies </b> 
-                <br> <b> Content Management System (CMS) </b> 
-                <br> <b> Databases </b>
-                <br> <b> Toolkits </b> 
-                <br> <b> Version Control </b> 
-                <br> <b> Human Skills </b> 
             </td>
+            <td> C, C++, JavaScript, SQL </td>
+        </tr>
+        <tr>
+            <td> <b> Web Frameworks </b> </td>
+            <td> Bootstrap, Tailwind CSS </td>
+        </tr>
+        <tr> 
             <td>
-                  : C, C++, JavaScript, SQL 
-                  <br> : Bootstrap, Tailwind CSS 
-                  <br> : HTML, CSS, Markdown 
-                  <br> : Word Press, Blogger 
-                  <br> : SQL Server, MySQL, SQLite 
-                  <br> : LaTeX 
-                  <br> : Git, GitHub 
-                  <br> : Leadership, Time Management
+                <b> Web Technologies </b>
             </td>
+            <td> HTML, CSS, Markdown </td> 
+        </tr>
+        <tr> 
+            <td> 
+                <b> Content Management System (CMS) </b>
+            </td>
+            <td> Word Press, Blogger </td> 
+        </tr>
+        <tr> 
+            <td> 
+                <b> Databases </b>
+            </td>
+            <td> SQL Server, MySQL, SQLite </td> 
+        </tr>
+        <tr>
+            <td> 
+                <b> Toolkits </b>
+            </td>
+            <td> LaTeX </td>
+        </tr>
+        <tr> 
+            <td>
+                <b> Version Control </b> 
+            </td>
+            <td> Git, GitHub </td>
+        </tr>
+        <tr> 
+            <td>
+                <b> Human Skills </b>
+            </td>
+            <td> Leadership, Time Management </td>
         </tr>
     </tbody>
 </table>
