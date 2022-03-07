@@ -435,8 +435,8 @@ Wish you a good-looking profile README!
 <!-- Start Extra Curricular Activities -->
 <h2> Extra Curricular Activities: (2)</h2>
 
-- <p> Ex. Cadet, second best cadet of Mohasthan Regiment at Bangladesh National Cadet Corps (BNCC) </p>
-- <p> Event Organizer at Rangpur Zilla School </p>
+- Ex. Cadet, second best cadet of Mohasthan Regiment at Bangladesh National Cadet Corps (BNCC)
+- Event Organizer at Rangpur Zilla School
   <!-- End Extra Curricular Activities -->
 
 <br>
@@ -447,23 +447,32 @@ Wish you a good-looking profile README!
 <table>
     <tbody>
         <tr>
-            <td> Father's Name 
-                <br> Mother's Name 
-                <br> Date of Birth 
-                <br> Nationality 
-                <br> Blood Group
-                <br> Religion 
-                <br> Permanent Address
-            </td>
-            <td>
-                MD. Hafizar Rahman 
-                <br> MST. Majida Begum 
-                <br> December 16, 1998 
-                <br> Bangladeshi 
-                <br> B+
-                <br> Islam 
-                <br> Balapara, 20 Mega Watt, Rangpur Sadar, Rangpur
-            </td>
+            <td> <b> Father's Name </b> </td>
+            <td> MD. Hafizar Rahman </td>
+        </tr>
+        <tr>
+            <td> <b> Mother's Name </b> </td>
+            <td> MST. Majida Begum </td>
+        </tr>
+        <tr>
+            <td> <b> Date of Birth </b> </td>
+            <td> December 16, 1998 </td>
+        </tr>
+        <tr>
+            <td> <b> Nationality </b> </td>
+            <td> Bangladeshi </td>
+        </tr>
+        <tr>
+            <td> <b> Blood Group </b> </td>
+            <td> B+ </td>
+        </tr>
+        <tr>
+            <td> <b> Religion </b> </td>
+            <td> Islam </td>
+        </tr>
+        <tr>
+            <td> <b> Permanent Address </b> </td>
+            <td> Balapara, 20 Mega Watt, Rangpur Sadar, Rangpur </td>
         </tr>
     </tbody>
 </table>
