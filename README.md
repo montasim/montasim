@@ -756,8 +756,6 @@ Wish you a good-looking profile README!
 </details>
 <!-- End My Skills Section -->
 
-<br>
-
 <!-- Start 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section -->
 <!-- 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 -->
 <h2 align="right"> &#x1F53B; ꜰɪɴᴅ ᴍᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </h2>
@@ -815,8 +813,6 @@ Wish you a good-looking profile README!
 
 <img align="left" height="250" width="375" alt="code gif" src="media/gif/code4.gif" />
 
-<br>
-
 <!-- Start Some Words About Me -->
 <h2> ✍ ꜱᴏᴍᴇ ᴡᴏʀᴅ ᴀʙᴏᴜᴛ ᴍᴇ </h2>
 
@@ -838,8 +834,6 @@ Wish you a good-looking profile README!
 
 <!-- coder gif -->
 <img align="right" alt="coder gif" src="media/gif/coder.gif"  height="250" width="375">
-
-<br>
 
 <!-- Start Talking About Personal Stuffs -->
 <h2>💥 ᴛᴀʟᴋɪɴɢ ᴀʙᴏᴜᴛ ᴘᴇʀꜱᴏɴᴀʟ ꜱᴛᴀꜰꜰ </h2>
@@ -864,8 +858,6 @@ Wish you a good-looking profile README!
 
 <!-- coder gif -->
 <img align="left" alt="sleeping coding gif" src="media/gif/installing-program1.gif" height="250" width="375">
-
-<br>
 
 <!-- Start Talking About Personal Stuffs -->
 <h2> 💮 ᴍʏ ᴀʙꜱᴏʟᴜᴛᴇ ꜰᴀᴠᴏᴜʀɪᴛᴇ </h2>
