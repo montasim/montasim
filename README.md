@@ -60,10 +60,6 @@ Wish you a good-looking profile README!
 </div>
 <!-- End Programming Languages Icon -->
 
-<div align="center">
-    <img src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/10429621">
-</div>
-
 <br><br>
 
 <!-- start weather -->
@@ -1410,6 +1406,8 @@ Wish you a good-looking profile README!
 <div align="center">
   <img src="https://github-readme-stackoverflow.vercel.app/?userID=10429621&theme=dark" alt="Stackoverflow Stats">
 </div>
+
+<br><br>
 
 <!-- website speed stats -->
 <div align="center">
