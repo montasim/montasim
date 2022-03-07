@@ -1404,6 +1404,10 @@ Wish you a good-looking profile README!
             <td> <a href="https://gifer.com/en/">gifer.com</a>  </td>
             <td> for transparent gif </td>
         </tr>
+        <tr>
+            <td> <a href="https://readme-typing-svg.herokuapp.com">Readme Typing SVG</a>  </td>
+            <td> for colorful SVG text </td>
+        </tr>
     </tbody>
 </table>
 
