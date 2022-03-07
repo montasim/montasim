@@ -1412,7 +1412,10 @@ Wish you a good-looking profile README!
 
 <!-- Start Find More On Social Media Section -->
 <details>
-    <summary> 📛 ꜰɪɴᴅ ᴍᴏʀᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </summary><br>
+    <summary> 
+        <b> 📛 ꜰɪɴᴅ ᴍᴏʀᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </b> 
+    </summary>
+    <br>
     <!-- Start Twitter Section -->
     <b> ⌛ Twitter </b>
     <img src="https://github-readme-twitter.gazf.vercel.app/api?id=montasimmamun&layout=wide">
