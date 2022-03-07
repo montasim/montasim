@@ -81,7 +81,7 @@ Wish you a good-looking profile README!
 <details>
 <summary><b> 📑 ᴍʏ ʀᴇꜱᴜᴍᴇ </b></summary>
 
-<br><br><br>
+<br><br>
 
 <h2 align="center">
     <a href="https://github.com/montasim/DoNotDelete/raw/main/resume/Resume_of_Montasim.pdf"> 
@@ -102,15 +102,38 @@ Wish you a good-looking profile README!
 <br>
 
 <!-- Start Links -->
-<div>
-    <b> Email: </b> <a href="montasimmamun@gmail.com"> montasimmamun@gmail.com</a>
-    <br>
-    <b> Portfolio: </b> <a href="https://montasim.github.io"> montasim.github.io </a>
-    <br>
-    <b> Mobile: </b> <a href="+8801722815469"> +8801722815469 </a>
-    <br>
-    <b> GitHub: </b> <a href="https://github.com/montasim"> github.com/montasim </a>
-</div>
+<table align="left">
+    <thead>
+        <tr>
+            <th>
+                <b> Email </b>
+            </th>
+	        <th>
+                <a href="montasimmamun@gmail.com"> montasimmamun@gmail.com</a>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <b> Portfolio </b>
+            </td>
+            <td> <a href="https://montasim.github.io"> montasim.github.io </a> </td>
+        </tr>
+        <tr>
+            <td>
+                <b> Mobile </b>
+            </td>
+            <td> <a href="+8801722815469"> +8801722815469 </a> </td>
+        </tr>
+        <tr>
+            <td>
+                <b> GitHub </b>
+            </td>
+            <td> <a href="https://github.com/montasim"> github.com/montasim </a> </td>
+        </tr>
+    </tbody>
+</table>
 <!-- End Links -->
 
 <br><br>
