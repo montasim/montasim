@@ -804,6 +804,7 @@ Wish you a good-looking profile README!
 <br><br><br><br>
 
 <h2></h2>
+<hr>
 <!-- End 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section -->
 
 <br><br>
