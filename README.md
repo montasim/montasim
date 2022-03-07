@@ -760,7 +760,7 @@ Wish you a good-looking profile README!
 <br>
 
 <!-- handshake gif -->
-<img alt="handshake" src="media/gif/handshake.gif" width="190px">
+<img align="left" alt="handshake" src="media/gif/handshake.gif" width="190px">
 
 <!-- Start Social Links -->
 <table align="right">
