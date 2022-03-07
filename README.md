@@ -1369,6 +1369,12 @@ Wish you a good-looking profile README!
 <br><br>
 
 <table align="center">
+    <thead>
+        <tr>
+            <td> Name </td>
+            <td> Contribution </td>
+        </tr>
+    </thead>
     <tbody>
         <tr>
             <td><a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> </td>
