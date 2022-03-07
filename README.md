@@ -1514,6 +1514,14 @@ Wish you a good-looking profile README!
 
 <br><br>
 
+### Medium Post
+
+<br>
+
+<img src="https://github-readme-medium.vercel.app/?username=montasim&limit=2" alt="Medium Post">
+
+<br><br>
+
 </details>
 <!-- End Find More On Social Media Section -->
 
