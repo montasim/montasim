@@ -326,7 +326,7 @@ Wish you a good-looking profile README!
 
 <!-- Start Specialization -->
 <h2> Specialization: (8)</h2>
-<table>
+<table align="center">
     <tbody>
         <tr>
             <td> 
@@ -382,7 +382,7 @@ Wish you a good-looking profile README!
 
 <!-- Start Language Proficiency -->
 <h2> Language Proficiency: (3)</h2>
-<table>
+<table align="center">
     <thead>
         <tr>
             <th><b> Language </b></th>
