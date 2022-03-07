@@ -81,7 +81,7 @@ Wish you a good-looking profile README!
 
 <!-- Start Details -->
 <details>
-<summary><b> 📑 ᴍʏ ʀᴇꜱᴜᴍᴇ </b></summary>
+<summary><b> 📰 ᴍʏ ʀᴇꜱᴜᴍᴇ </b></summary>
 
 <br><br>
 
@@ -541,7 +541,7 @@ Wish you a good-looking profile README!
 <!-- Start My Experience Section -->
 <details>
 <summary>
-    <b> ✨ ᴍʏ ᴇxᴘᴇʀɪᴇɴᴄᴇ </b>
+    <b> 📚 ᴍʏ ᴇxᴘᴇʀɪᴇɴᴄᴇ </b>
 </summary>
 	
 <br><br>
@@ -600,7 +600,7 @@ Wish you a good-looking profile README!
 <!-- Start My Skills Section -->
 <details>
 <summary>
-    <b> 🔍 ᴍʏ ꜱᴋɪʟʟꜱ </b>
+    <b> 🧳 ᴍʏ ꜱᴋɪʟʟꜱ </b>
 </summary>
 	
 <br><br>
@@ -758,7 +758,7 @@ Wish you a good-looking profile README!
 
 <!-- Start 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section -->
 <!-- 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 -->
-<h2 align="right"> &#x1F53B; ꜰɪɴᴅ ᴍᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </h2>
+<h2 align="right"> 📬 ꜰɪɴᴅ ᴍᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </h2>
 
 <br>
 
@@ -814,7 +814,7 @@ Wish you a good-looking profile README!
 <img align="left" height="250" width="375" alt="code gif" src="media/gif/code4.gif" />
 
 <!-- Start Some Words About Me -->
-<h2> ✍ ꜱᴏᴍᴇ ᴡᴏʀᴅ ᴀʙᴏᴜᴛ ᴍᴇ </h2>
+<h2> 🌟 ꜱᴏᴍᴇ ᴡᴏʀᴅ ᴀʙᴏᴜᴛ ᴍᴇ </h2>
 
 <div>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ꜰᴜʟʟ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ꜱᴛᴀᴄᴋ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ
@@ -836,7 +836,7 @@ Wish you a good-looking profile README!
 <img align="right" alt="coder gif" src="media/gif/coder.gif"  height="250" width="375">
 
 <!-- Start Talking About Personal Stuffs -->
-<h2>💥 ᴛᴀʟᴋɪɴɢ ᴀʙᴏᴜᴛ ᴘᴇʀꜱᴏɴᴀʟ ꜱᴛᴀꜰꜰ </h2>
+<h2> 📙 ᴛᴀʟᴋɪɴɢ ᴀʙᴏᴜᴛ ᴘᴇʀꜱᴏɴᴀʟ ꜱᴛᴀꜰꜰ </h2>
 
 <div>
     &nbsp;&nbsp;&nbsp;&nbsp; &#x1F539; ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ
@@ -860,7 +860,7 @@ Wish you a good-looking profile README!
 <img align="left" alt="sleeping coding gif" src="media/gif/installing-program1.gif" height="250" width="375">
 
 <!-- Start Talking About Personal Stuffs -->
-<h2> 💮 ᴍʏ ᴀʙꜱᴏʟᴜᴛᴇ ꜰᴀᴠᴏᴜʀɪᴛᴇ </h2>
+<h2> 🧠 ᴍʏ ᴀʙꜱᴏʟᴜᴛᴇ ꜰᴀᴠᴏᴜʀɪᴛᴇ </h2>
 
 <div>
     &nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ɪ ʟᴏᴠᴇ ᴇxᴘʟᴏʀɪɴɢ ɴᴇᴡ ᴛᴇᴄʜ ᴀɴᴅ ʙᴜɪʟᴅɪɴɢ ᴄᴏᴏʟ ꜱᴛᴜꜰꜰꜱ

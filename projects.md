@@ -25,9 +25,8 @@
 
 `swyx at hey dot com`
 
-📫👯⚡📬🛎📚⭐🎁🍕🚀🔭🌱🛠️🔒🔗❤️🤷‍♂️👆🗒📝⛏⌚︎📅🌙🌆🌞🐤🗣🎉🎉 😎 🎊✈️ 🌎 🧳🌟🎲💭☁️📙📢✒️✏️🏊‍♂️📮⏰⏳📺📖🔑✨📧🌐➡️🥅
-📷💻🎮🎬❗️⭐️👁📔📗📘💼👨‍💻🧰🗄️🛸🤝💙🎓🔬🔍🕸️💡🏛👾📰☄️⚙️📚📱⬆🔔🔩👀🚪
-💊🧠💓🪟🥬📇✈️🏠☕🥖
+📫👯⚡📬🛎📚🎁🍕🚀🔭🌱🛠️🔒🔗❤️🤷‍♂️👆🗒📝⛏⌚︎📅🌙🌆🌞🐤🗣🎉 😎 🎊✈️ 🌎🧳🌟🎲💭☁️📙📢✒️✏️🏊‍♂️📮⏰⏳📺📖🔑✨📧🌐➡️🥅
+📷🎮🎬❗️⭐️👁📔📗📘💼👨‍💻🧰🗄️🛸🤝💙🎓🔬🔍🕸️💡🏛👾📰☄️📱⬆🔔🔩👀🚪🧠💓🪟🥬📇✈️🏠☕🥖
 
 ⚡️Stay awesome!⚡️
 
@@ -149,7 +148,9 @@
 ![Word Cloud Contributors Badge](https://img.shields.io/badge/Contributors%20this%20Cloud-28-blueviolet?labelColor=7D898B)
 
 <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-295%20Thousand%20lines%20of%20code-blue">
+
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />
 
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />
