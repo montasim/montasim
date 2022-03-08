@@ -1384,13 +1384,6 @@ Wish you a good-looking profile README!
 
 <br>
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<div align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="montasim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=monokai-metallian&hide_border=true"/>
-</div>
-
-<br>
-
 <!-- Github Metrics -->
 <div align="center">
   <img alt="Github Metrics" src = "https://metrics.lecoq.io/montasim">
@@ -1488,6 +1481,7 @@ Wish you a good-looking profile README!
 ## StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+
 - [Answer by MONTASIM for Programming a button with javascript using outer files](https://stackoverflow.com/questions/71202556/programming-a-button-with-javascript-using-outer-files/71202707#71202707)
 - [Answer by MONTASIM for I am trying to make all classes &lpar;sometags&rpar; turn pink once I call it in javascript it has to be onClickEvent](https://stackoverflow.com/questions/71193951/i-am-trying-to-make-all-classes-sometags-turn-pink-once-i-call-it-in-javascrip/71194646#71194646)
 - [Two empty input field checking problem using JavaScript function](https://stackoverflow.com/questions/71178334/two-empty-input-field-checking-problem-using-javascript-function)
