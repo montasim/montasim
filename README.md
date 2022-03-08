@@ -41,7 +41,7 @@ Wish you a good-looking profile README!
 <div align="center">
     <img alt="created on" src="https://badges.pufler.dev/created/montasim/git-badges">
     <img alt="version" src="https://img.shields.io/badge/version-.07-informational">
-    <img alt="last commit" src="https://img.shields.io/github/last-commit/montasim/montasim" />
+    <img alt="last updated" src="https://badges.pufler.dev/updated/montasim/git-badges" />
     <img alt="Code Quality" src="https://img.shields.io/badge/Code%20Quality-Good-lightblue" />
     <img alt="visitor" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasimmamun" />
     <img alt="total repos" src="https://badges.pufler.dev/repos/montasim" />
