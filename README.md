@@ -1496,14 +1496,14 @@ Wish you a good-looking profile README!
 
 <br><br>
 
-### YouTube posts
+### YouTube Videos
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>
 
-### Blog posts
+### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
