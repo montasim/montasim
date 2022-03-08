@@ -39,10 +39,14 @@ Wish you a good-looking profile README!
 
 <!-- Start Some Hints Icons About Montasim -->
 <div align="center">
-    <img alt="version" src="https://img.shields.io/badge/version-07%20March%202022-informational">
+    <img alt="created on" src="https://badges.pufler.dev/created/montasim/git-badges">
+    <img alt="version" src="https://img.shields.io/badge/version-.07-informational">
     <img alt="last commit" src="https://img.shields.io/github/last-commit/montasim/montasim" />
+    <img alt="total commit" src="https://badges.pufler.dev/commits/monthly/montasim" />
     <img alt="Code Quality" src="https://img.shields.io/badge/Code%20Quality-Good-lightblue" />
     <img alt="visitor" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasimmamun" />
+    <img alt="total repos" src="https://badges.pufler.dev/repos/montasim" />
+    <img alt="total gists" src="https://badges.pufler.dev/gists/montasim" />
     <a href="https://github.com/montasim/montasim/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook"><img alt="Guest Book" src="https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round" /></a>
     <img alt="Thanks" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" />
 </div>
