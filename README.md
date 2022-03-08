@@ -1503,7 +1503,7 @@ Wish you a good-looking profile README!
 
 <br><br>
 
-# Blog Posts
+# Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
