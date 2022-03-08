@@ -1496,14 +1496,14 @@ Wish you a good-looking profile README!
 
 <br><br>
 
-### YouTube Videos
+# YouTube Videos
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>
 
-### Blog Posts
+# Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -1515,7 +1515,7 @@ Wish you a good-looking profile README!
 
 <br><br>
 
-### Medium Post
+# Medium Post
 
 <br><br>
 
