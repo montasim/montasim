@@ -42,7 +42,6 @@ Wish you a good-looking profile README!
     <img alt="created on" src="https://badges.pufler.dev/created/montasim/git-badges">
     <img alt="version" src="https://img.shields.io/badge/version-.07-informational">
     <img alt="last commit" src="https://img.shields.io/github/last-commit/montasim/montasim" />
-    <img alt="total commit" src="https://badges.pufler.dev/commits/monthly/montasim" />
     <img alt="Code Quality" src="https://img.shields.io/badge/Code%20Quality-Good-lightblue" />
     <img alt="visitor" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasimmamun" />
     <img alt="total repos" src="https://badges.pufler.dev/repos/montasim" />
@@ -1491,6 +1490,7 @@ Wish you a good-looking profile README!
 ## StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+
 - [Answer by MONTASIM for Programming a button with javascript using outer files](https://stackoverflow.com/questions/71202556/programming-a-button-with-javascript-using-outer-files/71202707#71202707)
 - [Answer by MONTASIM for I am trying to make all classes &lpar;sometags&rpar; turn pink once I call it in javascript it has to be onClickEvent](https://stackoverflow.com/questions/71193951/i-am-trying-to-make-all-classes-sometags-turn-pink-once-i-call-it-in-javascrip/71194646#71194646)
 - [Two empty input field checking problem using JavaScript function](https://stackoverflow.com/questions/71178334/two-empty-input-field-checking-problem-using-javascript-function)
