@@ -155,12 +155,12 @@ Wish you a good-looking profile README!
 
 <br>
 
-<!-- Start Career Objective -->
+<!-- Start Career Summary -->
 <h2> Career Summary: </h2>
 <p>
    I am a developer who is working on an organization named CODEZ Info Tech. My responsibility here is to design and develop Websites and Web Applications. My goal is to work hard to make my educational and professional skills in a flawless workplace. 
 </p>
-<!-- End Career Objective -->
+<!-- End Career Summary -->
 
 <br>
 
@@ -443,7 +443,7 @@ Wish you a good-looking profile README!
 
 - Ex. Cadet, second best cadet of Mohasthan Regiment at Bangladesh National Cadet Corps (BNCC)
 - Event Organizer at Rangpur Zilla School
-  <!-- End Extra Curricular Activities -->
+<!-- End Extra Curricular Activities -->
 
 <br>
 
@@ -863,7 +863,7 @@ Wish you a good-looking profile README!
 <!-- coder gif -->
 <img align="left" alt="sleeping coding gif" src="media/gif/installing-program1.gif" height="250" width="375">
 
-<!-- Start Talking About Personal Stuffs -->
+<!-- Start My absolute favourite -->
 <h2> 🧠 ᴍʏ ᴀʙꜱᴏʟᴜᴛᴇ ꜰᴀᴠᴏᴜʀɪᴛᴇ </h2>
 
 <div>
@@ -874,18 +874,18 @@ Wish you a good-looking profile README!
     &nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠɪɴɢ, ᴍᴇᴇᴛᴜᴘꜱ & ᴛᴇᴄʜ ᴇᴠᴇɴᴛꜱ
 </div>
 
-<!-- End Talking About Personal Stuffs -->
+<!-- End My absolute favourite -->
 
 <br><br><br><br><br><br><br>
 
 <!-- Start random jokes -->
 <h2> 💠 ꜱᴏᴍᴇ ʀᴀɴᴅᴏᴍ ᴊᴏᴋᴇꜱ </h2>
 <br>
-<!-- Start random jokes -->
 <div align=center>
       <img src="https://readme-jokes.vercel.app/api/?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Fun Fact" />
       <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=churchill&font=default" alt="Jokes Card">
 </div>
+<!-- End random jokes -->
 
 <br><br>
 
@@ -1342,6 +1342,7 @@ Wish you a good-looking profile README!
 - <b>𝙲𝚘𝚍𝚎 𝙴𝚍𝚒𝚝𝚘𝚛:</b> 𝚅𝚒𝚜𝚞𝚊𝚕 𝚂𝚝𝚞𝚍𝚒𝚘 𝙲𝚘𝚍𝚎
 - <b>𝙾𝚙𝚎𝚛𝚊𝚝𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖:</b> 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝟷𝟶
 - <b>𝚃𝚘 𝚂𝚝𝚊𝚢 𝚄𝚙𝚍𝚊𝚝𝚎𝚍:</b>
+
 <div align="center">
     <a href=""> 🅻🅸🅽🅺🅴🅳🅸🅽 </a>
     <a href=""> 🅶🅸🆃🅷🆄🅱 </a>
@@ -1484,17 +1485,12 @@ Wish you a good-looking profile README!
     <summary> 
         <b> 📛 ꜰɪɴᴅ ᴍᴏʀᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </b> 
     </summary>
-    <br>
-    <!-- Start Twitter Section -->
-    <b> ⌛ Twitter </b>
-    <img src="https://github-readme-twitter.gazf.vercel.app/api?id=montasimmamun&layout=wide">
-    <!-- End Twitter Section -->
-    <br><br>
 
-### StackOverflow Activity
+<br><br>
+
+## StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
-
 - [Answer by MONTASIM for Programming a button with javascript using outer files](https://stackoverflow.com/questions/71202556/programming-a-button-with-javascript-using-outer-files/71202707#71202707)
 - [Answer by MONTASIM for I am trying to make all classes &lpar;sometags&rpar; turn pink once I call it in javascript it has to be onClickEvent](https://stackoverflow.com/questions/71193951/i-am-trying-to-make-all-classes-sometags-turn-pink-once-i-call-it-in-javascrip/71194646#71194646)
 - [Two empty input field checking problem using JavaScript function](https://stackoverflow.com/questions/71178334/two-empty-input-field-checking-problem-using-javascript-function)
@@ -1502,27 +1498,42 @@ Wish you a good-looking profile README!
 - [Answer by MONTASIM for Tailwind + Javascript](https://stackoverflow.com/questions/63043433/tailwind-javascript/63085360#63085360)
 <!-- STACKOVERFLOW:END -->
 
-### YouTube posts
+<br><br>
+
+## 📺 Latest YouTube Videos
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkkBnedfjKU-toiKQ-rxvtA?label=YouTube%20Subscribers&style=social)
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+<br><br>
+
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>
 
-### Blog posts
+## :zap: Recent Activity
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!--START_SECTION:activity-->
 
-<br><br>
-
-<img src="https://github-readme-twitter.gazf.vercel.app/api?id=nodejs&layout=wide" alt="Twitter Post">
+<!--END_SECTION:activity-->
 
 <br><br>
 
-### Medium Post
+<!-- twitter post -->
+<img src="https://github-readme-twitter.gazf.vercel.app/api?id=montasimmamun&layout=wide" alt="Twitter Post">
 
-<br>
+<br><br>
+
+## Medium Post
+
+<br><br>
 
 <img src="https://github-readme-medium.vercel.app/?username=montasim&limit=2" alt="Medium Post">
 
