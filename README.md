@@ -1483,7 +1483,7 @@ Wish you a good-looking profile README!
 
 <br><br>
 
-### StackOverflow Activity
+## StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
 
@@ -1496,21 +1496,25 @@ Wish you a good-looking profile README!
 
 <br><br>
 
-# YouTube Videos
+## 📺 Latest YouTube Videos
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkkBnedfjKU-toiKQ-rxvtA?label=YouTube%20Subscribers&style=social)
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+<br><br>
+
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>
 
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<br><br>
-
-### Recent Activity
+## Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -1522,7 +1526,7 @@ Wish you a good-looking profile README!
 
 <br><br>
 
-# Medium Post
+## Medium Post
 
 <br><br>
 
