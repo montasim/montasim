@@ -1089,30 +1089,29 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <br>
 
 <!-- Start Montasim's github readme stats -->
-<div align="center">
+<div align=center>
   <div>
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&border=61dafb&hide_border=true" alt="montasim" />
+      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&border=61dafb&hide_border=true" alt="montasim" />
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
-
 <br><br>
-
-  <div align="center">
-    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-<br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-<br>
-    <img src="https://raw.githubusercontent.com/montasim/montasim/output/github-contribution-grid-snake.svg">
+  <div>
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </div>
+<br><br>
+    <div>
+        <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    </div>
+    <div>
+        <img src="https://raw.githubusercontent.com/montasim/montasim/output/github-contribution-grid-snake.svg">
+    </div>
 </div>
 <!-- End Montasim's github readme stats -->
 
 <!-- start animated text -->
-<a href="https://montasim.github.io/">
-
-![Show Some Love Gif](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=1000&height=100&lines=%F0%9D%9A%82%F0%9D%9A%91%F0%9D%9A%98%F0%9D%9A%A0+%F0%9D%9A%9C%F0%9D%9A%98%F0%9D%9A%96%F0%9D%9A%8E+%F0%9F%92%96;B%F0%9D%9A%A2+%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90+%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E+%F0%9D%9A%9B%F0%9D%9A%8E%F0%9D%9A%99%F0%9D%9A%98%F0%9D%9A%9C%F0%9D%9A%92%F0%9D%9A%9D%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8E%F0%9D%9A%9C.;G%F0%9D%9A%92%F0%9D%9A%9F%F0%9D%9A%8E+%F0%9D%9A%88%F0%9D%9A%98%F0%9D%9A%9E%F0%9D%9A%9B+%F0%9D%9A%82%F0%9D%9A%9E%F0%9D%9A%90%F0%9D%9A%90%F0%9D%9A%8E%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%92%F0%9D%9A%98%F0%9D%9A%97%F0%9D%9A%9C.)
+<a href="https://montasim.github.io/"> 
+    <img alt="heart gif" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=1000&height=100&lines=%F0%9D%9A%82%F0%9D%9A%91%F0%9D%9A%98%F0%9D%9A%A0+%F0%9D%9A%9C%F0%9D%9A%98%F0%9D%9A%96%F0%9D%9A%8E+%F0%9F%92%96;B%F0%9D%9A%A2+%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90+%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E+%F0%9D%9A%9B%F0%9D%9A%8E%F0%9D%9A%99%F0%9D%9A%98%F0%9D%9A%9C%F0%9D%9A%92%F0%9D%9A%9D%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8E%F0%9D%9A%9C.;G%F0%9D%9A%92%F0%9D%9A%9F%F0%9D%9A%8E+%F0%9D%9A%88%F0%9D%9A%98%F0%9D%9A%9E%F0%9D%9A%9B+%F0%9D%9A%82%F0%9D%9A%9E%F0%9D%9A%90%F0%9D%9A%90%F0%9D%9A%8E%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%92%F0%9D%9A%98%F0%9D%9A%97%F0%9D%9A%9C."> 
 </a>
-
 <!-- end animated text -->
 
 <!-- Start 𝙼𝚘𝚛𝚎 𝚂𝚝𝚞𝚏𝚏 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 Section -->
