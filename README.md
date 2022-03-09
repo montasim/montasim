@@ -1089,29 +1089,27 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <br>
 
 <!-- Start Montasim's github readme stats -->
-<div align=center>
+<div align="center">
   <div>
-      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&border=61dafb&hide_border=true" alt="montasim" />
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&border=61dafb&hide_border=true" alt="montasim" />
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
 <br><br>
-  <div>
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </div>
-<br><br>
-    <div>
-        <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-    </div>
-    <div>
-        <img src="https://raw.githubusercontent.com/montasim/montasim/output/github-contribution-grid-snake.svg">
-    </div>
+  <div align="center">
+    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+<br>
+    <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<br>
+    <img src="https://raw.githubusercontent.com/montasim/montasim/output/github-contribution-grid-snake.svg">
 </div>
 <!-- End Montasim's github readme stats -->
 
 <!-- start animated text -->
-<a href="https://montasim.github.io/"> 
-    <img alt="heart gif" src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=1000&height=100&lines=%F0%9D%9A%82%F0%9D%9A%91%F0%9D%9A%98%F0%9D%9A%A0+%F0%9D%9A%9C%F0%9D%9A%98%F0%9D%9A%96%F0%9D%9A%8E+%F0%9F%92%96;B%F0%9D%9A%A2+%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90+%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E+%F0%9D%9A%9B%F0%9D%9A%8E%F0%9D%9A%99%F0%9D%9A%98%F0%9D%9A%9C%F0%9D%9A%92%F0%9D%9A%9D%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8E%F0%9D%9A%9C.;G%F0%9D%9A%92%F0%9D%9A%9F%F0%9D%9A%8E+%F0%9D%9A%88%F0%9D%9A%98%F0%9D%9A%9E%F0%9D%9A%9B+%F0%9D%9A%82%F0%9D%9A%9E%F0%9D%9A%90%F0%9D%9A%90%F0%9D%9A%8E%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%92%F0%9D%9A%98%F0%9D%9A%97%F0%9D%9A%9C."> 
+<a href="https://montasim.github.io/">
+
+![Show Some Love Gif](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=1000&height=100&lines=%F0%9D%9A%82%F0%9D%9A%91%F0%9D%9A%98%F0%9D%9A%A0+%F0%9D%9A%9C%F0%9D%9A%98%F0%9D%9A%96%F0%9D%9A%8E+%F0%9F%92%96;B%F0%9D%9A%A2+%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90+%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8E+%F0%9D%9A%9B%F0%9D%9A%8E%F0%9D%9A%99%F0%9D%9A%98%F0%9D%9A%9C%F0%9D%9A%92%F0%9D%9A%9D%F0%9D%9A%98%F0%9D%9A%9B%F0%9D%9A%92%F0%9D%9A%8E%F0%9D%9A%9C.;G%F0%9D%9A%92%F0%9D%9A%9F%F0%9D%9A%8E+%F0%9D%9A%88%F0%9D%9A%98%F0%9D%9A%9E%F0%9D%9A%9B+%F0%9D%9A%82%F0%9D%9A%9E%F0%9D%9A%90%F0%9D%9A%90%F0%9D%9A%8E%F0%9D%9A%9C%F0%9D%9A%9D%F0%9D%9A%92%F0%9D%9A%98%F0%9D%9A%97%F0%9D%9A%9C.)
 </a>
+
 <!-- end animated text -->
 
 <!-- Start 𝙼𝚘𝚛𝚎 𝚂𝚝𝚞𝚏𝚏 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 Section -->
@@ -1367,7 +1365,6 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
     <a href=""> 🅶🅼🅰🅸🅻 </a>
     <a href=""> 🆆🅴🅱🆂🅸🆃🅴 </a>
     <a href=""> 🅵🅰🅲🅴🅱🅾🅾🅺 </a>
-  </a>
 </div>
 
 <br>
@@ -1400,33 +1397,40 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 
 <!-- Github Trophies -->
 <div align="center">
-  <img alt="Github Trophies" src = "https://github-profile-trophy.vercel.app/?username=montasim&theme=onedark">
+
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=montasim&theme=onedark)
+
 </div>
 
 <br>
 
 <!-- Github Metrics -->
 <div align="center">
-  <img alt="Github Metrics" src = "https://metrics.lecoq.io/montasim">
+
+![Github Metrics](https://metrics.lecoq.io/montasim)
+
 </div>
 <br>
 
 <!-- Wakatime stats -->
 <div align="center">
-  <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=montasim&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="Wakatime stats">
+
+![Wakatime Stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=montasim&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
 </div>
 
 <!-- Stackoverflow Stats -->
 <div align="center">
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=10429621&theme=dark" alt="Stackoverflow Stats">
+
+![Stackoverflow Stats](https://github-readme-stackoverflow.vercel.app/?userID=10429621&theme=dark)
+
 </div>
 
 <br><br>
 
 <!-- website speed stats -->
-<div align="center">
-  <img src="https://pagespeed-insights.herokuapp.com?url=https://montasim.github.io&theme=dark" alt="website speed stats">
-</div>
+
+![Website Speed Stats](https://pagespeed-insights.herokuapp.com?url=https://montasim.github.io&theme=dark)
 
 <br><br>
 
@@ -1539,7 +1543,8 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <br><br>
 
 <!-- twitter post -->
-<img src="https://github-readme-twitter.gazf.vercel.app/api?id=montasimmamun&layout=wide" alt="Twitter Post">
+
+![Twitter Post](https://github-readme-twitter.gazf.vercel.app/api?id=montasimmamun&layout=wide)
 
 <br><br>
 
@@ -1547,7 +1552,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 
 <br><br>
 
-<img src="https://github-readme-medium.vercel.app/?username=montasim&limit=2" alt="Medium Post">
+![Medium Post](https://github-readme-medium.vercel.app/?username=montasim&limit=2)
 
 <br><br>
 
@@ -1558,28 +1563,33 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 
 <!--Start Footer-->
 <div align="center" class="footer">
-    <!-- Wave svg --> 
-    <div>
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer"/>
-    </div>
-    <br>
-    <!-- Copyright --> 
-    <a href="https://montasim.github.io/" target="_blank"> 
-        <img src="https://readme-typing-svg.herokuapp.com?color=%23D04060&center=true&vCenter=true&lines=Made+By+Montasim">
-    </a>
 
-<br><br>
+<!-- Start Wave Gif -->
+
+![Wave Gif](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer)
+
+<!-- End Wave Gif -->
+
+<br>
+
+<!-- Copyright -->
+<a href="https://montasim.github.io/" target="_blank">
+
+![Copyright Animated text](https://readme-typing-svg.herokuapp.com?color=%23D04060&center=true&vCenter=true&lines=Made+By+Montasim)
+</a>
+
+<br>
 
 <!-- start about this readme -->
-<div>
-    <img src="https://img.shields.io/github/stars/montasim/montasim.github.io" alt="Stars Badge"/>
-    <img src="https://img.shields.io/github/forks/montasim/montasim.github.io" alt="Forks Badge"/>
-    <img src="https://img.shields.io/github/issues-pr/montasim/montasim.github.io" alt="Pull Requests Badge"/>
-    <img src="https://img.shields.io/github/issues/montasim/montasim.github.io" alt="Issues Badge"/>
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/montasim/montasim.github.io?color=2b9348">
-    <img src="https://img.shields.io/badge/license-feel%20free%20to%20use-success" alt="License Badge"/>
-    <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" alt="Say Thanks"/>
-</div>
+
+![GitHub Stars Badge](https://img.shields.io/github/stars/montasim/montasim.github.io)
+![GitHub Forks Badge](https://img.shields.io/github/forks/montasim/montasim.github.io)
+![GitHub Pull Requests Badge](https://img.shields.io/github/issues-pr/montasim/montasim.github.io)
+![GitHub Issues Badge](https://img.shields.io/github/issues/montasim/montasim.github.io)
+![GitHub contributors](https://img.shields.io/github/contributors/montasim/montasim.github.io?color=2b9348)
+![License Badge](https://img.shields.io/badge/license-feel%20free%20to%20use-success)
+![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)
+
 <!-- end about this readme -->
 
 </div>
