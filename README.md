@@ -1091,8 +1091,8 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <!-- Start Montasim's github readme stats -->
 <div align="center">
   <div>
-      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&border=61dafb&hide_border=true" alt="montasim" />
-      <img width=396 src="https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&border=61dafb&hide_border=true" alt="montasim" />
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
 
 <br><br>
