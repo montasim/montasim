@@ -1362,7 +1362,7 @@ I do Open Source. In fact, I do Open Source so much, that majority of my work on
 
 <div align="center">
 
-[🅻🅸🅽🅺🅴🅳🅸🅽]([linkedin])
+[🅻🅸🅽🅺🅴🅳🅸🅽]()
 [🅶🅸🆃🅷🆄🅱]()
 [🅶🅼🅰🅸🅻]()
 [🆆🅴🅱🆂🅸🆃🅴]()
