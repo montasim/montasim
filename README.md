@@ -1091,16 +1091,19 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <!-- Start Montasim's github readme stats -->
 <div align="center">
   <div>
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&border=61dafb&hide_border=true" alt="montasim" />
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&border=61dafb&hide_border=true" alt="montasim" />
+      <img width=396 src="https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
+
 <br><br>
+
   <div align="center">
     <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 <br>
     <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <br>
     <img src="https://raw.githubusercontent.com/montasim/montasim/output/github-contribution-grid-snake.svg">
+  </div>
 </div>
 <!-- End Montasim's github readme stats -->
 
@@ -1506,6 +1509,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 ## StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+
 - [Answer by MONTASIM for Programming a button with javascript using outer files](https://stackoverflow.com/questions/71202556/programming-a-button-with-javascript-using-outer-files/71202707#71202707)
 - [Answer by MONTASIM for I am trying to make all classes &lpar;sometags&rpar; turn pink once I call it in javascript it has to be onClickEvent](https://stackoverflow.com/questions/71193951/i-am-trying-to-make-all-classes-sometags-turn-pink-once-i-call-it-in-javascrip/71194646#71194646)
 - [Two empty input field checking problem using JavaScript function](https://stackoverflow.com/questions/71178334/two-empty-input-field-checking-problem-using-javascript-function)
