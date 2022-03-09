@@ -987,15 +987,18 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 
 ## Training, Participation and Certification:
 
-- <a href="#"> Mobile Game And Application Development For Android - at ICT Division of Bangladesh </a>
-- <a href="#"> PLC Training Course - at BAUST </a>
-- <a href="https://www.udemy.com/certificate/UC-9SJEY17Z/"> The Complete C Programming Tutorial - at Udemy online course </a>
-- <a href="https://www.udemy.com/certificate/UC-4c1e3560-c268-4c37-87c3-b3e1235b67f2/"> C++ Development Tutorial Series - The Complete Coding Guide - at Udemy online course </a>
-- <a href="https://www.udemy.com/certificate/UC-57c8fb24-5d8a-450b-9001-76c2dfac993b/"> Learn C++ Programming Mini Course - Power of Animation - at Udemy online course </a>
-- <a href="https://www.udemy.com/certificate/UC-77OW1SDX/"> HTML5 Coding from Scratch - Build Your Own Website - at Udemy online course</a>
-- <a href="https://www.coursera.org/account/accomplishments/certificate/DKL6A3KTYL34"> Position Elements on a Page with CSS - at Coursera online course</a>
-- <a href="https://www.coursera.org/account/accomplishments/certificate/5XKX3V74MZA6"> Git + GitHub for Open Source Collaboration - at Coursera online course </a>
-- <a href="https://www.coursera.org/account/accomplishments/certificate/HHS3XUAFQWZU"> Use Commands and Create a Remote Git Repository - at Coursera online course </a>
+1. [𝙼𝚘𝚋𝚒𝚕𝚎 𝙶𝚊𝚖𝚎 𝙰𝚗𝚍 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝙵𝚘𝚛 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 - 𝚊𝚝 𝙸𝙲𝚃 𝙳𝚒𝚟𝚒𝚜𝚒𝚘𝚗 𝚘𝚏 𝙱𝚊𝚗𝚐𝚕𝚊𝚍𝚎𝚜𝚑](#)
+2. [𝙿𝙻𝙲 𝚃𝚛𝚊𝚒𝚗𝚒𝚗𝚐 𝙲𝚘𝚞𝚛𝚜𝚎 - 𝚊𝚝 𝙱𝙰𝚄𝚂𝚃](#)
+3. [𝚃𝚑𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎 𝙲 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.udemy.com/certificate/UC-9SJEY17Z/)
+4. [𝙲++ 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 𝚂𝚎𝚛𝚒𝚎𝚜, 𝚃𝚑𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎 𝙲𝚘𝚍𝚒𝚗𝚐 𝙶𝚞𝚒𝚍𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.udemy.com/certificate/UC-4c1e3560-c268-4c37-87c3-b3e1235b67f2/)
+5. [𝙻𝚎𝚊𝚛𝚗 𝙲++ 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙼𝚒𝚗𝚒 𝙲𝚘𝚞𝚛𝚜𝚎, 𝙿𝚘𝚠𝚎𝚛 𝚘𝚏 𝙰𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.udemy.com/certificate/UC-57c8fb24-5d8a-450b-9001-76c2dfac993b/)
+6. [𝙷𝚃𝙼𝙻𝟻 𝙲𝚘𝚍𝚒𝚗𝚐 𝚏𝚛𝚘𝚖 𝚂𝚌𝚛𝚊𝚝𝚌𝚑 - 𝙱𝚞𝚒𝚕𝚍 𝚈𝚘𝚞𝚛 𝙾𝚠𝚗 𝚆𝚎𝚋𝚜𝚒𝚝𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.udemy.com/certificate/UC-77OW1SDX/)
+7. [𝙿𝚘𝚜𝚒𝚝𝚒𝚘𝚗 𝙴𝚕𝚎𝚖𝚎𝚗𝚝𝚜 𝚘𝚗 𝚊 𝙿𝚊𝚐𝚎 𝚠𝚒𝚝𝚑 𝙲𝚂𝚂 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.coursera.org/account/accomplishments/certificate/DKL6A3KTYL34)
+8. [𝙶𝚒𝚝 + 𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚛 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.coursera.org/account/accomplishments/certificate/5XKX3V74MZA6)
+9. [𝚄𝚜𝚎 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚊𝚗𝚍 𝙲𝚛𝚎𝚊𝚝𝚎 𝚊 𝚁𝚎𝚖𝚘𝚝𝚎 𝙶𝚒𝚝 𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.coursera.org/account/accomplishments/certificate/HHS3XUAFQWZU)
+10. [𝙶𝚘𝚘𝚐𝚕𝚎 𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝚂𝚎𝚊𝚛𝚌𝚑: 𝙵𝚒𝚗𝚍 𝚂𝚝𝚞𝚏𝚏 𝙻𝚒𝚔𝚎 𝚊 𝙱𝚘𝚜𝚜 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.hackerrank.com/montasim)
+11. [𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙻𝚒𝚗𝚎 𝚒𝚗 𝙻𝚒𝚗𝚞𝚡 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.coursera.org/account/accomplishments/certificate/CC7F3ETBKK8U)
+12. [𝙻𝚎𝚊𝚛𝚗 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙻𝚒𝚗𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.udemy.com/certificate/UC-91b6cfe1-6f98-40ec-a1b1-2f5a1714f637/)
 <!-- End Training, Participation and Certification -->
 
 <br><br>
@@ -1124,12 +1127,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 
 ## 📣 What I do
 
-<div>
-	I do Open Source. In fact, I do Open Source so much, that majority of my work on
-	GitHub is free and open to everyone. I am really passionate about doing web
-	development. It is in my opinion the best combination of logical programming and
-	(sometimes) beautiful design.
-</div>
+I do Open Source. In fact, I do Open Source so much, that majority of my work on GitHub is free and open to everyone. I am really passionate about doing web development. It is in my opinion the best combination of logical programming and (sometimes) beautiful design.
 
 <br><br>
 
@@ -1510,6 +1508,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 ## StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+
 - [Answer by MONTASIM for Programming a button with javascript using outer files](https://stackoverflow.com/questions/71202556/programming-a-button-with-javascript-using-outer-files/71202707#71202707)
 - [Answer by MONTASIM for I am trying to make all classes &lpar;sometags&rpar; turn pink once I call it in javascript it has to be onClickEvent](https://stackoverflow.com/questions/71193951/i-am-trying-to-make-all-classes-sometags-turn-pink-once-i-call-it-in-javascrip/71194646#71194646)
 - [Two empty input field checking problem using JavaScript function](https://stackoverflow.com/questions/71178334/two-empty-input-field-checking-problem-using-javascript-function)
