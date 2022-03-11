@@ -169,6 +169,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+![Montasim's gitartwork](gitartwork.svg)
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
