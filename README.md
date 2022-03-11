@@ -1519,9 +1519,7 @@ I do Open Source. In fact, I do Open Source so much, that majority of my work on
 
 <br><br>
 
-## 📺 Latest YouTube Videos
-
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkkBnedfjKU-toiKQ-rxvtA?label=YouTube%20Subscribers&style=social)
+## 📺 Latest YouTube Videos <img align= "right" alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCkkBnedfjKU-toiKQ-rxvtA?label=YouTube%20Subscribers&style=social">
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 
