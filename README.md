@@ -69,11 +69,11 @@ Wish you a good-looking profile README!
 
 <!-- start my summary  -->
 <div>
-    <h2> 👋 ʜɪ, ɪ'ᴍ ᴍᴏɴᴛᴀꜱɪᴍ </h2>
-    <p>
-        ꜰʀᴏᴍ ᴀ ʏᴏᴜɴɢ ᴀɢᴇ, ɪ'ᴠᴇ ᴀʟᴡᴀʏꜱ ʜᴀᴅ ᴀ ꜱᴇɴꜱᴇ ᴏꜰ ᴍᴏᴛɪᴠᴀᴛɪᴏɴ ᴀɴᴅ ᴘᴀꜱꜱɪᴏɴ ᴅʀɪᴠɪɴɢ ᴍᴇ ꜰᴏʀᴡᴀʀᴅ. ᴡʜᴇᴛʜᴇʀ ɪᴛ ɪꜱ ᴇxᴘʟᴏʀɪɴɢ ᴜɴɪQᴜᴇ ᴏᴘᴘᴏʀᴛᴜɴɪᴛɪᴇꜱ, ʟᴇᴀʀɴɪɴɢ ᴀᴅᴅɪᴛɪᴏɴᴀʟ ꜱᴋɪʟʟꜱ, ᴏʀ ᴍᴇᴇᴛɪɴɢ ɴᴇᴡ ᴘᴇᴏᴘʟᴇ, ɪ ʙʀɪɴɢ ᴛʜᴇꜱᴇ ᴠᴀʟᴜᴇꜱ ᴛᴏ ᴇᴠᴇʀʏ ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴛʜʀᴏᴜɢʜᴏᴜᴛ ᴍʏ ʟɪꜰᴇ ᴏɴ ᴀ ᴘᴇʀꜱᴏɴᴀʟ ᴀɴᴅ ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ʟᴇᴠᴇʟ. ɪ ʟᴏᴠᴇ ᴄᴏɴɴᴇᴄᴛɪɴɢ ᴡɪᴛʜ ᴅɪꜰꜰᴇʀᴇɴᴛ ᴘᴇᴏᴘʟᴇ ᴀʀᴏᴜɴᴅ ᴛʜᴇ ᴡᴏʀʟᴅ. ꜰᴇᴇʟ ꜰʀᴇᴇ ᴛᴏ ʀᴇᴀᴄʜ ᴏᴜᴛ ᴀɴᴅ ɪɴᴛʀᴏᴅᴜᴄᴇ ʏᴏᴜʀꜱᴇʟꜰ. ᴛᴏ ʟᴇᴀʀɴ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ, ᴋᴇᴇᴘ ᴇxᴘʟᴏʀɪɴɢ ᴍʏ ꜱɪᴛᴇ ᴏʀ ʀᴇᴀᴄʜ ᴏᴜᴛ ᴅɪʀᴇᴄᴛʟʏ.
-    </p>
-</div>
+
+## 👋 ʜɪ, ɪ'ᴍ ᴍᴏɴᴛᴀꜱɪᴍ
+
+ꜰʀᴏᴍ ᴀ ʏᴏᴜɴɢ ᴀɢᴇ, ɪ'ᴠᴇ ᴀʟᴡᴀʏꜱ ʜᴀᴅ ᴀ ꜱᴇɴꜱᴇ ᴏꜰ ᴍᴏᴛɪᴠᴀᴛɪᴏɴ ᴀɴᴅ ᴘᴀꜱꜱɪᴏɴ ᴅʀɪᴠɪɴɢ ᴍᴇ ꜰᴏʀᴡᴀʀᴅ. ᴡʜᴇᴛʜᴇʀ ɪᴛ ɪꜱ ᴇxᴘʟᴏʀɪɴɢ ᴜɴɪQᴜᴇ ᴏᴘᴘᴏʀᴛᴜɴɪᴛɪᴇꜱ, ʟᴇᴀʀɴɪɴɢ ᴀᴅᴅɪᴛɪᴏɴᴀʟ ꜱᴋɪʟʟꜱ, ᴏʀ ᴍᴇᴇᴛɪɴɢ ɴᴇᴡ ᴘᴇᴏᴘʟᴇ, ɪ ʙʀɪɴɢ ᴛʜᴇꜱᴇ ᴠᴀʟᴜᴇꜱ ᴛᴏ ᴇᴠᴇʀʏ ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴛʜʀᴏᴜɢʜᴏᴜᴛ ᴍʏ ʟɪꜰᴇ ᴏɴ ᴀ ᴘᴇʀꜱᴏɴᴀʟ ᴀɴᴅ ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ʟᴇᴠᴇʟ. ɪ ʟᴏᴠᴇ ᴄᴏɴɴᴇᴄᴛɪɴɢ ᴡɪᴛʜ ᴅɪꜰꜰᴇʀᴇɴᴛ ᴘᴇᴏᴘʟᴇ ᴀʀᴏᴜɴᴅ ᴛʜᴇ ᴡᴏʀʟᴅ. ꜰᴇᴇʟ ꜰʀᴇᴇ ᴛᴏ ʀᴇᴀᴄʜ ᴏᴜᴛ ᴀɴᴅ ɪɴᴛʀᴏᴅᴜᴄᴇ ʏᴏᴜʀꜱᴇʟꜰ. ᴛᴏ ʟᴇᴀʀɴ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ, ᴋᴇᴇᴘ ᴇxᴘʟᴏʀɪɴɢ ᴍʏ ꜱɪᴛᴇ ᴏʀ ʀᴇᴀᴄʜ ᴏᴜᴛ ᴅɪʀᴇᴄᴛʟʏ.
+
 <!-- end my summary  -->
 
 <br>
@@ -99,8 +99,9 @@ Wish you a good-looking profile README!
 <!-- Montasim's Photo -->
 <img align="right" alt="Montasim's resume Photo" src="media/images/montasim.png" width="200px">
 
-<h2> Mohammad Montasim -Al- Mamun Shuvo</h2>
-<h3> Developer and Designer </h3>
+## Mohammad Montasim -Al- Mamun Shuvo
+
+### Developer and Designer
 
 <br>
 
@@ -142,27 +143,28 @@ Wish you a good-looking profile README!
 <br><br>
 
 <!-- Start Career Objective -->
-<h2> Career Objective: </h2>
-<p>
-   Practical and versatile Software Engineer with significant experience in developing Websites and Web Applications. I 
-   can handle multiple tasks daily. I use a creative approach to solve problems. I am a dependable person who is great 
-   at time management. I am always energetic and eager to learn new skills. 
-</p>
+
+## Career Objective:
+
+Practical and versatile Software Engineer with significant experience in developing Websites and Web Applications. I can handle multiple tasks daily. I use a creative approach to solve problems. I am a dependable person who is great at time management. I am always energetic and eager to learn new skills.
+
 <!-- End Career Objective -->
 
 <br>
 
 <!-- Start Career Summary -->
-<h2> Career Summary: </h2>
-<p>
-   I am a developer who is working on an organization named CODEZ Info Tech. My responsibility here is to design and develop Websites and Web Applications. My goal is to work hard to make my educational and professional skills in a flawless workplace. 
-</p>
+
+## Career Summary:
+
+I am a developer who is working on an organization named CODEZ Info Tech. My responsibility here is to design and develop Websites and Web Applications. My goal is to work hard to make my educational and professional skills in a flawless workplace.
+
 <!-- End Career Summary -->
 
 <br>
 
 <!-- Start Experience -->
-<h2> Experience: </h2>
+
+## Experience:
 
 <table align="center">
     <thead>
@@ -224,7 +226,9 @@ Wish you a good-looking profile README!
 <br>
 
 <!-- Start Academic Qualification Summery -->
-<h2> Academic Qualification: </h2>
+
+## Academic Qualification:
+
 <table align="center">
     <thead>
         <tr>
@@ -274,20 +278,21 @@ Wish you a good-looking profile README!
 <br>
 
 <!-- Start Undergraduate Thesis and Project -->
-<h2> Undergraduate Thesis and Project: </h2>
-<p> 
-    <b> Hand Pose Estimation in Single RGB Image with Multiview Bootstrapping. </b>
-<br>
 
-- Deep Learning, OpenCV <br>
-- Convolutional Neural Network (CNN) <br>
-- Python (TensorFlow, Matplotlib, Scikit-Learn, OpenCV, Media pipe) </p>
+## Undergraduate Thesis and Project:
+
+**Hand Pose Estimation in Single RGB Image with Multiview Bootstrapping.**
+
+- Deep Learning, OpenCV
+- Convolutional Neural Network (CNN)
+- Python (TensorFlow, Matplotlib, Scikit-Learn, OpenCV, Media pipe)
 <!-- End Undergraduate Thesis and Project -->
 
 <br>
 
 <!-- Start Career and Application Information -->
-<h2> Career and Application Information: </h2>
+
+## Career and Application Information:
 
 <table align="center">
     <tbody>
@@ -328,7 +333,9 @@ Wish you a good-looking profile README!
 <br>
 
 <!-- Start Specialization -->
-<h2> Specialization: (8)</h2>
+
+## Specialization: (8)
+
 <table align="center">
     <tbody>
         <tr>
@@ -384,7 +391,9 @@ Wish you a good-looking profile README!
 <br>
 
 <!-- Start Language Proficiency -->
-<h2> Language Proficiency: (3)</h2>
+
+## Language Proficiency: (3)
+
 <table align="center">
     <thead>
         <tr>
@@ -420,32 +429,38 @@ Wish you a good-looking profile README!
 <br>
 
 <!-- Start Training, Participation and Certification -->
-<h2> Training, Participation and Certification: (9)</h2>
 
-- <a href="#"> Mobile Game And Application Development For Android - at ICT Division of Bangladesh </a>
-- <a href="#"> PLC Training Course - at BAUST </a>
-- <a href="https://www.udemy.com/certificate/UC-9SJEY17Z/"> The Complete C Programming Tutorial - at Udemy online course </a>
-- <a href="https://www.udemy.com/certificate/UC-4c1e3560-c268-4c37-87c3-b3e1235b67f2/"> C++ Development Tutorial Series - The Complete Coding Guide - at Udemy online course </a>
-- <a href="https://www.udemy.com/certificate/UC-57c8fb24-5d8a-450b-9001-76c2dfac993b/"> Learn C++ Programming Mini Course - Power of Animation - at Udemy online course </a>
-- <a href="https://www.udemy.com/certificate/UC-77OW1SDX/"> HTML5 Coding from Scratch - Build Your Own Website - at Udemy online course</a>
-- <a href="https://www.coursera.org/account/accomplishments/certificate/DKL6A3KTYL34"> Position Elements on a Page with CSS - at Coursera online course</a>
-- <a href="https://www.coursera.org/account/accomplishments/certificate/5XKX3V74MZA6"> Git + GitHub for Open Source Collaboration - at Coursera online course </a>
-- <a href="https://www.coursera.org/account/accomplishments/certificate/HHS3XUAFQWZU"> Use Commands and Create a Remote Git Repository - at Coursera online course </a>
+## Training, Participation and Certification: (9)
+
+1. [𝙼𝚘𝚋𝚒𝚕𝚎 𝙶𝚊𝚖𝚎 𝙰𝚗𝚍 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝙵𝚘𝚛 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 - 𝚊𝚝 𝙸𝙲𝚃 𝙳𝚒𝚟𝚒𝚜𝚒𝚘𝚗 𝚘𝚏 𝙱𝚊𝚗𝚐𝚕𝚊𝚍𝚎𝚜𝚑](#)
+2. [𝙿𝙻𝙲 𝚃𝚛𝚊𝚒𝚗𝚒𝚗𝚐 𝙲𝚘𝚞𝚛𝚜𝚎 - 𝚊𝚝 𝙱𝙰𝚄𝚂𝚃](#)
+3. [𝚃𝚑𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎 𝙲 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.udemy.com/certificate/UC-9SJEY17Z/)
+4. [𝙲++ 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 𝚂𝚎𝚛𝚒𝚎𝚜, 𝚃𝚑𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎 𝙲𝚘𝚍𝚒𝚗𝚐 𝙶𝚞𝚒𝚍𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.udemy.com/certificate/UC-4c1e3560-c268-4c37-87c3-b3e1235b67f2/)
+5. [𝙻𝚎𝚊𝚛𝚗 𝙲++ 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙼𝚒𝚗𝚒 𝙲𝚘𝚞𝚛𝚜𝚎, 𝙿𝚘𝚠𝚎𝚛 𝚘𝚏 𝙰𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.udemy.com/certificate/UC-57c8fb24-5d8a-450b-9001-76c2dfac993b/)
+6. [𝙷𝚃𝙼𝙻𝟻 𝙲𝚘𝚍𝚒𝚗𝚐 𝚏𝚛𝚘𝚖 𝚂𝚌𝚛𝚊𝚝𝚌𝚑 - 𝙱𝚞𝚒𝚕𝚍 𝚈𝚘𝚞𝚛 𝙾𝚠𝚗 𝚆𝚎𝚋𝚜𝚒𝚝𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.udemy.com/certificate/UC-77OW1SDX/)
+7. [𝙿𝚘𝚜𝚒𝚝𝚒𝚘𝚗 𝙴𝚕𝚎𝚖𝚎𝚗𝚝𝚜 𝚘𝚗 𝚊 𝙿𝚊𝚐𝚎 𝚠𝚒𝚝𝚑 𝙲𝚂𝚂 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.coursera.org/account/accomplishments/certificate/DKL6A3KTYL34)
+8. [𝙶𝚒𝚝 + 𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚛 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.coursera.org/account/accomplishments/certificate/5XKX3V74MZA6)
+9. [𝚄𝚜𝚎 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚊𝚗𝚍 𝙲𝚛𝚎𝚊𝚝𝚎 𝚊 𝚁𝚎𝚖𝚘𝚝𝚎 𝙶𝚒𝚝 𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.coursera.org/account/accomplishments/certificate/HHS3XUAFQWZU)
+10. [𝙶𝚘𝚘𝚐𝚕𝚎 𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝚂𝚎𝚊𝚛𝚌𝚑: 𝙵𝚒𝚗𝚍 𝚂𝚝𝚞𝚏𝚏 𝙻𝚒𝚔𝚎 𝚊 𝙱𝚘𝚜𝚜 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.hackerrank.com/montasim)
+11. [𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙻𝚒𝚗𝚎 𝚒𝚗 𝙻𝚒𝚗𝚞𝚡 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.coursera.org/account/accomplishments/certificate/CC7F3ETBKK8U)
+12. [𝙻𝚎𝚊𝚛𝚗 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙻𝚒𝚗𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.udemy.com/certificate/UC-91b6cfe1-6f98-40ec-a1b1-2f5a1714f637/)
 <!-- End Training, Participation and Certification -->
 
 <br>
 
 <!-- Start Extra Curricular Activities -->
-<h2> Extra Curricular Activities: (2)</h2>
 
-- Ex. Cadet, second best cadet of Mohasthan Regiment at Bangladesh National Cadet Corps (BNCC)
-- Event Organizer at Rangpur Zilla School
+## Extra Curricular Activities: (2)
+
+1. Ex. Cadet, second best cadet of Mohasthan Regiment at Bangladesh National Cadet Corps (BNCC)
+2. Event Organizer at Rangpur Zilla School
 <!-- End Extra Curricular Activities -->
 
 <br>
 
 <!-- Start Personal Details -->
-<h2> Personal Details: </h2>
+
+## Personal Details:
 
 <table>
     <tbody>
@@ -484,7 +499,8 @@ Wish you a good-looking profile README!
 <br>
 
 <!-- Start Reference (s) -->
-<h2> Reference (s): (2)</h2>
+
+## Reference (s): (2)
 
 <table align="center">
     <thead>
@@ -548,7 +564,8 @@ Wish you a good-looking profile README!
 <br><br>
 
 <!-- Start Experience -->
-<h2> Experience: </h2>
+
+## Experience:
 
 <table align="center">
     <thead>
@@ -807,7 +824,8 @@ Wish you a good-looking profile README!
  
 <br><br><br><br>
 
-<h2></h2>
+##
+
 <!-- End 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section -->
 
 <br><br>
@@ -815,7 +833,8 @@ Wish you a good-looking profile README!
 <img align="left" height="250" width="375" alt="code gif" src="media/gif/code4.gif" />
 
 <!-- Start Some Words About Me -->
-<h2> 🌟 ꜱᴏᴍᴇ ᴡᴏʀᴅ ᴀʙᴏᴜᴛ ᴍᴇ </h2>
+
+## 🌟 ꜱᴏᴍᴇ ᴡᴏʀᴅ ᴀʙᴏᴜᴛ ᴍᴇ
 
 <div>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ꜰᴜʟʟ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ꜱᴛᴀᴄᴋ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ
@@ -837,7 +856,8 @@ Wish you a good-looking profile README!
 <img align="right" alt="coder gif" src="media/gif/coder.gif"  height="250" width="375">
 
 <!-- Start Talking About Personal Stuffs -->
-<h2> 📙 ᴛᴀʟᴋɪɴɢ ᴀʙᴏᴜᴛ ᴘᴇʀꜱᴏɴᴀʟ ꜱᴛᴀꜰꜰ </h2>
+
+## 📙 ᴛᴀʟᴋɪɴɢ ᴀʙᴏᴜᴛ ᴘᴇʀꜱᴏɴᴀʟ ꜱᴛᴀꜰꜰ
 
 <div>
     &nbsp;&nbsp;&nbsp;&nbsp; &#x1F539; ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ
@@ -861,7 +881,8 @@ Wish you a good-looking profile README!
 <img align="left" alt="sleeping coding gif" src="media/gif/installing-program1.gif" height="250" width="375">
 
 <!-- Start My absolute favourite -->
-<h2> 🧠 ᴍʏ ᴀʙꜱᴏʟᴜᴛᴇ ꜰᴀᴠᴏᴜʀɪᴛᴇ </h2>
+
+## 🧠 ᴍʏ ᴀʙꜱᴏʟᴜᴛᴇ ꜰᴀᴠᴏᴜʀɪᴛᴇ
 
 <div>
     &nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ɪ ʟᴏᴠᴇ ᴇxᴘʟᴏʀɪɴɢ ɴᴇᴡ ᴛᴇᴄʜ ᴀɴᴅ ʙᴜɪʟᴅɪɴɢ ᴄᴏᴏʟ ꜱᴛᴜꜰꜰꜱ
@@ -876,7 +897,9 @@ Wish you a good-looking profile README!
 <br><br><br><br><br><br><br>
 
 <!-- Start random jokes -->
-<h2> 💠 ꜱᴏᴍᴇ ʀᴀɴᴅᴏᴍ ᴊᴏᴋᴇꜱ </h2>
+
+## 💠 ꜱᴏᴍᴇ ʀᴀɴᴅᴏᴍ ᴊᴏᴋᴇꜱ
+
 <br>
 <div align=center>
       <img src="https://readme-jokes.vercel.app/api/?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Fun Fact" />
@@ -964,17 +987,21 @@ Wish you a good-looking profile README!
 <br><br>
 
 <!-- Start Training, Participation and Certification -->
-<h2> Training, Participation and Certification: </h2>
 
-- <a href="#"> Mobile Game And Application Development For Android - at ICT Division of Bangladesh </a>
-- <a href="#"> PLC Training Course - at BAUST </a>
-- <a href="https://www.udemy.com/certificate/UC-9SJEY17Z/"> The Complete C Programming Tutorial - at Udemy online course </a>
-- <a href="https://www.udemy.com/certificate/UC-4c1e3560-c268-4c37-87c3-b3e1235b67f2/"> C++ Development Tutorial Series - The Complete Coding Guide - at Udemy online course </a>
-- <a href="https://www.udemy.com/certificate/UC-57c8fb24-5d8a-450b-9001-76c2dfac993b/"> Learn C++ Programming Mini Course - Power of Animation - at Udemy online course </a>
-- <a href="https://www.udemy.com/certificate/UC-77OW1SDX/"> HTML5 Coding from Scratch - Build Your Own Website - at Udemy online course</a>
-- <a href="https://www.coursera.org/account/accomplishments/certificate/DKL6A3KTYL34"> Position Elements on a Page with CSS - at Coursera online course</a>
-- <a href="https://www.coursera.org/account/accomplishments/certificate/5XKX3V74MZA6"> Git + GitHub for Open Source Collaboration - at Coursera online course </a>
-- <a href="https://www.coursera.org/account/accomplishments/certificate/HHS3XUAFQWZU"> Use Commands and Create a Remote Git Repository - at Coursera online course </a>
+## Training, Participation and Certification:
+
+1. [𝙼𝚘𝚋𝚒𝚕𝚎 𝙶𝚊𝚖𝚎 𝙰𝚗𝚍 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝙵𝚘𝚛 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 - 𝚊𝚝 𝙸𝙲𝚃 𝙳𝚒𝚟𝚒𝚜𝚒𝚘𝚗 𝚘𝚏 𝙱𝚊𝚗𝚐𝚕𝚊𝚍𝚎𝚜𝚑](#)
+2. [𝙿𝙻𝙲 𝚃𝚛𝚊𝚒𝚗𝚒𝚗𝚐 𝙲𝚘𝚞𝚛𝚜𝚎 - 𝚊𝚝 𝙱𝙰𝚄𝚂𝚃](#)
+3. [𝚃𝚑𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎 𝙲 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.udemy.com/certificate/UC-9SJEY17Z/)
+4. [𝙲++ 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 𝚂𝚎𝚛𝚒𝚎𝚜, 𝚃𝚑𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎 𝙲𝚘𝚍𝚒𝚗𝚐 𝙶𝚞𝚒𝚍𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.udemy.com/certificate/UC-4c1e3560-c268-4c37-87c3-b3e1235b67f2/)
+5. [𝙻𝚎𝚊𝚛𝚗 𝙲++ 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙼𝚒𝚗𝚒 𝙲𝚘𝚞𝚛𝚜𝚎, 𝙿𝚘𝚠𝚎𝚛 𝚘𝚏 𝙰𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.udemy.com/certificate/UC-57c8fb24-5d8a-450b-9001-76c2dfac993b/)
+6. [𝙷𝚃𝙼𝙻𝟻 𝙲𝚘𝚍𝚒𝚗𝚐 𝚏𝚛𝚘𝚖 𝚂𝚌𝚛𝚊𝚝𝚌𝚑 - 𝙱𝚞𝚒𝚕𝚍 𝚈𝚘𝚞𝚛 𝙾𝚠𝚗 𝚆𝚎𝚋𝚜𝚒𝚝𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.udemy.com/certificate/UC-77OW1SDX/)
+7. [𝙿𝚘𝚜𝚒𝚝𝚒𝚘𝚗 𝙴𝚕𝚎𝚖𝚎𝚗𝚝𝚜 𝚘𝚗 𝚊 𝙿𝚊𝚐𝚎 𝚠𝚒𝚝𝚑 𝙲𝚂𝚂 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.coursera.org/account/accomplishments/certificate/DKL6A3KTYL34)
+8. [𝙶𝚒𝚝 + 𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚛 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.coursera.org/account/accomplishments/certificate/5XKX3V74MZA6)
+9. [𝚄𝚜𝚎 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚊𝚗𝚍 𝙲𝚛𝚎𝚊𝚝𝚎 𝚊 𝚁𝚎𝚖𝚘𝚝𝚎 𝙶𝚒𝚝 𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.coursera.org/account/accomplishments/certificate/HHS3XUAFQWZU)
+10. [𝙶𝚘𝚘𝚐𝚕𝚎 𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝚂𝚎𝚊𝚛𝚌𝚑: 𝙵𝚒𝚗𝚍 𝚂𝚝𝚞𝚏𝚏 𝙻𝚒𝚔𝚎 𝚊 𝙱𝚘𝚜𝚜 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.hackerrank.com/montasim)
+11. [𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙻𝚒𝚗𝚎 𝚒𝚗 𝙻𝚒𝚗𝚞𝚡 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.coursera.org/account/accomplishments/certificate/CC7F3ETBKK8U)
+12. [𝙻𝚎𝚊𝚛𝚗 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙻𝚒𝚗𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.udemy.com/certificate/UC-91b6cfe1-6f98-40ec-a1b1-2f5a1714f637/)
 <!-- End Training, Participation and Certification -->
 
 <br><br>
@@ -1101,14 +1128,9 @@ Wish you a good-looking profile README!
 	
 <br><br>
 
-<h2> 📣 What I do </h2>
+## 📣 What I do
 
-<div>
-	I do Open Source. In fact, I do Open Source so much, that majority of my work on
-	GitHub is free and open to everyone. I am really passionate about doing web
-	development. It is in my opinion the best combination of logical programming and
-	(sometimes) beautiful design.
-</div>
+I do Open Source. In fact, I do Open Source so much, that majority of my work on GitHub is free and open to everyone. I am really passionate about doing web development. It is in my opinion the best combination of logical programming and (sometimes) beautiful design.
 
 <br><br>
 
@@ -1292,28 +1314,26 @@ Wish you a good-looking profile README!
 
 [//]: # "Trainging and Participation heading"
 
-<h2> 🏅 Trainging and Participation </h2>
+## 🏅 Trainging and Participation
 
-[//]: # "Trainging and Participation summery"
-
-- <a href="#">𝙼𝚘𝚋𝚒𝚕𝚎 𝙶𝚊𝚖𝚎 𝙰𝚗𝚍 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝙵𝚘𝚛 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 - 𝚊𝚝 𝙸𝙲𝚃 𝙳𝚒𝚟𝚒𝚜𝚒𝚘𝚗 𝚘𝚏 𝙱𝚊𝚗𝚐𝚕𝚊𝚍𝚎𝚜𝚑</a>
-- <a href="#">𝙿𝙻𝙲 𝚃𝚛𝚊𝚒𝚗𝚒𝚗𝚐 𝙲𝚘𝚞𝚛𝚜𝚎 - 𝚊𝚝 𝙱𝙰𝚄𝚂𝚃</a>
-- <a href="https://www.udemy.com/certificate/UC-9SJEY17Z/">𝚃𝚑𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎 𝙲 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎</a>
-- <a href="https://www.udemy.com/certificate/UC-4c1e3560-c268-4c37-87c3-b3e1235b67f2/">𝙲++ 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 𝚂𝚎𝚛𝚒𝚎𝚜, 𝚃𝚑𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎 𝙲𝚘𝚍𝚒𝚗𝚐 𝙶𝚞𝚒𝚍𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎</a>
-- <a href="https://www.udemy.com/certificate/UC-57c8fb24-5d8a-450b-9001-76c2dfac993b/">𝙻𝚎𝚊𝚛𝚗 𝙲++ 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙼𝚒𝚗𝚒 𝙲𝚘𝚞𝚛𝚜𝚎, 𝙿𝚘𝚠𝚎𝚛 𝚘𝚏 𝙰𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎</a>
-- <a href="https://www.udemy.com/certificate/UC-77OW1SDX/">𝙷𝚃𝙼𝙻𝟻 𝙲𝚘𝚍𝚒𝚗𝚐 𝚏𝚛𝚘𝚖 𝚂𝚌𝚛𝚊𝚝𝚌𝚑 - 𝙱𝚞𝚒𝚕𝚍 𝚈𝚘𝚞𝚛 𝙾𝚠𝚗 𝚆𝚎𝚋𝚜𝚒𝚝𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎</a>
-- <a href="https://www.coursera.org/account/accomplishments/certificate/DKL6A3KTYL34">𝙿𝚘𝚜𝚒𝚝𝚒𝚘𝚗 𝙴𝚕𝚎𝚖𝚎𝚗𝚝𝚜 𝚘𝚗 𝚊 𝙿𝚊𝚐𝚎 𝚠𝚒𝚝𝚑 𝙲𝚂𝚂 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎</a>
-- <a href="https://www.coursera.org/account/accomplishments/certificate/5XKX3V74MZA6">𝙶𝚒𝚝 + 𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚛 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎</a>
-- <a href="https://www.coursera.org/account/accomplishments/certificate/HHS3XUAFQWZU">𝚄𝚜𝚎 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚊𝚗𝚍 𝙲𝚛𝚎𝚊𝚝𝚎 𝚊 𝚁𝚎𝚖𝚘𝚝𝚎 𝙶𝚒𝚝 𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎</a>
-- <a href="https://www.hackerrank.com/montasim">𝙶𝚘𝚘𝚐𝚕𝚎 𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝚂𝚎𝚊𝚛𝚌𝚑: 𝙵𝚒𝚗𝚍 𝚂𝚝𝚞𝚏𝚏 𝙻𝚒𝚔𝚎 𝚊 𝙱𝚘𝚜𝚜 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎</a>
-- <a href="https://www.coursera.org/account/accomplishments/certificate/CC7F3ETBKK8U">𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙻𝚒𝚗𝚎 𝚒𝚗 𝙻𝚒𝚗𝚞𝚡 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎</a>
-- <a href="https://www.udemy.com/certificate/UC-91b6cfe1-6f98-40ec-a1b1-2f5a1714f637/">𝙻𝚎𝚊𝚛𝚗 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙻𝚒𝚗𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎</a>
+1. [𝙼𝚘𝚋𝚒𝚕𝚎 𝙶𝚊𝚖𝚎 𝙰𝚗𝚍 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝙵𝚘𝚛 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 - 𝚊𝚝 𝙸𝙲𝚃 𝙳𝚒𝚟𝚒𝚜𝚒𝚘𝚗 𝚘𝚏 𝙱𝚊𝚗𝚐𝚕𝚊𝚍𝚎𝚜𝚑](#)
+2. [𝙿𝙻𝙲 𝚃𝚛𝚊𝚒𝚗𝚒𝚗𝚐 𝙲𝚘𝚞𝚛𝚜𝚎 - 𝚊𝚝 𝙱𝙰𝚄𝚂𝚃](#)
+3. [𝚃𝚑𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎 𝙲 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.udemy.com/certificate/UC-9SJEY17Z/)
+4. [𝙲++ 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 𝚂𝚎𝚛𝚒𝚎𝚜, 𝚃𝚑𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎 𝙲𝚘𝚍𝚒𝚗𝚐 𝙶𝚞𝚒𝚍𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.udemy.com/certificate/UC-4c1e3560-c268-4c37-87c3-b3e1235b67f2/)
+5. [𝙻𝚎𝚊𝚛𝚗 𝙲++ 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙼𝚒𝚗𝚒 𝙲𝚘𝚞𝚛𝚜𝚎, 𝙿𝚘𝚠𝚎𝚛 𝚘𝚏 𝙰𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.udemy.com/certificate/UC-57c8fb24-5d8a-450b-9001-76c2dfac993b/)
+6. [𝙷𝚃𝙼𝙻𝟻 𝙲𝚘𝚍𝚒𝚗𝚐 𝚏𝚛𝚘𝚖 𝚂𝚌𝚛𝚊𝚝𝚌𝚑 - 𝙱𝚞𝚒𝚕𝚍 𝚈𝚘𝚞𝚛 𝙾𝚠𝚗 𝚆𝚎𝚋𝚜𝚒𝚝𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.udemy.com/certificate/UC-77OW1SDX/)
+7. [𝙿𝚘𝚜𝚒𝚝𝚒𝚘𝚗 𝙴𝚕𝚎𝚖𝚎𝚗𝚝𝚜 𝚘𝚗 𝚊 𝙿𝚊𝚐𝚎 𝚠𝚒𝚝𝚑 𝙲𝚂𝚂 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.coursera.org/account/accomplishments/certificate/DKL6A3KTYL34)
+8. [𝙶𝚒𝚝 + 𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚛 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.coursera.org/account/accomplishments/certificate/5XKX3V74MZA6)
+9. [𝚄𝚜𝚎 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚊𝚗𝚍 𝙲𝚛𝚎𝚊𝚝𝚎 𝚊 𝚁𝚎𝚖𝚘𝚝𝚎 𝙶𝚒𝚝 𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.coursera.org/account/accomplishments/certificate/HHS3XUAFQWZU)
+10. [𝙶𝚘𝚘𝚐𝚕𝚎 𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝚂𝚎𝚊𝚛𝚌𝚑: 𝙵𝚒𝚗𝚍 𝚂𝚝𝚞𝚏𝚏 𝙻𝚒𝚔𝚎 𝚊 𝙱𝚘𝚜𝚜 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.hackerrank.com/montasim)
+11. [𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙻𝚒𝚗𝚎 𝚒𝚗 𝙻𝚒𝚗𝚞𝚡 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.coursera.org/account/accomplishments/certificate/CC7F3ETBKK8U)
+12. [𝙻𝚎𝚊𝚛𝚗 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙻𝚒𝚗𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎](https://www.udemy.com/certificate/UC-91b6cfe1-6f98-40ec-a1b1-2f5a1714f637/)
 
 <br>
 
 <!-- 𝚃𝚑𝚒𝚗𝚐𝚜 𝙸 𝚄𝚜𝚎 𝚃𝚘 𝙶𝚎𝚝 𝚂𝚝𝚞𝚏𝚏 𝙳𝚘𝚗𝚎 heading -->
 
-<h2> ⚙️ 𝚃𝚑𝚒𝚗𝚐𝚜 𝙸 𝚄𝚜𝚎 </h2>
+## ⚙️ 𝚃𝚑𝚒𝚗𝚐𝚜 𝙸 𝚄𝚜𝚎
 
 [//]: # "𝚃𝚑𝚒𝚗𝚐𝚜 𝙸 𝚄𝚜𝚎 𝚃𝚘 𝙶𝚎𝚝 𝚂𝚝𝚞𝚏𝚏 𝙳𝚘𝚗𝚎 notes"
 
@@ -1341,19 +1361,20 @@ Wish you a good-looking profile README!
 - <b>𝚃𝚘 𝚂𝚝𝚊𝚢 𝚄𝚙𝚍𝚊𝚝𝚎𝚍:</b>
 
 <div align="center">
-    <a href=""> 🅻🅸🅽🅺🅴🅳🅸🅽 </a>
-    <a href=""> 🅶🅸🆃🅷🆄🅱 </a>
-    <a href=""> 🅶🅼🅰🅸🅻 </a>
-    <a href=""> 🆆🅴🅱🆂🅸🆃🅴 </a>
-    <a href=""> 🅵🅰🅲🅴🅱🅾🅾🅺 </a>
-  </a>
+
+[🅻🅸🅽🅺🅴🅳🅸🅽]()
+[🅶🅸🆃🅷🆄🅱]()
+[🅶🅼🅰🅸🅻]()
+[🆆🅴🅱🆂🅸🆃🅴]()
+[🅵🅰🅲🅴🅱🅾🅾🅺]()
+
 </div>
 
 <br>
 
-<h2> 🔌 Website I Use Causualy </h2>
+## 🔌 Website I Use Causualy
 
-<b> My website has quite a few of them. Here's a list of the public ones. </b>
+**My website has quite a few of them. Here's a list of the public ones.**
 
 - [noobtrack.blogspot.com](https://noobtrack.blogspot.com/) - This is my own cracked apps download website.
 - [download.trnck.dev](http://download.trnck.dev) - download some important
@@ -1379,33 +1400,40 @@ Wish you a good-looking profile README!
 
 <!-- Github Trophies -->
 <div align="center">
-  <img alt="Github Trophies" src = "https://github-profile-trophy.vercel.app/?username=montasim&theme=onedark">
+
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=montasim&theme=onedark)
+
 </div>
 
 <br>
 
 <!-- Github Metrics -->
 <div align="center">
-  <img alt="Github Metrics" src = "https://metrics.lecoq.io/montasim">
+
+![Github Metrics](https://metrics.lecoq.io/montasim)
+
 </div>
 <br>
 
 <!-- Wakatime stats -->
 <div align="center">
-  <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=montasim&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="Wakatime stats">
+
+![Wakatime Stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=montasim&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
 </div>
 
 <!-- Stackoverflow Stats -->
 <div align="center">
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=10429621&theme=dark" alt="Stackoverflow Stats">
+
+![Stackoverflow Stats](https://github-readme-stackoverflow.vercel.app/?userID=10429621&theme=dark)
+
 </div>
 
 <br><br>
 
 <!-- website speed stats -->
-<div align="center">
-  <img src="https://pagespeed-insights.herokuapp.com?url=https://montasim.github.io&theme=dark" alt="website speed stats">
-</div>
+
+![Website Speed Stats](https://pagespeed-insights.herokuapp.com?url=https://montasim.github.io&theme=dark)
 
 <br><br>
 
@@ -1481,7 +1509,6 @@ Wish you a good-looking profile README!
 ## StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
-
 - [Answer by MONTASIM for Programming a button with javascript using outer files](https://stackoverflow.com/questions/71202556/programming-a-button-with-javascript-using-outer-files/71202707#71202707)
 - [Answer by MONTASIM for I am trying to make all classes &lpar;sometags&rpar; turn pink once I call it in javascript it has to be onClickEvent](https://stackoverflow.com/questions/71193951/i-am-trying-to-make-all-classes-sometags-turn-pink-once-i-call-it-in-javascrip/71194646#71194646)
 - [Two empty input field checking problem using JavaScript function](https://stackoverflow.com/questions/71178334/two-empty-input-field-checking-problem-using-javascript-function)
@@ -1518,7 +1545,8 @@ Wish you a good-looking profile README!
 <br><br>
 
 <!-- twitter post -->
-<img src="https://github-readme-twitter.gazf.vercel.app/api?id=montasimmamun&layout=wide" alt="Twitter Post">
+
+![Twitter Post](https://github-readme-twitter.gazf.vercel.app/api?id=montasimmamun&layout=wide)
 
 <br><br>
 
@@ -1526,7 +1554,7 @@ Wish you a good-looking profile README!
 
 <br><br>
 
-<img src="https://github-readme-medium.vercel.app/?username=montasim&limit=2" alt="Medium Post">
+![Medium Post](https://github-readme-medium.vercel.app/?username=montasim&limit=2)
 
 <br><br>
 
@@ -1537,28 +1565,33 @@ Wish you a good-looking profile README!
 
 <!--Start Footer-->
 <div align="center" class="footer">
-    <!-- Wave svg --> 
-    <div>
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer"/>
-    </div>
-    <br>
-    <!-- Copyright --> 
-    <a href="https://montasim.github.io/" target="_blank"> 
-        <img src="https://readme-typing-svg.herokuapp.com?color=%23D04060&center=true&vCenter=true&lines=Made+By+Montasim">
-    </a>
 
-<br><br>
+<!-- Start Wave Gif -->
+
+![Wave Gif](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer)
+
+<!-- End Wave Gif -->
+
+<br>
+
+<!-- Copyright -->
+<a href="https://montasim.github.io/" target="_blank">
+
+![Copyright Animated text](https://readme-typing-svg.herokuapp.com?color=%23D04060&center=true&vCenter=true&lines=Made+By+Montasim)
+</a>
+
+<br>
 
 <!-- start about this readme -->
-<div>
-    <img src="https://img.shields.io/github/stars/montasim/montasim.github.io" alt="Stars Badge"/>
-    <img src="https://img.shields.io/github/forks/montasim/montasim.github.io" alt="Forks Badge"/>
-    <img src="https://img.shields.io/github/issues-pr/montasim/montasim.github.io" alt="Pull Requests Badge"/>
-    <img src="https://img.shields.io/github/issues/montasim/montasim.github.io" alt="Issues Badge"/>
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/montasim/montasim.github.io?color=2b9348">
-    <img src="https://img.shields.io/badge/license-feel%20free%20to%20use-success" alt="License Badge"/>
-    <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" alt="Say Thanks"/>
-</div>
+
+![GitHub Stars Badge](https://img.shields.io/github/stars/montasim/montasim.github.io)
+![GitHub Forks Badge](https://img.shields.io/github/forks/montasim/montasim.github.io)
+![GitHub Pull Requests Badge](https://img.shields.io/github/issues-pr/montasim/montasim.github.io)
+![GitHub Issues Badge](https://img.shields.io/github/issues/montasim/montasim.github.io)
+![GitHub contributors](https://img.shields.io/github/contributors/montasim/montasim.github.io?color=2b9348)
+![License Badge](https://img.shields.io/badge/license-feel%20free%20to%20use-success)
+![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)
+
 <!-- end about this readme -->
 
 </div>
