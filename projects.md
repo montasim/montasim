@@ -11,6 +11,10 @@
 
 ⚡️Stay awesome!⚡️
 
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=10429621">
+
+<img src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/10429621">
+
 <div>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
@@ -107,6 +111,7 @@
 
 <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" />
 
+:page_with_curl: I'm currently learning:
 <br><br>
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -163,8 +168,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
-![Montasim's gitartwork](gitartwork.svg)
 
 <!--START_SECTION:activity-->
 
