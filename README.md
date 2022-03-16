@@ -1506,7 +1506,7 @@ I do Open Source. In fact, I do Open Source so much, that majority of my work on
 
 <br><br>
 
-## StackOverflow Activity
+## StackOverflow Activity <img align="right" src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/10429621">
 
 <!-- STACKOVERFLOW:START -->
 - [Answer by MONTASIM for Programming a button with javascript using outer files](https://stackoverflow.com/questions/71202556/programming-a-button-with-javascript-using-outer-files/71202707#71202707)
@@ -1518,9 +1518,7 @@ I do Open Source. In fact, I do Open Source so much, that majority of my work on
 
 <br><br>
 
-## 📺 Latest YouTube Videos
-
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkkBnedfjKU-toiKQ-rxvtA?label=YouTube%20Subscribers&style=social)
+## 📺 Latest YouTube Videos <img align= "right" alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCkkBnedfjKU-toiKQ-rxvtA?label=YouTube%20Subscribers&style=social">
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 
