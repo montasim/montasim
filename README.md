@@ -779,10 +779,12 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <h2 align="right"> 📬 ꜰɪɴᴅ ᴍᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </h2>
 
 <!-- handshake gif -->
-<img align="left" alt="handshake" src="media/gif/handshake3.gif" width="150px">
+<img align="left" alt="handshake" src="media/gif/handshake3.gif" width="180px">
 
 <!-- Start Social Links -->
-<br>
+
+<br><br>
+
 <table align="right">
     <thead align="center">
         <tr>
