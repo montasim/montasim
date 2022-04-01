@@ -779,7 +779,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <h2 align="right"> 📬 ꜰɪɴᴅ ᴍᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </h2>
 
 <!-- handshake gif -->
-<img align="left" alt="handshake" src="media/gif/handshake3.gif" width="180px">
+<img align="left" alt="handshake" src="media/gif/handshake3.gif" width="200px">
 
 <!-- Start Social Links -->
 
@@ -823,7 +823,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 </table>
 <!-- End Social Links -->
  
-<br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 ##
 
