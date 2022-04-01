@@ -781,7 +781,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <br>
 
 <!-- handshake gif -->
-<img align="left" alt="handshake" src="media/gif/handshake2.gif" width="150px">
+<img align="left" alt="handshake" src="media/gif/handshake2.gif" width="90px">
 
 <!-- Start Social Links -->
 <table align="right">
