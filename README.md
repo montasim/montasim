@@ -778,12 +778,13 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <!-- 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 -->
 <h2 align="right"> 📬 ꜰɪɴᴅ ᴍᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </h2>
 
-<br><br><br>
+<br><br>
 
 <!-- handshake gif -->
 <img align="left" alt="handshake" src="media/gif/handshake3.gif" width="150px">
 
 <!-- Start Social Links -->
+<br>
 <table align="right">
     <thead align="center">
         <tr>
