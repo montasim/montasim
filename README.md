@@ -879,7 +879,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <br><br><br><br><br>
 
 <!-- coder gif -->
-<img align="left" alt="sleeping coding gif" src="media/gif/installing-program1.gif" height="250" width="375">
+<img align="left" alt="sleeping coding gif" src="media/gif/algorithm.gif" height="250" width="375">
 
 <!-- Start My absolute favourite -->
 
