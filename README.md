@@ -40,7 +40,6 @@ Wish you a good-looking profile README!
 
 <!-- Start Some Hints Icons About Montasim -->
 <div align="center">
-    <img alt="version" src="https://img.shields.io/badge/version-.07-informational">
     <img alt="Code Quality" src="https://img.shields.io/badge/Code%20Quality-Good-lightblue" />
     <img alt="visitor" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasimmamun" />
     <img alt="total repos" src="https://badges.pufler.dev/repos/montasim" />
@@ -52,13 +51,12 @@ Wish you a good-looking profile README!
 
 <!-- Start Programming Languages Icon -->
 <div align="center">
-  <img alt="c++ icon" src="media/icons/c++.png" width="35px">
+  <img alt="react icon" src="media/icons/react-native.png" width="35px">
   <img alt="javascript icon" src="media/icons/javascript.png" width="35px">
   <img alt="python icon" src="media/icons/python.png" width="35px">  
-  <img alt="php icon" src="media/icons/php.png" width="35px">     
+  <img alt="tailwind css icon" src="media/icons/tailwind-css.png" width="35px">     
   <img alt="bootstrap icon" src="media/icons/bootstrap.png" width="35px">
-  <img alt="django icon" src="media/icons/django.png" width="35px">
-  <img alt="wordpress icon" src="media/icons/wordpress.png" width="35px">
+  <img alt="markdown icon" src="media/icons/markdown.png" width="35px">
 </div>
 <!-- End Programming Languages Icon -->
 
@@ -880,7 +878,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <br><br><br><br><br>
 
 <!-- coder gif -->
-<img align="left" alt="sleeping coding gif" src="media/gif/round-heart-beat.gif" height="250" width="375">
+<img align="left" alt="sleeping coding gif" src="media/gif/round-heart-beat.gif" height="310" width="375">
 
 <!-- Start My absolute favourite -->
 
