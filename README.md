@@ -81,13 +81,13 @@ Wish you a good-looking profile README!
 
 <!-- Start Details -->
 <details>
-<summary><b> 📰 ᴍʏ ʀᴇꜱᴜᴍᴇ </b></summary>
+<summary><b> 📰 MY RESUME </b></summary>
 
 <br><br>
 
 <h2 align="center">
     <a href="https://github.com/montasim/DoNotDelete/raw/main/resume/Resume_of_Montasim.pdf"> 
-        𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐌𝐲 𝐑𝐞𝐬𝐮𝐦𝐞 
+        DOWNLOAD MY RESUME 
     </a>
 </h2>
 
@@ -557,7 +557,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <!-- Start My Experience Section -->
 <details>
 <summary>
-    <b> 📚 ᴍʏ ᴇxᴘᴇʀɪᴇɴᴄᴇ </b>
+    <b> 📚 MY EXPERIENCE </b>
 </summary>
 	
 <br><br>
@@ -617,13 +617,13 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <!-- Start My Skills Section -->
 <details>
 <summary>
-    <b> 🧳 ᴍʏ ꜱᴋɪʟʟꜱ </b>
+    <b> 🧳 MY SKILLS </b>
 </summary>
 	
 <br><br>
 
 <!-- Start My Skills -->
-<h2 align="center"><b> My Skills </b></h2>
+<h2 align="center"><b> MY SKILLS </b></h2>
 <table align="center">
     <thead align="center">
         <tr>
@@ -775,7 +775,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 
 <!-- Start 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section -->
 <!-- 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 -->
-<h2 align="right"> 📬 ꜰɪɴᴅ ᴍᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </h2>
+<h2 align="right"> 📬 FIND ME ON SOCIAL MEDIA </h2>
 
 <!-- handshake gif -->
 <img align="left" alt="handshake" src="media/gif/handshake3.gif" width="200px">
@@ -834,7 +834,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 
 <!-- Start Some Words About Me -->
 
-## 🌟 ꜱᴏᴍᴇ ᴡᴏʀᴅ ᴀʙᴏᴜᴛ ᴍᴇ
+## 🌟 SOME WORD ABOUT ME
 
 <div>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ꜰᴜʟʟ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ꜱᴛᴀᴄᴋ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ
@@ -857,7 +857,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 
 <!-- Start Talking About Personal Stuffs -->
 
-## 📙 ᴛᴀʟᴋɪɴɢ ᴀʙᴏᴜᴛ ᴘᴇʀꜱᴏɴᴀʟ ꜱᴛᴀꜰꜰ
+## 📙 TALKING ABOUT PERSONAL STAFFS
 
 <div>
     &nbsp;&nbsp;&nbsp;&nbsp; &#x1F539; ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ
@@ -882,7 +882,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 
 <!-- Start My absolute favourite -->
 
-## 🧠 ᴍʏ ᴀʙꜱᴏʟᴜᴛᴇ ꜰᴀᴠᴏᴜʀɪᴛᴇ
+## 🧠 MY ABSOLUTE FAVOURITE
 
 <div>
     &nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ɪ ʟᴏᴠᴇ ᴇxᴘʟᴏʀɪɴɢ ɴᴇᴡ ᴛᴇᴄʜ ᴀɴᴅ ʙᴜɪʟᴅɪɴɢ ᴄᴏᴏʟ ꜱᴛᴜꜰꜰꜱ
@@ -898,7 +898,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 
 <!-- Start random jokes -->
 
-## 💠 ꜱᴏᴍᴇ ʀᴀɴᴅᴏᴍ ᴊᴏᴋᴇꜱ
+## 💠 SOME RANDOM JOKES
 
 <br>
 <div align=center>
@@ -912,7 +912,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <!-- Start My Projects Section -->
 <details>
 <summary>
-    <b> &#x1F49B; ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ </b>
+    <b> &#x1F49B; MY PROJECTS </b>
 </summary>
 	
 <br><br>
@@ -981,7 +981,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <!-- Start Certificates Section -->
 <details>
 <summary>
-    <b> 🏅 ᴄᴇʀᴛɪꜰɪᴄᴀᴛᴇꜱ </b>
+    <b> 🏅 CERTIFICATES </b>
 </summary>
 	
 <br><br>
@@ -1009,89 +1009,8 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 </details>
 <!-- End Certificates Section -->
 
-<!-- Start My Followers Section -->
-<details>
-<summary>
-    <b> 💢 ᴍʏ ꜰᴏʟʟᴏᴡᴇʀꜱ </b>
-</summary>
-	
-<br><br>
-
-### My Followers
-
-<!--START_SECTION:top-followers-->
-<table>
-  <tr align="center">
-    <td>
-        <img src="https://avatars.githubusercontent.com/u/60427103?s=100&v=4" width="100px;" />
-        <br />
-    </td>
-    <td>
-      <a href="https://github.com/donmartz">
-        <img src="https://avatars.githubusercontent.com/u/40871658?s=100&v=4" width="100px;" />
-        <br />
-    </td>
-    <td>
-        <img src="https://avatars.githubusercontent.com/u/43262000?s=100&v=4" width="100px;" />
-        <br />
-    </td>
-    <td>
-        <img src="https://avatars.githubusercontent.com/u/34787290?s=100&v=4" width="100px;" />
-        <br />
-    </td>
-    <td>
-        <img src="https://avatars.githubusercontent.com/u/69847499?s=100&v=4" width="100px;" />
-        <br />
-    </td>
-    <td>
-        <img src="https://avatars.githubusercontent.com/u/71976987?s=100&v=4" width="100px;" />
-        <br />
-    </td>
-    <td>
-        <img src="https://avatars.githubusercontent.com/u/53873688?s=100&v=4" width="100px;" />
-        <br />
-    </td>
-  </tr>
-  <tr align="center">
-    <td>
-        <img src="https://avatars.githubusercontent.com/u/75871974?s=100&v=4" width="100px;" />
-        <br />
-    </td>
-    <td>
-        <img src="https://avatars.githubusercontent.com/u/39973552?s=100&v=4" width="100px;" />
-        <br />
-    </td>
-    <td>
-        <img src="https://avatars.githubusercontent.com/u/4786022?s=100&v=4" width="100px;" />
-        <br />
-    </td>
-    <td>
-        <img src="https://avatars.githubusercontent.com/u/76847887?s=100&v=4" width="100px;" />
-        <br />
-    </td>
-    <td>
-        <img src="https://avatars.githubusercontent.com/u/76745218?s=100&v=4" width="100px;" />
-        <br />
-    </td>
-    <td>
-        <img src="https://avatars.githubusercontent.com/u/7357679?s=100&v=4" width="100px;" />
-        <br />
-    </td>
-    <td>
-        <img src="https://avatars.githubusercontent.com/u/25494368?s=100&v=4" width="100px;" />
-      <br />
-    </td>
-  </tr>
-</table>
-<!--END_SECTION:top-followers-->
-
-<br><br>
-
-</details>
-<!-- End My Followers Section -->
-
 <!-- Start My Github Stats -->
-<h2 align="center"> 📈 ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ </h2>
+<h2 align="center"> 📈 MY GITHUB STATS </h2>
 <br>
 
 <!-- Start Montasim's github readme stats -->
@@ -1123,7 +1042,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <!-- Start 𝙼𝚘𝚛𝚎 𝚂𝚝𝚞𝚏𝚏 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 Section -->
 <details>
 <summary>
-	<b> 💡 ᴍᴏʀᴇ ꜱᴛᴀꜰꜰ ᴀʙᴏᴜᴛ ᴍᴇ </b>
+	<b> 💡 MORE STAFF ABOUT ME </b>
 </summary>
 	
 <br><br>
@@ -1389,7 +1308,7 @@ I do Open Source. In fact, I do Open Source so much, that majority of my work on
 <!-- Start 𝙼𝚢 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 Section -->
 <details>
 <summary>
-    <b> 📌 ᴍʏ ꜱᴛᴀᴛɪꜱᴛɪᴄꜱ </b>
+    <b> 📌 MY STATISTICS </b>
 </summary>
 	
 <br>
@@ -1443,7 +1362,7 @@ I do Open Source. In fact, I do Open Source so much, that majority of my work on
 <!-- Start Special Thanks To Section -->
 <details>
 <summary>
-    <b> ⌛ ꜱᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋꜱ ᴛᴏ </b>
+    <b> ⌛ SPECIAL THANKS TO </b>
 </summary>
 
 <br><br>
@@ -1501,7 +1420,7 @@ I do Open Source. In fact, I do Open Source so much, that majority of my work on
 <!-- Start Find More On Social Media Section -->
 <details>
     <summary> 
-        <b> 📛 ꜰɪɴᴅ ᴍᴏʀᴇ ᴏɴ ꜱᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ </b> 
+        <b> 📛 FIND MORE ON SOCIAL MEDIA </b> 
     </summary>
 
 <br><br>
@@ -1509,6 +1428,7 @@ I do Open Source. In fact, I do Open Source so much, that majority of my work on
 ## StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+
 - [Answer by MONTASIM for Programming a button with javascript using outer files](https://stackoverflow.com/questions/71202556/programming-a-button-with-javascript-using-outer-files/71202707#71202707)
 - [Answer by MONTASIM for I am trying to make all classes &lpar;sometags&rpar; turn pink once I call it in javascript it has to be onClickEvent](https://stackoverflow.com/questions/71193951/i-am-trying-to-make-all-classes-sometags-turn-pink-once-i-call-it-in-javascrip/71194646#71194646)
 - [Two empty input field checking problem using JavaScript function](https://stackoverflow.com/questions/71178334/two-empty-input-field-checking-problem-using-javascript-function)
