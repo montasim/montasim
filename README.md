@@ -103,7 +103,7 @@ From a young age I've always had a sense of motivation and passion driving me fo
 
 <br><br>
 
-<h2>
+<h2 align="right">
     <a href="https://github.com/montasim/DoNotDelete/raw/main/resume/Resume_of_Montasim.pdf"> 
         DOWNLOAD MY RESUME 
     </a>
