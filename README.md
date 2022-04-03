@@ -69,15 +69,15 @@ Wish you a good-looking profile README!
 <!-- start my summary  -->
 <div>
 
-## 👋 ʜɪ, ɪ'ᴍ ᴍᴏɴᴛᴀꜱɪᴍ
+## 👋 HI I'M MONTASIM
 
 <span style="font-family:Papyrus; font-size: 1em;">
-FROM A YOUNG AGE I'VE ALWAYS HAD A SENSE OF MOTIVATION AND PASSION DRIVING ME FORWARD. WEATHER IT IS EXPLORING UNIQUE OPPORTUNITIES, LEARNING ADDITIONAL SKILLS, OR MEETING NEW PEOPLE, I BRING THESE VALUES TO EVERY EXPERIENCE THROUGHOUT MY LIFE ON A PERSONAL AND PROFESSIONAL LEVEL. I LOVE CONNECTING WITH DIFFERENT PEOPLE AROUND THE WORLD. FEEL FREE TO REACH OUT AND INTRODUCE YOURSELF. TO LEARN MORE ABOUT ME, KEEP EXPLORING MY SITE OR REACH OUT DIRECTLY.
+From a young age I've always had a sense of motivation and passion driving me forward. Weather it is exploring unique opportunities, learning additional skills or meeting new people, I bring these values to every experience throughout my life on a personal and professional level. I love connecting with different people around the world. Feel free to reach out and introduce yourself. To Learn more about me, keep exploring my site or reach out directly.
 </span>
 
 <!-- end my summary  -->
 
-<br><br>
+<br>
 
 <!-- Start My Resume Section -->
 
