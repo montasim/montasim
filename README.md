@@ -79,10 +79,10 @@ Wish you a good-looking profile README!
 <img align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@rangpur?v=1" width="100px">
 <!-- end weather -->
 
-<!-- start my summary  -->
-<div>
+<img align="right" alt="weather icon" src="media/text-image/hi-i-am-montasim.png" width="300px">
 
-## 👋 HI I'M MONTASIM
+<!-- start my summary  -->
+<div>>
 
 <span style="font-family:Papyrus; font-size: 1.2em;">
 From a young age I've always had a sense of motivation and passion driving me forward. Weather it is exploring unique opportunities, learning additional skills or meeting new people, I bring these values to every experience throughout my life on a personal and professional level. I love connecting with different people around the world. Feel free to reach out and introduce yourself. To Learn more about me, keep exploring my site or reach out directly.
