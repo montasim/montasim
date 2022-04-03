@@ -79,7 +79,7 @@ Wish you a good-looking profile README!
 <img align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@rangpur?v=1" width="100px">
 <!-- end weather -->
 
-<img alt="weather icon" src="media/text-image/hi-i-am-montasim.png" width="300px">
+<img alt="weather icon" src="media/text-image/hi-i-am-montasim.svg" width="300px">
 
 <!-- start my summary  -->
 <div>
