@@ -893,7 +893,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <br><br><br><br><br>
 
 <!-- coder gif -->
-<img align="left" alt="sleeping coding gif" src="media/gif/round-heart-beat.gif" height="310" width="375">
+<img align="left" alt="sleeping coding gif" src="media/gif/round-heart-beat.gif" height="290" width="375">
 
 <!-- Start My absolute favourite -->
 
