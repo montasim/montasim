@@ -28,7 +28,7 @@ There could be a profile README that fits you better than this one.
 
 Wish you a good-looking profile README!
 
-                                   —— montasim (https://github.com/montasim)
+                            —— montasim (https://github.com/montasim)
 
 <img src="https://gist-count.vercel.app/api?username=montasim">
 -->
@@ -71,8 +71,8 @@ Wish you a good-looking profile README!
 
 ## 👋 ʜɪ, ɪ'ᴍ ᴍᴏɴᴛᴀꜱɪᴍ
 
-<span style="font-family:Papyrus; color: red; font-size: 1.4em;">
-ꜰʀᴏᴍ ᴀ ʏᴏᴜɴɢ ᴀɢᴇ, ɪ'ᴠᴇ ᴀʟᴡᴀʏꜱ ʜᴀᴅ ᴀ ꜱᴇɴꜱᴇ ᴏꜰ ᴍᴏᴛɪᴠᴀᴛɪᴏɴ ᴀɴᴅ ᴘᴀꜱꜱɪᴏɴ ᴅʀɪᴠɪɴɢ ᴍᴇ ꜰᴏʀᴡᴀʀᴅ. ᴡʜᴇᴛʜᴇʀ ɪᴛ ɪꜱ ᴇxᴘʟᴏʀɪɴɢ ᴜɴɪQᴜᴇ ᴏᴘᴘᴏʀᴛᴜɴɪᴛɪᴇꜱ, ʟᴇᴀʀɴɪɴɢ ᴀᴅᴅɪᴛɪᴏɴᴀʟ ꜱᴋɪʟʟꜱ, ᴏʀ ᴍᴇᴇᴛɪɴɢ ɴᴇᴡ ᴘᴇᴏᴘʟᴇ, ɪ ʙʀɪɴɢ ᴛʜᴇꜱᴇ ᴠᴀʟᴜᴇꜱ ᴛᴏ ᴇᴠᴇʀʏ ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴛʜʀᴏᴜɢʜᴏᴜᴛ ᴍʏ ʟɪꜰᴇ ᴏɴ ᴀ ᴘᴇʀꜱᴏɴᴀʟ ᴀɴᴅ ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ʟᴇᴠᴇʟ. ɪ ʟᴏᴠᴇ ᴄᴏɴɴᴇᴄᴛɪɴɢ ᴡɪᴛʜ ᴅɪꜰꜰᴇʀᴇɴᴛ ᴘᴇᴏᴘʟᴇ ᴀʀᴏᴜɴᴅ ᴛʜᴇ ᴡᴏʀʟᴅ. ꜰᴇᴇʟ ꜰʀᴇᴇ ᴛᴏ ʀᴇᴀᴄʜ ᴏᴜᴛ ᴀɴᴅ ɪɴᴛʀᴏᴅᴜᴄᴇ ʏᴏᴜʀꜱᴇʟꜰ. ᴛᴏ ʟᴇᴀʀɴ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ, ᴋᴇᴇᴘ ᴇxᴘʟᴏʀɪɴɢ ᴍʏ ꜱɪᴛᴇ ᴏʀ ʀᴇᴀᴄʜ ᴏᴜᴛ ᴅɪʀᴇᴄᴛʟʏ.
+<span style="font-family:Papyrus; font-size: 1.4em;">
+FROM A YOUNG AGE I'VE ALWAYS HAD A SENSE OF MOTIVATION AND PASSION DRIVING ME FORWARD. WEATHER IT IS EXPLORING UNIQUE OPPORTUNITIES, LEARNING ADDITIONAL SKILLS, OR MEETING NEW PEOPLE, I BRING THESE VALUES TO EVERY EXPERIENCE THROUGHOUT MY LIFE ON A PERSONAL AND PROFESSIONAL LEVEL. I LOVE CONNECTING WITH DIFFERENT PEOPLE AROUND THE WORLD. FEEL FREE TO REACH OUT AND INTRODUCE YOURSELF. TO LEARN MORE ABOUT ME, KEEP EXPLORING MY SITE OR REACH OUT DIRECTLY.
 </span>
 
 <!-- end my summary  -->
@@ -1430,6 +1430,7 @@ I do Open Source. In fact, I do Open Source so much, that majority of my work on
 ## StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+
 - [Answer by MONTASIM for Programming a button with javascript using outer files](https://stackoverflow.com/questions/71202556/programming-a-button-with-javascript-using-outer-files/71202707#71202707)
 - [Answer by MONTASIM for I am trying to make all classes &lpar;sometags&rpar; turn pink once I call it in javascript it has to be onClickEvent](https://stackoverflow.com/questions/71193951/i-am-trying-to-make-all-classes-sometags-turn-pink-once-i-call-it-in-javascrip/71194646#71194646)
 - [Two empty input field checking problem using JavaScript function](https://stackoverflow.com/questions/71178334/two-empty-input-field-checking-problem-using-javascript-function)
