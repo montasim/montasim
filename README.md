@@ -793,11 +793,11 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <h2 align="right"> 📬 FIND ME ON SOCIAL MEDIA </h2>
 
 <!-- handshake gif -->
-<img align="left" alt="handshake" src="media/gif/handshake3.gif" width="200px">
+<img align="left" alt="handshake" src="media/gif/handshake3.gif" width="220px">
 
 <!-- Start Social Links -->
 
-<br><br>
+<br><br><br>
 
 <table align="right">
     <thead align="center">
