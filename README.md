@@ -1046,6 +1046,9 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
         <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
     </div>
     <div>
+        <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=montasim&theme=github_dark)" width="100%"/>
+    </div>
+    <div>
         <img src="https://raw.githubusercontent.com/montasim/montasim/output/github-contribution-grid-snake.svg">
     </div>
 </div>
@@ -1448,6 +1451,7 @@ I do Open Source. In fact, I do Open Source so much, that majority of my work on
 ## StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+
 - [Answer by MONTASIM for Programming a button with javascript using outer files](https://stackoverflow.com/questions/71202556/programming-a-button-with-javascript-using-outer-files/71202707#71202707)
 - [Answer by MONTASIM for I am trying to make all classes &lpar;sometags&rpar; turn pink once I call it in javascript it has to be onClickEvent](https://stackoverflow.com/questions/71193951/i-am-trying-to-make-all-classes-sometags-turn-pink-once-i-call-it-in-javascrip/71194646#71194646)
 - [Two empty input field checking problem using JavaScript function](https://stackoverflow.com/questions/71178334/two-empty-input-field-checking-problem-using-javascript-function)
