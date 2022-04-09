@@ -1034,7 +1034,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <!-- Start Montasim's github readme stats -->
 <div align=center>
   <div>
-      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&border=61dafb&hide_border=true" alt="montasim" />
+      <img width=396 src="https://github-readme-streak-stats.herokuapp.com?user=montasim&theme=github-dark&date_format=j%20M%5B%20Y%5D" alt="montasim" />
       <img  alt="montasim's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/montasim?cardType=level-alternate&theme=github-dark" />
   </div>
 <br><br>
