@@ -1,7 +1,3 @@
-<svg height="30" width="200">
-  <text x="0" y="15" fill="red">I love SVG!</text>
-</svg>
-
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 <img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=montasim" />
