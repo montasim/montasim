@@ -1026,7 +1026,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <!-- End Certificates Section -->
 
 <!-- Start My Github Stats -->
-<h2 align="center"> 📈 MY GITHUB STATS </h2>
+<h2 align="center"> 📊 MY GITHUB STATS </h2>
 <br>
 
 <!-- Start Montasim's github readme stats -->
