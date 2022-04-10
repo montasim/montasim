@@ -87,11 +87,11 @@ Wish you a good-looking profile README!
 
 <!-- start my summary  -->
 
-`From a young age I've always had a sense of motivation and passion driving me forward. Weather it is exploring unique opportunities, learning additional skills or meeting new people, I bring these values to every experience throughout my life on a personal and professional level. I love connecting with different people around the world. Feel free to reach out and introduce yourself. To Learn more about me, keep exploring my site or reach out directly.`
+From a young age I've always had a sense of motivation and passion driving me forward. Weather it is exploring unique opportunities, learning additional skills or meeting new people, I bring these values to every experience throughout my life on a personal and professional level. I love connecting with different people around the world. Feel free to reach out and introduce yourself. To Learn more about me, keep exploring my site or reach out directly.
 
 <!-- end my summary  -->
 
-<br><br>
+<br>
 
 <!-- Start My Resume Section -->
 
