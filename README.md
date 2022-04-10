@@ -1034,15 +1034,15 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <!-- Start Montasim's github readme stats -->
 <div align=center>
   <div>
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green&layout=compact&hide_border=true" alt="montasim's most used languages"/>
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montasim&theme=blue-green&bg_color=0D1117&layout=compact&hide_border=true" alt="montasim's most used languages"/>
   </div>
 <br>
   <div>
-      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green&hide_border=true" alt="montasim's current streak" />
+      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green&bg_color=0D1117&hide_border=true" alt="montasim's current streak" />
   </div>
 <br>
   <div>
-      <img  alt="montasim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=montasim&theme=blue-green&hide_border=true" />
+      <img  alt="montasim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=montasim&theme=blue-green&bg_color=0D1117&hide_border=true" />
   </div>
 <br>
     <div>
@@ -1451,6 +1451,7 @@ I do Open Source. In fact, I do Open Source so much, that majority of my work on
 ## StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+
 - [Answer by MONTASIM for Programming a button with javascript using outer files](https://stackoverflow.com/questions/71202556/programming-a-button-with-javascript-using-outer-files/71202707#71202707)
 - [Answer by MONTASIM for I am trying to make all classes &lpar;sometags&rpar; turn pink once I call it in javascript it has to be onClickEvent](https://stackoverflow.com/questions/71193951/i-am-trying-to-make-all-classes-sometags-turn-pink-once-i-call-it-in-javascrip/71194646#71194646)
 - [Two empty input field checking problem using JavaScript function](https://stackoverflow.com/questions/71178334/two-empty-input-field-checking-problem-using-javascript-function)
