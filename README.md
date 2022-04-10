@@ -244,7 +244,7 @@ From a young age I've always had a sense of motivation and passion driving me fo
   </div>
 <br><br>
     <div>
-        <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+        <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark" width="100%"/>
     </div>
 </div>
 <!-- End Montasim's github readme stats -->
