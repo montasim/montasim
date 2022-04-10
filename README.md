@@ -256,7 +256,7 @@ From a young age I've always had a sense of motivation and passion driving me fo
 </a>
 <!-- end animated text -->
 
-<br><br>
+<br>
 
 <!--Start Footer-->
 <div align="center" class="footer">
@@ -266,14 +266,6 @@ From a young age I've always had a sense of motivation and passion driving me fo
 ![Wave Gif](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer)
 
 <!-- End Wave Gif -->
-
-<br>
-
-<!-- Copyright -->
-<a href="https://montasim.github.io/" target="_blank">
-
-![Copyright Animated text](https://readme-typing-svg.herokuapp.com?color=%23D04060&center=true&vCenter=true&lines=Made+By+Montasim)
-</a>
 
 <br>
 
