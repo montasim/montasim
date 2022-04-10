@@ -269,20 +269,6 @@ From a young age I've always had a sense of motivation and passion driving me fo
 
 <!-- End Wave Gif -->
 
-<br>
-
-<!-- start about this readme -->
-
-![GitHub Stars Badge](https://img.shields.io/github/stars/montasim/montasim.github.io)
-![GitHub Forks Badge](https://img.shields.io/github/forks/montasim/montasim.github.io)
-![GitHub Pull Requests Badge](https://img.shields.io/github/issues-pr/montasim/montasim.github.io)
-![GitHub Issues Badge](https://img.shields.io/github/issues/montasim/montasim.github.io)
-![GitHub contributors](https://img.shields.io/github/contributors/montasim/montasim.github.io?color=2b9348)
-![License Badge](https://img.shields.io/badge/license-feel%20free%20to%20use-success)
-![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)
-
-<!-- end about this readme -->
-
 </div>
 <!--End Footer-->
 
