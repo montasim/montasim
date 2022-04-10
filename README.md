@@ -34,7 +34,7 @@ Wish you a good-looking profile README!
 -->
 
 <!-- heading start -->
-<h1 align="center" 🎲 Ｈｅｌｌｏ， Ｎｉｃｅ ｔｏ ｍｅｅｔ ｙｏｕ 🎓</h1>
+<h1 align="center" font><font size="6"> 🎲 Ｈｅｌｌｏ， Ｎｉｃｅ ｔｏ ｍｅｅｔ ｙｏｕ 🎓</font></h1>
 
 <!-- heading end -->
 
@@ -44,9 +44,7 @@ Wish you a good-looking profile README!
     <img alt="visitor" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasimmamun" />
     <img alt="total repos" src="https://badges.pufler.dev/repos/montasim" />
     <img alt="total gists" src="https://badges.pufler.dev/gists/montasim" />
-    <a href="https://github.com/montasim/montasim/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
-        <img alt="Guest Book" src="https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round" />
-    </a>
+    <a href="https://github.com/montasim/montasim/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook"><img alt="Guest Book" src="https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round" /></a>
     <img alt="Thanks" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" />
 </div>
 <!-- End Some Hints Icons About Montasim -->
@@ -74,26 +72,28 @@ Wish you a good-looking profile README!
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;
-![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)
+![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;
 
 </div>
 <!-- End Tools Icon -->
+
+<br><br>
 
 <!-- start weather -->
 <img align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@rangpur?v=1" width="100px">
 <!-- end weather -->
 
-<br><br><br>
-
 ## 👋 HI, I'M MONTASIM
 
 <!-- start my summary  -->
-
+<div>
+<span style="font-family:Papyrus; font-size: 1.2em;">
 From a young age I've always had a sense of motivation and passion driving me forward. Weather it is exploring unique opportunities, learning additional skills or meeting new people, I bring these values to every experience throughout my life on a personal and professional level. I love connecting with different people around the world. Feel free to reach out and introduce yourself. To Learn more about me, keep exploring my site or reach out directly.
+</span>
 
 <!-- end my summary  -->
 
-<br>
+<br><br>
 
 <!-- Start My Resume Section -->
 
@@ -920,7 +920,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 
 <br>
 <div align=center>
-      <img src="https://readme-jokes.vercel.app/api/?bgColor=%230D1117&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%230D1117" alt="Fun Fact" />
+      <img src="https://readme-jokes.vercel.app/api/?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Fun Fact" />
       <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=churchill&font=default" alt="Jokes Card">
 </div>
 <!-- End random jokes -->
@@ -1034,19 +1034,22 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <!-- Start Montasim's github readme stats -->
 <div align=center>
   <div>
-      <img  alt="montasim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=montasim&theme=blue-green&bg_color=0D1117&hide_border=true" width="80%"/>
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montasim&theme=blue-green&bg_color=0D1117&layout=compact&hide_border=true" alt="montasim's most used languages" width="50%"/>
+      <img width=396 src="https://github-readme-streak-stats.herokuapp.com?user=montasim&theme=github-dark&date_format=j%20M%5B%20Y%5D" alt="montasim" />
+      <img  alt="montasim's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/montasim?cardType=level-alternate&theme=vue-dark" />
   </div>
-<br>
+<br><br>
   <div>
-      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=blue-green&hide_border=true" alt="montasim's current streak" width="80%"/>
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </div>
-<br>
+<br><br>
     <div>
-        <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&bg_color=0D1117&hide_border=true" alt="montasim's contribution graph" width="80%"/>
+        <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
     </div>
     <div>
-        <img src="https://raw.githubusercontent.com/montasim/montasim/output/github-contribution-grid-snake.svg" alt="montasim cntribution  history snake gif" width="83%"/>
+        <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=montasim&theme=github_dark)" width="100%"/>
+    </div>
+    <div>
+        <img src="https://raw.githubusercontent.com/montasim/montasim/output/github-contribution-grid-snake.svg">
     </div>
 </div>
 <!-- End Montasim's github readme stats -->
