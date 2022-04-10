@@ -45,7 +45,8 @@ Wish you a good-looking profile README!
     <img alt="total repos" src="https://badges.pufler.dev/repos/montasim" />
     <img alt="total gists" src="https://badges.pufler.dev/gists/montasim" />
     <a href="https://github.com/montasim/montasim/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
-    <img alt="Guest Book" src="https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round" /></a>
+        <img alt="Guest Book" src="https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round" />
+    </a>
     <img alt="Thanks" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" />
 </div>
 <!-- End Some Hints Icons About Montasim -->
@@ -77,8 +78,6 @@ Wish you a good-looking profile README!
 
 </div>
 <!-- End Tools Icon -->
-
-<br>
 
 <!-- start weather -->
 <img align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@rangpur?v=1" width="100px">
