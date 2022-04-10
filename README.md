@@ -1034,22 +1034,19 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <!-- Start Montasim's github readme stats -->
 <div align=center>
   <div>
-      <img width=396 src="https://github-readme-streak-stats.herokuapp.com?user=montasim&theme=github-dark&date_format=j%20M%5B%20Y%5D" alt="montasim" />
-      <img  alt="montasim's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/montasim?cardType=level-alternate&theme=vue-dark&Background=0D1117&Text=39D253&Title=39D253&Border=39D253&Ring=39D253" />
+      <img width=396 src="https://github-readme-streak-stats.herokuapp.com?user=montasim&theme=github-dark&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="montasim's current streak" />
+      <img  alt="montasim's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/montasim?cardType=level-alternate&theme=vue-dark&Background=0D1117&Text=39D253&Title=39D253&Border=0D1117" />
   </div>
 <br><br>
   <div>
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montasim&title_color=39D253&text_color=39D253&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=39D253&hide_border=false" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montasim&title_color=39D253&text_color=39D253&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=39D253&hide_border=true" alt="montasim's most used languages"/>
   </div>
 <br><br>
     <div>
-        <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
+        <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&bg_color=0D1117&hide_border=true" alt="montasim's contribution graph"/>
     </div>
     <div>
-        <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=montasim&theme=github_dark)" width="100%"/>
-    </div>
-    <div>
-        <img src="https://raw.githubusercontent.com/montasim/montasim/output/github-contribution-grid-snake.svg">
+        <img src="https://raw.githubusercontent.com/montasim/montasim/output/github-contribution-grid-snake.svg" alt="montasim cntribution  history snake gif">
     </div>
 </div>
 <!-- End Montasim's github readme stats -->
