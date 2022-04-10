@@ -235,7 +235,7 @@ From a young age I've always had a sense of motivation and passion driving me fo
 <!-- Start Montasim's github readme stats -->
 <div align=center>
   <div>
-      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&bg_color=0D1117&border=61dafb&hide_border=true" alt="montasim" />
+      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&background=0D1117&border=61dafb&hide_border=true" alt="montasim" />
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
   </div>
 <br><br>
