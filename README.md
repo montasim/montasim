@@ -1034,22 +1034,19 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 <!-- Start Montasim's github readme stats -->
 <div align=center>
   <div>
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montasim&theme=blue-green&bg_color=0D1117&layout=compact&hide_border=true" alt="montasim's most used languages"/>
+      <img  alt="montasim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=montasim&theme=blue-green&bg_color=0D1117&hide_border=true" width="80%"/>
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montasim&theme=blue-green&bg_color=0D1117&layout=compact&hide_border=true" alt="montasim's most used languages" width="50%"/>
   </div>
 <br>
   <div>
-      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=blue-green&hide_border=true" alt="montasim's current streak" />
-  </div>
-<br>
-  <div>
-      <img  alt="montasim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=montasim&theme=blue-green&bg_color=0D1117&hide_border=true" />
+      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=blue-green&hide_border=true" alt="montasim's current streak" width="80%"/>
   </div>
 <br>
     <div>
-        <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&bg_color=0D1117&hide_border=true" alt="montasim's contribution graph"/>
+        <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&bg_color=0D1117&hide_border=true" alt="montasim's contribution graph" width="80%"/>
     </div>
     <div>
-        <img src="https://raw.githubusercontent.com/montasim/montasim/output/github-contribution-grid-snake.svg" alt="montasim cntribution  history snake gif">
+        <img src="https://raw.githubusercontent.com/montasim/montasim/output/github-contribution-grid-snake.svg" alt="montasim cntribution  history snake gif" width="83%"/>
     </div>
 </div>
 <!-- End Montasim's github readme stats -->
