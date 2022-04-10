@@ -226,7 +226,7 @@ From a young age I've always had a sense of motivation and passion driving me fo
 </div>
 <!-- End random jokes -->
 
-<br><br>
+<br>
 
 <!-- Start My Github Stats -->
 <h2 align="center"> 📊 MY GITHUB STATS </h2>
@@ -235,8 +235,8 @@ From a young age I've always had a sense of motivation and passion driving me fo
 <!-- Start Montasim's github readme stats -->
 <div align=center>
   <div>
-      <img width=396 src="https://github-readme-streak-stats.herokuapp.com?user=montasim&theme=github-dark&date_format=j%20M%5B%20Y%5D" alt="montasim" />
-      <img  alt="montasim's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/montasim?cardType=level-alternate&theme=vue-dark" />
+      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&border=61dafb&hide_border=true" alt="montasim" />
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
 <br><br>
   <div>
@@ -245,6 +245,9 @@ From a young age I've always had a sense of motivation and passion driving me fo
 <br><br>
     <div>
         <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    </div>
+    <div>
+        <img src="https://raw.githubusercontent.com/montasim/montasim/output/github-contribution-grid-snake.svg">
     </div>
 </div>
 <!-- End Montasim's github readme stats -->
