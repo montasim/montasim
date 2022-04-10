@@ -920,7 +920,7 @@ I am a developer who is working on an organization named CODEZ Info Tech. My res
 
 <br>
 <div align=center>
-      <img src="https://readme-jokes.vercel.app/api/?bgColor=%230D1117&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2339D253" alt="Fun Fact" />
+      <img src="https://readme-jokes.vercel.app/api/?bgColor=%230D1117&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%230D1117" alt="Fun Fact" />
       <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=churchill&font=default" alt="Jokes Card">
 </div>
 <!-- End random jokes -->
