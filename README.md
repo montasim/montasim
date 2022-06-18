@@ -10,11 +10,9 @@
   <img style="margin-right: 6px" alt="nodejs icon" src="media/icons/nodejs.svg" width="35px">
   <img alt="expressjs icon" src="media/icons/expressjs.svg" width="35px">
   <img alt="mongodb icon" src="media/icons/mongodb.svg" width="35px">
-  <img alt="jwt icon" src="media/icons/jwt.svg" width="35px">
   <img alt="sass icon" src="media/icons/sass.svg" width="35px">
   <img alt="tailwindcss icon" src="media/icons/tailwindcss.svg" width="35px">
   <img alt="bootstrap icon" src="media/icons/bootstrap.svg" width="35px">
-  <img alt="markdown icon" src="media/icons/markdown.svg" width="35px">
 </div>
 <!-- end skills icons -->
 
@@ -85,13 +83,13 @@ I am a MERN stack web developer. I have some projects using MERN stack. I am fam
 <br>
 <br>
 
-<!-- start random jokes -->
-<div align='left>💠 SOME RANDOM JOKES</div>
+<!-- start fun fact -->
+<h2 align="center">💠 FUN FACTS</h2>
 
 <br>
 <br>
 
-<img align=center src="https://readme-jokes.vercel.app/api/?bgColor=%230D1117&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%230D1117" alt="Fun Fact" />
+<img align="center" src="https://readme-jokes.vercel.app/api/?bgColor=%230D1117&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%230D1117" alt="Fun Fact" />
 <!-- end random jokes -->
 
 <br>
@@ -102,35 +100,22 @@ I am a MERN stack web developer. I have some projects using MERN stack. I am fam
 <br>
 
 <!-- start github readme stats -->
-<div align=center>
-  <div>
-      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&background=0D1117&border=61dafb&hide_border=true" alt="montasim" />
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
-  </div>
+<img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&background=0D1117&border=61dafb&hide_border=true" alt="montasim" />
+<img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
 
-  <br>
-  <br>
+<br>
+<br>
 
-  <div>
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </div>
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 
-  <br>
-  <br>
+<br>
+<br>
 
-  <div>
-    <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&hide_border=true"/>
-  </div>
-</div>
+<img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&hide_border=true"/>
 <!-- End Montasim's github readme stats -->
 
 <br>
 
-<!--Start Footer-->
-<div align="center" class="footer">
-
 <!-- Start Wave Gif -->
-<img alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
+<img align="center" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
 <!-- End Wave Gif -->
-</div>
-<!--End Footer-->
