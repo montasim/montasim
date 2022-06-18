@@ -89,7 +89,9 @@ I am a MERN stack web developer. I have some projects using MERN stack. I am fam
 <br>
 <br>
 
-<img align="center" src="https://readme-jokes.vercel.app/api/?bgColor=%230D1117&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%230D1117" alt="Fun Fact" />
+<div align="center">
+    <img src="https://readme-jokes.vercel.app/api/?bgColor=%230D1117&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%230D1117" alt="Fun Fact" />
+</div>
 <!-- end random jokes -->
 
 <br>
@@ -100,8 +102,11 @@ I am a MERN stack web developer. I have some projects using MERN stack. I am fam
 <br>
 
 <!-- start github readme stats -->
-<img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&background=0D1117&border=61dafb&hide_border=true" alt="montasim" />
-<img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
+<div align=center>
+    <div>
+        <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&background=0D1117&border=61dafb&hide_border=true" alt="montasim" />
+        <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
+</div>
 
 <br>
 <br>
@@ -112,6 +117,7 @@ I am a MERN stack web developer. I have some projects using MERN stack. I am fam
 <br>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&hide_border=true"/>
+</div>
 <!-- End Montasim's github readme stats -->
 
 <br>
