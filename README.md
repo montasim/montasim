@@ -73,13 +73,9 @@ I am a MERN stack web developer. I have some projects using MERN stack. I am fam
 <!-- 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 -->
 <h2 align="right"> 📬 FIND ME ON SOCIAL MEDIA </h2>
 
-<!-- handshake gif -->
-<img align="left" alt="handshake" src="media/gif/handshake3.gif" width="235px">
+<br><br>
 
 <!-- Start Social Links -->
-
-<br><br><br><br>
-
 <table align="right">
     <thead align="center">
         <tr>
@@ -112,14 +108,10 @@ I am a MERN stack web developer. I have some projects using MERN stack. I am fam
     </thead>
 </table>
 <!-- End Social Links -->
- 
-<br><br><br><br><br>
 
 <!-- End 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 Section -->
 
-<br><br>
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br><br><br><br><br><br>
 
 <!-- Start random jokes -->
 
