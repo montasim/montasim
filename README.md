@@ -6,10 +6,10 @@
 
 <!-- start about me badges -->
 <div align="center">
-  <img alt="visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasim">
-  <img alt="total repository badge" src="https://badges.pufler.dev/repos/montasim">
-  <img alt="total gist badge" src="https://badges.pufler.dev/gists/montasim">
-  <img alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
+  <img style="margin-right: 6px" alt="visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasim">
+  <img style="margin-right: 6px" alt="total repository badge" src="https://badges.pufler.dev/repos/montasim">
+  <img style="margin-right: 6px" alt="total gist badge" src="https://badges.pufler.dev/gists/montasim">
+  <img style="margin-right: 6px" alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
 </div>
 <!-- end about me badges -->
 
@@ -17,13 +17,14 @@
 
 <!-- start skills icons -->
 <div align="center">
+  <img style="margin-right: 6px" alt="javascript icon" src="media/icons/javascript.svg" width="35px">
   <img style="margin-right: 6px" alt="react icon" src="media/icons/react.svg" width="35px">
   <img style="margin-right: 6px" alt="nodejs icon" src="media/icons/nodejs.svg" width="35px">
-  <img alt="expressjs icon" src="media/icons/expressjs.svg" width="35px">
-  <img alt="mongodb icon" src="media/icons/mongodb.svg" width="35px">
-  <img alt="sass icon" src="media/icons/sass.svg" width="35px">
-  <img alt="tailwindcss icon" src="media/icons/tailwindcss.svg" width="35px">
-  <img alt="bootstrap icon" src="media/icons/bootstrap.svg" width="35px">
+  <img style="margin-right: 6px" alt="expressjs icon" src="media/icons/expressjs.svg" width="35px">
+  <img style="margin-right: 6px" alt="mongodb icon" src="media/icons/mongodb.svg" width="35px">
+  <img style="margin-right: 6px" alt="sass icon" src="media/icons/sass.svg" width="35px">
+  <img style="margin-right: 6px" alt="tailwindcss icon" src="media/icons/tailwindcss.svg" width="35px">
+  <img style="margin-right: 6px" alt="bootstrap icon" src="media/icons/bootstrap.svg" width="35px">
 </div>
 <!-- end skills icons -->
 
@@ -31,10 +32,10 @@
 
 <!-- start tools badge -->
 <div align="center">
-  <img alt="git badge" src="https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white">
-  <img alt="github badge" src="https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white">
-  <img alt="vscode badge" src="https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code">
-  <img alt="figma badge" src="https://img.shields.io/badge/FIGMA-FFC0CB.svg?&style=flat&logo=figma&logoColor=red">
+  <img style="margin-right: 6px" alt="git badge" src="https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white">
+  <img style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white">
+  <img style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code">
+  <img style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/FIGMA-FFC0CB.svg?&style=flat&logo=figma&logoColor=red">
 </div>
 <!-- end tools badge -->
 
