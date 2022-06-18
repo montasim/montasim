@@ -35,47 +35,23 @@ Wish you a good-looking profile README!
 
 <!-- heading start -->
 <h1 align="center" font><font size="6"> 🎲 Ｈｅｌｌｏ， Ｎｉｃｅ ｔｏ ｍｅｅｔ ｙｏｕ 🎓</font></h1>
-
 <!-- heading end -->
 
-<!-- Start Some Hints Icons About Montasim -->
-<div align="center">
-    <img alt="Code Quality" src="https://img.shields.io/badge/Code%20Quality-Good-lightblue" />
-    <img alt="visitor" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasimmamun" />
-    <img alt="total repos" src="https://badges.pufler.dev/repos/montasim" />
-    <img alt="total gists" src="https://badges.pufler.dev/gists/montasim" />
-    <a href="https://github.com/montasim/montasim/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook"><img alt="Guest Book" src="https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round" /></a>
-    <img alt="Thanks" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" />
-</div>
-<!-- End Some Hints Icons About Montasim -->
-
 <br>
 
-<!-- Start Programming Languages Icon -->
+<!-- start skills icons -->
 <div align="center">
-  <img alt="react icon" src="media/icons/react-native.png" width="35px">
-  <img alt="javascript icon" src="media/icons/javascript.png" width="35px">
-  <img alt="python icon" src="media/icons/python.png" width="35px">  
-  <img alt="tailwind css icon" src="media/icons/tailwind-css.png" width="35px">     
-  <img alt="bootstrap icon" src="media/icons/bootstrap.png" width="35px">
-  <img alt="markdown icon" src="media/icons/markdown.png" width="35px">
+  <img style="margin-right: 6px" alt="react icon" src="media/icons/react.svg" width="35px">
+  <img style="margin-right: 6px" alt="nodejs icon" src="media/icons/nodejs.svg" width="35px">
+  <img alt="expressjs icon" src="media/icons/expressjs.svg" width="35px">
+  <img alt="mongodb icon" src="media/icons/mongodb.svg" width="35px">
+  <img alt="jwt icon" src="media/icons/jwt.svg" width="35px">
+  <img alt="sass icon" src="media/icons/sass.svg" width="35px">
+  <img alt="tailwindcss icon" src="media/icons/tailwindcss.svg" width="35px">
+  <img alt="bootstrap icon" src="media/icons/bootstrap.svg" width="35px">
+  <img alt="markdown icon" src="media/icons/markdown.svg" width="35px">
 </div>
-<!-- End Programming Languages Icon -->
-
-<br>
-
-<!-- Start Tools Icon -->
-<div align="center">
-
-![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
-![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;
-![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;
-
-</div>
-<!-- End Tools Icon -->
+<!-- end skills icons -->
 
 <br><br>
 
@@ -86,10 +62,8 @@ Wish you a good-looking profile README!
 ## 👋 HI, I'M MONTASIM
 
 <!-- start my summary  -->
-<div>
-<span style="font-family:Papyrus; font-size: 1.2em;">
-From a young age I've always had a sense of motivation and passion driving me forward. Weather it is exploring unique opportunities, learning additional skills or meeting new people, I bring these values to every experience throughout my life on a personal and professional level. I love connecting with different people around the world. Feel free to reach out and introduce yourself. To Learn more about me, keep exploring my site or reach out directly.
-</span>
+
+I am a MERN stack web developer. I have some projects using MERN stack. I am familiar with React Native, TypeScript & Unit Testing. Fell free to reach me out.
 
 <!-- end my summary  -->
 
@@ -104,39 +78,34 @@ From a young age I've always had a sense of motivation and passion driving me fo
 
 <!-- Start Social Links -->
 
-<br><br><br>
+<br><br><br><br>
 
 <table align="right">
     <thead align="center">
         <tr>
             <th>
                 <a href="https://www.linkedin.com/in/montasim">
-                <img alt="LinkedIn" width="35px" src="media/icons/linkedin.png"/>
+                <img alt="linkedin icon" src="media/icons/linkedin.svg" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://www.github.com/montasim">
-                <img alt="Github - montasim" width="35px"   src="media/icons/github.png"/>
+                <img alt="github icon" src="media/icons/github.svg" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://stackoverflow.com/users/10429621/coderaid">
-                <img alt="Stackoverflow - coderaid" width="35px" src="media/icons/stack-overflow.png"/>
+                <img alt="stackoverflow icon" src="media/icons/stackoverflow.svg" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://montasim.github.io">
-                <img alt="Website - montasim.github.io" width="35px" src="media/icons/website.png"/>
+                <img alt="web icon" src="media/icons/web.svg" width="35px">
                 </a>
             </th>
             <th>
                 <a href="mailto:montasimmamun@gmail.com">
-                <img alt="Gmail - montasimmamun@gmail.com" width="35px" src="media/icons/gmail.png"/>
-                </a>
-            </th>
-            <th>
-                <a href="https://www.youtube.com/channel/UCkkBnedfjKU-toiKQ-rxvtA">
-                <img alt="YouTube -Rohan Das" width="35px" src="media/icons/youtube.png"/>
+                <img alt="gmail icon" src="media/icons/gmail.svg" width="35px">
                 </a>
             </th>
         </tr>
@@ -150,75 +119,11 @@ From a young age I've always had a sense of motivation and passion driving me fo
 
 <br><br>
 
-<img align="left" height="250" width="375" alt="code gif" src="media/gif/code4.gif" />
-
-<!-- Start Some Words About Me -->
-
-## 🌟 SOME WORD ABOUT ME
-
-<div>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ꜰᴜʟʟ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ꜱᴛᴀᴄᴋ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ᴀʟᴡᴀʏꜱ ᴡɪʟʟɪɴɢ ᴛᴏ ʟᴇᴀʀɴ
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ᴡᴏʀᴋ ᴀᴄʀᴏꜱꜱ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ ᴀɴᴅ ᴅᴏᴍᴀɪɴ
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ʟᴏᴠᴇ ᴛᴏ ᴇxᴘʟᴏʀᴇ ɴᴇᴡ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ᴛᴏ ʟᴇᴀʀɴ ᴍᴏʀᴇ ᴋᴇᴇᴘ ᴇxᴘʟᴏʀɪɴɢ ᴍʏ ꜱɪᴛᴇ
-</div>
-
-<!-- End Some Words About Me -->
-
-<br><br><br><br><br><br>
-
-<!-- coder gif -->
-<img align="right" alt="coder gif" src="media/gif/coder.gif"  height="250" width="375">
-
-<!-- Start Talking About Personal Stuffs -->
-
-## 📙 TALKING ABOUT PERSONAL STAFFS
-
-<div>
-    &nbsp;&nbsp;&nbsp;&nbsp; &#x1F539; ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp; &#x1F539; ᴍᴏꜱᴛ ᴏꜰ ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ <a href="https://github.com/montasim">🅶🅸🆃🅷🆄🅱</a>
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp; &#x1F539; ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴀɴʏᴛʜɪɴɢ <a href="mailto:montasimmamun@gmail.com"> ʜᴇʀᴇ </a> ɪ ᴀᴍ ʜᴀᴘᴘʏ ᴛᴏ ʜᴇʟᴘ
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp; &#x1F539; ꜰᴜɴ ꜰᴀᴄᴛ: ᴇQᴜᴀʟ ɪꜱ ɴᴏᴛ ᴀʟᴡᴀʏꜱ ᴇQᴜᴀʟ ɪɴ ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp; &#x1F539; ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: <a href="mailto:montasimmamun@gmail.com"> 🅶🅼🅰🅸🅻 </a>
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp; &#x1F539; ᴄʜᴇᴄᴋᴏᴜᴛ ᴍʏ <a href="https://github.com/montasim/resume/blob/main/Resume_of_Montasim%20.pdf">🆁🅴🆂🆄🅼🅴 </a>
-</div>
-
-<!-- End Talking About Personal Stuffs -->
-
-<br><br><br><br><br>
-
-<!-- coder gif -->
-<img align="left" alt="sleeping coding gif" src="media/gif/round-heart-beat.gif" height="290" width="375">
-
-<!-- Start My absolute favourite -->
-
-## 🧠 MY ABSOLUTE FAVOURITE
-
-<div>
-    &nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ɪ ʟᴏᴠᴇ ᴇxᴘʟᴏʀɪɴɢ ɴᴇᴡ ᴛᴇᴄʜ ᴀɴᴅ ʙᴜɪʟᴅɪɴɢ ᴄᴏᴏʟ ꜱᴛᴜꜰꜰꜱ
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ʀᴇᴀᴅɪɴɢ & ᴡʀɪᴛɪɴɢ ᴛᴇᴄʜ ʙʟᴏɢꜱ ᴡʜᴇɴᴇᴠᴇʀ ᴘᴏꜱꜱɪʙʟᴇ
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp; &#x1F538; ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠɪɴɢ, ᴍᴇᴇᴛᴜᴘꜱ & ᴛᴇᴄʜ ᴇᴠᴇɴᴛꜱ
-</div>
-
-<!-- End My absolute favourite -->
-
-<br><br><br><br><br><br><br><br>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <!-- Start random jokes -->
 
-## 💠 SOME RANDOM JOKES
+<div align='left>💠 SOME RANDOM JOKES</div>
 
 <br>
 <div align=center>
