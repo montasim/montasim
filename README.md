@@ -39,6 +39,7 @@
   <img style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white">
   <img style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code">
   <img style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/FIGMA-FFC0CB.svg?&style=flat&logo=figma&logoColor=red">
+  <img style="margin-right: 6px" alt="canva badge" src="https://img.shields.io/badge/CANVA-000000.svg?&style=flat&logo=canva&logoColor=blue">
 </div>
 <!-- end tools badge -->
 
