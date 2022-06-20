@@ -65,7 +65,7 @@ I am a MERN stack web developer. I have some projects using MERN stack. I am fam
 <br>
 
 <div>
-<img align="left" alt="linkedin icon" src="media/gif/handshaking.gif" width="220px">
+<img align="left" alt="linkedin icon" src="media/gif/coding.gif" width="220px">
 
 <br>
 <br>
