@@ -1,6 +1,8 @@
-<!-- heading start -->
-<h1 align="center" font><font size="6"> 🎲 Ｈｅｌｌｏ， Ｎｉｃｅ ｔｏ ｍｅｅｔ ｙｏｕ 🎓</font></h1>
-<!-- heading end -->
+<header>
+    <!-- heading start -->
+    <h1 align="center" font><font size="6"> 🎲 Ｈｅｌｌｏ， Ｎｉｃｅ ｔｏ ｍｅｅｔ ｙｏｕ 🎓</font></h1>
+    <!-- heading end -->
+</header>
 
 <br>
 
@@ -64,14 +66,6 @@ I am a MERN stack web developer. I have some projects using MERN stack. I am fam
 <br>
 <br>
 
-<div>
-<img align="left" alt="linkedin icon" src="media/gif/coding.gif" width="220px">
-
-<br>
-<br>
-<br>
-<br>
-
 <!-- start social media links -->
 <table align="right">
     <thead align="center">
@@ -111,10 +105,6 @@ I am a MERN stack web developer. I have some projects using MERN stack. I am fam
 <br>
 <br>
 <br>
-<br>
-<br>
-</div>
-
 <br>
 
 <!-- start fun fact -->
