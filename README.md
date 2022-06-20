@@ -106,7 +106,6 @@ I am a MERN stack web developer. I have some projects using MERN stack. I am fam
 </table>
 <!-- end social media links -->
 <!-- end connect with me section -->
-</div>
 
 <br>
 <br>
@@ -114,6 +113,8 @@ I am a MERN stack web developer. I have some projects using MERN stack. I am fam
 <br>
 <br>
 <br>
+</div>
+
 <br>
 
 <!-- start fun fact -->
