@@ -64,6 +64,7 @@ I am a MERN stack web developer. I have some projects using MERN stack. I am fam
 <br>
 <br>
 
+<div>
 <img align="left" alt="linkedin icon" src="media/gif/handshaking.gif" width="220px">
 
 <br>
@@ -105,7 +106,11 @@ I am a MERN stack web developer. I have some projects using MERN stack. I am fam
 </table>
 <!-- end social media links -->
 <!-- end connect with me section -->
+</div>
 
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
