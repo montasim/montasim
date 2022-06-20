@@ -56,7 +56,11 @@
 
 <!-- start my summary  -->
 
-I am a MERN stack web developer. I have some projects using MERN stack. I am familiar with React Native, TypeScript & Unit Testing. Fell free to reach me out.
+I am a passionate MERN stack web developer. I feel comfortable work with MERN stack. I am also familiar with React Native, TypeScript.
+
+Problem-solving in Hacker rank using C, and C++ is another passion of mine. No problem is too big for me. The bigger the challenge, the more fun! And as I always remember, there are always at least two solutions to every problem.
+
+Feel free to contact me anytime.
 
 <!-- end my summary  -->
 
