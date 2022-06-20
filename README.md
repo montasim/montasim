@@ -110,11 +110,9 @@ I am a MERN stack web developer. I have some projects using MERN stack. I am fam
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <!-- start fun fact -->
-<h2 align="center">💠 FUN FACTS</h2>
+<h2>💠 FUN FACTS</h2>
 
 <br>
 <br>
