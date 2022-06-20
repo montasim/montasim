@@ -6,6 +6,7 @@
 
 <br>
 
+<div>
 <!-- start about me badges -->
 <div align="center">
   <img style="margin-right: 6px" alt="visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasim">
@@ -44,6 +45,7 @@
 <br>
 <br>
 <br>
+</div>
 
 <!-- start weather -->
 <img align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@rangpur?v=1" width="100px">
