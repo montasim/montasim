@@ -47,6 +47,7 @@
 <br>
 </div>
 
+<div>
 <!-- start weather -->
 <img align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@rangpur?v=1" width="100px">
 <!-- end weather -->
@@ -61,7 +62,9 @@ I am a MERN stack web developer. I have some projects using MERN stack. I am fam
 
 <br>
 <br>
+</div>
 
+<div>
 <!-- start connect with me section -->
 <h2 align="right"> 📬 FIND ME ON SOCIAL MEDIA </h2>
 
@@ -102,6 +105,7 @@ I am a MERN stack web developer. I have some projects using MERN stack. I am fam
 </table>
 <!-- end social media links -->
 <!-- end connect with me section -->
+</div>
 
 <br>
 <br>
@@ -109,6 +113,7 @@ I am a MERN stack web developer. I have some projects using MERN stack. I am fam
 <br>
 <br>
 
+<div>
 <!-- start fun fact -->
 <h2>💠 FUN FACTS</h2>
 
@@ -119,9 +124,11 @@ I am a MERN stack web developer. I have some projects using MERN stack. I am fam
     <img src="https://readme-jokes.vercel.app/api/?bgColor=%230D1117&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%230D1117" alt="Fun Fact" />
 </div>
 <!-- end random jokes -->
+</div>
 
 <br>
 
+<div>
 <!-- start my github statistics section -->
 <h2 align="center"> 📊 MY GITHUB STATS </h2>
 
@@ -145,9 +152,12 @@ I am a MERN stack web developer. I have some projects using MERN stack. I am fam
 <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&hide_border=true"/>
 </div>
 <!-- End Montasim's github readme stats -->
+</div>
 
 <br>
 
+<footer>
 <!-- Start Wave Gif -->
 <img align="center" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
 <!-- End Wave Gif -->
+</footer>
