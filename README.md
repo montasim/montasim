@@ -88,18 +88,38 @@ Feel free to contact me anytime.
                 </a>
             </th>
             <th>
-                <a href="https://stackoverflow.com/users/10429621/coderaid">
-                <img alt="stackoverflow icon" src="media/icons/stackoverflow.svg" width="35px">
-                </a>
-            </th>
-            <th>
                 <a href="https://montasim.github.io">
                 <img alt="web icon" src="media/icons/web.svg" width="35px">
                 </a>
             </th>
             <th>
+                <a href="https://stackoverflow.com/users/10429621/coderaid">
+                <img alt="stackoverflow icon" src="media/icons/stackoverflow.svg" width="35px">
+                </a>
+            </th>
+            <th>
                 <a href="mailto:montasimmamun@gmail.com">
                 <img alt="gmail icon" src="media/icons/gmail.svg" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://www.facebook.com/montasimmamun/">
+                <img alt="facebook icon" src="media/icons/facebook.svg" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://www.instagram.com/montasimmamun/">
+                <img alt="instagram icon" src="media/icons/instagram.svg" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://twitter.com/montasimmamun">
+                <img alt="twitter icon" src="media/icons/twitter.svg" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="mailto:montasimmamun@gmail.com">
+                <img alt="youtube icon" src="media/icons/youtube.svg" width="35px">
                 </a>
             </th>
         </tr>
