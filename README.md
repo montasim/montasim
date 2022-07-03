@@ -61,7 +61,11 @@
 
 <!-- start my summary  -->
 
-I am a passionate MERN stack web developer. I feel comfortable work with MERN stack. I am also familiar with React Native, TypeScript. Problem-solving in Hacker rank using C, and C++ is another passion of mine. No problem is too big for me. The bigger the challenge, the more fun! And as I always remember, there are always at least two solutions to every problem.
+Hello! My name is Mohammad Montasim -Al- Mamun Shuvo and I enjoy creating things that live on the internet. My interest in web development started back in 2017 when I was doing a university project — turns out this project taught me a lot about HTML & CSS!
+
+Fast-forward to today, and I’ve had the privilege of working at an organization, as a Management Information System Officer (MIS). My main focus these days is building accessible, inclusive products and digital experiences using MERN Stack.
+
+So far, I've built some exciting full stack project.
 
 Feel free to contact me anytime.
 
