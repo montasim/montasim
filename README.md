@@ -97,7 +97,7 @@ Feel free to contact me anytime.
                 </a>
             </th>
             <th>
-                <a href="https://montasim.github.io">
+                <a href="https://montasim-dev.web.app/">
                 <img alt="web icon" src="media/icons/web.svg" width="35px">
                 </a>
             </th>
