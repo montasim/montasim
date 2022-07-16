@@ -97,6 +97,11 @@ Feel free to contact me anytime.
                 </a>
             </th>
             <th>
+                <a href="https://stackoverflow.com/users/10429621/montasim">
+                <img alt="github icon" src="media/icons/stackoverflow.svg" width="35px">
+                </a>
+            </th>
+            <th>
                 <a href="https://montasim-dev.web.app/">
                 <img alt="web icon" src="media/icons/web.svg" width="35px">
                 </a>
