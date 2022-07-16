@@ -116,6 +116,11 @@ Feel free to contact me anytime.
                 <img alt="facebook icon" src="media/icons/facebook.svg" width="35px">
                 </a>
             </th>
+            <th>
+                <a href="https://twitter.com/montasimmamun">
+                <img alt="facebook icon" src="media/icons/twitter.svg" width="35px">
+                </a>
+            </th>
         </tr>
     </thead>
 </table>
