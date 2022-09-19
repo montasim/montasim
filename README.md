@@ -153,7 +153,7 @@ Feel free to contact me anytime.
 
 <div>
 <!-- start my github statistics section -->
-<h2 align="center"> 📊 MY GITHUB STATS </h2>
+<div align="center"> <img align="center" alt="javascript icon" src="media/gif/stats.gif" width="45px"> MY GITHUB STATS </div>
 
 <br>
 
