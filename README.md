@@ -71,7 +71,7 @@ So far, I've built some exciting full stack project.
 
 Feel free to contact me anytime.
     
-<a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 𝗠𝗬 𝗥𝗘𝗦𝗨𝗠𝗘 </a>
+<a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 📄𝗠𝗬 𝗥𝗘𝗦𝗨𝗠𝗘 </a>
 
 <!-- end my summary  -->
 
