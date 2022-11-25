@@ -61,11 +61,9 @@
 
 <!-- start my summary  -->
 
-Hello! My name is Mohammad Montasim -Al- Mamun Shuvo and I enjoy creating things that live on the internet. My interest in web development started in 2017 when I was doing a university project. It turns out this project taught me a lot about HTML & CSS.
+Hello! My name is Mohammad Montasim -Al- Mamun Shuvo and I enjoy creating things that live on the internet. My interest in web development started back in 2017 when I was doing a university project — turns out this project taught me a lot about HTML & CSS!
 
-In 2021, I graduated from the Bangladesh Army University of Science & Technology (BAUST) with a Bachelor's degree in Computer Science and Engineering.
-
-Fast-forward to today, I have had the privilege of working as an organization's Management Information System Officer (MIS). My main focus these days is building accessible, inclusive products and digital experiences using MERN Stack.
+Fast-forward to today, and I’ve had the privilege of working at an My MedicalHUB International Ltd., as a Junior Frontend Developer. My main focus these days is building accessible, inclusive products and digital experiences using MERN Stack.
 
 So far, I've built some exciting full stack project.
 
