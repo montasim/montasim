@@ -228,7 +228,7 @@
 
 
 <details>
-    <summary>:zap: Recent Development Stats</summary>
+    <summary>:zap: Wakatime Stats</summary>
     <div align="center" width="100%">
         <img width="100%" alt="colored gif" src="https://wakatime.com/share/@montasim/25653086-7ba4-403d-abe4-237bc491c2d3.svg">
     </div>
