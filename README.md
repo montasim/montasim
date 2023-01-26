@@ -20,14 +20,14 @@
 
 <!-- start skills icons -->
 <div align="center">
-  <img style="margin-right: 6px" alt="javascript icon" src="media/icons/javascript.svg" width="35px">
-  <img style="margin-right: 6px" alt="react icon" src="media/icons/react.svg" width="35px">
-  <img style="margin-right: 6px" alt="nodejs icon" src="media/icons/nodejs.svg" width="35px">
-  <img style="margin-right: 6px" alt="expressjs icon" src="media/icons/expressjs.svg" width="35px">
-  <img style="margin-right: 6px" alt="mongodb icon" src="media/icons/mongodb.svg" width="35px">
-  <img style="margin-right: 6px" alt="sass icon" src="media/icons/sass.svg" width="35px">
-  <img style="margin-right: 6px" alt="tailwindcss icon" src="media/icons/tailwindcss.svg" width="35px">
-  <img style="margin-right: 6px" alt="bootstrap icon" src="media/icons/bootstrap.svg" width="35px">
+  <img height="40" width="40" src="https://cdn.simpleicons.org/javascript" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/react/gray" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/express/white" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/sass" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap" />
 </div>
 <!-- end skills icons -->
 
@@ -68,7 +68,7 @@ Fast-forward to today, and I’ve had the privilege of working at an My MedicalH
 So far, I've built some exciting full stack project.
 
 Feel free to contact me anytime.
-    
+
 <a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 📄𝗠𝗬 𝗥𝗘𝗦𝗨𝗠𝗘 </a>
 
 <!-- end my summary  -->
