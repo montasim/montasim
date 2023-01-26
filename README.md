@@ -12,6 +12,7 @@
   <img style="margin-right: 6px" alt="visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasim">
   <img style="margin-right: 6px" alt="total repository badge" src="https://badges.pufler.dev/repos/montasim">
   <img style="margin-right: 6px" alt="total gist badge" src="https://badges.pufler.dev/gists/montasim">
+  <img style="margin-right: 6px" alt="profile hits counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter">
   <img style="margin-right: 6px" alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
 </div>
 <!-- end about me badges -->
