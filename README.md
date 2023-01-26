@@ -247,12 +247,19 @@ No activity tracked
 </details>
 
 <details>
+    <summary>:zap: Gist</summary>
+    <br/>
+    <div align="center">
+        <img alt="colored gif" src="https://gists-readme.yizack.com/api/pin?user=montasim&id=11e313f82dc6c2aea28298941158429f&owner=true&theme=dark">
+    </div>
+</details>
+
+<details>
     <summary>📕 Latest Blog Posts</summary>
     <br/>
     <!-- BLOG-POST-LIST:START -->
     <!-- BLOG-POST-LIST:END -->
 </details>
-
 
 <details>
     <summary>Open source projects</summary>
@@ -296,6 +303,5 @@ No activity tracked
         </tbody>
     </table>
 </details>
-
 
 
