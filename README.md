@@ -248,6 +248,14 @@ No activity tracked
 </details>
 
 
+<details>
+    <summary>:zap: Github Metrics</summary>
+    <br/>
+    <div align="center" width="100%">
+        <img alt="colored gif" src="https://metrics.lecoq.io/montasim">
+    </div>
+</details>
+
 
 <details>
     <summary>📕 Latest Blog Posts</summary>
