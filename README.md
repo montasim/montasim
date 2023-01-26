@@ -29,6 +29,9 @@
   <img height="40" width="40" src="https://cdn.simpleicons.org/sass" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/html5" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/css3" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/markdown/white" />
 </div>
 <!-- end skills icons -->
 
