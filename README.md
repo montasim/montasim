@@ -182,7 +182,7 @@ Feel free to contact me anytime.
 <br>
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&hide_border=true"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=montasim&theme=radical">
 </div>
 
 </div>
