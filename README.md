@@ -21,7 +21,7 @@
 <!-- start skills icons -->
 <div align="center">
   <img height="40" width="40" src="https://cdn.simpleicons.org/javascript" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/react/gray" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/react" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/express/white" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb" />
