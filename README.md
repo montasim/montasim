@@ -159,6 +159,9 @@ Feel free to contact me anytime.
 
 <!-- start github readme stats -->
 <div align=center>
+<div>
+    <img alt="visitor badge" src="https://github-readme-activity-graph.cyclic.app/graph?username=montasim&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true">
+</div>
     <div>
         <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&background=0D1117&border=61dafb&hide_border=true" alt="montasim" />
         <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
