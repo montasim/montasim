@@ -277,6 +277,7 @@ No activity tracked
             <td><b>🛎 Issues</b></td>
             <td><b>📬 Pull requests</b></td>
             <td><b>📬 Last Commits</b></td>
+            <td><b>📬 Website</b></td>
             </tr>
         </thead>
         <tbody>
@@ -287,6 +288,8 @@ No activity tracked
                 <td><img alt="Issues" src="https://img.shields.io/github/issues/montasim/montasim?style=flat-square&labelColor=343b41"/></td>
                 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/montasim/montasim?style=flat-square&labelColor=343b41"/></td>
                 <td><img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/montasim"/></td>
+                <td><img alt="Last Commits" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fshields.io
+"/></td>
             </tr>
             <tr>
                 <td><a href="https://github.com/montasim/a-coders-diary"><b>a-coders-diary</b></a></td>
