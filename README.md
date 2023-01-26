@@ -238,24 +238,13 @@ No activity tracked
 <!--END_SECTION:waka-->
 </details>
 
-
-<details>
-    <summary>:zap: Wakatime Stats</summary>
-    <br/>
-    <div align="center" width="100%">
-        <img width="100%" alt="colored gif" src="https://wakatime.com/share/@montasim/25653086-7ba4-403d-abe4-237bc491c2d3.svg">
-    </div>
-</details>
-
-
 <details>
     <summary>:zap: Github Metrics</summary>
     <br/>
-    <div align="center" width="100%">
+    <div align="center">
         <img alt="colored gif" src="https://metrics.lecoq.io/montasim">
     </div>
 </details>
-
 
 <details>
     <summary>📕 Latest Blog Posts</summary>
