@@ -1,12 +1,12 @@
-<header>
-    <!-- heading start -->
+
+<!-- heading start -->
+<div>
     <h1 align="center" font><font size="6"> 🎲 Ｈｅｌｌｏ， Ｎｉｃｅ ｔｏ ｍｅｅｔ ｙｏｕ 🎓</font></h1>
-    <!-- heading end -->
-</header>
+</div>
+<!-- heading end -->
 
 <br>
 
-<div>
 <!-- start about me badges -->
 <div align="center">
   <img style="margin-right: 6px" alt="visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasim">
@@ -54,9 +54,7 @@
 <br>
 <br>
 <br>
-</div>
 
-<div>
 <!-- start weather -->
 <img align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@rangpur?v=1" width="100px">
 <!-- end weather -->
@@ -79,7 +77,6 @@ Feel free to contact me anytime.
 
 <br>
 <br>
-</div>
 
 <div>
 <!-- start connect with me section -->
@@ -94,37 +91,37 @@ Feel free to contact me anytime.
         <tr>
             <th>
                 <a href="https://www.linkedin.com/in/montasim">
-                <img alt="linkedin icon" src="media/icons/linkedin.svg" width="35px">
+                <img alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://www.github.com/montasim">
-                <img alt="github icon" src="media/icons/github.svg" width="35px">
+                <img alt="github icon" src="https://cdn.simpleicons.org/github/white" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://stackoverflow.com/users/20348607/montasim">
-                <img alt="github icon" src="media/icons/stackoverflow.svg" width="35px">
+                <img alt="github icon" src="https://cdn.simpleicons.org/stackoverflow" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://montasim-dev.web.app/">
-                <img alt="web icon" src="media/icons/web.svg" width="35px">
+                <img alt="web icon" src="https://cdn.simpleicons.org/googlechrome" width="35px">
                 </a>
             </th>
             <th>
                 <a href="mailto:montasimmamun@gmail.com">
-                <img alt="gmail icon" src="media/icons/gmail.svg" width="35px">
+                <img alt="gmail icon" src="https://cdn.simpleicons.org/gmail" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://www.facebook.com/montasimmamun/">
-                <img alt="facebook icon" src="media/icons/facebook.svg" width="35px">
+                <img alt="facebook icon" src="https://cdn.simpleicons.org/facebook" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://twitter.com/montasimmamun">
-                <img alt="facebook icon" src="media/icons/twitter.svg" width="35px">
+                <img alt="facebook icon" src="https://cdn.simpleicons.org/twitter" width="35px">
                 </a>
             </th>
         </tr>
