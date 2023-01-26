@@ -254,4 +254,44 @@ No activity tracked
 </details>
 
 
+<details>
+    <summary>Open source projects</summary>
+    <br/>
+    <table>
+        <thead align="center">
+            <tr border: none;>
+            <td><b>🎁 Projects</b></td>
+            <td><b>⭐ Stars</b></td>
+            <td><b>📚 Forks</b></td>
+            <td><b>🛎 Issues</b></td>
+            <td><b>📬 Pull requests</b></td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="https://github.com/montasim/montasim"><b>montasim</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/montasim/montasim?style=flat-square&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/montasim/montasim?style=flat-square&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/montasim/montasim?style=flat-square&labelColor=343b41"/></td>
+                <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/montasim/montasim?style=flat-square&labelColor=343b41"/></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/montasim/a-coders-diary"><b>a-coders-diary</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/montasim/a-coders-diary?style=flat-square&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/montasim/a-coders-diary?style=flat-square&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/montasim/a-coders-diary?style=flat-square&labelColor=343b41"/></td>
+                <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/montasim/a-coders-diary?style=flat-square&labelColor=343b41"/></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/montasim/montasim-dev"><b>montasim-dev</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/montasim/montasim-dev?style=flat-square&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/montasim/montasim-dev?style=flat-square&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/montasim/montasim-dev?style=flat-square&labelColor=343b41"/></td>
+                <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/montasim/montasim-dev?style=flat-square&labelColor=343b41"/></td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
+
 
