@@ -265,6 +265,7 @@ No activity tracked
             <td><b>📚 Forks</b></td>
             <td><b>🛎 Issues</b></td>
             <td><b>📬 Pull requests</b></td>
+            <td><b>📬 Last Commits</b></td>
             </tr>
         </thead>
         <tbody>
@@ -274,6 +275,7 @@ No activity tracked
                 <td><img alt="Forks" src="https://img.shields.io/github/forks/montasim/montasim?style=flat-square&labelColor=343b41"/></td>
                 <td><img alt="Issues" src="https://img.shields.io/github/issues/montasim/montasim?style=flat-square&labelColor=343b41"/></td>
                 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/montasim/montasim?style=flat-square&labelColor=343b41"/></td>
+                <td><img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/montasim"/></td>
             </tr>
             <tr>
                 <td><a href="https://github.com/montasim/a-coders-diary"><b>a-coders-diary</b></a></td>
@@ -281,6 +283,7 @@ No activity tracked
                 <td><img alt="Forks" src="https://img.shields.io/github/forks/montasim/a-coders-diary?style=flat-square&labelColor=343b41"/></td>
                 <td><img alt="Issues" src="https://img.shields.io/github/issues/montasim/a-coders-diary?style=flat-square&labelColor=343b41"/></td>
                 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/montasim/a-coders-diary?style=flat-square&labelColor=343b41"/></td>
+                <td><img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/a-coders-diary"/></td>
             </tr>
             <tr>
                 <td><a href="https://github.com/montasim/montasim-dev"><b>montasim-dev</b></a></td>
@@ -288,6 +291,7 @@ No activity tracked
                 <td><img alt="Forks" src="https://img.shields.io/github/forks/montasim/montasim-dev?style=flat-square&labelColor=343b41"/></td>
                 <td><img alt="Issues" src="https://img.shields.io/github/issues/montasim/montasim-dev?style=flat-square&labelColor=343b41"/></td>
                 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/montasim/montasim-dev?style=flat-square&labelColor=343b41"/></td>
+                <td><img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/montasim-dev"/></td>
             </tr>
         </tbody>
     </table>
