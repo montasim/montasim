@@ -252,6 +252,10 @@ No activity tracked
     <div align="center">
         <img alt="colored gif" src="https://gists-readme.yizack.com/api/pin?user=montasim&id=11e313f82dc6c2aea28298941158429f&owner=true&theme=dark">
     </div>
+    <br/>
+    <div align="center">
+        <img alt="colored gif" src="https://gists-readme.yizack.com/api?user=montasim&theme=dark">
+    </div>
 </details>
 
 <details>
