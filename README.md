@@ -1,5 +1,10 @@
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-<!-- heading start -->
+  <img align="left" alt="Montasim's GitHub Stats" src="https://github-readme-stats-mu-jet.vercel.app/api?username=montasim&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
+
 <h1 align="center" font>
     <font size="6"> 
         🎲 Ｈｅｌｌｏ， Ｎｉｃｅ ｔｏ ｍｅｅｔ ｙｏｕ 🎓
@@ -180,14 +185,14 @@
 <!-- start github readme stats -->
 <div align="center">
     <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&background=0D1117&border=61dafb&hide_border=true" alt="montasim" />
-    <img width=396 src="https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
+    <img width=396 src="https://github-readme-stats-mu-jet.vercel.app/api?username=montasim&show_icons=true&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
 </div>
 
 <br/>
 <br/>
 
 <div align="center">
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width=325 align="center" src="https://github-readme-stats-mu-jet.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </div>
 
 <br/>
