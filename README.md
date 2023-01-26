@@ -217,7 +217,6 @@
 <details>
     <summary>:zap: Recent GitHub Activity</summary>  
     <br/>
-    <br/>
     <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#282](https://github.com/STRINGLABITSOLUTIONS/Bhojon/issues/282) in [STRINGLABITSOLUTIONS/Bhojon](https://github.com/STRINGLABITSOLUTIONS/Bhojon)
 2. 🗣 Commented on [#282](https://github.com/STRINGLABITSOLUTIONS/Bhojon/issues/282) in [STRINGLABITSOLUTIONS/Bhojon](https://github.com/STRINGLABITSOLUTIONS/Bhojon)
@@ -229,7 +228,6 @@
 
 <details>
     <summary>:zap: Recent Development Stats</summary>
-    <br/>
     <br/>
     <!--START_SECTION:waka-->
 
@@ -243,7 +241,6 @@ No activity tracked
 
 <details>
     <summary>:zap: Wakatime Stats</summary>
-    <br/>
     <br/>
     <div align="center" width="100%">
         <img width="100%" alt="colored gif" src="https://wakatime.com/share/@montasim/25653086-7ba4-403d-abe4-237bc491c2d3.svg">
