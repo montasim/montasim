@@ -1,11 +1,13 @@
 
 <!-- heading start -->
-<div>
-    <h1 align="center" font><font size="6"> 🎲 Ｈｅｌｌｏ， Ｎｉｃｅ ｔｏ ｍｅｅｔ ｙｏｕ 🎓</font></h1>
-</div>
+<h1 align="center" font>
+    <font size="6"> 
+        🎲 Ｈｅｌｌｏ， Ｎｉｃｅ ｔｏ ｍｅｅｔ ｙｏｕ 🎓
+    </font>
+</h1>
 <!-- heading end -->
 
-<br>
+<br/>
 
 <!-- start about me badges -->
 <div align="center">
@@ -17,7 +19,7 @@
 </div>
 <!-- end about me badges -->
 
-<br>
+<br/>
 
 <!-- start skills icons -->
 <div align="center">
@@ -35,7 +37,7 @@
 </div>
 <!-- end skills icons -->
 
-<br>
+<br/>
 
 <!-- start tools badge -->
 <div align="center">
@@ -51,39 +53,56 @@
 </div>
 <!-- end tools badge -->
 
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
 
 <!-- start weather -->
 <img align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@rangpur?v=1" width="100px">
 <!-- end weather -->
 
-## 👋 HI, I'M MONTASIM
+<h2>
+    👋 HI, I'M MONTASIM
+</h2>
+
+<br/>
 
 <!-- start my summary  -->
+<p> 
+    <font size="3">
+        Hello! My name is Mohammad Montasim -Al- Mamun Shuvo and I enjoy creating things that live on the internet. My interest in web development started back in 2017 when I was doing a university project — turns out this project taught me a lot about HTML & CSS!
+    </font>
+</p>
 
-Hello! My name is Mohammad Montasim -Al- Mamun Shuvo and I enjoy creating things that live on the internet. My interest in web development started back in 2017 when I was doing a university project — turns out this project taught me a lot about HTML & CSS!
+<p>
+    <font size="3">
+        Fast-forward to today, and I’ve had the privilege of working at an My MedicalHUB International Ltd., as a Junior Frontend Developer. My main focus these days is building accessible, inclusive products and digital experiences using MERN Stack.
+    </font>
+</p>
 
-Fast-forward to today, and I’ve had the privilege of working at an My MedicalHUB International Ltd., as a Junior Frontend Developer. My main focus these days is building accessible, inclusive products and digital experiences using MERN Stack.
+<p>
+    <font size="3">
+        So far, I've built some exciting full stack project.
+    </font>
+</p>
 
-So far, I've built some exciting full stack project.
+<br/>
 
-Feel free to contact me anytime.
-
-<a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 📄𝗠𝗬 𝗥𝗘𝗦𝗨𝗠𝗘 </a>
-
+<a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 
+    <font size="3">
+        📄𝗠𝗬 𝗥𝗘𝗦𝗨𝗠𝗘
+    </font>
+</a>
 <!-- end my summary  -->
 
-<br>
-<br>
+<br/>
+<br/>
 
-<div>
 <!-- start connect with me section -->
-<h2 align="right"> 📬 FIND ME ON SOCIAL MEDIA </h2>
+<h2 align="right" uppercase> 📬 FEEL FREE TO CONTACT ME ANYTIME </h2>
 
-<br>
-<br>
+<br/>
+<br/>
 
 <!-- start social media links -->
 <table align="right">
@@ -129,34 +148,32 @@ Feel free to contact me anytime.
 </table>
 <!-- end social media links -->
 <!-- end connect with me section -->
-</div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <div>
 <!-- start fun fact -->
 <h2>💠 FUN FACTS</h2>
 
-<br>
-<br>
+<br/>
+<br/>
 
 <div align="center">
     <img src="https://readme-jokes.vercel.app/api/?bgColor=%230D1117&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%230D1117" alt="Fun Fact" />
 </div>
 <!-- end random jokes -->
-</div>
 
-<br>
+<br/>
 
 <div>
 <!-- start my github statistics section -->
 <div align="center"> <img align="center" alt="javascript icon" src="media/gif/stats.gif" width="45px"> MY GITHUB STATS </div>
 
-<br>
+<br/>
 
 <!-- start github readme stats -->
 <div align="center">
@@ -164,35 +181,32 @@ Feel free to contact me anytime.
     <img width=396 src="https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
 </div>
 
-<br>
-<br>
+<br/>
+<br/>
 
 <div align="center">
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </div>
 
-<br>
-<br>
+<br/>
+<br/>
 
 <div align="center">
     <img alt="visitor badge" src="https://github-readme-activity-graph.cyclic.app/graph?username=montasim&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true">
 </div>
 
-<br>
-<br>
+<br/>
+<br/>
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=montasim&theme=radical">
 </div>
-
-</div>
 <!-- End Montasim's github readme stats -->
-</div>
 
-<br>
+<br/>
 
-<footer>
 <!-- Start Wave Gif -->
-<img align="center" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
+<div align="center" width="100%">
+    <img width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
+</div>
 <!-- End Wave Gif -->
-</footer>
