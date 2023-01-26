@@ -9,8 +9,11 @@
 
 <!-- start about me badges -->
 <div align="center">
+  <img style="margin-right: 6px" alt="stars badge"src="https://img.shields.io/github/stars/montasim/montasim"/>
+  <img style="margin-right: 6px" alt="forks badge"src="https://img.shields.io/github/forks/montasim/montasim?label=Fork"/>
   <img style="margin-right: 6px" alt="visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasim">
-  <img style="margin-right: 6px" alt="profile hits counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter">
+  <img style="margin-right: 6px" alt="profile hits counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmontasim1212%2Fhit-counter">
+  <img style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/montasim?label=Follow"/>
   <img style="margin-right: 6px" alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
 </div>
 <!-- end about me badges -->
