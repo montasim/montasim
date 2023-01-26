@@ -215,13 +215,17 @@
 <br/>
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>  
+    <summary>:zap: Recent GitHub Activity</summary>  
+    <br/>
+    <br/>
     <!--START_SECTION:activity-->
     <!--END_SECTION:activity-->
 </details>
 
 <details>
-  <summary>:zap: Recent Development Stats</summary>
+    <summary>:zap: Recent Development Stats</summary>
+    <br/>
+    <br/>
     <!--START_SECTION:waka-->
     <!--END_SECTION:waka-->
 </details>
@@ -229,6 +233,8 @@
 
 <details>
     <summary>:zap: Wakatime Stats</summary>
+    <br/>
+    <br/>
     <div align="center" width="100%">
         <img width="100%" alt="colored gif" src="https://wakatime.com/share/@montasim/25653086-7ba4-403d-abe4-237bc491c2d3.svg">
     </div>
