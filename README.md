@@ -228,7 +228,12 @@
 <details>
   <summary>:zap: Recent Development Stats</summary>
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 </details>
 
 
