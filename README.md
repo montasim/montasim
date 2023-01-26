@@ -97,7 +97,9 @@
 <br/>
 
 <!-- start connect with me section -->
-<h2 align="right" uppercase> 📬 FEEL FREE TO CONTACT ME ANYTIME </h2>
+<h2 align="right" uppercase> 
+    📬 FEEL FREE TO CONTACT ME ANYTIME 
+</h2>
 
 <br/>
 <br/>
@@ -155,7 +157,9 @@
 
 <div>
 <!-- start fun fact -->
-<h2>💠 FUN FACTS</h2>
+<h2>
+    💠 FUN FACTS
+</h2>
 
 <br/>
 <br/>
@@ -167,9 +171,10 @@
 
 <br/>
 
-<div>
 <!-- start my github statistics section -->
-<div align="center"> <img align="center" alt="javascript icon" src="media/gif/stats.gif" width="45px"> MY GITHUB STATS </div>
+<div align="center"> 
+    <img align="center" alt="javascript icon" src="media/gif/stats.gif" width="45px"> MY GITHUB STATS 
+</div>
 
 <br/>
 
