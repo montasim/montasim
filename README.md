@@ -35,15 +35,15 @@
 
 <!-- start tools badge -->
 <div align="center">
-  <img style="margin-right: 6px" alt="git badge" src="https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white">
-  <img style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white">
-  <img style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code">
-  <img style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/FIGMA-F6C6EA.svg?&style=flat&logo=figma">
-  <img style="margin-right: 6px" alt="canva badge" src="https://img.shields.io/badge/CANVA-000000.svg?&style=flat&logo=canva">
-  <img style="margin-right: 6px" alt="firebase badge" src="https://img.shields.io/badge/FIREBASE-FFE3A9.svg?&style=flat&logo=firebase">
-  <img style="margin-right: 6px" alt="netlify badge" src="https://img.shields.io/badge/NETLIFY-53BF9D.svg?&style=flat&logo=netlify&logoColor=FFFFFF">
-  <img style="margin-right: 6px" alt="heroku badge" src="https://img.shields.io/badge/HEROKU-816797.svg?&style=flat&logo=heroku&logoColor=FFFFFF">
-  <img style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/LINUX-red.svg?&style=flat&logo=linux">
+  <img style="margin-right: 6px" alt="git badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img style="margin-right: 6px" alt="canva badge" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+  <img style="margin-right: 6px" alt="firebase badge" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img style="margin-right: 6px" alt="netlify badge" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  <img style="margin-right: 6px" alt="vercel badge" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 <!-- end tools badge -->
 
