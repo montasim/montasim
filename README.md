@@ -158,24 +158,32 @@ Feel free to contact me anytime.
 <br>
 
 <!-- start github readme stats -->
-<div align=center>
-<div>
+<div align="center">
+    <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&background=0D1117&border=61dafb&hide_border=true" alt="montasim" />
+    <img width=396 src="https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
+</div>
+
+<br>
+<br>
+
+<div align="center">
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+</div>
+
+<br>
+<br>
+
+<div align="center">
     <img alt="visitor badge" src="https://github-readme-activity-graph.cyclic.app/graph?username=montasim&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true">
 </div>
-    <div>
-        <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&background=0D1117&border=61dafb&hide_border=true" alt="montasim" />
-        <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=montasim&show_icons=true&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
+
+<br>
+<br>
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&hide_border=true"/>
 </div>
 
-<br>
-<br>
-
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-
-<br>
-<br>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=montasim&theme=react-dark&hide_border=true"/>
 </div>
 <!-- End Montasim's github readme stats -->
 </div>
