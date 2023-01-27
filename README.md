@@ -60,7 +60,7 @@
 <!-- end weather -->
 
 <h2>
-    👋 HI, I'M MONTASIM
+    :wave: HI, I'M MONTASIM
 </h2>
 
 <br/>
