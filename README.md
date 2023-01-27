@@ -1,3 +1,4 @@
+<!-- heading start -->
 <h1 align="center" font>
     <font size="6"> 
         🎲 Ｈｅｌｌｏ， Ｎｉｃｅ ｔｏ ｍｅｅｔ ｙｏｕ 🎓
@@ -7,7 +8,7 @@
 
 <br/>
 
-<!-- start about me badges -->
+<!-- about repository badges start -->
 <div align="center">
   <img style="margin-right: 6px" alt="stars badge"src="https://img.shields.io/github/stars/montasim/montasim"/>
   <img style="margin-right: 6px" alt="forks badge"src="https://img.shields.io/github/forks/montasim/montasim?label=Fork"/>
@@ -16,11 +17,11 @@
   <img style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/montasim?label=Follow"/>
   <img style="margin-right: 6px" alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
 </div>
-<!-- end about me badges -->
+<!-- about repository badges end -->
 
 <br/>
 
-<!-- start skills icons -->
+<!-- skills icons start -->
 <div align="center">
   <img height="40" width="40" src="https://cdn.simpleicons.org/javascript" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/react" />
@@ -34,11 +35,11 @@
   <img height="40" width="40" src="https://cdn.simpleicons.org/css3" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/markdown/white" />
 </div>
-<!-- end skills icons -->
+<!-- skills icons end -->
 
 <br/>
 
-<!-- start tools badge -->
+<!-- tools badge start -->
 <div align="center">
   <img style="margin-right: 6px" alt="git badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -49,15 +50,15 @@
   <img style="margin-right: 6px" alt="vercel badge" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   <img style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
-<!-- end tools badge -->
+<!-- tools badge end -->
 
 <br/>
 <br/>
 <br/>
 
-<!-- start weather -->
+<!-- weather icon start -->
 <img align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@rangpur?v=1" width="100px">
-<!-- end weather -->
+<!-- weather icon end -->
 
 <h2>
     :wave: HI, I'M MONTASIM
@@ -65,7 +66,7 @@
 
 <br/>
 
-<!-- start my summary  -->
+<!-- my summary start -->
 <p> 
     <font size="3">
         Hello! My name is Mohammad Montasim -Al- Mamun Shuvo and I enjoy creating things that live on the internet. My interest in web development started back in 2017 when I was doing a university project — turns out this project taught me a lot about HTML & CSS!
@@ -83,18 +84,22 @@
         So far, I've built some exciting full stack project.
     </font>
 </p>
+<!-- my summary end -->
 
 <br/>
 
+<!-- my resume start -->
 <a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 
     <font size="3">
         :page_facing_up: 𝗠𝗬 𝗥𝗘𝗦𝗨𝗠𝗘
     </font>
 </a>
+<!-- my resume end -->
 
 <br/>
 <br/>
 
+<!-- open source projects start -->
 <details>
     <summary>
         <font size="3">
@@ -167,14 +172,12 @@
         </tbody>
     </table>
 </details>
-
-
-<!-- end my summary  -->
+<!-- open source projects end -->
 
 <br/>
 <br/>
 
-<!-- start connect with me section -->
+<!-- connect with me start -->
 <h2 align="right" uppercase> 
     :mailbox_with_mail: FEEL FREE TO CONTACT ME ANYTIME 
 </h2>
@@ -182,7 +185,7 @@
 <br/>
 <br/>
 
-<!-- start social media links -->
+<!-- social media links start -->
 <table align="right">
     <thead align="center">
         <tr>
@@ -224,8 +227,8 @@
         </tr>
     </thead>
 </table>
-<!-- end social media links -->
-<!-- end connect with me section -->
+<!-- social media links end -->
+<!-- connect with me end -->
 
 <br/>
 <br/>
@@ -233,8 +236,6 @@
 <br/>
 <br/>
 
-<div>
-<!-- start fun fact -->
 <h2>
     :large_blue_diamond: FUN FACTS
 </h2>
@@ -242,55 +243,64 @@
 <br/>
 <br/>
 
+<!-- random jokes start -->
 <div align="center">
     <img src="https://readme-jokes.vercel.app/api/?bgColor=%230D1117&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%230D1117" alt="Fun Fact" />
 </div>
-<!-- end random jokes -->
+<!-- random jokes -->
 
 <br/>
 
-<!-- start my github statistics section -->
 <div align="center"> 
     <img align="center" alt="javascript icon" src="media/gif/stats.gif" width="45px"> MY GITHUB STATS 
 </div>
 
 <br/>
 
-<!-- start github readme stats -->
 <div align="center">
+    <!-- github streak start -->
     <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&background=0D1117&border=61dafb&hide_border=true" alt="montasim" />
+    <!-- github streak end -->
+    <!-- github stats start -->
     <img width=396 src="https://github-readme-stats-mu-jet.vercel.app/api?username=montasim&show_icons=true&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
+    <!-- github stats end -->
 </div>
 
 <br/>
 <br/>
 
+
+<!-- github most used languages start -->
 <div align="center">
     <img width=325 align="center" src="https://github-readme-stats-mu-jet.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </div>
+<!-- github most used languages end -->
 
 <br/>
 <br/>
 
+<!-- github contribution graph start -->
 <div align="center">
     <img alt="visitor badge" src="https://github-readme-activity-graph.cyclic.app/graph?username=montasim&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true">
 </div>
+<!-- github contribution graph end -->
 
 <br/>
 <br/>
 
+<!-- github trophy start -->
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=montasim&theme=radical">
 </div>
-<!-- End Montasim's github readme stats -->
+<!-- github trophy end -->
 
 <br/>
 
-<!-- Start Wave Gif -->
+<!-- wave GIF start -->
 <div align="center" width="100%">
     <img width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
 </div>
-<!-- End Wave Gif -->
+<!-- wave GIF end -->
 
 <br/>
 <br/>
