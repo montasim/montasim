@@ -120,7 +120,11 @@
                 <td><img alt="Forks" src="https://img.shields.io/github/forks/montasim/montasim"/></td>
                 <td><img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/montasim"/></td>
                 <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/montasim"/></td>
-                <td><img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fgithub.com/montasim"/></td>
+                <td>
+                    <a href="https://github.com/montasim/montasim">
+                        <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fgithub.com/montasim"/>
+                    </a>
+                </td>
             </tr>
             <tr>
                 <td><a href="https://github.com/montasim/a-coders-diary"><b>a-coders-diary</b></a></td>
@@ -128,14 +132,22 @@
                 <td><img alt="Forks" src="https://img.shields.io/github/forks/montasim/a-coders-diary"/></td>
                 <td><img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/a-coders-diary"/></td>
                 <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/a-coders-diary"/></td>
-                <td><img alt="Last Commits" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fa-coders-diary.web.app"/></td>
+                <td>
+                    <a href="https://github.com/montasim/a-coders-diary">
+                        <img alt="Last Commits" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fa-coders-diary.web.app"/>
+                    </a>
+                </td>
             <tr>
                 <td><a href="https://github.com/montasim/montasim-dev"><b>montasim-dev</b></a></td>
                 <td><img alt="Stars" src="https://img.shields.io/github/stars/montasim/montasim-dev"/></td>
                 <td><img alt="Forks" src="https://img.shields.io/github/forks/montasim/montasim-dev"/></td>
                 <td><img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/montasim-dev"/></td>
                 <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/montasim-dev"/></td>
-                <td><img alt="Last Commits" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmontasim-dev.web.app"/></td>
+                <td>
+                    <a href="https://github.com/montasim/montasim-dev">
+                        <img alt="Last Commits" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmontasim-dev.web.app"/>
+                    </a>
+                </td>
             </tr>
             <!-- use for new project -->
             <!-- 
