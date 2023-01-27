@@ -236,7 +236,7 @@
 <div>
 <!-- start fun fact -->
 <h2>
-    💠 FUN FACTS
+    :large_blue_diamond: FUN FACTS
 </h2>
 
 <br/>
