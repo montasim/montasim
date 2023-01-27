@@ -93,6 +93,7 @@
 </a>
 
 <br/>
+<br/>
 
 <details>
     <summary>
@@ -107,10 +108,7 @@
                 <td><b>:pushpin: Name</b></td>
                 <td><b>:star: Stars</b></td>
                 <td><b>:sparkles: Forks</b></td>
-                <td><b>:bug: Open Issues</b></td>
-                <td><b>:bulb: Pull requests</b></td>
                 <td><b>:clock1: Last Commits</b></td>
-                <td><b>:triangular_flag_on_post: Milestones</b></td>
                 <td><b>:globe_with_meridians: Live Link</b></td>
                 <td><b>:briefcase: Repo Size</b></td>
                 <td><b>:pencil: Line of Codes</b></td>
@@ -121,10 +119,7 @@
                 <td><a href="https://github.com/montasim/montasim"><b>montasim</b></a></td>
                 <td><img alt="Stars" src="https://img.shields.io/github/stars/montasim/montasim"/></td>
                 <td><img alt="Forks" src="https://img.shields.io/github/forks/montasim/montasim"/></td>
-                <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/montasim/montasim"/></td>
-                <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/montasim/montasim"/></td>
                 <td><img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/montasim"/></td>
-                <td><img alt="Open Milestones" src="https://img.shields.io/github/milestones/open/montasim/montasim"/></td>
                 <td><img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fshields.io"/></td>
                 <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/montasim"/></td>
                 <td><img alt="Line of Codes" src="https://img.shields.io/tokei/lines/github/montasim/montasim"/></td>
@@ -133,10 +128,7 @@
                 <td><a href="https://github.com/montasim/a-coders-diary"><b>a-coders-diary</b></a></td>
                 <td><img alt="Stars" src="https://img.shields.io/github/stars/montasim/a-coders-diary"/></td>
                 <td><img alt="Forks" src="https://img.shields.io/github/forks/montasim/a-coders-diary"/></td>
-                <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/montasim/a-coders-diary"/></td>
-                <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/montasim/a-coders-diary"/></td>
                 <td><img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/a-coders-diary"/></td>
-                <td><img alt="Last Commits" src="https://img.shields.io/github/milestones/open/montasim/a-coders-diary"/></td>
                 <td><img alt="Last Commits" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fshields.io"/></td>
                 <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/a-coders-diary"/></td>
                 <td><img alt="Line of Codes" src="https://img.shields.io/tokei/lines/github/montasim/a-coders-diary"/></td>
@@ -144,10 +136,7 @@
                 <td><a href="https://github.com/montasim/a-coders-diary"><b>montasim-dev</b></a></td>
                 <td><img alt="Stars" src="https://img.shields.io/github/stars/montasim/montasim-dev"/></td>
                 <td><img alt="Forks" src="https://img.shields.io/github/forks/montasim/montasim-dev"/></td>
-                <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/montasim/montasim-dev"/></td>
-                <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/montasim/montasim-dev"/></td>
                 <td><img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/montasim-dev"/></td>
-                <td><img alt="Last Commits" src="https://img.shields.io/github/milestones/open/montasim/montasim-dev"/></td>
                 <td><img alt="Last Commits" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fshields.io"/></td>
                 <td><img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/montasim-dev"/></td>
                 <td><img alt="Line of Codes" src="https://img.shields.io/tokei/lines/github/montasim/montasim-dev"/></td>
