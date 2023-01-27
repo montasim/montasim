@@ -176,7 +176,7 @@
 
 <!-- start connect with me section -->
 <h2 align="right" uppercase> 
-    📬 FEEL FREE TO CONTACT ME ANYTIME 
+    :mailbox_with_mail: FEEL FREE TO CONTACT ME ANYTIME 
 </h2>
 
 <br/>
