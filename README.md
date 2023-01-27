@@ -98,7 +98,7 @@
 <details>
     <summary>
         <font size="3">
-            𝗢𝗽𝗲𝗻 𝗦𝗼𝘂𝗿𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+            :pushpin: 𝗢𝗽𝗲𝗻 𝗦𝗼𝘂𝗿𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
         </font>
     </summary>
     <br/>
