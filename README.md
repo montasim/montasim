@@ -97,6 +97,7 @@
 <!-- my resume end -->
 
 <br/>
+<br/>
 
 <!-- my skills start -->
 <details>
