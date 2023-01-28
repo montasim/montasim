@@ -621,7 +621,6 @@
     </details>
     <!-- work experience end -->
     <br/>
-    <br/>
     <h2>My Skills</h2>
     <br/>
     <table>
