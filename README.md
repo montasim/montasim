@@ -88,6 +88,16 @@
 
 <br/>
 
+<!-- my resume start -->
+<a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 
+    <font size="3">
+        :page_facing_up: 𝗠𝗬 𝗥𝗘𝗦𝗨𝗠𝗘
+    </font>
+</a>
+<!-- my resume end -->
+
+<br/>
+
 <!-- my skills start -->
 <details>
     <summary>:gem: 𝗠𝗬 𝗦𝗞𝗜𝗟𝗟𝗦</summary>
@@ -389,17 +399,6 @@
     </ol>
 </details>
 <!-- things I use end -->
-
-<!-- my resume start -->
-<a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 
-    <font size="3">
-        :page_facing_up: 𝗠𝗬 𝗥𝗘𝗦𝗨𝗠𝗘
-    </font>
-</a>
-<!-- my resume end -->
-
-<br/>
-<br/>
 
 <!-- open source projects start -->
 <details>
