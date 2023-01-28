@@ -252,6 +252,18 @@
             </div>
         </li>
         <!-- operating system end -->
+        <!-- Learning Platform start -->
+        <li>
+            <h2 uppercase> 
+                Learning Platform
+            </h2>
+            <div>
+                <img style="margin-right: 6px" alt="coursera" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white">
+                <img style="margin-right: 6px" alt="udemy badge" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
+                <img style="margin-right: 6px" alt="youtube badge" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+            </div>
+        </li>
+        <!-- Learning Platform end -->
     </ol>
     <br/>
     <h2 uppercase> 
