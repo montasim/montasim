@@ -526,35 +526,50 @@
         <table>
             <tbody>
                 <tr>
-                    <th>Name</th>
+                    <td>
+                        <b>Name</b>
+                    </td>
                     <td>Mohammad Montasim -Al- Mamun Shuvo</td>
                 </tr>
                 <tr>
-                    <th>Born</th>
+                    <td>
+                        <b>Born</b>
+                    </td>
                     <td><time datetime="1998-12-16 08:00">16 December, 1998</time></td>
                 </tr>
                 <tr>
-                    <th>Education</th>
+                    <td>
+                        <b>Education</b>
+                    </td>
                     <td>Bachelor of Science in Computer Science and Engineering</td>
                 </tr>
                 <tr>
-                    <th>Alma mater</th>
+                    <td>
+                        <b>Alma mater</b>
+                    </td>
                     <td>Bangladesh Army University of Science and Technology</td>
                 </tr>
                 <tr>
-                    <th>Nationality</th>
+                    <td>
+                        <b>Nationality</b>
+                    </td>
                     <td>Bangladeshi</td>
                 </tr>
                 <tr>
-                    <th>Occupation</th>
+                    <td>
+                        <b>Occupation</b>
+                    </td>
                     <td>Web Developer</td>
                 </tr>
                 <tr>
-                    <th>Skills</th>
+                    <td>
+                        <b>Skills</b>
+                    </td>
                     <td>Javascript (ES6), React, Node.js, Express.js, MongoDB, Next.js, Tailwind CSS, Bootstrap, SASS, HTML5, CSS3</td>
                 </tr>
             </tbody>
         </table>
+        <br/>
     </details>
     <!-- quick info about me end -->
     <!-- work experience start -->
@@ -639,7 +654,7 @@
             <!-- programming language start -->
             <tr>
                 <td>
-                    Programming Languages
+                    <b>Programming Languages</b>
                 </td>
                 <td>
                     <img style="margin-right: 6px" alt="javascript programming languages badge" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -655,7 +670,7 @@
             <!-- frontend technologies start -->
             <tr>
                 <td>
-                    Frontend Technologies 
+                    <b>Frontend Technologies</b>
                 </td>
                 <td>
                     <img style="margin-right: 6px" alt="react badge" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -671,7 +686,7 @@
             <!-- backend technologies start -->
             <tr>
                 <td>
-                    Backend Technologies
+                    <b>Backend Technologies</b>
                 </td>
                 <td>
                     <img style="margin-right: 6px" alt="nodejs badge" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
@@ -687,7 +702,7 @@
             <!-- databases start -->
             <tr>
                 <td>
-                    Databases
+                    <b>Databases</b>
                 </td>
                 <td>
                     <img style="margin-right: 6px" alt="mongodb badge" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -703,7 +718,7 @@
             <!-- Web Technologies start -->
             <tr>
                 <td>
-                    Web Technologies 
+                    <b>Web Technologies</b>
                 </td>
                 <td>
                     <img style="margin-right: 6px" alt="html5 badge" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -720,7 +735,7 @@
             <!-- css frameworks start -->
             <tr>
                 <td>
-                    CSS Drameworks 
+                    <b>CSS Drameworks</b>
                 </td>
                 <td>
                     <img style="margin-right: 6px" alt="tailwind css badge" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
@@ -737,7 +752,7 @@
             <!-- package manager start -->
             <tr>
                 <td>
-                    Package Manager 
+                    <b>Package Manager</b> 
                 </td>
                 <td>
                     <img style="margin-right: 6px" alt="npm badge" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
@@ -753,7 +768,7 @@
             <!-- design tools start -->
             <tr>
                 <td>
-                    Design Tools  
+                    <b>Design Tools</b>  
                 </td>
                 <td>
                     <img style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
@@ -769,7 +784,7 @@
             <!-- hosting start -->
             <tr>
                 <td>
-                    Hosting
+                    <b>Hosting</b>
                 </td>
                 <td>
                     <img style="margin-right: 6px" alt="firebase badge" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
@@ -786,7 +801,7 @@
             <!-- content management system start -->
             <tr>
                 <td>
-                    Content management system 
+                    <b>Content management system</b> 
                 </td>
                 <td>
                     <img style="margin-right: 6px" alt="wordpress badge" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
@@ -802,7 +817,7 @@
             <!-- issue and project tracking start -->
             <tr>
                 <td>
-                    Issue & Project Tracking 
+                    <b>Issue & Project Tracking</b> 
                 </td>
                 <td>
                     <img style="margin-right: 6px" alt="azure badge" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
