@@ -1072,3 +1072,9 @@
 
 <br/>
 <br/>
+
+<div align="center">
+    <a href="https://www.github.com/montasim">
+        <img alt="more info badge" src="https://img.shields.io/badge/ALL%20RIGHT%20RESERVED%20BY-@MONTASIM-025E8C?style=for-the-badge&logo=&logoColor=white">
+    </a>
+</div>
