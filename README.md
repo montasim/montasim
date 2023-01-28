@@ -211,10 +211,9 @@
     <img style="margin-right: 6px" alt="socketio badge" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
     <img style="margin-right: 6px" alt="threejs badge" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white">
     </div>
-    <!-- ccurrently learning end -->
+    <!-- currently learning end -->
 </details>
 
-<br/>
 <br/>
 
 <!-- my resume start -->
