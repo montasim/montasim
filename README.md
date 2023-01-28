@@ -621,168 +621,227 @@
     </details>
     <!-- work experience end -->
     <br/>
+    <br/>
     <h2>My Skills</h2>
-    <ol>
-        <!-- programming languages start -->
-        <li>
-            <h3 uppercase> 
-                Programming Languages
-            </h3>
-            <div>
-            <img style="margin-right: 6px" alt="javascript programming languages badge" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-            <img style="margin-right: 6px" alt="c++ programming languages badge" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=whitee">
-            <img style="margin-right: 6px" alt="c programming languages badge" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-            </div>
-        </li>
-        <!-- programming languages end -->
-        <!-- frontend technologies start -->
-        <li>
-            <h3 uppercase> 
-                Frontend Technologies 
-            </h3>
-            <div>
-            <img style="margin-right: 6px" alt="react badge" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-            <img style="margin-right: 6px" alt="nextjs badge" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-            <img style="margin-right: 6px" alt="jQuery badge" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
-            </div>
-        </li>
-        <!-- frontend technologies end -->
-        <!-- backend technologies start -->
-        <li>
-            <h3 uppercase> 
-                Backend Technologies 
-            </h3>
-            <div>
-            <img style="margin-right: 6px" alt="nodejs badge" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-            <img style="margin-right: 6px" alt="expressjs badge" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-            </div>
-        </li>
-        <!-- backend technologies end -->
-        <!-- databases start -->
-        <li>
-            <h3 uppercase> 
-                Databases
-            </h3>
-            <div>
-            <img style="margin-right: 6px" alt="mongodb badge" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-            <img style="margin-right: 6px" alt="mysql badge" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-            </div>
-        </li>
-        <!-- databases end -->
-        <!-- web technologies start -->
-        <li>
-            <h3 uppercase> 
-                Web Technologies 
-            </h3>
-            <div>
-            <img style="margin-right: 6px" alt="html5 badge" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-            <img style="margin-right: 6px" alt="css3 badge" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-            </div>
-        </li>
-        <!-- web technologies end -->
-        <!-- css frameworks start -->
-        <li>
-            <h3 uppercase> 
-                CSS Frameworks 
-            </h3>
-            <div>
-            <img style="margin-right: 6px" alt="tailwind css badge" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-            <img style="margin-right: 6px" alt="bootstrap badge" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-            <img style="margin-right: 6px" alt="less badge" src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white">
-            <img style="margin-right: 6px" alt="sass badge" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
-            </div>
-        </li>
-        <!-- css frameworks end -->
-        <!-- design tools start -->
-        <li>
-            <h3 uppercase> 
-                Design Tools 
-            </h3>
-            <div>
-            <img style="margin-right: 6px" alt="npm badge" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
-            <img style="margin-right: 6px" alt="pnpm badge" src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220">
-            </div>
-        </li>
-        <!-- design tools end -->
-        <!-- package manager start -->
-        <li>
-            <h3 uppercase> 
-                Package Manager 
-            </h3>
-            <div>
-            <img style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-            <img style="margin-right: 6px" alt="adobe xd badge" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
-            <img style="margin-right: 6px" alt="canva badge" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
-            </div>
-        </li>
-        <!-- package manager end -->
-        <!-- hosting start -->
-        <li>
-            <h3 uppercase> 
-                Hosting 
-            </h3>
-            <div>
-            <img style="margin-right: 6px" alt="firebase badge" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
-            <img style="margin-right: 6px" alt="vercel badge" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-            <img style="margin-right: 6px" alt="netlify badge" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
-            <img style="margin-right: 6px" alt="heroku badge" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
-            </div>
-        </li>
-        <!-- hosting end -->
-        <!-- content management system start -->
-        <li>
-            <h3 uppercase> 
-                Content management system 
-            </h3>
-            <div>
-            <img style="margin-right: 6px" alt="wordpress badge" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
-            <img style="margin-right: 6px" alt="blogger badge" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
-            <img style="margin-right: 6px" alt="wix badge" src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white">
-            </div>
-        </li>
-        <!-- content management system end -->
-        <!-- issue and project tracking start -->
-        <li>
-            <h3 uppercase> 
-                Issue & Project Tracking 
-            </h3>
-            <div>
-            <img style="margin-right: 6px" alt="azure badge" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
-            <img style="margin-right: 6px" alt="jira badge" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-            <img style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-            </div>
-        </li>
-        <!-- issue and project tracking end -->
-        <!-- currently learning start -->
-        <li>
-            <h3 uppercase> 
-                I am currently learning: 
-            </h3>
-            <div>
-            <img style="margin-right: 6px" alt="typescript badge" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-            <img style="margin-right: 6px" alt="redux badge" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
-            <img style="margin-right: 6px" alt="graphql badge" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
-            <img style="margin-right: 6px" alt="socketio badge" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
-            <img style="margin-right: 6px" alt="threejs badge" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white">
-            </div>
-        </li>
-        <!-- currently learning end -->
-        <!-- Forgetting -->
-        <li>
-            <h3 uppercase> 
-                Forgetting: 
-            </h3>
-            <div>
-            <img style="margin-right: 6px" alt="java badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-            <img style="margin-right: 6px" alt="php badge" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-            <img style="margin-right: 6px" alt="python badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-            <img style="margin-right: 6px" alt="django badge" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-            <img style="margin-right: 6px" alt="flask badge" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-            <img style="margin-right: 6px" alt="latex badge" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
-            </div>
-        </li>
-        <!-- Forgetting-->
-    </ol>
+    <br/>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>High</th>
+                <th>Medium</th>
+                <th>Low</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- programming language start -->
+            <tr>
+                <td>
+                    Programming Languages
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="javascript programming languages badge" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="c++ programming languages badge" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=whitee">
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="c programming languages badge" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+                </td>
+            </tr>
+            <!-- programming language end -->
+            <!-- frontend technologies start -->
+            <tr>
+                <td>
+                    Frontend Technologies 
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="react badge" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="nextjs badge" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="jQuery badge" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
+                </td>
+            </tr>
+            <!-- frontend technologies end -->
+            <!-- backend technologies start -->
+            <tr>
+                <td>
+                    Backend Technologies
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="nodejs badge" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="expressjs badge" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+                </td>
+                <td>
+                    <p></p>
+                </td>
+            </tr>
+            <!-- backend technologies end -->
+            <!-- databases start -->
+            <tr>
+                <td>
+                    Databases
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="mongodb badge" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="mysql badge" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+                </td>
+                <td>
+                    <p></p>
+                </td>
+            </tr>
+            <!-- databases end -->
+            <!-- Web Technologies start -->
+            <tr>
+                <td>
+                    Web Technologies 
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="html5 badge" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+                    <img style="margin-right: 6px" alt="css3 badge" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+                </td>
+                <td>
+                    <p></p>
+                </td>
+                <td>
+                    <p></p>
+                </td>
+            </tr>
+            <!-- Web Technologies end -->
+            <!-- css frameworks start -->
+            <tr>
+                <td>
+                    CSS Drameworks 
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="tailwind css badge" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+                    <img style="margin-right: 6px" alt="bootstrap badge" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="less badge" src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white">
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="sass badge" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+                </td>
+            </tr>
+            <!-- css frameworks end -->
+            <!-- package manager start -->
+            <tr>
+                <td>
+                    Package Manager 
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="npm badge" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="pnpm badge" src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220">
+                </td>
+                <td>
+                    <p></p>
+                </td>
+            </tr>
+            <!-- package manager end -->
+            <!-- design tools start -->
+            <tr>
+                <td>
+                    Design Tools  
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="canva badge" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="adobe xd badge" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
+                </td>
+            </tr>
+            <!-- design tools end -->
+            <!-- hosting start -->
+            <tr>
+                <td>
+                    Hosting
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="firebase badge" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+                    <img style="margin-right: 6px" alt="vercel badge" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="netlify badge" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="heroku badge" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
+                </td>
+            </tr>
+            <!-- hosting end -->
+            <!-- content management system start -->
+            <tr>
+                <td>
+                    Content management system 
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="wordpress badge" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="blogger badge" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="wix badge" src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white">
+                </td>
+            </tr>
+            <!-- content management system end -->
+            <!-- issue and project tracking start -->
+            <tr>
+                <td>
+                    Issue & Project Tracking 
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="azure badge" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+                </td>
+                <td>
+                    <img style="margin-right: 6px" alt="jira badge" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+                </td>
+            </tr>
+            <!-- issue and project tracking end -->
+        </tbody>
+    </table>
+    <br/>
+    <!-- currently learning start -->
+    <h2 uppercase> 
+        I am currently learning: 
+    </h2>
+    <div>
+        <img style="margin-right: 6px" alt="typescript badge" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+        <img style="margin-right: 6px" alt="redux badge" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+        <img style="margin-right: 6px" alt="graphql badge" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+        <img style="margin-right: 6px" alt="socketio badge" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
+        <img style="margin-right: 6px" alt="threejs badge" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white">
+    </div>
+    <!-- currently learning end -->
+    <br/>
+    <!-- Forgetting -->
+    <h2 uppercase> 
+        Forgetting: 
+    </h2>
+    <div>
+        <img style="margin-right: 6px" alt="java badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+        <img style="margin-right: 6px" alt="php badge" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+        <img style="margin-right: 6px" alt="python badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+        <img style="margin-right: 6px" alt="django badge" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+        <img style="margin-right: 6px" alt="flask badge" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+        <img style="margin-right: 6px" alt="latex badge" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
+    </div>
+    <!-- Forgetting-->
     <br/>
     <h2>
         Things I use
