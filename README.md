@@ -217,7 +217,7 @@
 
 <!-- things I use start -->
 <details>
-    <summary>:bookmark: Things I use</summary>
+    <summary>:bookmark: 𝗧𝗛𝗜𝗡𝗚𝗦 𝗜 𝗨𝗦𝗘</summary>
     <br/>
     <ol>
         <!-- integrated development environment start -->
@@ -405,7 +405,7 @@
 <details>
     <summary>
         <font size="3">
-            :pushpin: 𝗢𝗽𝗲𝗻 𝗦𝗼𝘂𝗿𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+            :pushpin: 𝗢𝗣𝗘𝗡 𝗦𝗢𝗨𝗥𝗖𝗘 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
         </font>
     </summary>
     <br/>
