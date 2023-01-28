@@ -556,7 +556,8 @@
     <!-- quick info about me end -->
     <!-- work experience start -->
     <details>
-        <summary>My Work Experience :point_right:</summary>
+        <summary>My Work Experience</summary>
+        <br/>
         <table>
             <thead>
                 <tr>
