@@ -88,7 +88,7 @@
 
 <br/>
 
-
+<!-- my skills start -->
 <details>
     <summary>:gem: 𝗠𝗬 𝗦𝗞𝗜𝗟𝗟𝗦</summary>
     <br/>
@@ -213,6 +213,7 @@
     </div>
     <!-- currently learning end -->
 </details>
+<!-- my skills end -->
 
 <!-- my resume start -->
 <a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 
