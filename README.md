@@ -932,6 +932,15 @@
             </ul>
         </li>
     </ol>
+    <h2>Tasks</h2>
+    
+- [x] Born
+- [x] Got a job
+- [x] Married
+- [x] Have children
+- [ ] Die
+    <br/>
+    <br/>
 </details>
 <!-- things I use end -->
 
