@@ -215,6 +215,163 @@
 </details>
 <!-- my skills end -->
 
+<!-- things I use start -->
+<details>
+    <summary>:gem: Things I use</summary>
+    <br/>
+    <!-- integrated development environment start -->
+    <h2 uppercase> 
+        Integrated Development Environment
+    </h2>
+    <div>
+    <img style="margin-right: 6px" alt="visual studio code badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    </div>
+    <!-- integrated development environment end -->
+    <br/>
+    <!-- browser start -->
+    <h2 uppercase> 
+        Browser
+    </h2>
+    <div>
+    <img style="margin-right: 6px" alt="google chrome badge" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
+    </div>
+    <!-- operating system end -->
+    <br/>
+    <!-- operating system start -->
+    <h2 uppercase> 
+        Operating System
+    </h2>
+    <div>
+    <img style="margin-right: 6px" alt="windows 11 badge" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
+    <img style="margin-right: 6px" alt="ubuntu badge" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img style="margin-right: 6px" alt="android badge" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+    </div>
+    <!-- operating system end -->
+    <br/>
+    <h2 uppercase> 
+        :heart: Things I own
+    </h2>
+    <ol>
+        <li>
+            :computer: Personal Computer
+            <ul>
+                <li>
+                    Processor: Ryzen 3 2700X
+                </li>
+                <li>
+                    Cooler: Ryzen 3 2700X
+                </li>
+                <li>
+                    Motherboard: Ryzen 3 2700X
+                </li>
+                <li>
+                    RAM: Ryzen 3 2700X
+                </li>
+                <li>
+                    SSD: Ryzen 3 2700X
+                </li>
+                <li>
+                    HDD: Ryzen 3 2700X
+                </li>
+                <li>
+                    Casing: Ryzen 3 2700X
+                </li>
+                <li>
+                    UPS: Ryzen 3 2700X
+                </li>
+                <li>
+                    :speaker: Sound Box: Ryzen 3 2700X
+                </li>
+                <li>
+                    Keyboard: Ryzen 3 2700X
+                </li>
+                <li>
+                    Mouse: Ryzen 3 2700X
+                </li>
+            </ul>
+        </li>
+        <br/>
+        <li>
+            Network Device: 
+            <ul>
+                <li>
+                    Router: 
+                    <ul>
+                        <li>
+                            Netgear
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    Network Adapters: 
+                    <ul>
+                        <li>
+                            Tp Link:
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    Bluetooth Adapters: 
+                    <ul>
+                        <li>
+                            Orico:
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <br/>
+        <li>
+            Accessories: 
+            <ul>
+                <li>
+                    :camera: Webcam: 
+                    <ul>
+                        <li>
+                            Fantech
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    :headphones: Headphone: 
+                    <ul>
+                        <li>
+                            A4tech:
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    Earphone: 
+                    <ul>
+                        <li>
+                            Uiscii:
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <br/>
+        <li>
+            :iphone: SmartPhone: 
+            <ul>
+                <li>
+                    Samsung Galaxy A50 4/64
+                </li>
+            </ul>
+        </li>
+        <br/>
+        <li>
+            :watch: Smartwatch: 
+            <ul>
+                <li>
+                    Haylu Solar LS05
+                </li>
+            </ul>
+        </li>
+    </ol>
+</details>
+<!-- things I use end -->
+
 <!-- my resume start -->
 <a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 
     <font size="3">
