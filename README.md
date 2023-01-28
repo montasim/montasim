@@ -226,181 +226,6 @@
 </details>
 <!-- my skills end -->
 
-<!-- things I use start -->
-<details>
-    <summary>:bookmark: 𝗧𝗛𝗜𝗡𝗚𝗦 𝗜 𝗨𝗦𝗘</summary>
-    <br/>
-    <ol>
-        <!-- integrated development environment start -->
-        <li>
-            <h2 uppercase> 
-                Integrated Development Environment
-            </h2>
-            <div>
-                <img style="margin-right: 6px" alt="visual studio code badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-            </div>
-        </li>
-        <!-- integrated development environment end -->
-        <!-- browser start -->
-        <li>
-            <h2 uppercase> 
-                Browser
-            </h2>
-            <div>
-                <img style="margin-right: 6px" alt="google chrome badge" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
-            </div>
-        </li>
-        <!-- browser end -->
-        <!-- operating system start -->
-        <li>
-            <h2 uppercase> 
-                Operating System
-            </h2>
-            <div>
-                <img style="margin-right: 6px" alt="windows 11 badge" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
-                <img style="margin-right: 6px" alt="ubuntu badge" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-                <img style="margin-right: 6px" alt="android badge" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-            </div>
-        </li>
-        <!-- operating system end -->
-        <!-- Learning Platform start -->
-        <li>
-            <h2 uppercase> 
-                Learning Platform
-            </h2>
-            <div>
-                <img style="margin-right: 6px" alt="coursera" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white">
-                <img style="margin-right: 6px" alt="udemy badge" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
-                <img style="margin-right: 6px" alt="youtube badge" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
-            </div>
-        </li>
-        <!-- Learning Platform end -->
-    </ol>
-    <br/>
-    <h2 uppercase> 
-        :heart: Things I own
-    </h2>
-    <ol>
-        <li>
-            :computer: Personal Computer
-            <ul>
-                <li>
-                    Processor: Ryzen 3 2700X
-                </li>
-                <li>
-                    Cooler: Ryzen 3 2700X
-                </li>
-                <li>
-                    Motherboard: Ryzen 3 2700X
-                </li>
-                <li>
-                    RAM: Ryzen 3 2700X
-                </li>
-                <li>
-                    SSD: Ryzen 3 2700X
-                </li>
-                <li>
-                    HDD: Ryzen 3 2700X
-                </li>
-                <li>
-                    Casing: Ryzen 3 2700X
-                </li>
-                <li>
-                    UPS: Ryzen 3 2700X
-                </li>
-                <li>
-                    Sound Box: Ryzen 3 2700X
-                </li>
-                <li>
-                    Keyboard: Ryzen 3 2700X
-                </li>
-                <li>
-                    Mouse: Ryzen 3 2700X
-                </li>
-            </ul>
-        </li>
-        <br/>
-        <li>
-            Network Device: 
-            <ul>
-                <li>
-                    Router: 
-                    <ul>
-                        <li>
-                            Netgear
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    Network Adapters: 
-                    <ul>
-                        <li>
-                            Tp Link:
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    Bluetooth Adapters: 
-                    <ul>
-                        <li>
-                            Orico:
-                        </li>
-                    </ul>
-                </li>
-            </ul>
-        </li>
-        <br/>
-        <li>
-            Accessories: 
-            <ul>
-                <li>
-                    :camera: Webcam: 
-                    <ul>
-                        <li>
-                            Fantech
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    :headphones: Headphone: 
-                    <ul>
-                        <li>
-                            A4tech:
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    Earphone: 
-                    <ul>
-                        <li>
-                            Uiscii:
-                        </li>
-                    </ul>
-                </li>
-            </ul>
-        </li>
-        <br/>
-        <li>
-            :iphone: SmartPhone: 
-            <ul>
-                <li>
-                    Samsung Galaxy A50 4/64
-                </li>
-            </ul>
-        </li>
-        <br/>
-        <li>
-            :watch: Smartwatch: 
-            <ul>
-                <li>
-                    Haylu Solar LS05
-                </li>
-            </ul>
-        </li>
-    </ol>
-</details>
-<!-- things I use end -->
-
 <!-- open source projects start -->
 <details>
     <summary>
@@ -803,6 +628,184 @@
     <img width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
 </div>
 <!-- wave GIF end -->
+
+<br/>
+<br/>
+
+<!-- things I use start -->
+<details>
+    <summary>:bookmark: 𝗧𝗛𝗜𝗡𝗚𝗦 𝗜 𝗨𝗦𝗘</summary>
+    <br/>
+    <ol>
+        <!-- integrated development environment start -->
+        <li>
+            <h2 uppercase> 
+                Integrated Development Environment
+            </h2>
+            <div>
+                <img style="margin-right: 6px" alt="visual studio code badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+            </div>
+        </li>
+        <!-- integrated development environment end -->
+        <!-- browser start -->
+        <li>
+            <h2 uppercase> 
+                Browser
+            </h2>
+            <div>
+                <img style="margin-right: 6px" alt="google chrome badge" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
+            </div>
+        </li>
+        <!-- browser end -->
+        <!-- operating system start -->
+        <li>
+            <h2 uppercase> 
+                Operating System
+            </h2>
+            <div>
+                <img style="margin-right: 6px" alt="windows 11 badge" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
+                <img style="margin-right: 6px" alt="ubuntu badge" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+                <img style="margin-right: 6px" alt="android badge" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+            </div>
+        </li>
+        <!-- operating system end -->
+        <!-- Learning Platform start -->
+        <li>
+            <h2 uppercase> 
+                Learning Platform
+            </h2>
+            <div>
+                <img style="margin-right: 6px" alt="coursera" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white">
+                <img style="margin-right: 6px" alt="udemy badge" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
+                <img style="margin-right: 6px" alt="youtube badge" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+            </div>
+        </li>
+        <!-- Learning Platform end -->
+    </ol>
+    <br/>
+    <h2 uppercase> 
+        :heart: Things I own
+    </h2>
+    <ol>
+        <li>
+            :computer: Personal Computer
+            <ul>
+                <li>
+                    Processor: Ryzen 3 2700X
+                </li>
+                <li>
+                    Cooler: Ryzen 3 2700X
+                </li>
+                <li>
+                    Motherboard: Ryzen 3 2700X
+                </li>
+                <li>
+                    RAM: Ryzen 3 2700X
+                </li>
+                <li>
+                    SSD: Ryzen 3 2700X
+                </li>
+                <li>
+                    HDD: Ryzen 3 2700X
+                </li>
+                <li>
+                    Casing: Ryzen 3 2700X
+                </li>
+                <li>
+                    UPS: Ryzen 3 2700X
+                </li>
+                <li>
+                    Sound Box: Ryzen 3 2700X
+                </li>
+                <li>
+                    Keyboard: Ryzen 3 2700X
+                </li>
+                <li>
+                    Mouse: Ryzen 3 2700X
+                </li>
+            </ul>
+        </li>
+        <br/>
+        <li>
+            Network Device: 
+            <ul>
+                <li>
+                    Router: 
+                    <ul>
+                        <li>
+                            Netgear
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    Network Adapters: 
+                    <ul>
+                        <li>
+                            Tp Link:
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    Bluetooth Adapters: 
+                    <ul>
+                        <li>
+                            Orico:
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <br/>
+        <li>
+            Accessories: 
+            <ul>
+                <li>
+                    :camera: Webcam: 
+                    <ul>
+                        <li>
+                            Fantech
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    :headphones: Headphone: 
+                    <ul>
+                        <li>
+                            A4tech:
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    Earphone: 
+                    <ul>
+                        <li>
+                            Uiscii:
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <br/>
+        <li>
+            :iphone: SmartPhone: 
+            <ul>
+                <li>
+                    Samsung Galaxy A50 4/64
+                </li>
+            </ul>
+        </li>
+        <br/>
+        <li>
+            :watch: Smartwatch: 
+            <ul>
+                <li>
+                    Haylu Solar LS05
+                </li>
+            </ul>
+        </li>
+    </ol>
+</details>
+<!-- things I use end -->
 
 <br/>
 <br/>
