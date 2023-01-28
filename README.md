@@ -1095,12 +1095,11 @@
         </li>
     </ol>
     <h2>Tasks</h2>
-    
-- [x] Born
-- [x] Got a job
-- [x] Married
-- [x] Have children
-- [ ] Die
+    <p>:white_large_square: Born</p>
+    <p>:white_large_square: Got a job</p>
+    <p>:white_large_square: Married</p>
+    <p>:white_large_square: Have children</p>
+    <p>:black_large_square: Have children</p>
     <br/>
     <br/>
 </details>
