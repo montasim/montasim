@@ -563,7 +563,7 @@
                 <tr>
                     <th>Company</th>
                     <th>Position</th>
-                    <th>Roles & responsibilities</th>
+                    <th>Field</th>
                     <th>Duration</th>
                 </tr>
             </thead>
@@ -575,7 +575,7 @@
                     <td>Junior Frontend Developer</td>
                     <td>
                         <p>
-                            Develop and maintain a responsive user interface. Implement effective security protocols, data protection measures, and storage solutions. Recommend and implement improvements to processes and technologies. Test-driven development.
+                            Web Development
                         </p>
                     </td>
                     <td>Nov 2022 - Present</td>
@@ -587,7 +587,7 @@
                     <td>Junior Frontend Developer - Intern</td>
                     <td>
                         <p>
-                            Develop and implement highly responsive user interface components. Troubleshoot and debug application codes. Document application changes and develops updates.
+                            Web Development
                         </p>
                     </td>
                     <td>Aug 2022 - Oct 2022</td>
@@ -599,7 +599,7 @@
                     <td>Computer Instructor</td>
                     <td>
                         <p>
-                            Planned lessons and activities that facilitate students' acquisition of basic and advanced computer skills. Instructed in a manner that develops students' confidence in their abilities. Observed and managed classroom dynamics. Ensured that the computer laboratory remains free from food and drink at all times. Downloaded important software updates and maintained hardware. Invigilated and graded projects, quizzes, and examinations. Tracked and communicated students' advancement throughout the course.
+                            IT
                         </p>
                     </td>
                     <td>Feb 2022 - Aug 2022</td>
@@ -611,7 +611,7 @@
                     <td>Management Information System Officer</td>
                     <td>
                         <p>
-                            Designed, monitored, analyzed, and troubleshot IT systems. Analyzed existing operations, protocols, and processes and made improvement plans. Interpreted briefs and developed IT systems that meet all specifications and cost requirements. Maintained, managed, and updated software. Assisted with training and onboarding processes. Assisted the Project Manager/Operation Manager in preparing other relevant reports.
+                            IT
                         </p>
                     </td>
                     <td>Dec 2021 - Aug 2022</td>
