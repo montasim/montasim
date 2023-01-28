@@ -937,37 +937,55 @@
             </h3>
             <ul>
                 <li>
-                    Processor: Ryzen 3 2700X
+                    Processor: 
+                    <a href="https://www.amd.com/en/products/apu/amd-ryzen-3-2200g">
+                        AMD Ryzen™ 3 2200G Processor with AMD Radeon™ Vega 8 Graphics
+                    </a>
                 </li>
                 <li>
                     Cooler: Ryzen 3 2700X
                 </li>
                 <li>
-                    Motherboard: Ryzen 3 2700X
+                    Motherboard: 
+                     <a href="https://www.asus.com/motherboards-components/motherboards/prime/prime-a320m-e/">
+                        PRIME A320M-E
+                    </a>
                 </li>
                 <li>
-                    RAM: Ryzen 3 2700X
+                    RAM: 
+                     <a href="https://www.corsair.com/ww/en/Categories/Products/Memory/VENGEANCE-LPX/p/CMK4GX4M1A2400C14">
+                        Corsair Vengeance LPX 4GB DDR4 2400MHz Black Heatsink Desktop RAM
+                    </a>
                 </li>
                 <li>
-                    SSD: Ryzen 3 2700X
+                    SSD: 
+                     <a href="https://www.ryanscomputers.com/hikvision-c100-120gb-sataiii-ssd">
+                        Hikvision C100 120GB 2.5 Inch SATAIII SSD
+                    </a>
                 </li>
                 <li>
-                    HDD: Ryzen 3 2700X
+                    HDD: 
+                     <a href="https://toshiba.semicon-storage.com/us/storage/product/internal-specialty/pc/articles/dt01aca-series.html">
+                        Toshiba DT01ACA100 1TB Sata Desktop Hard Disk
+                    </a>
                 </li>
                 <li>
-                    Casing: Ryzen 3 2700X
+                    Casing: Delux
                 </li>
                 <li>
-                    UPS: Ryzen 3 2700X
+                    UPS: 
+                     <a href="https://www.startech.com.bd/power-guard-1200va-cs-offline-ups">
+                        Power Guard 1200VA CS Offline UPS (Plastic Body)
+                    </a>
                 </li>
                 <li>
-                    Sound Box: Ryzen 3 2700X
+                    Sound Box: Havit
                 </li>
                 <li>
-                    Keyboard: Ryzen 3 2700X
+                    Keyboard: Logitech
                 </li>
                 <li>
-                    Mouse: Ryzen 3 2700X
+                    Mouse: Logitech
                 </li>
             </ul>
         </li>
@@ -1021,7 +1039,7 @@
                     :headphones: Headphone: 
                     <ul>
                         <li>
-                            A4tech:
+                            A4tech
                         </li>
                     </ul>
                 </li>
@@ -1029,7 +1047,7 @@
                     Earphone: 
                     <ul>
                         <li>
-                            Uiscii:
+                            Uiscii
                         </li>
                     </ul>
                 </li>
