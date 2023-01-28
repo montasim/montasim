@@ -230,7 +230,6 @@
             </div>
             <!-- integrated development environment end -->
         </li>
-        <br/>
         <li>
             <!-- browser start -->
             <h2 uppercase> 
@@ -241,7 +240,6 @@
             </div>
             <!-- browser end -->
         </li>
-        <br/>
         <li>
             <!-- operating system start -->
             <h2 uppercase> 
