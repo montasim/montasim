@@ -656,7 +656,12 @@
             </tr>
         </tbody>
     </table>
-
+    <br/>
+    <div align="center">
+        <a href="https://github.com/montasim?tab=repositories">
+            <img alt="linkedin icon" src="https://img.shields.io/badge/VIEW%20MORE-PROJECTS-025E8C?style=for-the-badge&logoColor=white">
+        </a>
+    </div>
 </details>
 <!-- open source projects end -->
 
