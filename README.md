@@ -214,8 +214,6 @@
     <!-- currently learning end -->
 </details>
 
-<br/>
-
 <!-- my resume start -->
 <a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 
     <font size="3">
