@@ -220,28 +220,28 @@
     <summary>:bookmark: Things I use</summary>
     <br/>
     <ol>
+        <!-- integrated development environment start -->
         <li>
-            <!-- integrated development environment start -->
             <h2 uppercase> 
                 Integrated Development Environment
             </h2>
             <div>
                 <img style="margin-right: 6px" alt="visual studio code badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
             </div>
-            <!-- integrated development environment end -->
         </li>
+        <!-- integrated development environment end -->
+        <!-- browser start -->
         <li>
-            <!-- browser start -->
             <h2 uppercase> 
                 Browser
             </h2>
             <div>
                 <img style="margin-right: 6px" alt="google chrome badge" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
             </div>
-            <!-- browser end -->
         </li>
+        <!-- browser end -->
+        <!-- operating system start -->
         <li>
-            <!-- operating system start -->
             <h2 uppercase> 
                 Operating System
             </h2>
@@ -250,8 +250,8 @@
                 <img style="margin-right: 6px" alt="ubuntu badge" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
                 <img style="margin-right: 6px" alt="android badge" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
             </div>
-            <!-- operating system end -->
         </li>
+        <!-- operating system end -->
     </ol>
     <br/>
     <h2 uppercase> 
