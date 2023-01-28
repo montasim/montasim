@@ -516,6 +516,43 @@
         I do Open Source. In fact, I do Open Source so much, that 95% of my work on GitHub is free and open to everyone. I am really passionate about doing web development, it is in my opinion the best combination of logical programming and (sometimes) beautiful design.
     </p>
     <br/>
+    <details>
+        <summary> Quick Info About Me</summary>
+        <br/>
+        <table>
+            <tbody>
+                <tr>
+                    <th>Name</th>
+                    <td>Mohammad Montasim -Al- Mamun Shuvo</td>
+                </tr>
+                <tr>
+                    <th>Born</th>
+                    <td><time datetime="1998-12-16 08:00">16 December, 1998</time></td>
+                </tr>
+                <tr>
+                    <th>Education</th>
+                    <td>Bachelor of Science in Computer Science and Engineering</td>
+                </tr>
+                <tr>
+                    <th>Alma mater</th>
+                    <td>Bangladesh Army University of Science and Technology</td>
+                </tr>
+                <tr>
+                    <th>Nationality</th>
+                    <td>Bangladeshi</td>
+                </tr>
+                <tr>
+                    <th>Occupation</th>
+                    <td>Web Developer</td>
+                </tr>
+                <tr>
+                    <th>Skills</th>
+                    <td>Javascript (ES6), React, Node.js, Express.js, MongoDB, Next.js, Tailwind CSS, Bootstrap, SASS, HTML5, CSS3</td>
+                </tr>
+            </tbody>
+        </table>
+    </details>
+    <br/>
     <h2>My Skills</h2>
     <ol>
         <!-- programming languages start -->
