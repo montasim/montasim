@@ -1,7 +1,7 @@
 <!-- heading start -->
-<h1 align="center" font>
-        🎲 Ｈｅｌｌｏ， Ｎｉｃｅ ｔｏ ｍｅｅｔ ｙｏｕ 🎓
-</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1&pause=1000&center=true&vCenter=true&repeat=false&width=800&lines=%F0%9F%8E%B2+%EF%BC%A8%EF%BD%85%EF%BD%8C%EF%BD%8C%EF%BD%8F%EF%BC%8C+%EF%BC%AE%EF%BD%89%EF%BD%83%EF%BD%85+%EF%BD%94%EF%BD%8F+%EF%BD%8D%EF%BD%85%EF%BD%85%EF%BD%94+%EF%BD%99%EF%BD%8F%EF%BD%95+%F0%9F%8E%93" alt="Typing SVG" />
+</div>
 <!-- heading end -->
 
 <br/>
