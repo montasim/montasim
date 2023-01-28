@@ -1,8 +1,6 @@
 <!-- heading start -->
 <h1 align="center" font>
-    <font size="6"> 
         🎲 Ｈｅｌｌｏ， Ｎｉｃｅ ｔｏ ｍｅｅｔ ｙｏｕ 🎓
-    </font>
 </h1>
 <!-- heading end -->
 
@@ -62,29 +60,19 @@
 <img align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@rangpur?v=1" width="100px">
 <!-- weather icon end -->
 
-<h2>
-    :wave: HI, I'M MONTASIM
-</h2>
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=435&lines=%F0%9F%91%8B+%F0%9D%97%9C+%F0%9D%97%94%F0%9D%97%A0+%F0%9D%97%A0%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%A6%F0%9D%97%9C%F0%9D%97%A0" alt="Typing SVG" />
 
 <!-- my summary start -->
 <p> 
-    <font size="3">
-        Hello! My name is Mohammad Montasim -Al- Mamun Shuvo and I enjoy creating things that live on the internet. My interest in web development started back in 2017 when I was doing a university project — turns out this project taught me a lot about HTML & CSS!
-    </font>
+    Hello! My name is Mohammad Montasim -Al- Mamun Shuvo and I enjoy creating things that live on the internet. My interest in web development started back in 2017 when I was doing a university project — turns out this project taught me a lot about HTML & CSS!
 </p>
 
 <p>
-    <font size="3">
-        Fast-forward to today, and I’ve had the privilege of working at an My MedicalHUB International Ltd., as a Junior Frontend Developer. My main focus these days is building accessible, inclusive products and digital experiences using MERN Stack.
-    </font>
+    Fast-forward to today, and I’ve had the privilege of working at an My MedicalHUB International Ltd., as a Junior Frontend Developer. My main focus these days is building accessible, inclusive products and digital experiences using MERN Stack.
 </p>
 
 <p>
-    <font size="3">
-        So far, I've built some exciting full stack project.
-    </font>
+    So far, I've built some exciting full stack project.
 </p>
 <!-- my summary end -->
 
@@ -92,23 +80,17 @@
 
 <!-- my resume start -->
 <a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 
-    <font size="3">
-        :page_facing_up: 𝗠𝗬 𝗥𝗘𝗦𝗨𝗠𝗘
-    </font>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1000&repeat=false&width=410&lines=%F0%9F%93%91+%F0%9D%97%A0%F0%9D%97%AC+%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%A0%F0%9D%97%98" alt="Typing SVG" />
 </a>
 <!-- my resume end -->
 
-<br/>
 <br/>
 
 <!-- open source projects start -->
 <details>
     <summary>
-        <font size="3">
-            :pushpin: 𝗢𝗣𝗘𝗡 𝗦𝗢𝗨𝗥𝗖𝗘 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
-        </font>
+        :pushpin: 𝗢𝗣𝗘𝗡 𝗦𝗢𝗨𝗥𝗖𝗘 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
     </summary>
-    <br/>
     <table>
         <thead align="center">
             <tr border: none;>
@@ -381,11 +363,10 @@
 <br/>
 
 <!-- connect with me start -->
-<h2 align="right" uppercase> 
-    :mailbox_with_mail: FEEL FREE TO CONTACT ME ANYTIME 
-</h2>
+<div align="right" uppercase> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=410&lines=%F0%9F%93%AA+%F0%9D%97%99%F0%9D%97%98%F0%9D%97%98%F0%9D%97%9F+%F0%9D%97%99%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%98+%F0%9D%97%A7%F0%9D%97%A2+%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%96%F0%9D%97%A7+%F0%9D%97%A0%F0%9D%97%98+%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%AC%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A0%F0%9D%97%98" alt="Typing SVG" />
+</div>
 
-<br/>
 <br/>
 
 <!-- social media links start -->
@@ -439,11 +420,8 @@
 <br/>
 <br/>
 
-<h2>
-    :large_blue_diamond: FUN FACTS
-</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=410&lines=%F0%9F%94%B7+%F0%9D%97%99%F0%9D%97%A8%F0%9D%97%A1+%F0%9D%97%99%F0%9D%97%94%F0%9D%97%96%F0%9D%97%A7%F0%9D%97%A6" alt="Typing SVG" />
 
-<br/>
 <br/>
 
 <!-- random jokes start -->
