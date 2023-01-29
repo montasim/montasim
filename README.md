@@ -1203,7 +1203,7 @@
 
 <!-- STACKOVERFLOW:END -->
 
-<br><br>
+<br>
 
 <div>
     <h2> 📺 Latest YouTube Videos </h2>
@@ -1216,7 +1216,7 @@
 
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-<br><br>
+<br>
 
 ## 📕 Latest Blog Posts
 
@@ -1224,7 +1224,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-<br><br>
+<br>
 
 ## :zap: Wakatime Activity
 
@@ -1233,30 +1233,30 @@
 
 <!--END_SECTION:waka-->
 
-<br><br>
+<br>
 
-## :zap: Recent Activity
+## :zap: Recent GitHub Activity
 
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-<br><br>
+<br>
 
 <!-- twitter post -->
 
 ![Twitter Post](https://github-readme-twitter.gazf.vercel.app/api?id=montasimmamun&layout=wide)
 
-<br><br>
+<br>
 
 ## Medium Post
 
-<br><br>
+<br>
 
 ![Medium Post](https://github-readme-medium.vercel.app/?username=montasim&limit=2)
 
-<br><br>
+<br>
 
 </details>
 <!-- find more on social media end -->
