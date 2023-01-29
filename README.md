@@ -1165,14 +1165,6 @@ No activity tracked
     </div>
 </details>
 
-<details>
-    <summary>REpo</summary>
-    <br/>
-    <div align="center">
-        <img alt="colored gif" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=montasim&theme=swift">
-    </div>
-</details>
-
 ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
     
 <img src="https://github-contributor-stats.vercel.app/api?username=montasim&theme=dark"/>
