@@ -1,3 +1,37 @@
+<!--
+    Montasim's Github Profile
+    Created on : 18/5/2021
+    Author : Mohammad Montasim -Al- Mamun Shuvo
+    Contact : montasimmamun@gmail.com
+
+    -----------------------------------------------------------------------
+    -----------------------------------------------------------------------
+    
+    Thank you if you like this profile README!
+
+    BUT, please DO NOT copy this and create your profile based on it.
+    You can use it as a reference, and copy a part of it, but DO NOT copy
+    all of this and create your profile based on it.
+
+    It is very common that you forget to change some information and leave
+    mine in your profile.
+
+    Only when you know what you are copying should you paste it. So, again,
+    please DO NOT copy this and create your profile based on it.
+
+    ---------------------------------------------------------------------
+
+    What's more, you can find other awesome profile READMEs at
+    https://github.com/abhisheknaiidu/awesome-github-profile-readme.
+    There could be a profile README that fits you better than this one.
+
+    ---------------------------------------------------------------------
+    
+    Wish you a good-looking profile README!
+
+                                —— montasim (https://github.com/montasim)
+-->
+
 <!-- hello nice to meet you text start -->
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1&pause=1000&center=true&vCenter=true&repeat=false&width=800&lines=%F0%9F%8E%B2+%EF%BC%A8%EF%BD%85%EF%BD%8C%EF%BD%8C%EF%BD%8F%EF%BC%8C+%EF%BC%AE%EF%BD%89%EF%BD%83%EF%BD%85+%EF%BD%94%EF%BD%8F+%EF%BD%8D%EF%BD%85%EF%BD%85%EF%BD%94+%EF%BD%99%EF%BD%8F%EF%BD%95+%F0%9F%8E%93" alt="hello nice to meet you svg" />
