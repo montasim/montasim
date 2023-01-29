@@ -1519,6 +1519,62 @@
 </details>
 <!-- find more on social media end -->
 
+<div align="center">
+    <a href="https://www.github.com/montasim">
+        <img alt="more info badge" src="https://img.shields.io/badge/ALL%20RIGHT%20RESERVED%20BY-@MONTASIM-025E8C?style=for-the-badge&logo=&logoColor=white">
+    </a>
+</div>
+
+
+<details>
+    <summary>:zap: Recent GitHub Activity</summary>  
+    <br/>
+    <!--START_SECTION:activity-->
+    <!--END_SECTION:activity-->
+</details>
+
+<details>
+    <summary>:zap: Recent Development Stats</summary>
+    <br/>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+</details>
+
+<details>
+    <summary>:zap: Github Metrics</summary>
+    <br/>
+    <div align="center">
+        <img alt="colored gif" src="https://metrics.lecoq.io/montasim">
+    </div>
+</details>
+
+<details>
+    <summary>📕 Latest Blog Posts</summary>
+    <br/>
+    <!-- BLOG-POST-LIST:START -->
+    <!-- BLOG-POST-LIST:END -->
+</details>
+
+<details>
+    <summary>Stackoverflow</summary>
+    <br/>
+    <div align="center">
+        <img alt="colored gif" src="https://so-stats-kurt-liao.vercel.app/api?user=20348607&theme=swift">
+    </div>
+</details>
+
+<details>
+    <summary>Github</summary>
+    <br/>
+    <div align="center">
+        <img alt="colored gif" src="https://server.dooboo.io/github-stats/montasim">
+    </div>
+</details>
+
+![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
+    
+<img src="https://github-contributor-stats.vercel.app/api?username=montasim&theme=dark"/>
+
 <!-- build with love svg start -->
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&width=150&height=40&lines=BUILD+WITH+%E2%9D%A4%EF%B8%8F%EF%B8%8F;BUILD+BY+MONTASIM" alt="build with love svg" />
