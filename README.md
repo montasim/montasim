@@ -1525,14 +1525,6 @@
     </a>
 </div>
 
-
-<details>
-    <summary>:zap: Recent GitHub Activity</summary>  
-    <br/>
-    <!--START_SECTION:activity-->
-    <!--END_SECTION:activity-->
-</details>
-
 <details>
     <summary>:zap: Recent Development Stats</summary>
     <br/>
