@@ -477,8 +477,6 @@
 </details>
 <!-- my resume text end -->
 
-<br/>
-
 <!-- open source projects start -->
 <details>
     <summary>
