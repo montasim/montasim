@@ -1267,7 +1267,19 @@ EJS          0 secs          ░░░░░░░░░░░░░░░░░
 ## :zap: Recent Twitter Activity
 
 <!-- TWITTER:START -->
+- [Thinking about my project. https://lnkd.in/gYffV3rq](https://nitter.net/montasimmamun/status/1611429494103093250#m)
+- [My company is looking for AI/ML Software Intern for IOS. If you are interested, you can apply or mention someone who might be interested. Check out this job at MyMedicalHUB: https://lnkd.in/gh-uGUaZ
 
+#hiring #hiringdevelopers #hiringimmediately #hiring2022…https://lnkd.in/gKusyzpx](https://nitter.net/montasimmamun/status/1567738626938916867#m)
+- [Check out this job at MyMedicalHUB: https://lnkd.in/gh-uGUaZ https://lnkd.in/g5NbD7ji](https://nitter.net/montasimmamun/status/1567731555648573440#m)
+- [Essential Resources for Frontend Developers
+
+Here are some essential website links for the Frontend Developers to design a beautiful website. Let me know your thoughts in the comments, and check my profile for more content.
+
+1. CSS framework: If you want…https://lnkd.in/gaWyxAvM](https://nitter.net/montasimmamun/status/1559042828935708674#m)
+- [RT by @montasimmamun: সন্ধ্যা সাতটার পর এই সাত কাজ নয়
+
+বিস্তারিত - http://prothomalo.com/lifestyle/health/q61jux0zd4](https://nitter.net/ProthomAlo/status/1558766644549263363#m)
 <!-- TWITTER:END -->
 
 ![Twitter Post](https://github-readme-twitter.gazf.vercel.app/api?id=montasimmamun&layout=wide)
