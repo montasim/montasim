@@ -1,10 +1,42 @@
-<!-- heading start -->
-<h1 align="center" font>
-    <font size="6"> 
-        🎲 Ｈｅｌｌｏ， Ｎｉｃｅ ｔｏ ｍｅｅｔ ｙｏｕ 🎓
-    </font>
-</h1>
-<!-- heading end -->
+<!--
+    Montasim's Github Profile
+    Created on : 18/5/2021
+    Author : Mohammad Montasim -Al- Mamun Shuvo
+    Contact : montasimmamun@gmail.com
+
+    -----------------------------------------------------------------------
+    -----------------------------------------------------------------------
+    
+    Thank you if you like this profile README!
+
+    BUT, please DO NOT copy this and create your profile based on it.
+    You can use it as a reference, and copy a part of it, but DO NOT copy
+    all of this and create your profile based on it.
+
+    It is very common that you forget to change some information and leave
+    mine in your profile.
+
+    Only when you know what you are copying should you paste it. So, again,
+    please DO NOT copy this and create your profile based on it.
+
+    ---------------------------------------------------------------------
+
+    What's more, you can find other awesome profile READMEs at
+    https://github.com/abhisheknaiidu/awesome-github-profile-readme.
+    There could be a profile README that fits you better than this one.
+
+    ---------------------------------------------------------------------
+    
+    Wish you a good-looking profile README!
+
+                                —— montasim (https://github.com/montasim)
+-->
+
+<!-- hello nice to meet you text start -->
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1&pause=1000&center=true&vCenter=true&repeat=false&width=800&lines=%F0%9F%8E%B2+%EF%BC%A8%EF%BD%85%EF%BD%8C%EF%BD%8C%EF%BD%8F%EF%BC%8C+%EF%BC%AE%EF%BD%89%EF%BD%83%EF%BD%85+%EF%BD%94%EF%BD%8F+%EF%BD%8D%EF%BD%85%EF%BD%85%EF%BD%94+%EF%BD%99%EF%BD%8F%EF%BD%95+%F0%9F%8E%93" alt="hello nice to meet you svg" />
+</div>
+<!-- hello nice to meet you text end -->
 
 <br/>
 
@@ -12,9 +44,11 @@
 <div align="center">
   <img style="margin-right: 6px" alt="stars badge"src="https://img.shields.io/github/stars/montasim/montasim"/>
   <img style="margin-right: 6px" alt="forks badge"src="https://img.shields.io/github/forks/montasim/montasim?label=Fork"/>
+  <img style="margin-right: 6px" alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/montasim">
   <img style="margin-right: 6px" alt="visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasim">
   <img style="margin-right: 6px" alt="profile hits counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmontasim1212%2Fhit-counter">
   <img style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/montasim?label=Follow"/>
+  <img style="margin-right: 6px" alt="build badge"src="https://img.shields.io/github/actions/workflow/status/montasim/montasim/update-readme.yml"/>
   <img style="margin-right: 6px" alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
 </div>
 <!-- about repository badges end -->
@@ -60,51 +94,369 @@
 <img align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@rangpur?v=1" width="100px">
 <!-- weather icon end -->
 
-<h2>
-    :wave: HI, I'M MONTASIM
-</h2>
-
-<br/>
+<!-- i am montasim text start -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=435&lines=%F0%9F%91%8B+%F0%9D%97%9C+%F0%9D%97%94%F0%9D%97%A0+%F0%9D%97%A0%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%A6%F0%9D%97%9C%F0%9D%97%A0" alt="i am montasim svg" />
+<!-- i am montasim text end -->
 
 <!-- my summary start -->
 <p> 
-    <font size="3">
-        Hello! My name is Mohammad Montasim -Al- Mamun Shuvo and I enjoy creating things that live on the internet. My interest in web development started back in 2017 when I was doing a university project — turns out this project taught me a lot about HTML & CSS!
-    </font>
+    Hello! My name is Mohammad Montasim -Al- Mamun Shuvo and I enjoy creating things that live on the internet. My interest in web development started back in 2017 when I was doing a university project — turns out this project taught me a lot about HTML & CSS!
 </p>
 
 <p>
-    <font size="3">
-        Fast-forward to today, and I’ve had the privilege of working at an My MedicalHUB International Ltd., as a Junior Frontend Developer. My main focus these days is building accessible, inclusive products and digital experiences using MERN Stack.
-    </font>
+    Fast-forward to today, and I’ve had the privilege of working at an My MedicalHUB International Ltd., as a Junior Frontend Developer. My main focus these days is building accessible, inclusive products and digital experiences using MERN Stack.
 </p>
 
 <p>
-    <font size="3">
-        So far, I've built some exciting full stack project.
-    </font>
+    So far, I've built some exciting full stack project.
 </p>
 <!-- my summary end -->
 
 <br/>
 
-<!-- my resume start -->
-<a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 
-    <font size="3">
-        :page_facing_up: 𝗠𝗬 𝗥𝗘𝗦𝗨𝗠𝗘
-    </font>
-</a>
-<!-- my resume end -->
-
-<br/>
-<br/>
+<!-- my resume text start -->
+<details>
+    <summary> 📰 𝗠𝗬 𝗥𝗘𝗦𝗨𝗠𝗘 </summary>
+    <br/>
+    <h2 align="right">
+    <a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&repeat=false&width=240&height=25&lines=%F0%9D%97%97%F0%9D%97%A2%F0%9D%97%AA%F0%9D%97%A1%F0%9D%97%9F%F0%9D%97%A2%F0%9D%97%94%F0%9D%97%97+%F0%9D%97%A0%F0%9D%97%AC+%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%A0%F0%9D%97%98" alt="download my resume" />
+    </a>
+    </h2>
+    <br/>
+    <br/>
+    <!-- Montasim's Photo -->
+    <img align="right" alt="Montasim's resume Photo" src="media/images/montasim.jpg" width="200px">
+    <h2>
+        <strong>𝗠𝗢𝗛𝗔𝗠𝗠𝗔𝗗 𝗠𝗢𝗡𝗧𝗔𝗦𝗜𝗠 -𝗔𝗟- 𝗠𝗔𝗠𝗨𝗡 𝗦𝗛𝗨𝗩𝗢</strong>
+    <h2>
+    <p>Frontend Developer<p>
+    <br/>
+    <!-- quick link start -->
+<pre>
+<b>Email     :</b> <a href="montasimmamun@gmail.com">montasimmamun@gmail.com</a> 
+<b>Portfolio :</b> <a href="https://montasim-dev.web.app/">montasim-dev.web.app</a>
+<b>Mobile    :</b> <a href="+8801722815469">+8801722815469</a>
+<b>GitHub    :</b> <a href="https://github.com/montasim">github.com/montasim</a>
+</pre>
+    <!-- quick link end -->
+    <br/>
+    <!-- skills start -->
+    <h2>
+        <strong>Skills :</strong>
+    </h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Details</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- frontend start -->
+            <tr>
+                <td>
+                    <b>Frontend</b>
+                </td>
+                <td>
+                    JavaScript, ReactJS, NextJS, Tailwind CSS, Bootstrap, HTML5, CSS3
+                </td>
+            </tr>
+            <!-- frontend end -->
+            <!-- Backend start -->
+            <tr>
+                <td>
+                    <b>Backend</b>
+                </td>
+                <td>
+                    Node.js, Express.js, MongoDB
+                </td>
+            </tr>
+            <!-- backend end -->
+            <!-- devOps start -->
+            <tr>
+                <td>
+                    <b>DevOps</b>
+                </td>
+                <td>
+                    Git, GitHub, Chrome Dev, Tools, Firebase, Heroku, Netlify
+                </td>
+            </tr>
+            <!-- devOps end -->
+            <!-- familiar with start -->
+            <tr>
+                <td>
+                    <b>Familiar With</b>
+                </td>
+                <td>
+                    Typescript, REST APIs, jQuery, Microsoft Azure, Stripe, Nodemailer
+                </td>
+            </tr>
+            <!-- familiar with end -->
+            <!-- tools start -->
+            <tr>
+                <td>
+                    <b>Tools</b>
+                </td>
+                <td>
+                    Canva, Figma
+                </td>
+            </tr>
+            <!-- tools end -->
+        </tbody>
+    </table>
+    <!-- skills end -->
+    <br/>
+    <!-- work experience start -->
+    <h2>
+        <strong>Work Experience : (2)</strong>
+    </h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Company</th>
+                <th>Position</th>
+                <th>Field</th>
+                <th>Duration</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <a href="http://mymedicalhub.com/">MyMedicalHUB</a>
+                </td>
+                <td>Junior Frontend Developer</td>
+                <td>
+                    <p>
+                        Web Development
+                    </p>
+                </td>
+                <td>Nov 2022 - Present</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="http://mymedicalhub.com/">MyMedicalHUB</a>
+                </td>
+                <td>Junior Frontend Developer - Intern</td>
+                <td>
+                    <p>
+                        Web Development
+                    </p>
+                </td>
+                <td>Aug 2022 - Oct 2022</td>
+            </tr>
+        </tbody>
+    </table>
+    <!-- work experience end -->
+    <br/>
+    <!-- academic qualification start-> -->
+    <h2>
+        <strong>Academic Qualification : (3)</strong>
+    </h2>
+    <table align="center">
+        <thead>
+            <tr>
+                <th>
+                    <b> Exam </b>
+                </th>
+                <th>
+                    <b> Concentration / Major </b>
+                </th>
+                <th>
+                    <b> Institute </b>
+                </th>
+                <th>
+                    <b> Result </b>
+                </th>
+                <th>
+                    <b> Passing Year </b>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td> Bachelor of Science (B. Sc.) </td>
+                <td> Computer Science & Engineering </td>
+                <td> Bangladesh Army University of Science and Technology </td>
+                <td> 2.96 </td>
+                <td> 2021 </td>
+            </tr>
+            <tr>
+                <td> HSC </td>
+                <td> Science </td>
+                <td> Carmichael College Rangpur </td>
+                <td> 4.58 </td>
+                <td> 2016 </td>
+            </tr>
+            <tr>
+                <td> SSC </td>
+                <td> Science </td>
+                <td> Rangpur Zilla School </td>
+                <td> 5.00 </td>
+                <td> 2014 </td>
+            </tr>
+        </tbody>
+    </table>      
+    <br/>
+    <!-- academic qualification end -->
+    <h2>
+        <strong>Undergraduate Thesis and Project : (1)</strong>
+    </h2>
+    <p>
+        <b>Hand Pose Estimation in Single RGB Image with Multiview Bootstrapping.</b>
+    </p>
+    <ul>
+        <li>
+            Deep Learning, OpenCV
+        </li>
+        <li>
+            Convolutional Neural Network (CNN)
+        </li>
+        <li>
+            Python (TensorFlow, Matplotlib, Scikit-Learn, OpenCV, Media pipe)
+        </li>
+    </ul>
+    <!-- End Undergraduate Thesis and Project -->
+    <br/>
+    <!-- Start Language Proficiency -->
+    <h2>
+        <strong>Language Proficiency : (3)</strong>
+    </h2>
+    <table>
+        <thead>
+            <tr>
+                <th><b> Language </b></th>
+                <th><b> Reading </b></th>
+                <th><b> Writing </b></th>
+                <th><b> Speaking </b></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td> English </td>
+                <td> High </td>
+                <td> High </td>
+                <td> High </td>
+            </tr>
+            <tr>
+                <td> Bangla </td>
+                <td> High </td>
+                <td> High </td>
+                <td> High </td>
+            </tr>
+            <tr>
+                <td> Hindi </td>
+                <td> None </td>
+                <td> None </td>
+                <td> Basic </td>
+            </tr>
+        </tbody>
+    </table>
+    <!-- End Language Proficiency -->
+    <br/>
+    <!-- Start Training, Participation and Certification -->
+    <h2>
+        <strong>Training, Participation and Certification : (9)</strong>
+    </h2>
+    <ol>
+        <li>
+            𝙼𝚘𝚋𝚒𝚕𝚎 𝙶𝚊𝚖𝚎 𝙰𝚗𝚍 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝙵𝚘𝚛 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 - 𝚊𝚝 𝙸𝙲𝚃 𝙳𝚒𝚟𝚒𝚜𝚒𝚘𝚗 𝚘𝚏 𝙱𝚊𝚗𝚐𝚕𝚊𝚍𝚎𝚜𝚑
+        </li>
+        <li>
+            𝙿𝙻𝙲 𝚃𝚛𝚊𝚒𝚗𝚒𝚗𝚐 𝙲𝚘𝚞𝚛𝚜𝚎 - 𝚊𝚝 𝙱𝙰𝚄𝚂𝚃
+        </li>
+        <li>
+            𝚃𝚑𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎 𝙲 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+        </li>
+        <li>
+            𝙲++ 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 𝚂𝚎𝚛𝚒𝚎𝚜, 𝚃𝚑𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎 𝙲𝚘𝚍𝚒𝚗𝚐 𝙶𝚞𝚒𝚍𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+        </li>
+        <li>
+            𝙻𝚎𝚊𝚛𝚗 𝙲++ 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙼𝚒𝚗𝚒 𝙲𝚘𝚞𝚛𝚜𝚎, 𝙿𝚘𝚠𝚎𝚛 𝚘𝚏 𝙰𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+        </li>
+        <li>
+            𝙷𝚃𝙼𝙻𝟻 𝙲𝚘𝚍𝚒𝚗𝚐 𝚏𝚛𝚘𝚖 𝚂𝚌𝚛𝚊𝚝𝚌𝚑 - 𝙱𝚞𝚒𝚕𝚍 𝚈𝚘𝚞𝚛 𝙾𝚠𝚗 𝚆𝚎𝚋𝚜𝚒𝚝𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+        </li>
+        <li>
+            𝙿𝚘𝚜𝚒𝚝𝚒𝚘𝚗 𝙴𝚕𝚎𝚖𝚎𝚗𝚝𝚜 𝚘𝚗 𝚊 𝙿𝚊𝚐𝚎 𝚠𝚒𝚝𝚑 𝙲𝚂𝚂 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+        </li>
+        <li>
+            𝙶𝚒𝚝 + 𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚛 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜e
+        </li>
+        <li>
+            𝚄𝚜𝚎 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚊𝚗𝚍 𝙲𝚛𝚎𝚊𝚝𝚎 𝚊 𝚁𝚎𝚖𝚘𝚝𝚎 𝙶𝚒𝚝 𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+        </li>
+        <li>
+            𝙶𝚘𝚘𝚐𝚕𝚎 𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝚂𝚎𝚊𝚛𝚌𝚑: 𝙵𝚒𝚗𝚍 𝚂𝚝𝚞𝚏𝚏 𝙻𝚒𝚔𝚎 𝚊 𝙱𝚘𝚜𝚜 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+        </li>
+        <li>
+            𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙻𝚒𝚗𝚎 𝚒𝚗 𝙻𝚒𝚗𝚞𝚡 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+        </li>
+        <li>
+            𝙻𝚎𝚊𝚛𝚗 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙻𝚒𝚗𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+        </li>
+    </ol>
+    <!-- End Training, Participation and Certification -->
+    <br/>
+    <!-- Start Extra Curricular Activities -->
+    <h2>
+        <strong>Extra Curricular Activities : (2)</strong>
+    </h2>
+    <ol>
+        <li>
+            Ex. Cadet, second best cadet of Mohasthan Regiment at Bangladesh National Cadet Corps (BNCC)
+        </li>
+        <li>
+            Event Organizer at Rangpur Zilla School
+        </li>
+    </ol>
+    <!-- End Extra Curricular Activities -->
+    <br/>
+    <!-- Start Personal Details -->
+    <h2>
+        <strong>Personal Details :</strong>
+    </h2>
+    <table>
+        <tbody>
+            <tr>
+                <td> <b> Father's Name </b> </td>
+                <td> MD. Hafizar Rahman </td>
+            </tr>
+            <tr>
+                <td> <b> Mother's Name </b> </td>
+                <td> MST. Majida Begum </td>
+            </tr>
+            <tr>
+                <td> <b> Date of Birth </b> </td>
+                <td> December 16, 1998 </td>
+            </tr>
+            <tr>
+                <td> <b> Nationality </b> </td>
+                <td> Bangladeshi </td>
+            </tr>
+            <tr>
+                <td> <b> Blood Group </b> </td>
+                <td> B+ </td>
+            </tr>
+            <tr>
+                <td> <b> Religion </b> </td>
+                <td> Islam </td>
+            </tr>
+            <tr>
+                <td> <b> Permanent Address </b> </td>
+                <td> Balapara, 20 Mega Watt, Rangpur Sadar, Rangpur </td>
+            </tr>
+        </tbody>
+    </table>
+    <!-- End Personal Details -->    
+    <br/>
+</details>
+<!-- my resume text end -->
 
 <!-- open source projects start -->
 <details>
     <summary>
-        <font size="3">
-            :pushpin: 𝗢𝗣𝗘𝗡 𝗦𝗢𝗨𝗥𝗖𝗘 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
-        </font>
+        :pushpin: 𝗢𝗣𝗘𝗡 𝗦𝗢𝗨𝗥𝗖𝗘 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
     </summary>
     <br/>
     <table>
@@ -378,12 +730,12 @@
 <br/>
 <br/>
 
-<!-- connect with me start -->
-<h2 align="right" uppercase> 
-    :mailbox_with_mail: FEEL FREE TO CONTACT ME ANYTIME 
-</h2>
+<!-- feel free to contact me text start -->
+<div align="right" uppercase> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=410&lines=%F0%9F%93%AA+%F0%9D%97%99%F0%9D%97%98%F0%9D%97%98%F0%9D%97%9F+%F0%9D%97%99%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%98+%F0%9D%97%A7%F0%9D%97%A2+%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%96%F0%9D%97%A7+%F0%9D%97%A0%F0%9D%97%98+%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%AC%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A0%F0%9D%97%98" alt="feel free to contact me svg" />
+</div>
+<!-- feel free to contact me text end -->
 
-<br/>
 <br/>
 
 <!-- social media links start -->
@@ -437,12 +789,9 @@
 <br/>
 <br/>
 
-<h2>
-    :large_blue_diamond: FUN FACTS
-</h2>
-
-<br/>
-<br/>
+<!-- fun facts text start -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=410&lines=%F0%9F%94%B7+%F0%9D%97%99%F0%9D%97%A8%F0%9D%97%A1+%F0%9D%97%99%F0%9D%97%94%F0%9D%97%96%F0%9D%97%A7%F0%9D%97%A6" alt="fun facts svg" />
+<!-- fun facts text end -->
 
 <!-- random jokes start -->
 <div align="center">
@@ -452,9 +801,11 @@
 
 <br/>
 
+<!-- my github stats text start -->
 <div align="center"> 
-    <img align="center" alt="javascript icon" src="media/gif/stats.gif" width="45px"> MY GITHUB STATS 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=220&height=40&lines=%F0%9F%93%8A+MY+GITHUB+STATS" alt="my github stats svg" />
 </div>
+<!-- my github stats text end -->
 
 <br/>
 
@@ -470,11 +821,16 @@
 <br/>
 <br/>
 
-<!-- github most used languages start -->
 <div align="center">
-    <img width=325 align="center" src="https://github-readme-stats-mu-jet.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <!-- github most used languages start -->
+    <img width=325 src="https://github-readme-stats-mu-jet.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <!-- github most used languages end -->
+    <!-- wakatime weekly activity start -->
+    <a href="https://wakatime.com/@montasim" title="Data update every midnight">
+        <img src="https://github-readme-stats-mu-jet.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
+    </a>
+    <!-- wakatime weekly activity end -->
 </div>
-<!-- github most used languages end -->
 
 <br/>
 <br/>
@@ -490,7 +846,7 @@
 
 <!-- github trophy start -->
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=montasim&theme=radical">
+    <img src="https://github-profile-trophy.vercel.app/?username=montasim&theme=algolia&no-bg=true&no-frame=true">
 </div>
 <!-- github trophy end -->
 
@@ -523,35 +879,50 @@
         <table>
             <tbody>
                 <tr>
-                    <th>Name</th>
+                    <td>
+                        <b>Name</b>
+                    </td>
                     <td>Mohammad Montasim -Al- Mamun Shuvo</td>
                 </tr>
                 <tr>
-                    <th>Born</th>
+                    <td>
+                        <b>Born</b>
+                    </td>
                     <td><time datetime="1998-12-16 08:00">16 December, 1998</time></td>
                 </tr>
                 <tr>
-                    <th>Education</th>
+                    <td>
+                        <b>Education</b>
+                    </td>
                     <td>Bachelor of Science in Computer Science and Engineering</td>
                 </tr>
                 <tr>
-                    <th>Alma mater</th>
+                    <td>
+                        <b>Alma mater</b>
+                    </td>
                     <td>Bangladesh Army University of Science and Technology</td>
                 </tr>
                 <tr>
-                    <th>Nationality</th>
+                    <td>
+                        <b>Nationality</b>
+                    </td>
                     <td>Bangladeshi</td>
                 </tr>
                 <tr>
-                    <th>Occupation</th>
+                    <td>
+                        <b>Occupation</b>
+                    </td>
                     <td>Web Developer</td>
                 </tr>
                 <tr>
-                    <th>Skills</th>
+                    <td>
+                        <b>Skills</b>
+                    </td>
                     <td>Javascript (ES6), React, Node.js, Express.js, MongoDB, Next.js, Tailwind CSS, Bootstrap, SASS, HTML5, CSS3</td>
                 </tr>
             </tbody>
         </table>
+        <br/>
     </details>
     <!-- quick info about me end -->
     <!-- work experience start -->
@@ -636,7 +1007,7 @@
             <!-- programming language start -->
             <tr>
                 <td>
-                    Programming Languages
+                    <b>Programming Languages</b>
                 </td>
                 <td>
                     <img style="margin-right: 6px" alt="javascript programming languages badge" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -652,7 +1023,7 @@
             <!-- frontend technologies start -->
             <tr>
                 <td>
-                    Frontend Technologies 
+                    <b>Frontend Technologies</b>
                 </td>
                 <td>
                     <img style="margin-right: 6px" alt="react badge" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -668,7 +1039,7 @@
             <!-- backend technologies start -->
             <tr>
                 <td>
-                    Backend Technologies
+                    <b>Backend Technologies</b>
                 </td>
                 <td>
                     <img style="margin-right: 6px" alt="nodejs badge" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
@@ -684,7 +1055,7 @@
             <!-- databases start -->
             <tr>
                 <td>
-                    Databases
+                    <b>Databases</b>
                 </td>
                 <td>
                     <img style="margin-right: 6px" alt="mongodb badge" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -700,7 +1071,7 @@
             <!-- Web Technologies start -->
             <tr>
                 <td>
-                    Web Technologies 
+                    <b>Web Technologies</b>
                 </td>
                 <td>
                     <img style="margin-right: 6px" alt="html5 badge" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -717,7 +1088,7 @@
             <!-- css frameworks start -->
             <tr>
                 <td>
-                    CSS Drameworks 
+                    <b>CSS Drameworks</b>
                 </td>
                 <td>
                     <img style="margin-right: 6px" alt="tailwind css badge" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
@@ -734,7 +1105,7 @@
             <!-- package manager start -->
             <tr>
                 <td>
-                    Package Manager 
+                    <b>Package Manager</b> 
                 </td>
                 <td>
                     <img style="margin-right: 6px" alt="npm badge" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
@@ -750,7 +1121,7 @@
             <!-- design tools start -->
             <tr>
                 <td>
-                    Design Tools  
+                    <b>Design Tools</b>  
                 </td>
                 <td>
                     <img style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
@@ -766,7 +1137,7 @@
             <!-- hosting start -->
             <tr>
                 <td>
-                    Hosting
+                    <b>Hosting</b>
                 </td>
                 <td>
                     <img style="margin-right: 6px" alt="firebase badge" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
@@ -783,7 +1154,7 @@
             <!-- content management system start -->
             <tr>
                 <td>
-                    Content management system 
+                    <b>Content management system</b> 
                 </td>
                 <td>
                     <img style="margin-right: 6px" alt="wordpress badge" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
@@ -799,7 +1170,7 @@
             <!-- issue and project tracking start -->
             <tr>
                 <td>
-                    Issue & Project Tracking 
+                    <b>Issue & Project Tracking</b> 
                 </td>
                 <td>
                     <img style="margin-right: 6px" alt="azure badge" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
@@ -1077,73 +1448,79 @@
         </li>
     </ol>
     <h2>Tasks</h2>
-    
-- [x] Born
-- [x] Got a job
-- [x] Married
-- [x] Have children
-- [ ] Die
+    <p>:white_large_square: Born</p>
+    <p>:white_large_square: Got a job</p>
+    <p>:white_large_square: Married</p>
+    <p>:white_large_square: Have children</p>
+    <p>:black_large_square: Have children</p>
     <br/>
     <br/>
 </details>
 <!-- things I use end -->
 
-<br/>
-<br/>
+<!-- find more on social media start -->
+<details>
+    <summary> 
+        <b> 📛 𝗙𝗜𝗡𝗗 𝗠𝗢𝗥𝗘 𝗢𝗡 𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔 </b> 
+    </summary>
 
+<br><br>
+
+<img align="right" src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/20348607">
+
+## StackOverflow Activity
+
+<!-- STACKOVERFLOW:START -->
+
+<!-- STACKOVERFLOW:END -->
+
+<br><br>
+
+## 📺 Latest YouTube Videos
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkkBnedfjKU-toiKQ-rxvtA?label=YouTube%20Subscribers&style=social)
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+<br><br>
+
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+<br><br>
+
+## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<br><br>
+
+<!-- twitter post -->
+
+![Twitter Post](https://github-readme-twitter.gazf.vercel.app/api?id=montasimmamun&layout=wide)
+
+<br><br>
+
+## Medium Post
+
+<br><br>
+
+![Medium Post](https://github-readme-medium.vercel.app/?username=montasim&limit=2)
+
+<br><br>
+
+</details>
+<!-- find more on social media end -->
+
+<!-- build with love svg start -->
 <div align="center">
-    <a href="https://www.github.com/montasim">
-        <img alt="more info badge" src="https://img.shields.io/badge/ALL%20RIGHT%20RESERVED%20BY-@MONTASIM-025E8C?style=for-the-badge&logo=&logoColor=white">
-    </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&width=150&height=40&lines=BUILD+WITH+%E2%9D%A4%EF%B8%8F%EF%B8%8F;BUILD+BY+MONTASIM" alt="build with love svg" />
 </div>
-
-
-<details>
-    <summary>:zap: Recent GitHub Activity</summary>  
-    <br/>
-    <!--START_SECTION:activity-->
-    <!--END_SECTION:activity-->
-</details>
-
-<details>
-    <summary>:zap: Recent Development Stats</summary>
-    <br/>
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
-</details>
-
-<details>
-    <summary>:zap: Github Metrics</summary>
-    <br/>
-    <div align="center">
-        <img alt="colored gif" src="https://metrics.lecoq.io/montasim">
-    </div>
-</details>
-
-<details>
-    <summary>📕 Latest Blog Posts</summary>
-    <br/>
-    <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END -->
-</details>
-
-<details>
-    <summary>Stackoverflow</summary>
-    <br/>
-    <div align="center">
-        <img alt="colored gif" src="https://so-stats-kurt-liao.vercel.app/api?user=20348607&theme=swift">
-    </div>
-</details>
-
-<details>
-    <summary>Github</summary>
-    <br/>
-    <div align="center">
-        <img alt="colored gif" src="https://server.dooboo.io/github-stats/montasim">
-    </div>
-</details>
-
-![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
-    
-<img src="https://github-contributor-stats.vercel.app/api?username=montasim&theme=dark"/>
-
+<!-- build with love svg end -->
