@@ -1,8 +1,8 @@
-<!-- heading start -->
+<!-- hello nice to meet you text start -->
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1&pause=1000&center=true&vCenter=true&repeat=false&width=800&lines=%F0%9F%8E%B2+%EF%BC%A8%EF%BD%85%EF%BD%8C%EF%BD%8C%EF%BD%8F%EF%BC%8C+%EF%BC%AE%EF%BD%89%EF%BD%83%EF%BD%85+%EF%BD%94%EF%BD%8F+%EF%BD%8D%EF%BD%85%EF%BD%85%EF%BD%94+%EF%BD%99%EF%BD%8F%EF%BD%95+%F0%9F%8E%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1&pause=1000&center=true&vCenter=true&repeat=false&width=800&lines=%F0%9F%8E%B2+%EF%BC%A8%EF%BD%85%EF%BD%8C%EF%BD%8C%EF%BD%8F%EF%BC%8C+%EF%BC%AE%EF%BD%89%EF%BD%83%EF%BD%85+%EF%BD%94%EF%BD%8F+%EF%BD%8D%EF%BD%85%EF%BD%85%EF%BD%94+%EF%BD%99%EF%BD%8F%EF%BD%95+%F0%9F%8E%93" alt="hello nice to meet you svg" />
 </div>
-<!-- heading end -->
+<!-- hello nice to meet you text end -->
 
 <br/>
 
@@ -60,7 +60,9 @@
 <img align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@rangpur?v=1" width="100px">
 <!-- weather icon end -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=435&lines=%F0%9F%91%8B+%F0%9D%97%9C+%F0%9D%97%94%F0%9D%97%A0+%F0%9D%97%A0%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%A6%F0%9D%97%9C%F0%9D%97%A0" alt="Typing SVG" />
+<!-- i am montasim text start -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=435&lines=%F0%9F%91%8B+%F0%9D%97%9C+%F0%9D%97%94%F0%9D%97%A0+%F0%9D%97%A0%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%A6%F0%9D%97%9C%F0%9D%97%A0" alt="i am montasim svg" />
+<!-- i am montasim text end -->
 
 <!-- my summary start -->
 <p> 
@@ -78,11 +80,11 @@
 
 <br/>
 
-<!-- my resume start -->
+<!-- my resume text start -->
 <a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1000&repeat=false&width=410&lines=%F0%9F%93%91+%F0%9D%97%A0%F0%9D%97%AC+%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%A0%F0%9D%97%98" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&pause=1000&repeat=false&width=410&lines=%F0%9F%93%91+%F0%9D%97%A0%F0%9D%97%AC+%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%A0%F0%9D%97%98" alt="my resume svg" />
 </a>
-<!-- my resume end -->
+<!-- my resume text end -->
 
 <br/>
 
@@ -362,10 +364,11 @@
 <br/>
 <br/>
 
-<!-- connect with me start -->
+<!-- feel free to contact me text start -->
 <div align="right" uppercase> 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=410&lines=%F0%9F%93%AA+%F0%9D%97%99%F0%9D%97%98%F0%9D%97%98%F0%9D%97%9F+%F0%9D%97%99%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%98+%F0%9D%97%A7%F0%9D%97%A2+%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%96%F0%9D%97%A7+%F0%9D%97%A0%F0%9D%97%98+%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%AC%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A0%F0%9D%97%98" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=410&lines=%F0%9F%93%AA+%F0%9D%97%99%F0%9D%97%98%F0%9D%97%98%F0%9D%97%9F+%F0%9D%97%99%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%98+%F0%9D%97%A7%F0%9D%97%A2+%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%96%F0%9D%97%A7+%F0%9D%97%A0%F0%9D%97%98+%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%AC%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A0%F0%9D%97%98" alt="feel free to contact me svg" />
 </div>
+<!-- feel free to contact me text end -->
 
 <br/>
 
@@ -420,7 +423,9 @@
 <br/>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=410&lines=%F0%9F%94%B7+%F0%9D%97%99%F0%9D%97%A8%F0%9D%97%A1+%F0%9D%97%99%F0%9D%97%94%F0%9D%97%96%F0%9D%97%A7%F0%9D%97%A6" alt="Typing SVG" />
+<!-- fun facts text start -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=410&lines=%F0%9F%94%B7+%F0%9D%97%99%F0%9D%97%A8%F0%9D%97%A1+%F0%9D%97%99%F0%9D%97%94%F0%9D%97%96%F0%9D%97%A7%F0%9D%97%A6" alt="fun facts svg" />
+<!-- fun facts text end -->
 
 <!-- random jokes start -->
 <div align="center">
@@ -430,9 +435,11 @@
 
 <br/>
 
+<!-- my github stats text start -->
 <div align="center"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=220&height=40&lines=%F0%9F%93%8A+MY+GITHUB+STATS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=220&height=40&lines=%F0%9F%93%8A+MY+GITHUB+STATS" alt="my github stats svg" />
 </div>
+<!-- my github stats text end -->
 
 <br/>
 
@@ -1088,6 +1095,8 @@
 <br/>
 <br/>
 
+<!-- build with love svg start -->
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&width=150&height=40&lines=BUILD+WITH+%E2%9D%A4%EF%B8%8F%EF%B8%8F;BUILD+BY+MONTASIM" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&width=150&height=40&lines=BUILD+WITH+%E2%9D%A4%EF%B8%8F%EF%B8%8F;BUILD+BY+MONTASIM" alt="build with love svg" />
 </div>
+<!-- build with love svg end -->
