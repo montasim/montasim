@@ -116,7 +116,7 @@
 
 <!-- my resume text start -->
 <details>
-    <summary> 📰 MY RESUME </summary>
+    <summary> 📰 𝗠𝗬 𝗥𝗘𝗦𝗨𝗠𝗘 </summary>
     <br/>
     <h2 align="right">
     <a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 
