@@ -1200,7 +1200,8 @@
 ## StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
-
+- [Answer by ＭＯＮＴＡＳＩＭ for React firebase 9 how to delete current user account?](https://stackoverflow.com/questions/71147148/react-firebase-9-how-to-delete-current-user-account/74244739#74244739)
+- [Answer by ＭＯＮＴＡＳＩＭ for Tailwind cards of same height across multiple rows](https://stackoverflow.com/questions/74221710/tailwind-cards-of-same-height-across-multiple-rows/74223203#74223203)
 <!-- STACKOVERFLOW:END -->
 
 <br>
@@ -1226,7 +1227,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Understanding Trading Charts](https://noobtrack.blogspot.com/2020/02/understanding-trading-charts.html)
+- [Understanding Bar Charts and Column Charts](https://noobtrack.blogspot.com/2020/02/understanding-bar-charts-and-column.html)
+- [Bullet Charts – What Is It And How To Use It](https://noobtrack.blogspot.com/2020/02/bullet-charts-what-is-it-and-how-to-use.html)
+- [How to Start and grow my Career as iOS App Developer?](https://noobtrack.blogspot.com/2020/02/how-to-start-and-grow-my-career-as-ios.html)
+- [Excel Formulas | 20 Excel Formula Every Person Should Know](https://noobtrack.blogspot.com/2020/02/excel-formulas-20-excel-formula-every.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -1235,6 +1240,19 @@
 
 
 <!--START_SECTION:waka-->
+
+```text
+From: 18 August 2020 - To: 28 January 2023
+
+Total Time: 22 hrs 42 mins
+
+Markdown     14 hrs 19 mins  >>>>>>>>>>>>>>>>---------   63.10 %
+Python       3 hrs 19 mins   >>>>---------------------   14.67 %
+HTML         2 hrs 33 mins   >>>----------------------   11.26 %
+C            1 hr 14 mins    >------------------------   05.46 %
+LESS         31 mins         >------------------------   02.28 %
+JavaScript   14 mins         -------------------------   01.06 %
+```
 
 <!--END_SECTION:waka-->
 
