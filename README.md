@@ -128,7 +128,7 @@
     <!-- Montasim's Photo -->
     <img align="right" alt="Montasim's resume Photo" src="media/images/montasim.jpg" width="200px">
     <h2>
-        <strong>Mohammad Montasim -Al- Mamun Shuvo</strong>
+        <strong>𝗠𝗢𝗛𝗔𝗠𝗠𝗔𝗗 𝗠𝗢𝗡𝗧𝗔𝗦𝗜𝗠 -𝗔𝗟- 𝗠𝗔𝗠𝗨𝗡 𝗦𝗛𝗨𝗩𝗢</strong>
     <h2>
     <h3>Frontend Developer<h3>
     <br/>
