@@ -1526,32 +1526,10 @@
 </div>
 
 <details>
-    <summary>:zap: Recent Development Stats</summary>
-    <br/>
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
-</details>
-
-<details>
     <summary>:zap: Github Metrics</summary>
     <br/>
     <div align="center">
         <img alt="colored gif" src="https://metrics.lecoq.io/montasim">
-    </div>
-</details>
-
-<details>
-    <summary>📕 Latest Blog Posts</summary>
-    <br/>
-    <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END -->
-</details>
-
-<details>
-    <summary>Stackoverflow</summary>
-    <br/>
-    <div align="center">
-        <img alt="colored gif" src="https://so-stats-kurt-liao.vercel.app/api?user=20348607&theme=swift">
     </div>
 </details>
 
