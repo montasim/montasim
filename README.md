@@ -473,7 +473,7 @@
 
 <!-- github trophy start -->
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=montasim&theme=radical&no-bg=true&no-frame=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=montasim&theme=algolia&no-bg=true&no-frame=true">
 </div>
 <!-- github trophy end -->
 
