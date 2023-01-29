@@ -1204,7 +1204,7 @@
 - [Answer by ＭＯＮＴＡＳＩＭ for Tailwind cards of same height across multiple rows](https://stackoverflow.com/questions/74221710/tailwind-cards-of-same-height-across-multiple-rows/74223203#74223203)
 <!-- STACKOVERFLOW:END -->
 
-<br><br>
+<br>
 
 <div>
     <h2> 📺 Latest YouTube Videos </h2>
@@ -1217,7 +1217,7 @@
 
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-<br><br>
+<br>
 
 ## 📕 Latest Blog Posts
 
@@ -1229,7 +1229,7 @@
 - [Excel Formulas | 20 Excel Formula Every Person Should Know](https://noobtrack.blogspot.com/2020/02/excel-formulas-20-excel-formula-every.html)
 <!-- BLOG-POST-LIST:END -->
 
-<br><br>
+<br>
 
 ## :zap: Wakatime Activity
 
@@ -1246,30 +1246,30 @@ EJS          0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<br><br>
+<br>
 
-## :zap: Recent Activity
+## :zap: Recent GitHub Activity
 
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-<br><br>
+<br>
 
 <!-- twitter post -->
 
 ![Twitter Post](https://github-readme-twitter.gazf.vercel.app/api?id=montasimmamun&layout=wide)
 
-<br><br>
+<br>
 
 ## Medium Post
 
-<br><br>
+<br>
 
 ![Medium Post](https://github-readme-medium.vercel.app/?username=montasim&limit=2)
 
-<br><br>
+<br>
 
 </details>
 <!-- find more on social media end -->
