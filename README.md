@@ -1245,12 +1245,13 @@
 <br>
 
 <!-- twitter post -->
+## :zap: Recent Twitter Activity
 
 ![Twitter Post](https://github-readme-twitter.gazf.vercel.app/api?id=montasimmamun&layout=wide)
 
 <br>
 
-## Medium Post
+## Recent Medium Activity
 
 <br>
 
