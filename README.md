@@ -1205,9 +1205,12 @@
 
 <br><br>
 
-## 📺 Latest YouTube Videos
-
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkkBnedfjKU-toiKQ-rxvtA?label=YouTube%20Subscribers&style=social)
+<div>
+    <h2> 📺 Latest YouTube Videos </h2>
+    <a href="https://www.amd.com/en/products/apu/amd-ryzen-3-2200g">
+    <img align="right" style="margin-right: 6px" alt="youtube subscriber" src="https://img.shields.io/youtube/channel/subscribers/UCkkBnedfjKU-toiKQ-rxvtA?label=YouTube%20Subscribers&style=social">
+    </a>
+</div>
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 
@@ -1220,6 +1223,15 @@
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
+
+<br><br>
+
+## :zap: Wakatime Activity
+
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <br><br>
 
