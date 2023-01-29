@@ -1089,5 +1089,5 @@
 <br/>
 
 <div align="center">
-    <img style="margin-right: 6px" alt="build with love badge" src="https://forthebadge.com/images/badges/built-with-love.svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&width=150&height=40&lines=BUILD+WITH+%E2%9D%A4%EF%B8%8F%EF%B8%8F;BUILD+BY+MONTASIM" alt="Typing SVG" />
 </div>
