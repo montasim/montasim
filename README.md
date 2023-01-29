@@ -130,7 +130,7 @@
     <h2>
         <strong>𝗠𝗢𝗛𝗔𝗠𝗠𝗔𝗗 𝗠𝗢𝗡𝗧𝗔𝗦𝗜𝗠 -𝗔𝗟- 𝗠𝗔𝗠𝗨𝗡 𝗦𝗛𝗨𝗩𝗢</strong>
     <h2>
-    <h3>Frontend Developer<h3>
+    <p>Frontend Developer<p>
     <br/>
     <!-- quick link start -->
 <pre>
