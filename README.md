@@ -93,6 +93,7 @@
     <summary>
         :pushpin: 𝗢𝗣𝗘𝗡 𝗦𝗢𝗨𝗥𝗖𝗘 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
     </summary>
+    <br/>
     <table>
         <thead align="center">
             <tr border: none;>
