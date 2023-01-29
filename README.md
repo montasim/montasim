@@ -1102,11 +1102,6 @@
     <summary>:zap: Recent GitHub Activity</summary>  
     <br/>
     <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#282](https://github.com/STRINGLABITSOLUTIONS/Bhojon/issues/282) in [STRINGLABITSOLUTIONS/Bhojon](https://github.com/STRINGLABITSOLUTIONS/Bhojon)
-2. 🗣 Commented on [#282](https://github.com/STRINGLABITSOLUTIONS/Bhojon/issues/282) in [STRINGLABITSOLUTIONS/Bhojon](https://github.com/STRINGLABITSOLUTIONS/Bhojon)
-3. 🗣 Commented on [#281](https://github.com/STRINGLABITSOLUTIONS/Bhojon/issues/281) in [STRINGLABITSOLUTIONS/Bhojon](https://github.com/STRINGLABITSOLUTIONS/Bhojon)
-4. 🎉 Merged PR [#4](https://github.com/montasim/montasim-dev/pull/4) in [montasim/montasim-dev](https://github.com/montasim/montasim-dev)
-5. 🎉 Merged PR [#1](https://github.com/montasim/montasim-dev/pull/1) in [montasim/montasim-dev](https://github.com/montasim/montasim-dev)
     <!--END_SECTION:activity-->
 </details>
 
@@ -1114,12 +1109,7 @@
     <summary>:zap: Recent Development Stats</summary>
     <br/>
     <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </details>
 
 <details>
