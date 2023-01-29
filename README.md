@@ -1173,63 +1173,6 @@ No activity tracked
     </div>
 </details>
 
-<details>
-    <summary>Open source projects</summary>
-    <br/>
-    <table>
-        <thead align="center">
-            <tr border: none;>
-            <td><b>🎁 Projects</b></td>
-            <td><b>⭐ Stars</b></td>
-            <td><b>📚 Forks</b></td>
-            <td><b>🛎 Open Issues</b></td>
-            <td><b>🛎 Closed Issues</b></td>
-            <td><b>📬 Pull requests</b></td>
-            <td><b>📬 Last Commits</b></td>
-            <td><b>📬 Milestones</b></td>
-            <td><b>📬 Website</b></td>
-            <td><b>📬 Code Size</b></td>
-            <td><b>📬 File Count</b></td>
-            <td><b>📬 Repo Size</b></td>
-            <td><b>📬 Line of Codes</b></td>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><a href="https://github.com/montasim/montasim"><b>montasim</b></a></td>
-                <td><img alt="Stars" src="https://img.shields.io/github/stars/montasim/montasim?style=flat-square&labelColor=343b41"/></td>
-                <td><img alt="Forks" src="https://img.shields.io/github/forks/montasim/montasim?style=flat-square&labelColor=343b41"/></td>
-                <td><img alt="Issues" src="https://img.shields.io/github/issues-raw/montasim/montasim?style=flat-square&labelColor=343b41"/></td>
-                <td><img alt="Issues" src="https://img.shields.io/github/issues-closed-raw/montasim/montasim?style=flat-square&labelColor=343b41"/></td>
-                <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/montasim/montasim?style=flat-square&labelColor=343b41"/></td>
-                <td><img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/montasim"/></td>
-                <td><img alt="Last Commits" src="https://img.shields.io/github/milestones/open/montasim/montasim"/></td>
-                <td><img alt="Last Commits" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fshields.io"/></td>
-                <td><img alt="Last Commits" src="https://img.shields.io/github/languages/code-size/montasim/montasim"/></td>
-                <td><img alt="Last Commits" src="https://img.shields.io/github/directory-file-count/montasim/montasim"/></td>
-                <td><img alt="Last Commits" src="https://img.shields.io/github/repo-size/montasim/montasim"/></td>
-                <td><img alt="Last Commits" src="https://img.shields.io/tokei/lines/github/montasim/montasim"/></td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/montasim/a-coders-diary"><b>a-coders-diary</b></a></td>
-                <td><img alt="Stars" src="https://img.shields.io/github/stars/montasim/a-coders-diary?style=flat-square&labelColor=343b41"/></td>
-                <td><img alt="Forks" src="https://img.shields.io/github/forks/montasim/a-coders-diary?style=flat-square&labelColor=343b41"/></td>
-                <td><img alt="Issues" src="https://img.shields.io/github/issues/montasim/a-coders-diary?style=flat-square&labelColor=343b41"/></td>
-                <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/montasim/a-coders-diary?style=flat-square&labelColor=343b41"/></td>
-                <td><img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/a-coders-diary"/></td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/montasim/montasim-dev"><b>montasim-dev</b></a></td>
-                <td><img alt="Stars" src="https://img.shields.io/github/stars/montasim/montasim-dev?style=flat-square&labelColor=343b41"/></td>
-                <td><img alt="Forks" src="https://img.shields.io/github/forks/montasim/montasim-dev?style=flat-square&labelColor=343b41"/></td>
-                <td><img alt="Issues" src="https://img.shields.io/github/issues/montasim/montasim-dev?style=flat-square&labelColor=343b41"/></td>
-                <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/montasim/montasim-dev?style=flat-square&labelColor=343b41"/></td>
-                <td><img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/montasim-dev"/></td>
-            </tr>
-        </tbody>
-    </table>
-</details>
-
 ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
     
 <img src="https://github-contributor-stats.vercel.app/api?username=montasim&theme=dark"/>
