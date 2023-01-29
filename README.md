@@ -1216,7 +1216,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Understanding Trading Charts](https://noobtrack.blogspot.com/2020/02/understanding-trading-charts.html)
+- [Understanding Bar Charts and Column Charts](https://noobtrack.blogspot.com/2020/02/understanding-bar-charts-and-column.html)
+- [Bullet Charts – What Is It And How To Use It](https://noobtrack.blogspot.com/2020/02/bullet-charts-what-is-it-and-how-to-use.html)
+- [How to Start and grow my Career as iOS App Developer?](https://noobtrack.blogspot.com/2020/02/how-to-start-and-grow-my-career-as-ios.html)
+- [Excel Formulas | 20 Excel Formula Every Person Should Know](https://noobtrack.blogspot.com/2020/02/excel-formulas-20-excel-formula-every.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br><br>
