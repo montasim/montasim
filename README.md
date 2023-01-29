@@ -120,7 +120,7 @@
     <br/>
     <h2 align="right">
     <a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=1000&repeat=false&width=200&height=25&lines=DOWNLOAD+MY+RESUME" alt="download my resume svg" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&repeat=false&width=240&height=25&lines=%F0%9D%97%97%F0%9D%97%A2%F0%9D%97%AA%F0%9D%97%A1%F0%9D%97%9F%F0%9D%97%A2%F0%9D%97%94%F0%9D%97%97+%F0%9D%97%A0%F0%9D%97%AC+%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%A0%F0%9D%97%98" alt="download my resume" />
     </a>
     </h2>
     <br/>
