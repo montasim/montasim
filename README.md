@@ -1466,7 +1466,7 @@
 
 <br><br>
 
-<img align="right" src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/10429621">
+<img align="right" src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/20348607">
 
 ## StackOverflow Activity
 
