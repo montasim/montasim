@@ -422,8 +422,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=410&lines=%F0%9F%94%B7+%F0%9D%97%99%F0%9D%97%A8%F0%9D%97%A1+%F0%9D%97%99%F0%9D%97%94%F0%9D%97%96%F0%9D%97%A7%F0%9D%97%A6" alt="Typing SVG" />
 
-<br/>
-
 <!-- random jokes start -->
 <div align="center">
     <img src="https://readme-jokes.vercel.app/api/?bgColor=%230D1117&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%230D1117" alt="Fun Fact" />
@@ -433,7 +431,7 @@
 <br/>
 
 <div align="center"> 
-    <img align="center" alt="javascript icon" src="media/gif/stats.gif" width="45px"> MY GITHUB STATS 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=220&height=40&lines=%F0%9F%93%8A+MY+GITHUB+STATS" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -450,14 +448,16 @@
 <br/>
 <br/>
 
-<!-- github most used languages start -->
 <div align="center">
+    <!-- github most used languages start -->
     <img width=325 src="https://github-readme-stats-mu-jet.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <!-- github most used languages end -->
+    <!-- wakatime weekly activity start -->
     <a href="https://wakatime.com/@montasim" title="Data update every midnight">
         <img src="https://github-readme-stats-mu-jet.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
     </a>
+    <!-- wakatime weekly activity end -->
 </div>
-<!-- github most used languages end -->
 
 <br/>
 <br/>
@@ -473,7 +473,7 @@
 
 <!-- github trophy start -->
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=montasim&theme=radical&no-bg=true&no-frame=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=montasim&theme=algolia&no-bg=true&no-frame=true">
 </div>
 <!-- github trophy end -->
 
@@ -1089,5 +1089,5 @@
 <br/>
 
 <div align="center">
-    <img style="margin-right: 6px" alt="build with love badge" src="https://forthebadge.com/images/badges/built-with-love.svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&width=150&height=40&lines=BUILD+WITH+%E2%9D%A4%EF%B8%8F%EF%B8%8F;BUILD+BY+MONTASIM" alt="Typing SVG" />
 </div>
