@@ -1260,7 +1260,7 @@ JavaScript   14 mins         -------------------------   01.06 %
 
 <br>
 
-## :zap: Recent GitHub Activity
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
