@@ -209,7 +209,7 @@
     <br/>
     <!-- work experience start -->
     <h2>
-        <strong>Work Experience : (4)</strong>
+        <strong>Work Experience : (2)</strong>
     </h2>
     <table>
         <thead>
@@ -244,30 +244,6 @@
                     </p>
                 </td>
                 <td>Aug 2022 - Oct 2022</td>
-            </tr>
-            <tr>
-                <td>
-                    <a href="http://www.drra-bd.org/">Disabled Rehabilitation & Research Association</a>
-                </td>
-                <td>Computer Instructor</td>
-                <td>
-                    <p>
-                        Information Technology
-                    </p>
-                </td>
-                <td>Feb 2022 - Aug 2022</td>
-            </tr>
-            <tr>
-                <td>
-                    <a href="http://www.drra-bd.org/">Disabled Rehabilitation & Research Association</a>
-                </td>
-                <td>Management Information System Officer</td>
-                <td>
-                    <p>
-                        Information Technology
-                    </p>
-                </td>
-                <td>Dec 2021 - Aug 2022</td>
             </tr>
         </tbody>
     </table>
