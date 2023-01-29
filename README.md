@@ -1207,15 +1207,20 @@
 <br>
 
 <div>
-    <h2> 📺 Latest YouTube Videos </h2>
-    <a href="https://www.amd.com/en/products/apu/amd-ryzen-3-2200g">
-    <img align="right" style="margin-right: 6px" alt="youtube subscriber" src="https://img.shields.io/youtube/channel/subscribers/UCkkBnedfjKU-toiKQ-rxvtA?label=YouTube%20Subscribers&style=social">
+    <h2> 
+        📺 Latest YouTube Videos 
+        <a href="https://www.amd.com/en/products/apu/amd-ryzen-3-2200g">
+            <img align="right" style="margin-right: 6px" alt="youtube subscriber" src="https://img.shields.io/youtube/channel/subscribers/UCkkBnedfjKU-toiKQ-rxvtA?label=YouTube%20Subscribers&style=social">
+        </a>
+    </h2>
+    <a href="#">
+        <img align="right" style="margin-right: 6px" alt="youtube subscriber" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white">
     </a>
 </div>
 
-<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE:START -->
 
-<!-- YOUTUBE-VIDEOS-LIST:END -->
+<!-- YOUTUBE:END -->
 
 <br>
 
@@ -1258,12 +1263,17 @@ EJS          0 secs          ░░░░░░░░░░░░░░░░░
 <br>
 
 <!-- twitter post -->
+## :zap: Recent Twitter Activity
+
+<!-- TWITTER:START -->
+
+<!-- TWITTER:END -->
 
 ![Twitter Post](https://github-readme-twitter.gazf.vercel.app/api?id=montasimmamun&layout=wide)
 
 <br>
 
-## Medium Post
+## Recent Medium Activity
 
 <br>
 
