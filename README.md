@@ -1208,11 +1208,11 @@
 <div>
     <h2> 
         📺 Latest YouTube Videos 
-        <a href="https://www.amd.com/en/products/apu/amd-ryzen-3-2200g">
+        <a href="https://www.youtube.com/@montasim6278">
             <img align="right" style="margin-right: 6px" alt="youtube subscriber" src="https://img.shields.io/youtube/channel/subscribers/UCkkBnedfjKU-toiKQ-rxvtA?label=YouTube%20Subscribers&style=social">
         </a>
     </h2>
-    <a href="#">
+    <a href="https://www.youtube.com/channel/UCkkBnedfjKU-toiKQ-rxvtA?sub_confirmation=1">
         <img align="right" style="margin-right: 6px" alt="youtube subscriber" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white">
     </a>
 </div>
@@ -1281,8 +1281,6 @@ Let me know your thoughts down in the comments and check out my profile for more
 
 #javascript https://lnkd.in/gzDp2WfC](https://nitter.net/montasimmamun/status/1558119151796772864#m)
 <!-- TWITTER:END -->
-
-![Twitter Post](https://github-readme-twitter.gazf.vercel.app/api?id=montasimmamun&layout=wide)
 
 <br>
 
