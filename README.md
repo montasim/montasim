@@ -48,7 +48,6 @@
   <img style="margin-right: 6px" alt="visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasim">
   <img style="margin-right: 6px" alt="profile hits counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmontasim1212%2Fhit-counter">
   <img style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/montasim?label=Follow"/>
-  <img style="margin-right: 6px" alt="build badge"src="https://img.shields.io/github/actions/workflow/status/montasim/montasim/github-workflow.yml"/>
   <a href="https://github.com/montasim/montasim/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
     <img alt="Guest Book" src="https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round" />
   </a>
@@ -1297,8 +1296,29 @@ Here are some essential website links for the Frontend Developers to design a be
 </details>
 <!-- find more on social media end -->
 
+<br/>
+<br/>
+
+<div align="center">
+    <img src="https://github.com/montasim/montasim/actions/workflows/blog-post-workflow.yml/badge.svg" alt="blog post workflow badge" />
+    <img src="https://github.com/montasim/montasim/actions/workflows/snake-workflow.yml/badge.svg" alt="snake workflow badge" />
+    <img src="https://github.com/montasim/montasim/actions/workflows/stack-overflow-workflow.yml/badge.svg" alt="stack overflow workflow badge" />
+    <img src="https://github.com/montasim/montasim/actions/workflows/twitter-workflow.yml/badge.svg" alt="twitter workflow badge" />
+    <img src="https://github.com/montasim/montasim/actions/workflows/wakatime-workflow.yml/badge.svg" alt="wakatime workflow badge" />
+    <img src="https://github.com/montasim/montasim/actions/workflows/youtube-workflow.yml/badge.svg" alt="youtube video workflow badge" />
+    <img src="https://github.com/montasim/montasim/actions/workflows/update-readme.yml/badge.svg" alt="update readme workflow badge" />
+</div>
+
+<br/>
+<br/>
+<br/>
+
 <!-- build with love svg start -->
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&width=150&height=40&lines=BUILD+WITH+%E2%9D%A4%EF%B8%8F%EF%B8%8F;BUILD+BY+MONTASIM" alt="build with love svg" />
 </div>
 <!-- build with love svg end -->
+
+<br/>
+<br/>
+<br/>
