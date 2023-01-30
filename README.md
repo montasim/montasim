@@ -1281,8 +1281,6 @@ Here are some essential website links for the Frontend Developers to design a be
 বিস্তারিত - http://prothomalo.com/lifestyle/health/q61jux0zd4](https://nitter.net/ProthomAlo/status/1558766644549263363#m)
 <!-- TWITTER:END -->
 
-![Twitter Post](https://github-readme-twitter.gazf.vercel.app/api?id=montasimmamun&layout=wide)
-
 <br>
 
 ## Recent Medium Activity
