@@ -1208,13 +1208,10 @@
 <div>
     <h2> 
         📺 Latest YouTube Videos 
-        <a href="https://www.youtube.com/@montasim6278">
+        <a href="https://www.youtube.com/channel/UCkkBnedfjKU-toiKQ-rxvtA?sub_confirmation=1">
             <img align="right" style="margin-right: 6px" alt="youtube subscriber" src="https://img.shields.io/youtube/channel/subscribers/UCkkBnedfjKU-toiKQ-rxvtA?label=YouTube%20Subscribers&style=social">
         </a>
     </h2>
-    <a href="https://www.youtube.com/channel/UCkkBnedfjKU-toiKQ-rxvtA?sub_confirmation=1">
-        <img align="right" style="margin-right: 6px" alt="youtube subscriber" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white">
-    </a>
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6klo4X01SlM"><img width="140px" src="https://i.ytimg.com/vi/6klo4X01SlM/mqdefault.jpg"></a></td>
