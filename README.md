@@ -1259,6 +1259,13 @@ EJS          0 secs          ░░░░░░░░░░░░░░░░░
 
 <br>
 
+## 🗒 Guestbook
+<!--START_SECTION:guestbook-->
+
+<!--END_SECTION:guestbook-->
+
+<br>
+
 <!-- twitter post -->
 ## :zap: Recent Twitter Activity
 
