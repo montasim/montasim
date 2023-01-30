@@ -48,7 +48,6 @@
   <img style="margin-right: 6px" alt="visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasim">
   <img style="margin-right: 6px" alt="profile hits counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmontasim1212%2Fhit-counter">
   <img style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/montasim?label=Follow"/>
-  <img style="margin-right: 6px" alt="build badge"src="https://img.shields.io/github/actions/workflow/status/montasim/montasim/github-workflow.yml"/>
   <a href="https://github.com/montasim/montasim/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
     <img alt="Guest Book" src="https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round" />
   </a>
@@ -1229,7 +1228,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Understanding Trading Charts](https://noobtrack.blogspot.com/2020/02/understanding-trading-charts.html)
+- [Understanding Bar Charts and Column Charts](https://noobtrack.blogspot.com/2020/02/understanding-bar-charts-and-column.html)
+- [Bullet Charts – What Is It And How To Use It](https://noobtrack.blogspot.com/2020/02/bullet-charts-what-is-it-and-how-to-use.html)
+- [How to Start and grow my Career as iOS App Developer?](https://noobtrack.blogspot.com/2020/02/how-to-start-and-grow-my-career-as-ios.html)
+- [Excel Formulas | 20 Excel Formula Every Person Should Know](https://noobtrack.blogspot.com/2020/02/excel-formulas-20-excel-formula-every.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -1240,16 +1243,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 August 2020 - To: 28 January 2023
-
-Total Time: 22 hrs 42 mins
-
-Markdown     14 hrs 19 mins  >>>>>>>>>>>>>>>>---------   63.10 %
-Python       3 hrs 19 mins   >>>>---------------------   14.67 %
-HTML         2 hrs 33 mins   >>>----------------------   11.26 %
-C            1 hr 14 mins    >------------------------   05.46 %
-LESS         31 mins         >------------------------   02.28 %
-JavaScript   14 mins         -------------------------   01.06 %
+Markdown     20 hrs 13 mins  ██████████████████████▓░░   90.03 %
+YAML         1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+LESS         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+EJS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
@@ -1268,7 +1266,19 @@ JavaScript   14 mins         -------------------------   01.06 %
 ## :zap: Recent Twitter Activity
 
 <!-- TWITTER:START -->
+- [Thinking about my project. https://lnkd.in/gYffV3rq](https://nitter.net/montasimmamun/status/1611429494103093250#m)
+- [My company is looking for AI/ML Software Intern for IOS. If you are interested, you can apply or mention someone who might be interested. Check out this job at MyMedicalHUB: https://lnkd.in/gh-uGUaZ
 
+#hiring #hiringdevelopers #hiringimmediately #hiring2022…https://lnkd.in/gKusyzpx](https://nitter.net/montasimmamun/status/1567738626938916867#m)
+- [Check out this job at MyMedicalHUB: https://lnkd.in/gh-uGUaZ https://lnkd.in/g5NbD7ji](https://nitter.net/montasimmamun/status/1567731555648573440#m)
+- [Essential Resources for Frontend Developers
+
+Here are some essential website links for the Frontend Developers to design a beautiful website. Let me know your thoughts in the comments, and check my profile for more content.
+
+1. CSS framework: If you want…https://lnkd.in/gaWyxAvM](https://nitter.net/montasimmamun/status/1559042828935708674#m)
+- [RT by @montasimmamun: সন্ধ্যা সাতটার পর এই সাত কাজ নয়
+
+বিস্তারিত - http://prothomalo.com/lifestyle/health/q61jux0zd4](https://nitter.net/ProthomAlo/status/1558766644549263363#m)
 <!-- TWITTER:END -->
 
 ![Twitter Post](https://github-readme-twitter.gazf.vercel.app/api?id=montasimmamun&layout=wide)
@@ -1286,8 +1296,29 @@ JavaScript   14 mins         -------------------------   01.06 %
 </details>
 <!-- find more on social media end -->
 
+<br/>
+<br/>
+
+<div align="center">
+    <img src="https://github.com/montasim/montasim/actions/workflows/blog-post-workflow.yml/badge.svg" alt="blog post workflow badge" />
+    <img src="https://github.com/montasim/montasim/actions/workflows/snake-workflow.yml/badge.svg" alt="snake workflow badge" />
+    <img src="https://github.com/montasim/montasim/actions/workflows/stack-overflow-workflow.yml/badge.svg" alt="stack overflow workflow badge" />
+    <img src="https://github.com/montasim/montasim/actions/workflows/twitter-workflow.yml/badge.svg" alt="twitter workflow badge" />
+    <img src="https://github.com/montasim/montasim/actions/workflows/wakatime-workflow.yml/badge.svg" alt="wakatime workflow badge" />
+    <img src="https://github.com/montasim/montasim/actions/workflows/youtube-workflow.yml/badge.svg" alt="youtube video workflow badge" />
+    <img src="https://github.com/montasim/montasim/actions/workflows/update-readme.yml/badge.svg" alt="update readme workflow badge" />
+</div>
+
+<br/>
+<br/>
+<br/>
+
 <!-- build with love svg start -->
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&width=150&height=40&lines=BUILD+WITH+%E2%9D%A4%EF%B8%8F%EF%B8%8F;BUILD+BY+MONTASIM" alt="build with love svg" />
 </div>
 <!-- build with love svg end -->
+
+<br/>
+<br/>
+<br/>
