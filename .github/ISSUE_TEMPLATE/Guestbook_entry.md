@@ -5,10 +5,9 @@ title: ""
 ---
 
 <div align="center">
-  <img width="300" src="https://github.com/montasim/montasim/blob/main/media/images/guestBook.png?raw=true" alt="Guestbook" />
-  <br />
+  <img width="200" src="https://github.com/montasim/montasim/blob/main/media/images/guestBook.png?raw=true" alt="guestbook svg" />
 </div>
+    
+<br />
 
-<!--
-Write your message here
--->
+<!-- Start writing your message below -->
