@@ -5,7 +5,7 @@ title: ""
 ---
 
 <div align="center">
-  <img src="media/images/guestBook.png" alt="Guestbook" />
+  <img width="300" src="https://github.com/montasim/montasim/blob/main/media/images/guestBook.png?raw=true" alt="Guestbook" />
   <br />
 </div>
 
