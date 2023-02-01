@@ -1303,13 +1303,30 @@ Let me know your thoughts down in the comments and check out my profile for more
 <br/>
 
 <div align="center">
-    <img src="https://github.com/montasim/montasim/actions/workflows/blog-post-workflow.yml/badge.svg" alt="blog post workflow badge" />
-    <img src="https://github.com/montasim/montasim/actions/workflows/snake-workflow.yml/badge.svg" alt="snake workflow badge" />
-    <img src="https://github.com/montasim/montasim/actions/workflows/stack-overflow-workflow.yml/badge.svg" alt="stack overflow workflow badge" />
-    <img src="https://github.com/montasim/montasim/actions/workflows/twitter-workflow.yml/badge.svg" alt="twitter workflow badge" />
-    <img src="https://github.com/montasim/montasim/actions/workflows/wakatime-workflow.yml/badge.svg" alt="wakatime workflow badge" />
-    <img src="https://github.com/montasim/montasim/actions/workflows/youtube-workflow.yml/badge.svg" alt="youtube video workflow badge" />
-    <img src="https://github.com/montasim/montasim/actions/workflows/update-readme.yml/badge.svg" alt="update readme workflow badge" />
+    <a href="https://github.com/montasim/montasim/actions/workflows/github-readme-guestbook.yml">  
+        <img src="https://github.com/montasim/montasim/actions/workflows/github-readme-guestbook.yml/badge.svg" alt="github readme guestbook workflow badge" />
+    </a>
+    <a href="https://github.com/montasim/montasim/actions/workflows/blog-post-workflow.yml">  
+        <img src="https://github.com/montasim/montasim/actions/workflows/blog-post-workflow.yml/badge.svg" alt="blog post workflow badge" />
+    </a>
+    <a href="https://github.com/montasim/montasim/actions/workflows/snake-workflow.yml">  
+        <img src="https://github.com/montasim/montasim/actions/workflows/snake-workflow.yml/badge.svg" alt="snake workflow badge" />
+    </a>
+    <a href="https://github.com/montasim/montasim/actions/workflows/update-readme.yml">  
+        <img src="https://github.com/montasim/montasim/actions/workflows/update-readme.yml/badge.svg" alt="update readme workflow badge" />
+    </a>
+    <a href="https://github.com/montasim/montasim/actions/workflows/stack-overflow-workflow.yml">  
+        <img src="https://github.com/montasim/montasim/actions/workflows/stack-overflow-workflow.yml/badge.svg" alt="stack overflow workflow badge" />
+    </a>
+    <a href="https://github.com/montasim/montasim/actions/workflows/twitter-workflow.yml">  
+        <img src="https://github.com/montasim/montasim/actions/workflows/twitter-workflow.yml/badge.svg" alt="twitter workflow badge" />
+    </a>
+    <a href="https://github.com/montasim/montasim/actions/workflows/wakatime-workflow.yml">  
+        <img src="https://github.com/montasim/montasim/actions/workflows/wakatime-workflow.yml/badge.svg" alt="wakatime workflow badge" />
+    </a>
+    <a href="https://github.com/montasim/montasim/actions/workflows/youtube-workflow.yml">  
+        <img src="https://github.com/montasim/montasim/actions/workflows/youtube-workflow.yml/badge.svg" alt="youtube workflow badge" />
+    </a>
 </div>
 
 <br/>
