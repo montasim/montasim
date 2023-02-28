@@ -42,6 +42,7 @@
 
 <!-- about repository badges start -->
 <div align="center">
+  <img style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c.svg"/>
   <img style="margin-right: 6px" alt="stars badge"src="https://img.shields.io/github/stars/montasim/montasim"/>
   <img style="margin-right: 6px" alt="forks badge"src="https://img.shields.io/github/forks/montasim/montasim?label=Fork"/>
   <img style="margin-right: 6px" alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/montasim">
