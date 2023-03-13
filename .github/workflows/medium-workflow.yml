@@ -7,8 +7,8 @@ permissions:
   contents: write
   
 jobs:
-  update-readme-with-stack-overflow:
-    name: Update this repo's README with latest activity from StackOverflow
+  update-readme-with-medium:
+    name: Update this repo's README with latest activity from Medium
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
