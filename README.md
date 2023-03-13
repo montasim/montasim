@@ -1362,6 +1362,10 @@ Let me know your thoughts down in the comments and check out my profile for more
 
 ## Recent Medium Activity
 
+<!-- MEDIUM:START -->
+
+<!-- MEDIUM:END -->
+
 <br>
 
 ![Medium Post](https://github-readme-medium.vercel.app/?username=montasim&limit=2)
