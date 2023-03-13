@@ -13,7 +13,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "TWITTER"
-          feed_list: "https://nitter.net/search/rss?f=tweets&q=montasimmamun, https://rss.app/feeds/80sSUoY4prDzLi4p.xml"
+          feed_list: "https://nitter.net/search/rss?f=tweets&q=montasimmamun,"
           commit_message: "Updated with the latest tweets"
           committer_email: "montasimmamun@gmail.com"
           
