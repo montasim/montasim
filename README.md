@@ -1267,7 +1267,6 @@ Bash         37 mins         -------------------------   00.45 %
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 <br>
