@@ -1320,13 +1320,13 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/15) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
-2. 🎉 Merged PR [#14](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/14) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
-3. 💪 Opened PR [#14](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/14) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
-4. 🎉 Merged PR [#13](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/13) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
-5. 💪 Opened PR [#13](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/13) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
-6. 🎉 Merged PR [#11](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/11) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
-7. 💪 Opened PR [#11](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/11) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
+1. 💪 Opened PR [#189](https://github.com/alisolanki/Welcome-to-Open-Source/pull/189) in [alisolanki/Welcome-to-Open-Source](https://github.com/alisolanki/Welcome-to-Open-Source)
+2. 🎉 Merged PR [#15](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/15) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
+3. 🎉 Merged PR [#14](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/14) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
+4. 💪 Opened PR [#14](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/14) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
+5. 🎉 Merged PR [#13](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/13) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
+6. 💪 Opened PR [#13](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/13) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
+7. 🎉 Merged PR [#11](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/11) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
 <!--END_SECTION:activity-->
 
 <br>
