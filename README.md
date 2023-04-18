@@ -1243,7 +1243,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-183%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.2%20million%20lines%20of%20code-blue)
 
@@ -1286,14 +1286,14 @@ Sunday                   2827 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               20 mins             ██████████████████████░░░   88.99 % 
-EJS                      2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+JavaScript               24 mins             ███████████████████████░░   90.87 % 
+EJS                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+VS Code                  27 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+Windows                  27 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -1309,7 +1309,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/04/2023 00:49:37 UTC
+ Last Updated on 18/04/2023 00:47:19 UTC
 <!--END_SECTION:waka-->
 
 <br>
