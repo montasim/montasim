@@ -555,9 +555,9 @@
     <img width=325 src="https://github-readme-stats-montasim.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=36BCF7FF&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     <!-- github most used languages end -->
     <!-- wakatime weekly activity start -->
-    <a href="https://wakatime.com/@montasim" title="Data update every midnight">
+    <!-- <a href="https://wakatime.com/@montasim" title="Data update every midnight">
         <img src="https://github-readme-stats-montasim.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&text_color=FFFFFF&bg_color=0D1117&title_color=36BCF7FF&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
-    </a>
+    </a> -->
     <!-- wakatime weekly activity end -->
 </div>
 
