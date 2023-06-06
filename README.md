@@ -1342,7 +1342,20 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ## :zap: Recent Twitter Activity
 
 <!-- TWITTER:START -->
+- [Thinking about my project. https://lnkd.in/gYffV3rq](https://nitter.net/montasimmamun/status/1611429494103093250#m)
+- [Check out this job at MyMedicalHUB: https://lnkd.in/gh-uGUaZ https://lnkd.in/g5NbD7ji](https://nitter.net/montasimmamun/status/1567731555648573440#m)
+- [Essential Resources for Frontend Developers
 
+Here are some essential website links for the Frontend Developers to design a beautiful website. Let me know your thoughts in the comments, and check my profile for more content.
+
+1. CSS framework: If you want…https://lnkd.in/gaWyxAvM](https://nitter.net/montasimmamun/status/1559042828935708674#m)
+- [5 Useful Resources for Junior Web Developers. Save this for future reference.
+Let me know your thoughts down in the comments and check out my profile for more coding-related content.
+
+1. Diagrams - This is such a great web for drawing a lot of diagrams y…https://lnkd.in/gU5Hqtp7](https://nitter.net/montasimmamun/status/1558170708169019392#m)
+- [VAR vs LET vs CONST - Javascript  Basic
+
+#javascript https://lnkd.in/gzDp2WfC](https://nitter.net/montasimmamun/status/1558119151796772864#m)
 <!-- TWITTER:END -->
 
 <br>
