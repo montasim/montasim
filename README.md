@@ -60,6 +60,7 @@
 
 <!-- skills icons start -->
 <div align="center">
+  <img height="40" width="40" src="https://cdn.simpleicons.org/typescript" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/javascript" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/react" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs" />
@@ -1373,6 +1374,13 @@ Let me know your thoughts down in the comments and check out my profile for more
 <!-- MEDIUM:START -->
 
 <!-- MEDIUM:END -->
+
+<br>
+
+## ⭐ STARGAZERS ⭐
+
+<!-- stargazers -->
+<!-- stargazers -->
 
 <br>
 
