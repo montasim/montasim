@@ -1321,8 +1321,8 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#189](https://github.com/alisolanki/Welcome-to-Open-Source/pull/189) in [alisolanki/Welcome-to-Open-Source](https://github.com/alisolanki/Welcome-to-Open-Source)
-2. 🎉 Merged PR [#15](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/15) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
+1. 💪 Opened PR [#8](https://github.com/sagelga/github-achievement-cheatsheet/pull/8) in [sagelga/github-achievement-cheatsheet](https://github.com/sagelga/github-achievement-cheatsheet)
+2. 💪 Opened PR [#115](https://github.com/drknzz/GitHub-Achievements/pull/115) in [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements)
 3. 🎉 Merged PR [#14](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/14) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
 4. 💪 Opened PR [#14](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/14) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
 5. 🎉 Merged PR [#13](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/13) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
