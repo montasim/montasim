@@ -1380,10 +1380,11 @@ Let me know your thoughts down in the comments and check out my profile for more
 ## ⭐ STARGAZERS ⭐
 
 <!-- stargazers -->
-|  <a href="https://github.com/montasim">montasim</a> | <a href="https://github.com/DevElkami">DevElkami</a> | <a href="https://github.com/bm4578">bm4578</a> | <a href="https://github.com/ArielMAJ">ArielMAJ</a> | <a href="https://github.com/fcasamento">fcasamento</a> | <a href="https://github.com/hitblast">hitblast</a> | <a href="https://github.com/Zoltus">Zoltus</a> | <a href="https://github.com/d4Jt">d4Jt</a> |
+|  <a href="https://github.com/Rantoryu">Rantoryu</a> | <a href="https://github.com/montasim">montasim</a> | <a href="https://github.com/DevElkami">DevElkami</a> | <a href="https://github.com/bm4578">bm4578</a> | <a href="https://github.com/ArielMAJ">ArielMAJ</a> | <a href="https://github.com/fcasamento">fcasamento</a> | <a href="https://github.com/hitblast">hitblast</a> | <a href="https://github.com/Zoltus">Zoltus</a> |
 |  :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|  <img src="https://avatars.githubusercontent.com/u/95298623?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/49388297?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/77977341?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/69123486?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/19937845?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/67194380?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/23402980?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/96217718?s=96&v=4" width="60px"> |
+|  <img src="https://avatars.githubusercontent.com/u/59120780?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/95298623?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/49388297?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/77977341?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/69123486?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/19937845?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/67194380?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/23402980?s=96&v=4" width="60px"> |
 <!-- stargazers -->
+
 
 
 <br>
