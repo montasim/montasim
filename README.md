@@ -94,16 +94,20 @@
 <br/>
 <br/>
 
-<!-- weather icon start -->
-<img align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@rangpur?v=1" width="100px">
-<!-- weather icon end -->
-
-<!-- i am montasim text start -->
-<div align="left">
-    <img src="./media/icons/wave.png" alt="i am montasim svg" />
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=182&height=21&lines=I+AM+MONTASIM" alt="i am montasim svg" />
+<div align="center">
+    <!-- weather icon start -->
+    <img align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" width="100px">
+    <br/>
+    <!-- weather icon end -->
+    <!-- i am montasim text start -->
+    <div align="left">
+        <img src="./media/icons/wave.png" alt="i am montasim svg" />
+        <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=182&height=21&lines=I+AM+MONTASIM" alt="i am montasim svg" />
+    </div>
+    <!-- i am montasim text end -->
 </div>
-<!-- i am montasim text end -->
+
+<br/>
 
 <!-- my summary start -->
 <p> 
