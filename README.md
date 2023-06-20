@@ -34,7 +34,9 @@
 
 <!-- hello nice to meet you text start -->
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=435&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
+    <img width="30px" src="./media/icons/code.png" alt="code png" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=395&height=29&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
+    <img width="30px" src="./media/icons/app-development.png" alt="code png" />
 </div>
 <!-- hello nice to meet you text end -->
 
