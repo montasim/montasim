@@ -101,8 +101,8 @@
     <!-- weather icon end -->
     <!-- i am montasim text start -->
     <div align="left">
-        <img src="./media/icons/wave.png" alt="i am montasim svg" />
-        <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=182&height=21&lines=I+AM+MONTASIM" alt="i am montasim svg" />
+        <img src="./media/icons/wave.png" alt="wave png" />
+        <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=182&height=21&lines=I+AM+MONTASIM" alt="i am montasim svg" />
     </div>
     <!-- i am montasim text end -->
 </div>
@@ -127,7 +127,10 @@
 
 <!-- my resume text start -->
 <details>
-    <summary> 📰 𝗠𝗬 𝗥𝗘𝗦𝗨𝗠𝗘 </summary>
+    <summary>
+        <img width="16px" src="./media/icons/cv.png" alt="my resume" /> 
+        <img src="https://readme-typing-svg.demolab.com?font=Karla&weight=600&size=16&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=100&height=15&lines=MY+RESUME" alt="my resume" /> 
+    </summary>
     <br/>
     <h2 align="right">
     <a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 
@@ -470,7 +473,7 @@
 <!-- feel free to contact me text start -->
 <div align="right"> 
     <img src="./media/icons/postbox.png" alt="postbox svg" />
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=385&height=21&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=385&height=21&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
 </div>
 <!-- feel free to contact me text end -->
 
@@ -530,7 +533,7 @@
 <!-- fun facts text start -->
 <div align="left">
     <img src="./media/icons/postbox.png" alt="postbox svg" />
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=128&height=21&lines=FUN+FACTS" alt="fun facts svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=128&height=21&lines=FUN+FACTS" alt="fun facts svg" />
 </div>
 <!-- fun facts text end -->
 
@@ -546,7 +549,7 @@
 <!-- my github stats text start -->
 <div align="center"> 
     <img align="center" src="./media/icons/pie-chart.png" alt="pie chart png" />
-    <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
 </div>
 <!-- my github stats text end -->
 
@@ -606,7 +609,10 @@
 
 <!-- things I use start -->
 <details>
-    <summary>:bookmark: 𝗠𝗢𝗥𝗘 𝗦𝗧𝗨𝗙𝗙 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</summary>
+    <summary>
+        <img width="16px" src="./media/icons/bookmark.png" alt="bookmar png" >
+        <img src="https://readme-typing-svg.demolab.com?font=Karla&weight=500&size=18&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=17&lines=MORE+STUFF+ABOUT+ME" alt="more stuff about me" >
+    </summary>
     <br/>
     <h2>
         What I do
@@ -1203,8 +1209,9 @@
 
 <!-- find more on social media start -->
 <details>
-    <summary> 
-        <b> 📛 𝗙𝗜𝗡𝗗 𝗠𝗢𝗥𝗘 𝗢𝗡 𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔 </b> 
+    <summary>
+        <img width="16px" src="./media/icons/hot-deal.png" alt="bookmar png" >
+        <img src="https://readme-typing-svg.demolab.com?font=Karla&weight=500&size=18&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=250&height=17&lines=FIND+MORE+ON+SOCIAL+MEDIA" alt="more stuff about me" >
     </summary>
 
 <br><br>
@@ -1446,7 +1453,7 @@ Let me know your thoughts down in the comments and check out my profile for more
 
 <!-- build with love svg start -->
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&width=150&height=40&lines=BUILD+WITH+%E2%9D%A4%EF%B8%8F%EF%B8%8F;BUILD+BY+MONTASIM" alt="build with love svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&vCenter=true&width=250&height=15&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+MONTASIM" alt="build with love svg" />
 </div>
 <!-- build with love svg end -->
 
