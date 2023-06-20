@@ -529,7 +529,7 @@
 
 <!-- fun facts text start -->
 <div align="left">
-    <img src="./media/icons/postbox.png" alt="postbox svg" />
+    <img src="./media/icons/confetti.png" alt="confetti svg" />
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=128&height=21&lines=FUN+FACTS" alt="fun facts svg" />
 </div>
 <!-- fun facts text end -->
