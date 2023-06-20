@@ -563,9 +563,6 @@
     <!-- github stats end -->
 </div>
 
-<br/>
-<br/>
-
 <div align="center">
     <!-- github most used languages start -->
     <img width=325 src="https://github-readme-stats-montasim.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
@@ -576,9 +573,6 @@
     </a> -->
     <!-- wakatime weekly activity end -->
 </div>
-
-<br/>
-<br/>
 
 <!-- github readme activity graph start -->
 <div align="center">
