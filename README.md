@@ -560,7 +560,7 @@
     <img width=396 src="https://github-readme-stats-montasim.vercel.app/api?username=montasim&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=EB008B&currStreakLabel=EB008B&sideLabels=EB008B&icon_color=EB008B&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&include_all_commits=true" alt="github stats" />
     <!-- github stats end -->
 </div>
-00B8B5
+
 <br/>
 <br/>
 
