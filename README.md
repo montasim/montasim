@@ -32,9 +32,6 @@
                                 —— montasim (https://github.com/montasim)
 -->
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=montasim/montasim)
-
-
 <!-- hello nice to meet you text start -->
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=435&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
