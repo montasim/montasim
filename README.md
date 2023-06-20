@@ -1452,7 +1452,7 @@ Let me know your thoughts down in the comments and check out my profile for more
 
 <!-- build with love svg start -->
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&vCenter=true&width=250&height=15&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+MONTASIM" alt="build with love svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=185&height=15&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+MONTASIM" alt="build with love svg" />
 </div>
 <!-- build with love svg end -->
 
