@@ -32,9 +32,12 @@
                                 —— montasim (https://github.com/montasim)
 -->
 
+![GitHub Contributors Image](https://contrib.rocks/image?repo=montasim/montasim)
+
+
 <!-- hello nice to meet you text start -->
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1&pause=1000&center=true&vCenter=true&repeat=false&width=800&lines=%F0%9F%8E%B2+%EF%BC%A8%EF%BD%85%EF%BD%8C%EF%BD%8C%EF%BD%8F%EF%BC%8C+%EF%BC%AE%EF%BD%89%EF%BD%83%EF%BD%85+%EF%BD%94%EF%BD%8F+%EF%BD%8D%EF%BD%85%EF%BD%85%EF%BD%94+%EF%BD%99%EF%BD%8F%EF%BD%95+%F0%9F%8E%93" alt="hello nice to meet you svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=435&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
 </div>
 <!-- hello nice to meet you text end -->
 
@@ -97,7 +100,10 @@
 <!-- weather icon end -->
 
 <!-- i am montasim text start -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=435&lines=%F0%9F%91%8B+%F0%9D%97%9C+%F0%9D%97%94%F0%9D%97%A0+%F0%9D%97%A0%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%A6%F0%9D%97%9C%F0%9D%97%A0" alt="i am montasim svg" />
+<div align="left">
+    <img src="./media/icons/wave.png" alt="i am montasim svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=21&duration=1&pause=1&color=00B8B5&vCenter=true&repeat=false&width=435&height=21&lines=+I+AM+MONTASIM" alt="i am montasim svg" />
+</div>
 <!-- i am montasim text end -->
 
 <!-- my summary start -->
@@ -459,8 +465,9 @@
 <br/>
 
 <!-- feel free to contact me text start -->
-<div align="right" uppercase> 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=410&lines=%F0%9F%93%AA+%F0%9D%97%99%F0%9D%97%98%F0%9D%97%98%F0%9D%97%9F+%F0%9D%97%99%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%98+%F0%9D%97%A7%F0%9D%97%A2+%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%96%F0%9D%97%A7+%F0%9D%97%A0%F0%9D%97%98+%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%AC%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A0%F0%9D%97%98" alt="feel free to contact me svg" />
+<div align="right"> 
+    <img src="./media/icons/postbox.png" alt="postbox svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=21&duration=1&pause=1&color=00B8B5&vCenter=true&repeat=false&width=435&height=21&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
 </div>
 <!-- feel free to contact me text end -->
 
@@ -518,7 +525,10 @@
 <br/>
 
 <!-- fun facts text start -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=410&lines=%F0%9F%94%B7+%F0%9D%97%99%F0%9D%97%A8%F0%9D%97%A1+%F0%9D%97%99%F0%9D%97%94%F0%9D%97%96%F0%9D%97%A7%F0%9D%97%A6" alt="fun facts svg" />
+<div align="left">
+    <img src="./media/icons/postbox.png" alt="postbox svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=21&duration=1&pause=1&color=00B8B5&vCenter=true&repeat=false&width=435&height=21&lines=FUN+FACTS" alt="fun facts svg" />
+</div>
 <!-- fun facts text end -->
 
 <!-- random jokes start -->
@@ -531,7 +541,8 @@
 
 <!-- my github stats text start -->
 <div align="center"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=220&height=40&lines=%F0%9F%93%8A+MY+GITHUB+STATS" alt="my github stats svg" />
+    <img src="./media/icons/pie-chart.png" alt="my github stats svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=21&duration=1&pause=1&color=00B8B5&vCenter=true&repeat=false&width=435&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
 </div>
 <!-- my github stats text end -->
 
