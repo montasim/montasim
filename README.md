@@ -554,10 +554,10 @@
 
 <div align="center">
     <!-- github streak start -->
-    <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=36BCF7FF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true" alt="montasim" />
+    <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=EB008B&fire=00B8B5&currStreakNum=00B8B5&sideNums=00B8B5&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=FFFFFF&dates=FFFFFF" alt="current streak stats" />
     <!-- github streak end -->
     <!-- github stats start -->
-    <img width=396 src="https://github-readme-stats-montasim.vercel.app/api?username=montasim&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true" />
+    <img width=396 src="https://github-readme-stats-montasim.vercel.app/api?username=montasim&rank_icon=percentile&show_icons=false&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=EB008B&currStreakLabel=EB008B&sideLabels=EB008B&icon_color=EB008B&bg_color=0D1117&text_color=00B8B5&border_color=61dafb&hide_border=true&include_all_commits=true" alt="github stats" />
     <!-- github stats end -->
 </div>
 
@@ -566,11 +566,11 @@
 
 <div align="center">
     <!-- github most used languages start -->
-    <img width=325 src="https://github-readme-stats-montasim.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=36BCF7FF&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width=325 src="https://github-readme-stats-montasim.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=00B8B5&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     <!-- github most used languages end -->
     <!-- wakatime weekly activity start -->
     <!-- <a href="https://wakatime.com/@montasim" title="Data update every midnight">
-        <img src="https://github-readme-stats-montasim.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&text_color=FFFFFF&bg_color=0D1117&title_color=36BCF7FF&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
+        <img src="https://github-readme-stats-montasim.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&text_color=00B8B5&bg_color=0D1117&title_color=EB008B&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
     </a> -->
     <!-- wakatime weekly activity end -->
 </div>
@@ -580,7 +580,7 @@
 
 <!-- github readme activity graph start -->
 <div align="center">
-    <img alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react-dark&hide_title=true&text_color=FFFFFF&bg_color=0D1117&title_color=36BCF7FF&line=36BCF7FF&border_color=61dafb&hide_border=true">
+    <img alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react-dark&hide_title=true&text_color=00B8B5&bg_color=0D1117&title_color=EB008B&line=EB008B&border_color=61dafb&hide_border=true">
 </div>
 <!-- github readme activity graph end -->
 
@@ -989,7 +989,7 @@
             </h3>
             <div>
                 <img style="margin-right: 6px" alt="stackoverflow badge" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-                <img style="margin-right: 6px" alt="stack exchange badge" src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white">
+                <img style="margin-right: 6px" alt="stack exchange badge" src="https://img.shields.io/badge/StackExchange-%2300B8B5.svg?style=for-the-badge&logo=StackExchange&logoColor=white">
                 <img style="margin-right: 6px" alt="qoura badge" src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white">
                 <img style="margin-right: 6px" alt="reddit badge" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">
             </div>
