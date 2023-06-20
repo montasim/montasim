@@ -1,7 +1,7 @@
 name: Latest Twitter Tweets
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *' # Runs at 12:00am everyday
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "TWITTER"
-          feed_list: "https://nitter.net/search/rss?f=tweets&q=montasimmamun, https://rss.app/feeds/80sSUoY4prDzLi4p.xml"
+          feed_list: "https://nitter.net/search/rss?f=tweets&q=montasimmamun, https://nitter.net/search?f=tweets&q=montasimmamun"
           commit_message: "Updated with the latest tweets"
           committer_email: "montasimmamun@gmail.com"
-          

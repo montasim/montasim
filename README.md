@@ -45,6 +45,7 @@
 
 <!-- about repository badges start -->
 <div align="center">
+  <img style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c.svg"/>
   <img style="margin-right: 6px" alt="stars badge"src="https://img.shields.io/github/stars/montasim/montasim"/>
   <img style="margin-right: 6px" alt="forks badge"src="https://img.shields.io/github/forks/montasim/montasim?label=Fork"/>
   <img style="margin-right: 6px" alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/montasim">
@@ -62,6 +63,7 @@
 
 <!-- skills icons start -->
 <div align="center">
+  <img height="40" width="40" src="https://cdn.simpleicons.org/typescript" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/javascript" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/react" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs" />
@@ -553,7 +555,7 @@
     <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=36BCF7FF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true" alt="montasim" />
     <!-- github streak end -->
     <!-- github stats start -->
-    <img width=396 src="https://github-readme-stats-mu-jet.vercel.app/api?username=montasim&show_icons=true&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&count_private=true" />
+    <img width=396 src="https://github-readme-stats-montasim.vercel.app/api?username=montasim&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true" />
     <!-- github stats end -->
 </div>
 
@@ -562,12 +564,12 @@
 
 <div align="center">
     <!-- github most used languages start -->
-    <img width=325 src="https://github-readme-stats-mu-jet.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=36BCF7FF&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width=325 src="https://github-readme-stats-montasim.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=36BCF7FF&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     <!-- github most used languages end -->
     <!-- wakatime weekly activity start -->
-    <a href="https://wakatime.com/@montasim" title="Data update every midnight">
-        <img src="https://github-readme-stats-mu-jet.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&text_color=FFFFFF&bg_color=0D1117&title_color=36BCF7FF&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
-    </a>
+    <!-- <a href="https://wakatime.com/@montasim" title="Data update every midnight">
+        <img src="https://github-readme-stats-montasim.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&text_color=FFFFFF&bg_color=0D1117&title_color=36BCF7FF&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
+    </a> -->
     <!-- wakatime weekly activity end -->
 </div>
 
@@ -576,7 +578,7 @@
 
 <!-- github readme activity graph start -->
 <div align="center">
-    <img alt="visitor badge" src="https://github-readme-activity-graph.cyclic.app/graph?username=montasim&theme=react&text_color=FFFFFF&bg_color=0D1117&title_color=36BCF7FF&line=36BCF7FF&border_color=61dafb&hide_border=true">
+    <img alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react-dark&hide_title=true&text_color=FFFFFF&bg_color=0D1117&title_color=36BCF7FF&line=36BCF7FF&border_color=61dafb&hide_border=true">
 </div>
 <!-- github readme activity graph end -->
 
@@ -585,7 +587,7 @@
 
 <!-- github trophy start -->
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=montasim&theme=algolia&no-bg=true&no-frame=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=montasim&theme=algolia&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A">
 </div>
 <!-- github trophy end -->
 
@@ -1205,7 +1207,9 @@
 
 <br><br>
 
-<img align="right" src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/20348607">
+<a href="https://stackoverflow.com/users/20348607/ＭＯＮＴＡＳＩＭ" target="_blank">
+    <img align="right" alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=20348607" />
+</a>
 
 ## StackOverflow Activity
 
@@ -1249,15 +1253,79 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2013%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.2%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 771 Contributions in the Year 2023
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 27 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-Markdown     20 hrs 13 mins  ██████████████████████▓░░   90.03 %
-YAML         1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
-LESS         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-EJS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+🌞 Morning                4024 commits        ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+🌆 Daytime                5227 commits        ████████░░░░░░░░░░░░░░░░░   31.68 % 
+🌃 Evening                5344 commits        ████████░░░░░░░░░░░░░░░░░   32.39 % 
+🌙 Night                  1903 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2912 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Tuesday                  1667 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Wednesday                2360 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Thursday                 2133 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Friday                   2392 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Saturday                 2276 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Sunday                   2758 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+JavaScript               12 hrs 25 mins      █████████████████░░░░░░░░   66.37 % 
+EJS                      2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Less                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+
+🔥 Editors: 
+VS Code                  18 hrs 15 mins      ████████████████████████░   97.53 % 
+WebStorm                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+
+💻 Operating System: 
+Windows                  18 hrs 43 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               90 repos            ██████████████░░░░░░░░░░░   56.60 % 
+HTML                     38 repos            ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+```
+
+
+
+
+ Last Updated on 20/06/2023 00:52:59 UTC
 <!--END_SECTION:waka-->
 
 <br>
@@ -1265,7 +1333,13 @@ EJS          0 secs          ░░░░░░░░░░░░░░░░░
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
+1. 💪 Opened PR [#8](https://github.com/sagelga/github-achievement-cheatsheet/pull/8) in [sagelga/github-achievement-cheatsheet](https://github.com/sagelga/github-achievement-cheatsheet)
+2. 💪 Opened PR [#115](https://github.com/drknzz/GitHub-Achievements/pull/115) in [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements)
+3. 🎉 Merged PR [#14](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/14) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
+4. 💪 Opened PR [#14](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/14) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
+5. 🎉 Merged PR [#13](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/13) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
+6. 💪 Opened PR [#13](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/13) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
+7. 🎉 Merged PR [#11](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/11) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
 <!--END_SECTION:activity-->
 
 <br>
@@ -1282,23 +1356,48 @@ EJS          0 secs          ░░░░░░░░░░░░░░░░░
 
 <!-- TWITTER:START -->
 - [Thinking about my project. https://lnkd.in/gYffV3rq](https://nitter.net/montasimmamun/status/1611429494103093250#m)
-- [My company is looking for AI/ML Software Intern for IOS. If you are interested, you can apply or mention someone who might be interested. Check out this job at MyMedicalHUB: https://lnkd.in/gh-uGUaZ
-
-#hiring #hiringdevelopers #hiringimmediately #hiring2022…https://lnkd.in/gKusyzpx](https://nitter.net/montasimmamun/status/1567738626938916867#m)
 - [Check out this job at MyMedicalHUB: https://lnkd.in/gh-uGUaZ https://lnkd.in/g5NbD7ji](https://nitter.net/montasimmamun/status/1567731555648573440#m)
 - [Essential Resources for Frontend Developers
 
 Here are some essential website links for the Frontend Developers to design a beautiful website. Let me know your thoughts in the comments, and check my profile for more content.
 
 1. CSS framework: If you want…https://lnkd.in/gaWyxAvM](https://nitter.net/montasimmamun/status/1559042828935708674#m)
-- [RT by @montasimmamun: সন্ধ্যা সাতটার পর এই সাত কাজ নয়
+- [5 Useful Resources for Junior Web Developers. Save this for future reference.
+Let me know your thoughts down in the comments and check out my profile for more coding-related content.
 
-বিস্তারিত - http://prothomalo.com/lifestyle/health/q61jux0zd4](https://nitter.net/ProthomAlo/status/1558766644549263363#m)
+1. Diagrams - This is such a great web for drawing a lot of diagrams y…https://lnkd.in/gU5Hqtp7](https://nitter.net/montasimmamun/status/1558170708169019392#m)
+- [VAR vs LET vs CONST - Javascript  Basic
+
+#javascript https://lnkd.in/gzDp2WfC](https://nitter.net/montasimmamun/status/1558119151796772864#m)
 <!-- TWITTER:END -->
 
 <br>
 
+<!-- hello nice to meet you text start -->
+<div align="center">
+    <img src="https://gtce.itsvg.in/api?username=montasimmamun" alt="latest tweet" />
+</div>
+<!-- hello nice to meet you text end -->
+
+<br>
+
 ## Recent Medium Activity
+
+<!-- MEDIUM:START -->
+
+<!-- MEDIUM:END -->
+
+<br>
+
+## ⭐ STARGAZERS ⭐
+
+<!-- stargazers -->
+|  <a href="https://github.com/Rantoryu">Rantoryu</a> | <a href="https://github.com/montasim">montasim</a> | <a href="https://github.com/DevElkami">DevElkami</a> | <a href="https://github.com/bm4578">bm4578</a> | <a href="https://github.com/ArielMAJ">ArielMAJ</a> | <a href="https://github.com/fcasamento">fcasamento</a> | <a href="https://github.com/hitblast">hitblast</a> | <a href="https://github.com/Zoltus">Zoltus</a> |
+|  :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|  <img src="https://avatars.githubusercontent.com/u/59120780?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/95298623?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/49388297?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/77977341?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/69123486?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/19937845?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/67194380?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/23402980?s=96&v=4" width="60px"> |
+<!-- stargazers -->
+
+
 
 <br>
 

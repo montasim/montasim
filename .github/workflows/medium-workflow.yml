@@ -1,0 +1,19 @@
+name: Latest medium activity
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at 12:00am everyday
+  workflow_dispatch:
+permissions:
+  contents: write
+  
+jobs:
+  update-readme-with-medium:
+    name: Update this repo's README with latest activity from Medium
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "MEDIUM"
+          commit_message: "Updated readme with the latest medium data"
+          feed_list: "https://medium.com/feed/@montasim"
