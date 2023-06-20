@@ -1,13 +1,12 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-name: Latest github activity
+name: Latest contribution graph snake activity
 
 # Controls when the action will run. This action runs every 6 hours.
 
 on:
   schedule:
-    # every hour
-    - cron: "0 */6 * * *"
+    - cron: '0 0 * * *' # Runs at 12:00am everyday
 
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:

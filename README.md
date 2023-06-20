@@ -42,13 +42,16 @@
 
 <!-- about repository badges start -->
 <div align="center">
+  <img style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c.svg"/>
   <img style="margin-right: 6px" alt="stars badge"src="https://img.shields.io/github/stars/montasim/montasim"/>
   <img style="margin-right: 6px" alt="forks badge"src="https://img.shields.io/github/forks/montasim/montasim?label=Fork"/>
   <img style="margin-right: 6px" alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/montasim">
   <img style="margin-right: 6px" alt="visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasim">
   <img style="margin-right: 6px" alt="profile hits counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmontasim1212%2Fhit-counter">
   <img style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/montasim?label=Follow"/>
-  <img style="margin-right: 6px" alt="build badge"src="https://img.shields.io/github/actions/workflow/status/montasim/montasim/update-readme.yml"/>
+  <a href="https://github.com/montasim/montasim/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
+    <img alt="Guest Book" src="https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round" />
+  </a>
   <img style="margin-right: 6px" alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
 </div>
 <!-- about repository badges end -->
@@ -57,6 +60,7 @@
 
 <!-- skills icons start -->
 <div align="center">
+  <img height="40" width="40" src="https://cdn.simpleicons.org/typescript" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/javascript" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/react" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs" />
@@ -453,280 +457,6 @@
 </details>
 <!-- my resume text end -->
 
-<!-- open source projects start -->
-<details>
-    <summary>
-        :pushpin: 𝗢𝗣𝗘𝗡 𝗦𝗢𝗨𝗥𝗖𝗘 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
-    </summary>
-    <br/>
-    <table>
-        <thead align="center">
-            <tr border: none;>
-                <td>
-                    <b>:pushpin: Name</b>
-                </td>
-                <td>
-                    <b>:star: Stars</b>
-                </td>
-                <td>
-                    <b>:sparkles: Forks</b>
-                </td>
-                <td>
-                    <b>:clock1: Last Commits</b>
-                </td>
-                <td>
-                    <b>:briefcase: Repo Size</b>
-                </td>
-                <td>
-                    <b>:globe_with_meridians: Live Link</b>
-                </td>
-            </tr>
-        </thead>
-        <tbody>
-            <!-- project montasim start -->
-            <tr>
-                <td>
-                    <a href="https://github.com/montasim/montasim">
-                        <b>montasim</b>
-                    </a>
-                </td>
-                <td>
-                    <img alt="Stars" src="https://img.shields.io/github/stars/montasim/montasim"/>
-                </td>
-                <td>
-                    <img alt="Forks" src="https://img.shields.io/github/forks/montasim/montasim"/>
-                </td>
-                <td>
-                    <img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/montasim"/>
-                </td>
-                <td>
-                    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/montasim"/>
-                </td>
-                <td>
-                    <a href="https://github.com/montasim/montasim">
-                        <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fgithub.com/montasim"/>
-                    </a>
-                </td>
-            </tr>
-            <!-- project montasim start -->
-            <!-- project Technofire start -->
-            <tr>
-                <td>
-                    <a href="https://github.com/montasim/Technofire">
-                        <b>Technofire</b>
-                    </a>
-                </td>
-                <td>
-                    <img alt="Stars" src="https://img.shields.io/github/stars/montasim/Technofire"/>
-                </td>
-                <td>
-                    <img alt="Forks" src="https://img.shields.io/github/forks/montasim/Technofire"/>
-                </td>
-                <td>
-                    <img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/Technofire"/>
-                </td>
-                <td>
-                    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/Technofire"/>
-                </td>
-                <td>
-                    <a href="https://github.com/montasim/Technofire">
-                        <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fgithub.com/montasim/Technofire"/>
-                    </a>
-                </td>
-            </tr>
-            <!-- project Technofire end -->
-            <!-- project montasim-dev start -->
-            <tr>
-                <td>
-                    <a href="https://github.com/montasim/montasim-dev">
-                        <b>montasim-dev</b>
-                    </a>
-                </td>
-                <td>
-                    <img alt="Stars" src="https://img.shields.io/github/stars/montasim/montasim-dev"/>
-                </td>
-                <td>
-                    <img alt="Forks" src="https://img.shields.io/github/forks/montasim/montasim-dev"/>
-                </td>
-                <td>
-                    <img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/montasim-dev"/>
-                </td>
-                <td>
-                    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/montasim-dev"/>
-                </td>
-                <td>
-                    <a href="https://github.com/montasim/montasim-dev">
-                        <img alt="Last Commits" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmontasim-dev.web.app"/>
-                    </a>
-                </td>
-            </tr>
-            <!-- project montasim-dev end -->
-            <!-- project manufacturer-website-client start -->
-            <tr>
-                <td>
-                    <a href="https://github.com/montasim/manufacturer-website-client">
-                        <b>manufacturer-website-client</b>
-                    </a>
-                </td>
-                <td>
-                    <img alt="Stars" src="https://img.shields.io/github/stars/montasim/manufacturer-website-client"/>
-                </td>
-                <td>
-                    <img alt="Forks" src="https://img.shields.io/github/forks/montasim/manufacturer-website-client"/>
-                </td>
-                <td>
-                    <img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/manufacturer-website-client"/>
-                </td>
-                <td>
-                    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/manufacturer-website-client"/>
-                </td>
-                <td>
-                    <a href="https://github.com/montasim/manufacturer-website-client">
-                        <img alt="Last Commits" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fjantrik-b5cde.web.app"/>
-                    </a>
-                </td>
-            </tr>
-            <!-- project manufacturer-website-client end -->
-            <!-- project manufacturer-website-server start -->
-            <tr>
-                <td>
-                    <a href="https://github.com/montasim/manufacturer-website-server">
-                        <b>manufacturer-website-server</b>
-                    </a>
-                </td>
-                <td>
-                    <img alt="Stars" src="https://img.shields.io/github/stars/montasim/manufacturer-website-server"/>
-                </td>
-                <td>
-                    <img alt="Forks" src="https://img.shields.io/github/forks/montasim/manufacturer-website-server"/>
-                </td>
-                <td>
-                    <img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/manufacturer-website-server"/>
-                </td>
-                <td>
-                    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/manufacturer-website-server"/>
-                </td>
-                <td>
-                    <a href="https://github.com/montasim/manufacturer-website-server">
-                        <img alt="Last Commits" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Ftools-manufacturer-server.herokuapp.com"/>
-                    </a>
-                </td>
-            </tr>
-            <!-- project manufacturer-website-server end -->
-            <!-- project warehouse-management-client start -->
-            <tr>
-                <td>
-                    <a href="https://github.com/montasim/warehouse-management-client">
-                        <b>warehouse-management-client</b>
-                    </a>
-                </td>
-                <td>
-                    <img alt="Stars" src="https://img.shields.io/github/stars/montasim/warehouse-management-client"/>
-                </td>
-                <td>
-                    <img alt="Forks" src="https://img.shields.io/github/forks/montasim/warehouse-management-client"/>
-                </td>
-                <td>
-                    <img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/warehouse-management-client"/>
-                </td>
-                <td>
-                    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/warehouse-management-client"/>
-                </td>
-                <td>
-                    <a href="https://github.com/montasim/warehouse-management-client">
-                        <img alt="Last Commits" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fposdash-37746.web.app"/>
-                    </a>
-                </td>
-            </tr>
-            <!-- project warehouse-management-client end -->
-            <!-- project inventory-management-system-server start -->
-            <tr>
-                <td>
-                    <a href="https://github.com/montasim/inventory-management-system-server">
-                        <b>inventory-management-system-server</b>
-                    </a>
-                </td>
-                <td>
-                    <img alt="Stars" src="https://img.shields.io/github/stars/montasim/inventory-management-system-server"/>
-                </td>
-                <td>
-                    <img alt="Forks" src="https://img.shields.io/github/forks/montasim/inventory-management-system-server"/>
-                </td>
-                <td>
-                    <img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/inventory-management-system-server"/>
-                </td>
-                <td>
-                    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/inventory-management-system-server"/>
-                </td>
-                <td>
-                    <a href="https://github.com/montasim/inventory-management-system-server">
-                        <img alt="Last Commits" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Finventory-management-system-server.vercel.app"/>
-                    </a>
-                </td>
-            </tr>
-            <!-- project inventory-management-system-server end -->
-            <!-- project a-coders-diary start -->
-            <tr>
-                <td>
-                    <a href="https://github.com/montasim/a-coders-diary">
-                        <b>a-coders-diary</b>
-                    </a>
-                </td>
-                <td>
-                    <img alt="Stars" src="https://img.shields.io/github/stars/montasim/a-coders-diary"/>
-                </td>
-                <td>
-                    <img alt="Forks" src="https://img.shields.io/github/forks/montasim/a-coders-diary"/>
-                </td>
-                <td>
-                    <img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/a-coders-diary"/>
-                </td>
-                <td>
-                    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/a-coders-diary"/>
-                </td>
-                <td>
-                    <a href="https://github.com/montasim/a-coders-diary">
-                        <img alt="Last Commits" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fa-coders-diary.web.app"/>
-                    </a>
-                </td>
-            </tr>
-            <!-- project a-coders-diary end -->
-            <!-- project a-coders-diary-server start -->
-            <tr>
-                <td> 
-                    <a href="https://github.com/montasim/a-coders-diary-server">
-                        <b>a-coders-diary-server</b>
-                    </a>
-                </td>
-                <td>
-                    <img alt="Stars" src="https://img.shields.io/github/stars/montasim/a-coders-diary-server"/>
-                </td>
-                <td>
-                    <img alt="Forks" src="https://img.shields.io/github/forks/montasim/a-coders-diary-server"/>
-                </td>
-                <td>
-                    <img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/a-coders-diary-server"/>
-                </td>
-                <td>
-                    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/a-coders-diary-server"/>
-                </td>
-                <td>
-                    <a href="https://github.com/montasim/a-coders-diary-server">
-                        <img alt="Last Commits" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fa-coders-diary.herokuapp.com"/>
-                    </a>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-    <br/>
-    <div align="center">
-        <a href="https://github.com/montasim?tab=repositories">
-            <img alt="linkedin icon" src="https://img.shields.io/badge/VIEW%20MORE-PROJECTS-025E8C?style=for-the-badge&logoColor=white">
-        </a>
-    </div>
-</details>
-<!-- open source projects end -->
-
 <br/>
 <br/>
 
@@ -811,10 +541,10 @@
 
 <div align="center">
     <!-- github streak start -->
-    <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&background=0D1117&border=61dafb&hide_border=true" alt="montasim" />
+    <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=36BCF7FF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true" alt="montasim" />
     <!-- github streak end -->
     <!-- github stats start -->
-    <img width=396 src="https://github-readme-stats-mu-jet.vercel.app/api?username=montasim&show_icons=true&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" />
+    <img width=396 src="https://github-readme-stats-montasim.vercel.app/api?username=montasim&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true" />
     <!-- github stats end -->
 </div>
 
@@ -823,30 +553,30 @@
 
 <div align="center">
     <!-- github most used languages start -->
-    <img width=325 src="https://github-readme-stats-mu-jet.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width=325 src="https://github-readme-stats-montasim.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=36BCF7FF&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     <!-- github most used languages end -->
     <!-- wakatime weekly activity start -->
-    <a href="https://wakatime.com/@montasim" title="Data update every midnight">
-        <img src="https://github-readme-stats-mu-jet.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
-    </a>
+    <!-- <a href="https://wakatime.com/@montasim" title="Data update every midnight">
+        <img src="https://github-readme-stats-montasim.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&text_color=FFFFFF&bg_color=0D1117&title_color=36BCF7FF&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
+    </a> -->
     <!-- wakatime weekly activity end -->
 </div>
 
 <br/>
 <br/>
 
-<!-- github contribution graph start -->
+<!-- github readme activity graph start -->
 <div align="center">
-    <img alt="visitor badge" src="https://github-readme-activity-graph.cyclic.app/graph?username=montasim&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true">
+    <img alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react-dark&hide_title=true&text_color=FFFFFF&bg_color=0D1117&title_color=36BCF7FF&line=36BCF7FF&border_color=61dafb&hide_border=true">
 </div>
-<!-- github contribution graph end -->
+<!-- github readme activity graph end -->
 
 <br/>
 <br/>
 
 <!-- github trophy start -->
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=montasim&theme=algolia&no-bg=true&no-frame=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=montasim&theme=algolia&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A">
 </div>
 <!-- github trophy end -->
 
@@ -1466,87 +1196,247 @@
 
 <br><br>
 
-<img align="right" src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/20348607">
+<a href="https://stackoverflow.com/users/20348607/ＭＯＮＴＡＳＩＭ" target="_blank">
+    <img align="right" alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=20348607" />
+</a>
 
 ## StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
-
+- [Answer by ＭＯＮＴＡＳＩＭ for React firebase 9 how to delete current user account?](https://stackoverflow.com/questions/71147148/react-firebase-9-how-to-delete-current-user-account/74244739#74244739)
+- [Answer by ＭＯＮＴＡＳＩＭ for Tailwind cards of same height across multiple rows](https://stackoverflow.com/questions/74221710/tailwind-cards-of-same-height-across-multiple-rows/74223203#74223203)
 <!-- STACKOVERFLOW:END -->
 
-<br><br>
+<br>
 
-## 📺 Latest YouTube Videos
+<div>
+    <h2> 
+        📺 Latest YouTube Videos 
+        <a href="https://www.youtube.com/channel/UCkkBnedfjKU-toiKQ-rxvtA?sub_confirmation=1">
+            <img align="right" style="margin-right: 6px" alt="youtube subscriber" src="https://img.shields.io/youtube/channel/subscribers/UCkkBnedfjKU-toiKQ-rxvtA?label=YouTube%20Subscribers&style=social">
+        </a>
+    </h2>
+</div>
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkkBnedfjKU-toiKQ-rxvtA?label=YouTube%20Subscribers&style=social)
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6klo4X01SlM"><img width="140px" src="https://i.ytimg.com/vi/6klo4X01SlM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6klo4X01SlM">Sleep Detection Concept on EEG Signal</a><br/>Jul 11, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Y3Ka3HAWE9E"><img width="140px" src="https://i.ytimg.com/vi/Y3Ka3HAWE9E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Y3Ka3HAWE9E">COVID-19 SITUATION</a><br/>Apr 30, 2020</td></tr></table>
+<!-- YOUTUBE:END -->
 
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-
-<br><br>
+<br>
 
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Understanding Trading Charts](https://noobtrack.blogspot.com/2020/02/understanding-trading-charts.html)
+- [Understanding Bar Charts and Column Charts](https://noobtrack.blogspot.com/2020/02/understanding-bar-charts-and-column.html)
+- [Bullet Charts – What Is It And How To Use It](https://noobtrack.blogspot.com/2020/02/bullet-charts-what-is-it-and-how-to-use.html)
+- [How to Start and grow my Career as iOS App Developer?](https://noobtrack.blogspot.com/2020/02/how-to-start-and-grow-my-career-as-ios.html)
+- [Excel Formulas | 20 Excel Formula Every Person Should Know](https://noobtrack.blogspot.com/2020/02/excel-formulas-20-excel-formula-every.html)
 <!-- BLOG-POST-LIST:END -->
 
-<br><br>
+<br>
 
-## :zap: Recent Activity
+## :zap: Wakatime Activity
+
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2013%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.2%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 771 Contributions in the Year 2023
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 27 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                4024 commits        ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+🌆 Daytime                5227 commits        ████████░░░░░░░░░░░░░░░░░   31.68 % 
+🌃 Evening                5344 commits        ████████░░░░░░░░░░░░░░░░░   32.39 % 
+🌙 Night                  1903 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2912 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Tuesday                  1667 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Wednesday                2360 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Thursday                 2133 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Friday                   2392 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Saturday                 2276 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Sunday                   2758 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+JavaScript               12 hrs 25 mins      █████████████████░░░░░░░░   66.37 % 
+EJS                      2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Less                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+
+🔥 Editors: 
+VS Code                  18 hrs 15 mins      ████████████████████████░   97.53 % 
+WebStorm                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+
+💻 Operating System: 
+Windows                  18 hrs 43 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               90 repos            ██████████████░░░░░░░░░░░   56.60 % 
+HTML                     38 repos            ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+```
+
+
+
+
+ Last Updated on 20/06/2023 00:52:59 UTC
+<!--END_SECTION:waka-->
+
+<br>
+
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
+1. 💪 Opened PR [#8](https://github.com/sagelga/github-achievement-cheatsheet/pull/8) in [sagelga/github-achievement-cheatsheet](https://github.com/sagelga/github-achievement-cheatsheet)
+2. 💪 Opened PR [#115](https://github.com/drknzz/GitHub-Achievements/pull/115) in [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements)
+3. 🎉 Merged PR [#14](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/14) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
+4. 💪 Opened PR [#14](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/14) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
+5. 🎉 Merged PR [#13](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/13) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
+6. 💪 Opened PR [#13](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/13) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
+7. 🎉 Merged PR [#11](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/11) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
 <!--END_SECTION:activity-->
 
-<br><br>
+<br>
+
+## 🗒 Guestbook
+<!--START_SECTION:guestbook-->
+
+<!--END_SECTION:guestbook-->
+
+<br>
 
 <!-- twitter post -->
+## :zap: Recent Twitter Activity
 
-![Twitter Post](https://github-readme-twitter.gazf.vercel.app/api?id=montasimmamun&layout=wide)
+<!-- TWITTER:START -->
+- [Thinking about my project. https://lnkd.in/gYffV3rq](https://nitter.net/montasimmamun/status/1611429494103093250#m)
+- [Check out this job at MyMedicalHUB: https://lnkd.in/gh-uGUaZ https://lnkd.in/g5NbD7ji](https://nitter.net/montasimmamun/status/1567731555648573440#m)
+- [Essential Resources for Frontend Developers
 
-<br><br>
+Here are some essential website links for the Frontend Developers to design a beautiful website. Let me know your thoughts in the comments, and check my profile for more content.
 
-## Medium Post
+1. CSS framework: If you want…https://lnkd.in/gaWyxAvM](https://nitter.net/montasimmamun/status/1559042828935708674#m)
+- [5 Useful Resources for Junior Web Developers. Save this for future reference.
+Let me know your thoughts down in the comments and check out my profile for more coding-related content.
 
-<br><br>
+1. Diagrams - This is such a great web for drawing a lot of diagrams y…https://lnkd.in/gU5Hqtp7](https://nitter.net/montasimmamun/status/1558170708169019392#m)
+- [VAR vs LET vs CONST - Javascript  Basic
+
+#javascript https://lnkd.in/gzDp2WfC](https://nitter.net/montasimmamun/status/1558119151796772864#m)
+<!-- TWITTER:END -->
+
+<br>
+
+<!-- hello nice to meet you text start -->
+<div align="center">
+    <img src="https://gtce.itsvg.in/api?username=montasimmamun" alt="latest tweet" />
+</div>
+<!-- hello nice to meet you text end -->
+
+<br>
+
+## Recent Medium Activity
+
+<!-- MEDIUM:START -->
+
+<!-- MEDIUM:END -->
+
+<br>
+
+## ⭐ STARGAZERS ⭐
+
+<!-- stargazers -->
+|  <a href="https://github.com/Rantoryu">Rantoryu</a> | <a href="https://github.com/montasim">montasim</a> | <a href="https://github.com/DevElkami">DevElkami</a> | <a href="https://github.com/bm4578">bm4578</a> | <a href="https://github.com/ArielMAJ">ArielMAJ</a> | <a href="https://github.com/fcasamento">fcasamento</a> | <a href="https://github.com/hitblast">hitblast</a> | <a href="https://github.com/Zoltus">Zoltus</a> |
+|  :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|  <img src="https://avatars.githubusercontent.com/u/59120780?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/95298623?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/49388297?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/77977341?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/69123486?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/19937845?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/67194380?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/23402980?s=96&v=4" width="60px"> |
+<!-- stargazers -->
+
+
+
+<br>
 
 ![Medium Post](https://github-readme-medium.vercel.app/?username=montasim&limit=2)
 
-<br><br>
+<br>
 
 </details>
 <!-- find more on social media end -->
 
+<br/>
+<br/>
+
 <div align="center">
-    <a href="https://www.github.com/montasim">
-        <img alt="more info badge" src="https://img.shields.io/badge/ALL%20RIGHT%20RESERVED%20BY-@MONTASIM-025E8C?style=for-the-badge&logo=&logoColor=white">
+    <a href="https://github.com/montasim/montasim/actions/workflows/github-readme-guestbook.yml">  
+        <img src="https://github.com/montasim/montasim/actions/workflows/github-readme-guestbook.yml/badge.svg" alt="github readme guestbook workflow badge" />
+    </a>
+    <a href="https://github.com/montasim/montasim/actions/workflows/blog-post-workflow.yml">  
+        <img src="https://github.com/montasim/montasim/actions/workflows/blog-post-workflow.yml/badge.svg" alt="blog post workflow badge" />
+    </a>
+    <a href="https://github.com/montasim/montasim/actions/workflows/snake-workflow.yml">  
+        <img src="https://github.com/montasim/montasim/actions/workflows/snake-workflow.yml/badge.svg" alt="snake workflow badge" />
+    </a>
+    <a href="https://github.com/montasim/montasim/actions/workflows/update-readme.yml">  
+        <img src="https://github.com/montasim/montasim/actions/workflows/update-readme.yml/badge.svg" alt="update readme workflow badge" />
+    </a>
+    <a href="https://github.com/montasim/montasim/actions/workflows/stack-overflow-workflow.yml">  
+        <img src="https://github.com/montasim/montasim/actions/workflows/stack-overflow-workflow.yml/badge.svg" alt="stack overflow workflow badge" />
+    </a>
+    <a href="https://github.com/montasim/montasim/actions/workflows/twitter-workflow.yml">  
+        <img src="https://github.com/montasim/montasim/actions/workflows/twitter-workflow.yml/badge.svg" alt="twitter workflow badge" />
+    </a>
+    <a href="https://github.com/montasim/montasim/actions/workflows/wakatime-workflow.yml">  
+        <img src="https://github.com/montasim/montasim/actions/workflows/wakatime-workflow.yml/badge.svg" alt="wakatime workflow badge" />
+    </a>
+    <a href="https://github.com/montasim/montasim/actions/workflows/youtube-workflow.yml">  
+        <img src="https://github.com/montasim/montasim/actions/workflows/youtube-workflow.yml/badge.svg" alt="youtube workflow badge" />
     </a>
 </div>
 
-<details>
-    <summary>:zap: Github Metrics</summary>
-    <br/>
-    <div align="center">
-        <img alt="colored gif" src="https://metrics.lecoq.io/montasim">
-    </div>
-</details>
-
-<details>
-    <summary>Github</summary>
-    <br/>
-    <div align="center">
-        <img alt="colored gif" src="https://server.dooboo.io/github-stats/montasim">
-    </div>
-</details>
-
-![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
-    
-<img src="https://github-contributor-stats.vercel.app/api?username=montasim&theme=dark"/>
+<br/>
+<br/>
+<br/>
 
 <!-- build with love svg start -->
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&width=150&height=40&lines=BUILD+WITH+%E2%9D%A4%EF%B8%8F%EF%B8%8F;BUILD+BY+MONTASIM" alt="build with love svg" />
 </div>
 <!-- build with love svg end -->
+
+<br/>
+<br/>
+<br/>
