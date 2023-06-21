@@ -179,47 +179,29 @@
 <br/>
 
 <!-- social media links start -->
-<table align="right">
-    <thead align="center">
-        <tr>
-            <th>
-                <a href="https://www.linkedin.com/in/montasim">
-                    <img alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/white" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://www.github.com/montasim">
-                    <img alt="github icon" src="https://cdn.simpleicons.org/github/white" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://stackoverflow.com/users/20348607/montasim">
-                    <img alt="github icon" src="https://cdn.simpleicons.org/stackoverflow/white" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://montasim-dev.web.app/">
-                    <img alt="web icon" src="https://cdn.simpleicons.org/googlechrome/white" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="mailto:montasimmamun@gmail.com">
-                    <img alt="gmail icon" src="https://cdn.simpleicons.org/gmail/white" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://www.facebook.com/montasimmamun/">
-                    <img alt="facebook icon" src="https://cdn.simpleicons.org/facebook/white" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://twitter.com/montasimmamun">
-                    <img alt="facebook icon" src="https://cdn.simpleicons.org/twitter/white" width="35px">
-                </a>
-            </th>
-        </tr>
-    </thead>
-</table>
+<div align="right">
+  <a style="margin-right: 10px" href="https://www.linkedin.com/in/montasim">
+    <img alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/white" width="35px">
+  </a>
+  <a style="margin-right: 10px" href="https://www.github.com/montasim">
+    <img alt="github icon" src="https://cdn.simpleicons.org/github/white" width="35px">
+  </a>
+  <a style="margin-right: 10px" href="https://stackoverflow.com/users/20348607/montasim">
+    <img alt="github icon" src="https://cdn.simpleicons.org/stackoverflow/white" width="35px">
+  </a>
+  <a style="margin-right: 10px" href="https://montasim-dev.web.app/">
+    <img alt="web icon" src="https://cdn.simpleicons.org/googlechrome/white" width="35px">
+  </a>
+  <a style="margin-right: 10px" href="mailto:montasimmamun@gmail.com">
+    <img alt="gmail icon" src="https://cdn.simpleicons.org/gmail/white" width="35px">
+  </a>
+  <a style="margin-right: 10px" href="https://www.facebook.com/montasimmamun/">
+    <img alt="facebook icon" src="https://cdn.simpleicons.org/facebook/white" width="35px">
+  </a>
+  <a href="https://twitter.com/montasimmamun">
+    <img alt="facebook icon" src="https://cdn.simpleicons.org/twitter/white" width="35px">
+  </a>
+</div>
 <!-- social media links end -->
 <!-- connect with me end -->
 
