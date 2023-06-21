@@ -169,12 +169,90 @@
 <br/>
 <br/>
 
+<!-- feel free to contact me text start -->
+<div align="right"> 
+    <img src="./media/icons/postbox.png" alt="postbox svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=385&height=21&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
+</div>
+<!-- feel free to contact me text end -->
+
+<br/>
+
+<!-- social media links start -->
+<table align="right">
+    <thead align="center">
+        <tr>
+            <th>
+                <a href="https://www.linkedin.com/in/montasim">
+                    <img alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/white" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://www.github.com/montasim">
+                    <img alt="github icon" src="https://cdn.simpleicons.org/github/white" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://stackoverflow.com/users/20348607/montasim">
+                    <img alt="github icon" src="https://cdn.simpleicons.org/stackoverflow/white" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://montasim-dev.web.app/">
+                    <img alt="web icon" src="https://cdn.simpleicons.org/googlechrome/white" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="mailto:montasimmamun@gmail.com">
+                    <img alt="gmail icon" src="https://cdn.simpleicons.org/gmail/white" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://www.facebook.com/montasimmamun/">
+                    <img alt="facebook icon" src="https://cdn.simpleicons.org/facebook/white" width="35px">
+                </a>
+            </th>
+            <th>
+                <a href="https://twitter.com/montasimmamun">
+                    <img alt="facebook icon" src="https://cdn.simpleicons.org/twitter/white" width="35px">
+                </a>
+            </th>
+        </tr>
+    </thead>
+</table>
+<!-- social media links end -->
+<!-- connect with me end -->
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<!-- fun facts text start -->
+<div align="left">
+    <img src="./media/icons/confetti.png" alt="confetti svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=128&height=21&lines=FUN+FACTS" alt="fun facts svg" />
+</div>
+<!-- fun facts text end -->
+
+<br/>
+
+<!-- random jokes start -->
+<div align="center">
+    <img src="https://readme-jokes.vercel.app/api/?bgColor=%230D1117&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%230D1117" alt="Fun Fact" />
+</div>
+<!-- random jokes -->
+
+<br/>
+<br/>
+<br/>
+
 <!-- my resume text start -->
 <details>
-    <summary>
-        <img width="16px" src="./media/icons/cv.png" alt="my resume" /> 
-        <img src="https://readme-typing-svg.demolab.com?font=Karla&weight=600&size=16&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=100&height=15&lines=MY+RESUME" alt="my resume" /> 
-    </summary>
+    <summary> MY RESUME </summary>
     <br/>
     <h2 align="right">
     <a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 
@@ -512,94 +590,10 @@
 <!-- my resume text end -->
 
 <br/>
-<br/>
-<br/>
-
-<!-- feel free to contact me text start -->
-<div align="right"> 
-    <img src="./media/icons/postbox.png" alt="postbox svg" />
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=385&height=21&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
-</div>
-<!-- feel free to contact me text end -->
-
-<br/>
-
-<!-- social media links start -->
-<table align="right">
-    <thead align="center">
-        <tr>
-            <th>
-                <a href="https://www.linkedin.com/in/montasim">
-                    <img alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/white" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://www.github.com/montasim">
-                    <img alt="github icon" src="https://cdn.simpleicons.org/github/white" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://stackoverflow.com/users/20348607/montasim">
-                    <img alt="github icon" src="https://cdn.simpleicons.org/stackoverflow/white" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://montasim-dev.web.app/">
-                    <img alt="web icon" src="https://cdn.simpleicons.org/googlechrome/white" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="mailto:montasimmamun@gmail.com">
-                    <img alt="gmail icon" src="https://cdn.simpleicons.org/gmail/white" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://www.facebook.com/montasimmamun/">
-                    <img alt="facebook icon" src="https://cdn.simpleicons.org/facebook/white" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://twitter.com/montasimmamun">
-                    <img alt="facebook icon" src="https://cdn.simpleicons.org/twitter/white" width="35px">
-                </a>
-            </th>
-        </tr>
-    </thead>
-</table>
-<!-- social media links end -->
-<!-- connect with me end -->
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<!-- fun facts text start -->
-<div align="left">
-    <img src="./media/icons/confetti.png" alt="confetti svg" />
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=128&height=21&lines=FUN+FACTS" alt="fun facts svg" />
-</div>
-<!-- fun facts text end -->
-
-<br/>
-
-<!-- random jokes start -->
-<div align="center">
-    <img src="https://readme-jokes.vercel.app/api/?bgColor=%230D1117&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%230D1117" alt="Fun Fact" />
-</div>
-<!-- random jokes -->
-
-<br/>
-<br/>
 
 <!-- things I use start -->
 <details>
-    <summary>
-        <img width="16px" src="./media/icons/bookmark.png" alt="bookmar png" >
-        <img src="https://readme-typing-svg.demolab.com?font=Karla&weight=500&size=18&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=17&lines=MORE+STUFF+ABOUT+ME" alt="more stuff about me" >
-    </summary>
+    <summary> MORE STUFF ABOUT ME </summary>
     <br/>
     <h2>
         What I do
@@ -1194,14 +1188,14 @@
 </details>
 <!-- things I use end -->
 
+<br/>
+
 <!-- find more on social media start -->
 <details>
-    <summary>
-        <img width="16px" src="./media/icons/hot-deal.png" alt="bookmar png" >
-        <img src="https://readme-typing-svg.demolab.com?font=Karla&weight=500&size=18&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=250&height=17&lines=FIND+MORE+ON+SOCIAL+MEDIA" alt="more stuff about me" >
-    </summary>
+    <summary> FIND MORE ON SOCIAL MEDIA </summary>
 
-<br><br>
+<br>
+<br>
 
 <a href="https://stackoverflow.com/users/20348607/ＭＯＮＴＡＳＩＭ" target="_blank">
     <img align="right" alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=20348607" />
@@ -1404,6 +1398,7 @@ Let me know your thoughts down in the comments and check out my profile for more
 </details>
 <!-- find more on social media end -->
 
+<br/>
 <br/>
 <br/>
 
