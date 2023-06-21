@@ -57,17 +57,17 @@
 
 <!-- skills icons start -->
 <div align="center">
-  <img height="40" width="40" src="https://cdn.simpleicons.org/typescript" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/javascript" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/react" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/white" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/white" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/react/white" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/white" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/express/white" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/sass" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/html5" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/css3" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/white" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/sass/white" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/white" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/white" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/html5/white" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/css3/white" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/markdown/white" />
 </div>
 <!-- skills icons end -->
