@@ -580,22 +580,11 @@
 </div>
 <!-- github readme activity graph end -->
 
-<br/>
-<br/>
-
 <!-- github trophy start -->
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=montasim&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A">
 </div>
 <!-- github trophy end -->
-
-<br/>
-
-<!-- wave GIF start -->
-<div align="center" width="100%">
-    <img width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
-</div>
-<!-- wave GIF end -->
 
 <br/>
 <br/>
@@ -1439,6 +1428,16 @@ Let me know your thoughts down in the comments and check out my profile for more
         <img src="https://github.com/montasim/montasim/actions/workflows/youtube-workflow.yml/badge.svg" alt="youtube workflow badge" />
     </a>
 </div>
+
+<br/>
+<br/>
+<br/>
+
+<!-- wave GIF start -->
+<div align="center" width="100%">
+    <img width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
+</div>
+<!-- wave GIF end -->
 
 <br/>
 <br/>
