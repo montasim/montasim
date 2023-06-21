@@ -32,17 +32,7 @@
                                 —— montasim (https://github.com/montasim)
 -->
 
-<br/>
 
-<!-- hello nice to meet you text start -->
-<div align="center">
-    <img width="30px" src="./media/icons/code.png" alt="code png" />
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=395&height=29&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
-    <img width="30px" src="./media/icons/layers.png" alt="layers png" />
-</div>
-<!-- hello nice to meet you text end -->
-
-<br/>
 
 <!-- about repository badges start -->
 <div align="center">
@@ -59,18 +49,18 @@
 
 <!-- skills icons start -->
 <div align="center">
-  <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/FFFFFF" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/FFFFFF" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/react/FFFFFF" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/express/FFFFFF" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/FFFFFF" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/sass/FFFFFF" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/FFFFFF" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/FFFFFF" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/html5/FFFFFF" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/css3/FFFFFF" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/markdown/FFFFFF" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/FFFFFF" alt="typescript icon"/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/FFFFFF" alt="javascript icon" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/react/FFFFFF" alt="react icon" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" alt="nodejs icon" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/express/FFFFFF" alt="express icon" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/FFFFFF" alt="mongodb icon" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/sass/FFFFFF" alt="sass icon" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/FFFFFF" alt="tailwindcss icon" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/FFFFFF" alt="bootstrap icon" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/html5/FFFFFF" alt="html5 icon" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/css3/FFFFFF" alt="css3 icon" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/markdown/FFFFFF" alt="markdown icon" />
 </div>
 <!-- skills icons end -->
 
@@ -110,15 +100,15 @@
 
 <!-- my summary start -->
 <p> 
-    Hello! My name is Mohammad Montasim -Al- Mamun Shuvo and I enjoy creating things that live on the internet. My interest in web development started back in 2017 when I was doing a university project — turns out this project taught me a lot about HTML & CSS!
+    Hello! My name is Mohammad Montasim -Al- Mamun Shuvo, and I enjoy creating things that live on the Internet. My interest in web development started in 2017 when I was doing a university project — it turns out this project taught me a lot about HTML & CSS!
 </p>
 
 <p>
-    Fast-forward to today, and I’ve had the privilege of working at an My MedicalHUB International Ltd., as a Junior Frontend Developer. My main focus these days is building accessible, inclusive products and digital experiences using MERN Stack.
+    Fast-forward to today and I have had the privilege of working at a My MedicalHUB International Ltd. as a Junior Frontend Developer. My main focus these days is building accessible, inclusive products and digital experiences using MERN Stack.
 </p>
 
 <p>
-    So far, I've built some exciting full stack project.
+    So far, I have built some exciting full-stack projects.
 </p>
 <!-- my summary end -->
 
@@ -146,7 +136,7 @@
 
 <div align="center">
     <!-- github most used languages start -->
-    <img width=325 src="https://github-readme-stats-montasim.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width=325 src="https://github-readme-stats-montasim.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="most used language stats" />
     <!-- github most used languages end -->
     <!-- wakatime weekly activity start -->
     <!-- <a href="https://wakatime.com/@montasim" title="Data update every midnight">
@@ -163,7 +153,7 @@
 
 <!-- github trophy start -->
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=montasim&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A">
+    <img src="https://github-profile-trophy.vercel.app/?username=montasim&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
 </div>
 <!-- github trophy end -->
 
@@ -538,7 +528,7 @@
     </h2>
     <ol>
         <li>
-            Ex. Cadet, second best cadet of Mohasthan Regiment at Bangladesh National Cadet Corps (BNCC)
+            Ex. Cadet, second-best cadet of Mohasthan Regiment at Bangladesh National Cadet Corps (BNCC)
         </li>
         <li>
             Event Organizer at Rangpur Zilla School
@@ -547,9 +537,7 @@
     <!-- End Extra Curricular Activities -->
     <br/>
     <!-- Start Personal Details -->
-    <h2>
-        <strong>Personal Details :</strong>
-    </h2>
+    <h2> Personal Details : </h2>
     <table>
         <tbody>
             <tr>
@@ -913,9 +901,7 @@
     </table>
     <br/>
     <!-- currently learning start -->
-    <h2 uppercase> 
-        I am currently learning: 
-    </h2>
+    <h2> I am currently learning: </h2>
     <div>
         <img style="margin-right: 6px" alt="typescript badge" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
         <img style="margin-right: 6px" alt="redux badge" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
@@ -926,7 +912,7 @@
     <!-- currently learning end -->
     <br/>
     <!-- Forgetting -->
-    <h2 uppercase> 
+    <h2> 
         Forgetting: 
     </h2>
     <div>
@@ -945,7 +931,7 @@
     <ol>
         <!-- integrated development environment start -->
         <li>
-            <h3 uppercase> 
+            <h3> 
                 Integrated Development Environment
             </h3>
             <div>
@@ -955,7 +941,7 @@
         <!-- integrated development environment end -->
         <!-- CI start -->
         <li>
-            <h3 uppercase> 
+            <h3> 
                 CI
             </h3>
             <div>
@@ -964,7 +950,7 @@
         </li>
         <!-- Developer Forums start -->
         <li>
-            <h3 uppercase> 
+            <h3> 
                 Developer Forums
             </h3>
             <div>
@@ -977,7 +963,7 @@
         <!-- Developer Forums end -->
         <!-- Problem Solving start -->
         <li>
-            <h3 uppercase> 
+            <h3> 
                 Problem Solving
             </h3>
             <div>
@@ -988,7 +974,7 @@
         <!-- Problem Solving end -->
         <!-- browser start -->
         <li>
-            <h3 uppercase> 
+            <h3> 
                 Browser
             </h3>
             <div>
@@ -1000,7 +986,7 @@
         <!-- browser end -->
         <!-- operating system start -->
         <li>
-            <h3 uppercase> 
+            <h3> 
                 Operating System
             </h3>
             <div>
@@ -1012,7 +998,7 @@
         <!-- operating system end -->
         <!-- Learning Platform start -->
         <li>
-            <h3 uppercase> 
+            <h3> 
                 Learning Platform
             </h3>
             <div>
@@ -1024,12 +1010,12 @@
         <!-- Learning Platform end -->
     </ol>
     <br/>
-    <h2 uppercase> 
+    <h2> 
         :heart: Things I own
     </h2>
     <ol>
         <li>
-            <h3 uppercase> 
+            <h3> 
                 :computer: Personal Computer
             </h3>
             <ul>
@@ -1088,7 +1074,7 @@
         </li>
         <br/>
         <li>
-            <h3 uppercase>
+            <h3>
                 Network Device: 
             </h3>
             <ul>
@@ -1120,7 +1106,7 @@
         </li>
         <br/>
         <li>
-            <h3 uppercase>
+            <h3>
                 Accessories: 
             </h3>
             <ul>
@@ -1152,7 +1138,7 @@
         </li>
         <br/>
         <li>
-            <h3 uppercase>
+            <h3>
                 :iphone: SmartPhone: 
             </h3>
             <ul>
@@ -1163,7 +1149,7 @@
         </li>
         <br/>
         <li>
-            <h3 uppercase>
+            <h3>
                 :watch: Smartwatch: 
             </h3>
             <ul>
@@ -1396,39 +1382,8 @@ Let me know your thoughts down in the comments and check out my profile for more
 <br/>
 <br/>
 
-<div align="center">
-    <a href="https://github.com/montasim/montasim/actions/workflows/github-readme-guestbook.yml">  
-        <img src="https://github.com/montasim/montasim/actions/workflows/github-readme-guestbook.yml/badge.svg" alt="github readme guestbook workflow badge" />
-    </a>
-    <a href="https://github.com/montasim/montasim/actions/workflows/blog-post-workflow.yml">  
-        <img src="https://github.com/montasim/montasim/actions/workflows/blog-post-workflow.yml/badge.svg" alt="blog post workflow badge" />
-    </a>
-    <a href="https://github.com/montasim/montasim/actions/workflows/snake-workflow.yml">  
-        <img src="https://github.com/montasim/montasim/actions/workflows/snake-workflow.yml/badge.svg" alt="snake workflow badge" />
-    </a>
-    <a href="https://github.com/montasim/montasim/actions/workflows/update-readme.yml">  
-        <img src="https://github.com/montasim/montasim/actions/workflows/update-readme.yml/badge.svg" alt="update readme workflow badge" />
-    </a>
-    <a href="https://github.com/montasim/montasim/actions/workflows/stack-overflow-workflow.yml">  
-        <img src="https://github.com/montasim/montasim/actions/workflows/stack-overflow-workflow.yml/badge.svg" alt="stack overflow workflow badge" />
-    </a>
-    <a href="https://github.com/montasim/montasim/actions/workflows/twitter-workflow.yml">  
-        <img src="https://github.com/montasim/montasim/actions/workflows/twitter-workflow.yml/badge.svg" alt="twitter workflow badge" />
-    </a>
-    <a href="https://github.com/montasim/montasim/actions/workflows/wakatime-workflow.yml">  
-        <img src="https://github.com/montasim/montasim/actions/workflows/wakatime-workflow.yml/badge.svg" alt="wakatime workflow badge" />
-    </a>
-    <a href="https://github.com/montasim/montasim/actions/workflows/youtube-workflow.yml">  
-        <img src="https://github.com/montasim/montasim/actions/workflows/youtube-workflow.yml/badge.svg" alt="youtube workflow badge" />
-    </a>
-</div>
-
-<br/>
-<br/>
-<br/>
-
 <!-- wave GIF start -->
-<div align="center" width="100%">
+<div align="center">
     <img width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
 </div>
 <!-- wave GIF end -->
