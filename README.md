@@ -34,7 +34,9 @@
 
 <!-- hello nice to meet you text start -->
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1&pause=1000&center=true&vCenter=true&repeat=false&width=800&lines=%F0%9F%8E%B2+%EF%BC%A8%EF%BD%85%EF%BD%8C%EF%BD%8C%EF%BD%8F%EF%BC%8C+%EF%BC%AE%EF%BD%89%EF%BD%83%EF%BD%85+%EF%BD%94%EF%BD%8F+%EF%BD%8D%EF%BD%85%EF%BD%85%EF%BD%94+%EF%BD%99%EF%BD%8F%EF%BD%95+%F0%9F%8E%93" alt="hello nice to meet you svg" />
+    <img width="30px" src="./media/icons/code.png" alt="code png" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=395&height=29&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
+    <img width="30px" src="./media/icons/layers.png" alt="layers png" />
 </div>
 <!-- hello nice to meet you text end -->
 
@@ -43,14 +45,9 @@
 <!-- about repository badges start -->
 <div align="center">
   <img style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c.svg"/>
-  <img style="margin-right: 6px" alt="stars badge"src="https://img.shields.io/github/stars/montasim/montasim"/>
-  <img style="margin-right: 6px" alt="forks badge"src="https://img.shields.io/github/forks/montasim/montasim?label=Fork"/>
-  <img style="margin-right: 6px" alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/montasim">
-  <img style="margin-right: 6px" alt="visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=github.com/montasim">
-  <img style="margin-right: 6px" alt="profile hits counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmontasim1212%2Fhit-counter">
-  <img style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/montasim?label=Follow"/>
-  <a href="https://github.com/montasim/montasim/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
-    <img alt="Guest Book" src="https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round" />
+  <img style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/montasim?label=Followed+By&labelColor=EB008B&color=00B8B5"/>
+  <a style="margin-right: 6px" href="https://github.com/montasim/montasim/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
+    <img alt="Guest Book" src="https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round&color=00B8B5" />
   </a>
   <img style="margin-right: 6px" alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
 </div>
@@ -79,14 +76,14 @@
 
 <!-- tools badge start -->
 <div align="center">
-  <img style="margin-right: 6px" alt="git badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img style="margin-right: 6px" alt="canva badge" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-  <img style="margin-right: 6px" alt="firebase badge" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img style="margin-right: 6px" alt="vercel badge" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img style="margin-right: 6px" alt="git badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="canva badge" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="firebase badge" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="vercel badge" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&color=00B8B5">
+  <img style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=00B8B5">
 </div>
 <!-- tools badge end -->
 
@@ -94,13 +91,20 @@
 <br/>
 <br/>
 
-<!-- weather icon start -->
-<img align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@rangpur?v=1" width="100px">
-<!-- weather icon end -->
+<div align="center">
+    <!-- weather icon start -->
+    <img align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" width="100px">
+    <br/>
+    <!-- weather icon end -->
+    <!-- i am montasim text start -->
+    <div align="left">
+        <img src="./media/icons/wave.png" alt="wave png" />
+        <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=182&height=21&lines=I+AM+MONTASIM" alt="i am montasim svg" />
+    </div>
+    <!-- i am montasim text end -->
+</div>
 
-<!-- i am montasim text start -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=435&lines=%F0%9F%91%8B+%F0%9D%97%9C+%F0%9D%97%94%F0%9D%97%A0+%F0%9D%97%A0%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%A6%F0%9D%97%9C%F0%9D%97%A0" alt="i am montasim svg" />
-<!-- i am montasim text end -->
+<br/>
 
 <!-- my summary start -->
 <p> 
@@ -120,7 +124,10 @@
 
 <!-- my resume text start -->
 <details>
-    <summary> 📰 𝗠𝗬 𝗥𝗘𝗦𝗨𝗠𝗘 </summary>
+    <summary>
+        <img width="16px" src="./media/icons/cv.png" alt="my resume" /> 
+        <img src="https://readme-typing-svg.demolab.com?font=Karla&weight=600&size=16&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=100&height=15&lines=MY+RESUME" alt="my resume" /> 
+    </summary>
     <br/>
     <h2 align="right">
     <a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 
@@ -461,8 +468,9 @@
 <br/>
 
 <!-- feel free to contact me text start -->
-<div align="right" uppercase> 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=410&lines=%F0%9F%93%AA+%F0%9D%97%99%F0%9D%97%98%F0%9D%97%98%F0%9D%97%9F+%F0%9D%97%99%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%98+%F0%9D%97%A7%F0%9D%97%A2+%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%96%F0%9D%97%A7+%F0%9D%97%A0%F0%9D%97%98+%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%AC%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A0%F0%9D%97%98" alt="feel free to contact me svg" />
+<div align="right"> 
+    <img src="./media/icons/postbox.png" alt="postbox svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=385&height=21&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
 </div>
 <!-- feel free to contact me text end -->
 
@@ -520,8 +528,13 @@
 <br/>
 
 <!-- fun facts text start -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=410&lines=%F0%9F%94%B7+%F0%9D%97%99%F0%9D%97%A8%F0%9D%97%A1+%F0%9D%97%99%F0%9D%97%94%F0%9D%97%96%F0%9D%97%A7%F0%9D%97%A6" alt="fun facts svg" />
+<div align="left">
+    <img src="./media/icons/confetti.png" alt="confetti svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=128&height=21&lines=FUN+FACTS" alt="fun facts svg" />
+</div>
 <!-- fun facts text end -->
+
+<br/>
 
 <!-- random jokes start -->
 <div align="center">
@@ -530,10 +543,12 @@
 <!-- random jokes -->
 
 <br/>
+<br/>
 
 <!-- my github stats text start -->
 <div align="center"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=220&height=40&lines=%F0%9F%93%8A+MY+GITHUB+STATS" alt="my github stats svg" />
+    <img align="center" src="./media/icons/pie-chart.png" alt="pie chart png" />
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
 </div>
 <!-- my github stats text end -->
 
@@ -541,59 +556,45 @@
 
 <div align="center">
     <!-- github streak start -->
-    <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&theme=react&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=36BCF7FF&background=0D1117&text_color=FFFFFF&icon_color=36BCF7FF&border=61dafb&hide_border=true" alt="montasim" />
+    <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=EB008B&fire=00B8B5&currStreakNum=00B8B5&sideNums=00B8B5&currStreakLabel=FFFFFF&sideLabels=FFFFFF&excludeDaysLabel=EB008B&dates=EB008B" alt="current streak stats" />
     <!-- github streak end -->
     <!-- github stats start -->
-    <img width=396 src="https://github-readme-stats-montasim.vercel.app/api?username=montasim&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=36BCF7FF&currStreakLabel=36BCF7FF&sideLabels=36BCF7FF&icon_color=36BCF7FF&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true" />
+    <img width=396 src="https://github-readme-stats-montasim.vercel.app/api?username=montasim&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=EB008B&currStreakLabel=EB008B&sideLabels=EB008B&icon_color=EB008B&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&include_all_commits=true" alt="github stats" />
     <!-- github stats end -->
 </div>
 
-<br/>
-<br/>
-
 <div align="center">
     <!-- github most used languages start -->
-    <img width=325 src="https://github-readme-stats-montasim.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=36BCF7FF&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width=325 src="https://github-readme-stats-montasim.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     <!-- github most used languages end -->
     <!-- wakatime weekly activity start -->
     <!-- <a href="https://wakatime.com/@montasim" title="Data update every midnight">
-        <img src="https://github-readme-stats-montasim.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&text_color=FFFFFF&bg_color=0D1117&title_color=36BCF7FF&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
+        <img src="https://github-readme-stats-montasim.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&text_color=00B8B5&bg_color=0D1117&title_color=EB008B&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
     </a> -->
     <!-- wakatime weekly activity end -->
 </div>
 
-<br/>
-<br/>
-
 <!-- github readme activity graph start -->
 <div align="center">
-    <img alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react-dark&hide_title=true&text_color=FFFFFF&bg_color=0D1117&title_color=36BCF7FF&line=36BCF7FF&border_color=61dafb&hide_border=true">
+    <img alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=montasim&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
 </div>
 <!-- github readme activity graph end -->
 
-<br/>
-<br/>
-
 <!-- github trophy start -->
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=montasim&theme=algolia&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A">
+    <img src="https://github-profile-trophy.vercel.app/?username=montasim&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A">
 </div>
 <!-- github trophy end -->
-
-<br/>
-
-<!-- wave GIF start -->
-<div align="center" width="100%">
-    <img width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
-</div>
-<!-- wave GIF end -->
 
 <br/>
 <br/>
 
 <!-- things I use start -->
 <details>
-    <summary>:bookmark: 𝗠𝗢𝗥𝗘 𝗦𝗧𝗨𝗙𝗙 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</summary>
+    <summary>
+        <img width="16px" src="./media/icons/bookmark.png" alt="bookmar png" >
+        <img src="https://readme-typing-svg.demolab.com?font=Karla&weight=500&size=18&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=17&lines=MORE+STUFF+ABOUT+ME" alt="more stuff about me" >
+    </summary>
     <br/>
     <h2>
         What I do
@@ -973,7 +974,7 @@
             </h3>
             <div>
                 <img style="margin-right: 6px" alt="stackoverflow badge" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-                <img style="margin-right: 6px" alt="stack exchange badge" src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white">
+                <img style="margin-right: 6px" alt="stack exchange badge" src="https://img.shields.io/badge/StackExchange-%2300B8B5.svg?style=for-the-badge&logo=StackExchange&logoColor=white">
                 <img style="margin-right: 6px" alt="qoura badge" src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white">
                 <img style="margin-right: 6px" alt="reddit badge" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">
             </div>
@@ -1190,8 +1191,9 @@
 
 <!-- find more on social media start -->
 <details>
-    <summary> 
-        <b> 📛 𝗙𝗜𝗡𝗗 𝗠𝗢𝗥𝗘 𝗢𝗡 𝗦𝗢𝗖𝗜𝗔𝗟 𝗠𝗘𝗗𝗜𝗔 </b> 
+    <summary>
+        <img width="16px" src="./media/icons/hot-deal.png" alt="bookmar png" >
+        <img src="https://readme-typing-svg.demolab.com?font=Karla&weight=500&size=18&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=250&height=17&lines=FIND+MORE+ON+SOCIAL+MEDIA" alt="more stuff about me" >
     </summary>
 
 <br><br>
@@ -1242,9 +1244,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.2%20million%20lines%20of%20code-blue)
 
@@ -1252,32 +1254,32 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 771 Contributions in the Year 2023
+> 🏆 802 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 28 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4024 commits        ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-🌆 Daytime                5227 commits        ████████░░░░░░░░░░░░░░░░░   31.68 % 
-🌃 Evening                5344 commits        ████████░░░░░░░░░░░░░░░░░   32.39 % 
-🌙 Night                  1903 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+🌞 Morning                4029 commits        ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+🌆 Daytime                5283 commits        ████████░░░░░░░░░░░░░░░░░   31.59 % 
+🌃 Evening                5460 commits        ████████░░░░░░░░░░░░░░░░░   32.65 % 
+🌙 Night                  1950 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2912 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Tuesday                  1667 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Wednesday                2360 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Thursday                 2133 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Friday                   2392 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Saturday                 2276 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Sunday                   2758 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Monday                   2966 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Tuesday                  1735 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Wednesday                2404 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Thursday                 2133 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Friday                   2392 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Saturday                 2282 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Sunday                   2810 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
 ```
 
 
@@ -1287,34 +1289,34 @@ Sunday                   2758 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               12 hrs 25 mins      █████████████████░░░░░░░░   66.37 % 
-EJS                      2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Less                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+JavaScript               11 hrs 5 mins       ██████████████░░░░░░░░░░░   54.60 % 
+EJS                      3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+TypeScript               2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Less                     2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Markdown                 1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 15 mins      ████████████████████████░   97.53 % 
-WebStorm                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+VS Code                  16 hrs 29 mins      ████████████████████░░░░░   81.21 % 
+WebStorm                 3 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
 
 💻 Operating System: 
-Windows                  18 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               90 repos            ██████████████░░░░░░░░░░░   56.60 % 
-HTML                     38 repos            ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
-TypeScript               6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+JavaScript               90 repos            ██████████████░░░░░░░░░░░   56.25 % 
+HTML                     38 repos            ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+TypeScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 
 
 
 
- Last Updated on 20/06/2023 00:52:59 UTC
+ Last Updated on 21/06/2023 00:56:39 UTC
 <!--END_SECTION:waka-->
 
 <br>
@@ -1322,10 +1324,10 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/sagelga/github-achievement-cheatsheet/pull/8) in [sagelga/github-achievement-cheatsheet](https://github.com/sagelga/github-achievement-cheatsheet)
-2. 💪 Opened PR [#115](https://github.com/drknzz/GitHub-Achievements/pull/115) in [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements)
-3. 🎉 Merged PR [#14](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/14) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
-4. 💪 Opened PR [#14](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/14) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
+1. 🎉 Merged PR [#53](https://github.com/montasim/montasim/pull/53) in [montasim/montasim](https://github.com/montasim/montasim)
+2. 💪 Opened PR [#53](https://github.com/montasim/montasim/pull/53) in [montasim/montasim](https://github.com/montasim/montasim)
+3. 💪 Opened PR [#8](https://github.com/sagelga/github-achievement-cheatsheet/pull/8) in [sagelga/github-achievement-cheatsheet](https://github.com/sagelga/github-achievement-cheatsheet)
+4. 💪 Opened PR [#115](https://github.com/drknzz/GitHub-Achievements/pull/115) in [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements)
 5. 🎉 Merged PR [#13](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/13) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
 6. 💪 Opened PR [#13](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/13) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
 7. 🎉 Merged PR [#11](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/11) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
@@ -1431,9 +1433,19 @@ Let me know your thoughts down in the comments and check out my profile for more
 <br/>
 <br/>
 
+<!-- wave GIF start -->
+<div align="center" width="100%">
+    <img width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
+</div>
+<!-- wave GIF end -->
+
+<br/>
+<br/>
+<br/>
+
 <!-- build with love svg start -->
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&width=150&height=40&lines=BUILD+WITH+%E2%9D%A4%EF%B8%8F%EF%B8%8F;BUILD+BY+MONTASIM" alt="build with love svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=185&height=15&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+MONTASIM" alt="build with love svg" />
 </div>
 <!-- build with love svg end -->
 
