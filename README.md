@@ -589,8 +589,6 @@
 </details>
 <!-- my resume text end -->
 
-<br/>
-
 <!-- things I use start -->
 <details>
     <summary> MORE STUFF ABOUT ME </summary>
@@ -1187,8 +1185,6 @@
     <br/>
 </details>
 <!-- things I use end -->
-
-<br/>
 
 <!-- find more on social media start -->
 <details>
