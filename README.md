@@ -99,7 +99,7 @@
     <!-- i am montasim text start -->
     <div align="left">
         <img width="21" src="./media/icons/charismatic.png" alt="wave png" />
-        <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=125&height=21&lines=ABOUT+ME" alt="i am montasim svg" />
+        <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=120&height=21&lines=ABOUT+ME" alt="i am montasim svg" />
     </div>
     <!-- i am montasim text end -->
 </div>
