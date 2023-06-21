@@ -121,6 +121,53 @@
 <!-- my summary end -->
 
 <br/>
+<br/>
+<br/>
+
+<!-- my github stats text start -->
+<div align="center"> 
+    <img align="center" src="./media/icons/pie-chart.png" alt="pie chart png" />
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
+</div>
+<!-- my github stats text end -->
+
+<br/>
+
+<div align="center">
+    <!-- github streak start -->
+    <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=EB008B&fire=00B8B5&currStreakNum=00B8B5&sideNums=00B8B5&currStreakLabel=FFFFFF&sideLabels=FFFFFF&excludeDaysLabel=EB008B&dates=EB008B" alt="current streak stats" />
+    <!-- github streak end -->
+    <!-- github stats start -->
+    <img width=396 src="https://github-readme-stats-montasim.vercel.app/api?username=montasim&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=EB008B&currStreakLabel=EB008B&sideLabels=EB008B&icon_color=EB008B&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&include_all_commits=true" alt="github stats" />
+    <!-- github stats end -->
+</div>
+
+<div align="center">
+    <!-- github most used languages start -->
+    <img width=325 src="https://github-readme-stats-montasim.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <!-- github most used languages end -->
+    <!-- wakatime weekly activity start -->
+    <!-- <a href="https://wakatime.com/@montasim" title="Data update every midnight">
+        <img src="https://github-readme-stats-montasim.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&text_color=00B8B5&bg_color=0D1117&title_color=EB008B&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
+    </a> -->
+    <!-- wakatime weekly activity end -->
+</div>
+
+<!-- github readme activity graph start -->
+<div align="center">
+    <img alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=montasim&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
+</div>
+<!-- github readme activity graph end -->
+
+<!-- github trophy start -->
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=montasim&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A">
+</div>
+<!-- github trophy end -->
+
+<br/>
+<br/>
+<br/>
 
 <!-- my resume text start -->
 <details>
@@ -542,51 +589,6 @@
 </div>
 <!-- random jokes -->
 
-<br/>
-<br/>
-
-<!-- my github stats text start -->
-<div align="center"> 
-    <img align="center" src="./media/icons/pie-chart.png" alt="pie chart png" />
-    <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
-</div>
-<!-- my github stats text end -->
-
-<br/>
-
-<div align="center">
-    <!-- github streak start -->
-    <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=EB008B&fire=00B8B5&currStreakNum=00B8B5&sideNums=00B8B5&currStreakLabel=FFFFFF&sideLabels=FFFFFF&excludeDaysLabel=EB008B&dates=EB008B" alt="current streak stats" />
-    <!-- github streak end -->
-    <!-- github stats start -->
-    <img width=396 src="https://github-readme-stats-montasim.vercel.app/api?username=montasim&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=EB008B&currStreakLabel=EB008B&sideLabels=EB008B&icon_color=EB008B&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&include_all_commits=true" alt="github stats" />
-    <!-- github stats end -->
-</div>
-
-<div align="center">
-    <!-- github most used languages start -->
-    <img width=325 src="https://github-readme-stats-montasim.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    <!-- github most used languages end -->
-    <!-- wakatime weekly activity start -->
-    <!-- <a href="https://wakatime.com/@montasim" title="Data update every midnight">
-        <img src="https://github-readme-stats-montasim.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&text_color=00B8B5&bg_color=0D1117&title_color=EB008B&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
-    </a> -->
-    <!-- wakatime weekly activity end -->
-</div>
-
-<!-- github readme activity graph start -->
-<div align="center">
-    <img alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=montasim&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
-</div>
-<!-- github readme activity graph end -->
-
-<!-- github trophy start -->
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=montasim&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A">
-</div>
-<!-- github trophy end -->
-
-<br/>
 <br/>
 <br/>
 
