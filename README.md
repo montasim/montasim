@@ -57,18 +57,18 @@
 
 <!-- skills icons start -->
 <div align="center">
-  <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/EB008B" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/EB008B" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/react/EB008B" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/EB008B" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/express/EB008B" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/EB008B" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/sass/EB008B" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/EB008B" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/EB008B" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/html5/EB008B" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/css3/EB008B" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/markdown/EB008B" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/FFFFFF" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/FFFFFF" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/react/FFFFFF" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/express/FFFFFF" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/FFFFFF" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/sass/FFFFFF" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/FFFFFF" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/FFFFFF" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/html5/FFFFFF" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/css3/FFFFFF" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/markdown/FFFFFF" />
 </div>
 <!-- skills icons end -->
 
@@ -185,37 +185,37 @@
         <tr>
             <th>
                 <a href="https://www.linkedin.com/in/montasim">
-                    <img alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/EB008B" width="35px">
+                    <img alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://www.github.com/montasim">
-                    <img alt="github icon" src="https://cdn.simpleicons.org/github/EB008B" width="35px">
+                    <img alt="github icon" src="https://cdn.simpleicons.org/github/FFFFFF" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://stackoverflow.com/users/20348607/montasim">
-                    <img alt="github icon" src="https://cdn.simpleicons.org/stackoverflow/EB008B" width="35px">
+                    <img alt="github icon" src="https://cdn.simpleicons.org/stackoverflow/FFFFFF" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://montasim-dev.web.app/">
-                    <img alt="web icon" src="https://cdn.simpleicons.org/googlechrome/EB008B" width="35px">
+                    <img alt="web icon" src="https://cdn.simpleicons.org/googlechrome/FFFFFF" width="35px">
                 </a>
             </th>
             <th>
                 <a href="mailto:montasimmamun@gmail.com">
-                    <img alt="gmail icon" src="https://cdn.simpleicons.org/gmail/EB008B" width="35px">
+                    <img alt="gmail icon" src="https://cdn.simpleicons.org/gmail/FFFFFF" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://www.facebook.com/montasimmamun/">
-                    <img alt="facebook icon" src="https://cdn.simpleicons.org/facebook/EB008B" width="35px">
+                    <img alt="facebook icon" src="https://cdn.simpleicons.org/facebook/FFFFFF" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://twitter.com/montasimmamun">
-                    <img alt="facebook icon" src="https://cdn.simpleicons.org/twitter/EB008B" width="35px">
+                    <img alt="facebook icon" src="https://cdn.simpleicons.org/twitter/FFFFFF" width="35px">
                 </a>
             </th>
         </tr>
