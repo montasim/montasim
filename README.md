@@ -57,18 +57,18 @@
 
 <!-- skills icons start -->
 <div align="center">
-  <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/white" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/white" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/react/white" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/white" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/express/white" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/white" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/sass/white" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/white" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/white" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/html5/white" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/css3/white" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/markdown/white" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/EB008B" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/EB008B" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/react/EB008B" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/EB008B" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/express/EB008B" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/EB008B" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/sass/EB008B" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/EB008B" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/EB008B" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/html5/EB008B" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/css3/EB008B" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/markdown/EB008B" />
 </div>
 <!-- skills icons end -->
 
@@ -96,12 +96,12 @@
     <img align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" width="100px">
     <br/>
     <!-- weather icon end -->
-    <!-- i am montasim text start -->
+    <!-- about me start -->
     <div align="left">
         <img width="21" src="./media/icons/charismatic.png" alt="wave png" />
         <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=120&height=21&lines=ABOUT+ME" alt="i am montasim svg" />
     </div>
-    <!-- i am montasim text end -->
+    <!-- about me end -->
 </div>
 
 <br/>
@@ -185,37 +185,37 @@
         <tr>
             <th>
                 <a href="https://www.linkedin.com/in/montasim">
-                    <img alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/white" width="35px">
+                    <img alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/EB008B" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://www.github.com/montasim">
-                    <img alt="github icon" src="https://cdn.simpleicons.org/github/white" width="35px">
+                    <img alt="github icon" src="https://cdn.simpleicons.org/github/EB008B" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://stackoverflow.com/users/20348607/montasim">
-                    <img alt="github icon" src="https://cdn.simpleicons.org/stackoverflow/white" width="35px">
+                    <img alt="github icon" src="https://cdn.simpleicons.org/stackoverflow/EB008B" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://montasim-dev.web.app/">
-                    <img alt="web icon" src="https://cdn.simpleicons.org/googlechrome/white" width="35px">
+                    <img alt="web icon" src="https://cdn.simpleicons.org/googlechrome/EB008B" width="35px">
                 </a>
             </th>
             <th>
                 <a href="mailto:montasimmamun@gmail.com">
-                    <img alt="gmail icon" src="https://cdn.simpleicons.org/gmail/white" width="35px">
+                    <img alt="gmail icon" src="https://cdn.simpleicons.org/gmail/EB008B" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://www.facebook.com/montasimmamun/">
-                    <img alt="facebook icon" src="https://cdn.simpleicons.org/facebook/white" width="35px">
+                    <img alt="facebook icon" src="https://cdn.simpleicons.org/facebook/EB008B" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://twitter.com/montasimmamun">
-                    <img alt="facebook icon" src="https://cdn.simpleicons.org/twitter/white" width="35px">
+                    <img alt="facebook icon" src="https://cdn.simpleicons.org/twitter/EB008B" width="35px">
                 </a>
             </th>
         </tr>
