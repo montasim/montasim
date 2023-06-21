@@ -98,7 +98,7 @@
     <!-- weather icon end -->
     <!-- i am montasim text start -->
     <div align="left">
-        <img src="./media/icons/wave.png" alt="wave png" />
+        <img width="21" src="./media/icons/wave.png" alt="wave png" />
         <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=182&height=21&lines=I+AM+MONTASIM" alt="i am montasim svg" />
     </div>
     <!-- i am montasim text end -->
@@ -126,7 +126,7 @@
 
 <!-- my github stats text start -->
 <div align="center"> 
-    <img align="center" src="./media/icons/pie-chart.png" alt="pie chart png" />
+    <img width="21" align="center" src="./media/icons/pie-chart.png" alt="pie chart png" />
     <img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
 </div>
 <!-- my github stats text end -->
@@ -172,7 +172,7 @@
 
 <!-- feel free to contact me text start -->
 <div align="center"> 
-    <img src="./media/icons/postbox.png" alt="postbox svg" />
+    <img width="21" src="./media/icons/link.png" alt="postbox svg" />
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=385&height=21&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
 </div>
 <!-- feel free to contact me text end -->
@@ -230,7 +230,7 @@
 
 <!-- fun facts text start -->
 <div align="left">
-    <img src="./media/icons/confetti.png" alt="confetti svg" />
+    <img width="21" src="./media/icons/confetti.png" alt="confetti svg" />
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=128&height=21&lines=FUN+FACTS" alt="fun facts svg" />
 </div>
 <!-- fun facts text end -->
