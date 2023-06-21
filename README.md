@@ -227,10 +227,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 <!-- fun facts text start -->
 <div align="left">
