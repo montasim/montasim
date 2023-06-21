@@ -248,7 +248,6 @@
 
 <br/>
 <br/>
-<br/>
 
 <!-- my resume text start -->
 <details>
