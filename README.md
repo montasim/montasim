@@ -1314,9 +1314,9 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/montasim/montasim/pull/53) in [montasim/montasim](https://github.com/montasim/montasim)
-2. 💪 Opened PR [#53](https://github.com/montasim/montasim/pull/53) in [montasim/montasim](https://github.com/montasim/montasim)
-3. 💪 Opened PR [#8](https://github.com/sagelga/github-achievement-cheatsheet/pull/8) in [sagelga/github-achievement-cheatsheet](https://github.com/sagelga/github-achievement-cheatsheet)
+1. ❌ Closed PR [#115](https://github.com/drknzz/GitHub-Achievements/pull/115) in [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements)
+2. 🎉 Merged PR [#53](https://github.com/montasim/montasim/pull/53) in [montasim/montasim](https://github.com/montasim/montasim)
+3. 💪 Opened PR [#53](https://github.com/montasim/montasim/pull/53) in [montasim/montasim](https://github.com/montasim/montasim)
 4. 💪 Opened PR [#115](https://github.com/drknzz/GitHub-Achievements/pull/115) in [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements)
 5. 🎉 Merged PR [#13](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/13) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
 6. 💪 Opened PR [#13](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/13) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
