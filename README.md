@@ -291,9 +291,9 @@
 <br/>
 
 <!-- skills start -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=75&height=31&lines=SKILLS" alt="skills" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=75&height=61&lines=SKILLS" alt="skills" />
 
-<table width=100%>
+<table>
     <thead>
         <tr>
             <th>Name</th>
@@ -358,7 +358,7 @@
 <br/>
 
 <!-- work experience start -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=240&height=21&lines=WORK EXPERIENCE+:+%20+(2)" alt="work experience" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=240&height=61&lines=WORK EXPERIENCE+:+%20+(2)" alt="work experience" />
 
 <table>
     <thead>
@@ -401,7 +401,7 @@
 <br/>
 
 <!-- academic qualification start-> -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=330&height=21&lines=ACADEMIC QUALIFICATION+:+%20+(3)" alt="academic qualification" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=330&height=61&lines=ACADEMIC QUALIFICATION+:+%20+(3)" alt="academic qualification" />
 
 <table align="center">
     <thead>
@@ -452,7 +452,7 @@
 <br/>
 
 <!-- Start Undergraduate Thesis and Project -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=446&height=21&lines=UNDERGRADUATE+THESIS+and+PROJECT+:+%20+(1)" alt="undergraduate thesis and project" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=446&height=61&lines=UNDERGRADUATE+THESIS+and+PROJECT+:+%20+(1)" alt="undergraduate thesis and project" />
 
 <p>
     <b>Hand Pose Estimation in Single RGB Image with Multiview Bootstrapping.</b>
@@ -474,7 +474,7 @@
 <br/>
 
 <!-- Start Language Proficiency -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=305&height=21&lines=LANGUAGE PROFICIENCY+:+%20+(3)" alt="language proficency" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=305&height=61&lines=LANGUAGE PROFICIENCY+:+%20+(3)" alt="language proficency" />
 
 <table>
     <thead>
@@ -511,7 +511,7 @@
 <br/>
 
 <!-- Start Training, Participation and Certification -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=520&height=21&lines=TRAINING PARTICIPATION+and+CERTIFICATION+:+%20+(9)" alt="training, participation and certification" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=520&height=61&lines=TRAINING PARTICIPATION+and+CERTIFICATION+:+%20+(9)" alt="training, participation and certification" />
 
 <ol>
     <li>
