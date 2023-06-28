@@ -273,6 +273,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=475&height=21&lines=MOHAMMAD+MONTASIM+-AL-+MAMUN+SHUVO" alt="mohammad montasim -al- mamun shuvo" />
 
 <br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=160&height=16&lines=Frontend+Developer" alt="frontend developer" />
 
