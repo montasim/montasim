@@ -566,134 +566,12 @@
 <details>
     <summary> MORE STUFF ABOUT ME </summary>
     <br/>
-    <h2>
-        What I do
-    </h2>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=110&height=61&lines=WHAT I DO" alt="what i do" />
     <p>
         I do Open Source. In fact, I do Open Source so much, that 95% of my work on GitHub is free and open to everyone. I am really passionate about doing web development, it is in my opinion the best combination of logical programming and (sometimes) beautiful design.
     </p>
     <br/>
-    <!-- quick info about me start -->
-    <details>
-        <summary> Quick Info About Me</summary>
-        <br/>
-        <table>
-            <tbody>
-                <tr>
-                    <td>
-                        <b>Name</b>
-                    </td>
-                    <td>Mohammad Montasim -Al- Mamun Shuvo</td>
-                </tr>
-                <tr>
-                    <td>
-                        <b>Born</b>
-                    </td>
-                    <td><time datetime="1998-12-16 08:00">16 December, 1998</time></td>
-                </tr>
-                <tr>
-                    <td>
-                        <b>Education</b>
-                    </td>
-                    <td>Bachelor of Science in Computer Science and Engineering</td>
-                </tr>
-                <tr>
-                    <td>
-                        <b>Alma mater</b>
-                    </td>
-                    <td>Bangladesh Army University of Science and Technology</td>
-                </tr>
-                <tr>
-                    <td>
-                        <b>Nationality</b>
-                    </td>
-                    <td>Bangladeshi</td>
-                </tr>
-                <tr>
-                    <td>
-                        <b>Occupation</b>
-                    </td>
-                    <td>Web Developer</td>
-                </tr>
-                <tr>
-                    <td>
-                        <b>Skills</b>
-                    </td>
-                    <td>Javascript (ES6), React, Node.js, Express.js, MongoDB, Next.js, Tailwind CSS, Bootstrap, SASS, HTML5, CSS3</td>
-                </tr>
-            </tbody>
-        </table>
-        <br/>
-    </details>
-    <!-- quick info about me end -->
-    <!-- work experience start -->
-    <details>
-        <summary>My Work Experience</summary>
-        <br/>
-        <table>
-            <thead>
-                <tr>
-                    <th>Company</th>
-                    <th>Position</th>
-                    <th>Field</th>
-                    <th>Duration</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>
-                        <a href="http://mymedicalhub.com/">MyMedicalHUB</a>
-                    </td>
-                    <td>Junior Frontend Developer</td>
-                    <td>
-                        <p>
-                            Web Development
-                        </p>
-                    </td>
-                    <td>Nov 2022 - Present</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="http://mymedicalhub.com/">MyMedicalHUB</a>
-                    </td>
-                    <td>Junior Frontend Developer - Intern</td>
-                    <td>
-                        <p>
-                            Web Development
-                        </p>
-                    </td>
-                    <td>Aug 2022 - Oct 2022</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="http://www.drra-bd.org/">Disabled Rehabilitation & Research Association</a>
-                    </td>
-                    <td>Computer Instructor</td>
-                    <td>
-                        <p>
-                            IT
-                        </p>
-                    </td>
-                    <td>Feb 2022 - Aug 2022</td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="http://www.drra-bd.org/">Disabled Rehabilitation & Research Association</a>
-                    </td>
-                    <td>Management Information System Officer</td>
-                    <td>
-                        <p>
-                            IT
-                        </p>
-                    </td>
-                    <td>Dec 2021 - Aug 2022</td>
-                </tr>
-            </tbody>
-        </table>
-    </details>
-    <!-- work experience end -->
-    <br/>
-    <h2>My Skills</h2>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=110&height=61&lines=MY SKILLS" alt="my skills" />
     <br/>
     <table>
         <thead>
@@ -887,8 +765,9 @@
         </tbody>
     </table>
     <br/>
+    <br/>
     <!-- currently learning start -->
-    <h2> I am currently learning: </h2>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=280&height=61&lines=I AM CURRENTLY LEARNING" alt="i am currently learning" />
     <div>
         <img style="margin-right: 6px" alt="typescript badge" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
         <img style="margin-right: 6px" alt="redux badge" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
@@ -898,10 +777,9 @@
     </div>
     <!-- currently learning end -->
     <br/>
+    <br/>
     <!-- Forgetting -->
-    <h2> 
-        Forgetting: 
-    </h2>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=150&height=61&lines=FORGETTINGS" alt="forgetting" />
     <div>
         <img style="margin-right: 6px" alt="java badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
         <img style="margin-right: 6px" alt="php badge" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
@@ -912,9 +790,8 @@
     </div>
     <!-- Forgetting-->
     <br/>
-    <h2>
-        Things I use
-    </h2>
+    <br/>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=140&height=61&lines=THINGS I USE" alt="things i use" />
     <ol>
         <!-- integrated development environment start -->
         <li>
@@ -997,9 +874,8 @@
         <!-- Learning Platform end -->
     </ol>
     <br/>
-    <h2> 
-        :heart: Things I own
-    </h2>
+    <br/>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=150&height=61&lines=THINGS I OWN" alt="things i own" />
     <ol>
         <li>
             <h3> 
@@ -1146,7 +1022,9 @@
             </ul>
         </li>
     </ol>
-    <h2>Tasks</h2>
+    <br/>
+    <br/>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=70&height=61&lines=TASKS" alt="tasks" />
     <p>:white_large_square: Born</p>
     <p>:white_large_square: Got a job</p>
     <p>:white_large_square: Married</p>
