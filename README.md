@@ -253,336 +253,309 @@
 <details>
     <summary> MY RESUME </summary>
     <br/>
-    <h2 align="right">
-    <a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&repeat=false&width=240&height=25&lines=%F0%9D%97%97%F0%9D%97%A2%F0%9D%97%AA%F0%9D%97%A1%F0%9D%97%9F%F0%9D%97%A2%F0%9D%97%94%F0%9D%97%97+%F0%9D%97%A0%F0%9D%97%AC+%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%A6%F0%9D%97%A8%F0%9D%97%A0%F0%9D%97%98" alt="download my resume" />
-    </a>
-    </h2>
     <br/>
-    <br/>
-    <!-- Montasim's Photo -->
-    <img align="right" alt="Montasim's resume Photo" src="media/images/montasim.jpg" width="200px">
-    <h2>
-        <strong>𝗠𝗢𝗛𝗔𝗠𝗠𝗔𝗗 𝗠𝗢𝗡𝗧𝗔𝗦𝗜𝗠 -𝗔𝗟- 𝗠𝗔𝗠𝗨𝗡 𝗦𝗛𝗨𝗩𝗢</strong>
-    <h2>
-    <p>Frontend Developer<p>
-    <br/>
-    <!-- quick link start -->
+
+<a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 
+    <img align="right" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=265&height=21&lines=DOWNLOAD+MY+RESUME" alt="download my resume" />
+    <img align="right" width="21px" src="./media/icons/cv.png" alt="resume icon" />
+</a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line gif">
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+<!-- Montasim's Photo -->
+<img align="right" alt="Montasim's resume Photo" src="media/images/montasim.jpg" width="200px">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=475&height=21&lines=MOHAMMAD+MONTASIM+-AL-+MAMUN+SHUVO" alt="mohammad montasim -al- mamun shuvo" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=160&height=30&lines=Frontend+Developer" alt="frontend developer" />
+
+<br/>
+<br/>
+<br/>
+
+<!-- quick link start -->
 <pre>
 <b>Email     :</b> <a href="montasimmamun@gmail.com">montasimmamun@gmail.com</a> 
 <b>Portfolio :</b> <a href="https://montasim-dev.web.app/">montasim-dev.web.app</a>
 <b>Mobile    :</b> <a href="+8801722815469">+8801722815469</a>
 <b>GitHub    :</b> <a href="https://github.com/montasim">github.com/montasim</a>
 </pre>
-    <!-- quick link end -->
-    <br/>
-    <!-- skills start -->
-    <h2>
-        <strong>Skills :</strong>
-    </h2>
-    <table>
-        <thead>
-            <tr>
-                <th>Name</th>
-                <th>Details</th>
-            </tr>
-        </thead>
-        <tbody>
-            <!-- frontend start -->
-            <tr>
-                <td>
-                    <b>Frontend</b>
-                </td>
-                <td>
-                    JavaScript, ReactJS, NextJS, Tailwind CSS, Bootstrap, HTML5, CSS3
-                </td>
-            </tr>
-            <!-- frontend end -->
-            <!-- Backend start -->
-            <tr>
-                <td>
-                    <b>Backend</b>
-                </td>
-                <td>
-                    Node.js, Express.js, MongoDB
-                </td>
-            </tr>
-            <!-- backend end -->
-            <!-- devOps start -->
-            <tr>
-                <td>
-                    <b>DevOps</b>
-                </td>
-                <td>
-                    Git, GitHub, Chrome Dev, Tools, Firebase, Heroku, Netlify
-                </td>
-            </tr>
-            <!-- devOps end -->
-            <!-- familiar with start -->
-            <tr>
-                <td>
-                    <b>Familiar With</b>
-                </td>
-                <td>
-                    Typescript, REST APIs, jQuery, Microsoft Azure, Stripe, Nodemailer
-                </td>
-            </tr>
-            <!-- familiar with end -->
-            <!-- tools start -->
-            <tr>
-                <td>
-                    <b>Tools</b>
-                </td>
-                <td>
-                    Canva, Figma
-                </td>
-            </tr>
-            <!-- tools end -->
-        </tbody>
-    </table>
-    <!-- skills end -->
-    <br/>
-    <!-- work experience start -->
-    <h2>
-        <strong>Work Experience : (2)</strong>
-    </h2>
-    <table>
-        <thead>
-            <tr>
-                <th>Company</th>
-                <th>Position</th>
-                <th>Field</th>
-                <th>Duration</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>
-                    <a href="http://mymedicalhub.com/">MyMedicalHUB</a>
-                </td>
-                <td>Junior Frontend Developer</td>
-                <td>
-                    <p>
-                        Web Development
-                    </p>
-                </td>
-                <td>Nov 2022 - Present</td>
-            </tr>
-            <tr>
-                <td>
-                    <a href="http://mymedicalhub.com/">MyMedicalHUB</a>
-                </td>
-                <td>Junior Frontend Developer - Intern</td>
-                <td>
-                    <p>
-                        Web Development
-                    </p>
-                </td>
-                <td>Aug 2022 - Oct 2022</td>
-            </tr>
-        </tbody>
-    </table>
-    <!-- work experience end -->
-    <br/>
-    <!-- academic qualification start-> -->
-    <h2>
-        <strong>Academic Qualification : (3)</strong>
-    </h2>
-    <table align="center">
-        <thead>
-            <tr>
-                <th>
-                    <b> Exam </b>
-                </th>
-                <th>
-                    <b> Concentration / Major </b>
-                </th>
-                <th>
-                    <b> Institute </b>
-                </th>
-                <th>
-                    <b> Result </b>
-                </th>
-                <th>
-                    <b> Passing Year </b>
-                </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td> Bachelor of Science (B. Sc.) </td>
-                <td> Computer Science & Engineering </td>
-                <td> Bangladesh Army University of Science and Technology </td>
-                <td> 2.96 </td>
-                <td> 2021 </td>
-            </tr>
-            <tr>
-                <td> HSC </td>
-                <td> Science </td>
-                <td> Carmichael College Rangpur </td>
-                <td> 4.58 </td>
-                <td> 2016 </td>
-            </tr>
-            <tr>
-                <td> SSC </td>
-                <td> Science </td>
-                <td> Rangpur Zilla School </td>
-                <td> 5.00 </td>
-                <td> 2014 </td>
-            </tr>
-        </tbody>
-    </table>      
-    <br/>
-    <!-- academic qualification end -->
-    <h2>
-        <strong>Undergraduate Thesis and Project : (1)</strong>
-    </h2>
-    <p>
-        <b>Hand Pose Estimation in Single RGB Image with Multiview Bootstrapping.</b>
-    </p>
-    <ul>
-        <li>
-            Deep Learning, OpenCV
-        </li>
-        <li>
-            Convolutional Neural Network (CNN)
-        </li>
-        <li>
-            Python (TensorFlow, Matplotlib, Scikit-Learn, OpenCV, Media pipe)
-        </li>
-    </ul>
-    <!-- End Undergraduate Thesis and Project -->
-    <br/>
-    <!-- Start Language Proficiency -->
-    <h2>
-        <strong>Language Proficiency : (3)</strong>
-    </h2>
-    <table>
-        <thead>
-            <tr>
-                <th><b> Language </b></th>
-                <th><b> Reading </b></th>
-                <th><b> Writing </b></th>
-                <th><b> Speaking </b></th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td> English </td>
-                <td> High </td>
-                <td> High </td>
-                <td> High </td>
-            </tr>
-            <tr>
-                <td> Bangla </td>
-                <td> High </td>
-                <td> High </td>
-                <td> High </td>
-            </tr>
-            <tr>
-                <td> Hindi </td>
-                <td> None </td>
-                <td> None </td>
-                <td> Basic </td>
-            </tr>
-        </tbody>
-    </table>
-    <!-- End Language Proficiency -->
-    <br/>
-    <!-- Start Training, Participation and Certification -->
-    <h2>
-        <strong>Training, Participation and Certification : (9)</strong>
-    </h2>
-    <ol>
-        <li>
-            𝙼𝚘𝚋𝚒𝚕𝚎 𝙶𝚊𝚖𝚎 𝙰𝚗𝚍 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝙵𝚘𝚛 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 - 𝚊𝚝 𝙸𝙲𝚃 𝙳𝚒𝚟𝚒𝚜𝚒𝚘𝚗 𝚘𝚏 𝙱𝚊𝚗𝚐𝚕𝚊𝚍𝚎𝚜𝚑
-        </li>
-        <li>
-            𝙿𝙻𝙲 𝚃𝚛𝚊𝚒𝚗𝚒𝚗𝚐 𝙲𝚘𝚞𝚛𝚜𝚎 - 𝚊𝚝 𝙱𝙰𝚄𝚂𝚃
-        </li>
-        <li>
-            𝚃𝚑𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎 𝙲 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
-        </li>
-        <li>
-            𝙲++ 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 𝚂𝚎𝚛𝚒𝚎𝚜, 𝚃𝚑𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎 𝙲𝚘𝚍𝚒𝚗𝚐 𝙶𝚞𝚒𝚍𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
-        </li>
-        <li>
-            𝙻𝚎𝚊𝚛𝚗 𝙲++ 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙼𝚒𝚗𝚒 𝙲𝚘𝚞𝚛𝚜𝚎, 𝙿𝚘𝚠𝚎𝚛 𝚘𝚏 𝙰𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
-        </li>
-        <li>
-            𝙷𝚃𝙼𝙻𝟻 𝙲𝚘𝚍𝚒𝚗𝚐 𝚏𝚛𝚘𝚖 𝚂𝚌𝚛𝚊𝚝𝚌𝚑 - 𝙱𝚞𝚒𝚕𝚍 𝚈𝚘𝚞𝚛 𝙾𝚠𝚗 𝚆𝚎𝚋𝚜𝚒𝚝𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
-        </li>
-        <li>
-            𝙿𝚘𝚜𝚒𝚝𝚒𝚘𝚗 𝙴𝚕𝚎𝚖𝚎𝚗𝚝𝚜 𝚘𝚗 𝚊 𝙿𝚊𝚐𝚎 𝚠𝚒𝚝𝚑 𝙲𝚂𝚂 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
-        </li>
-        <li>
-            𝙶𝚒𝚝 + 𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚛 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜e
-        </li>
-        <li>
-            𝚄𝚜𝚎 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚊𝚗𝚍 𝙲𝚛𝚎𝚊𝚝𝚎 𝚊 𝚁𝚎𝚖𝚘𝚝𝚎 𝙶𝚒𝚝 𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
-        </li>
-        <li>
-            𝙶𝚘𝚘𝚐𝚕𝚎 𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝚂𝚎𝚊𝚛𝚌𝚑: 𝙵𝚒𝚗𝚍 𝚂𝚝𝚞𝚏𝚏 𝙻𝚒𝚔𝚎 𝚊 𝙱𝚘𝚜𝚜 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
-        </li>
-        <li>
-            𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙻𝚒𝚗𝚎 𝚒𝚗 𝙻𝚒𝚗𝚞𝚡 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
-        </li>
-        <li>
-            𝙻𝚎𝚊𝚛𝚗 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙻𝚒𝚗𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
-        </li>
-    </ol>
-    <!-- End Training, Participation and Certification -->
-    <br/>
-    <!-- Start Extra Curricular Activities -->
-    <h2>
-        <strong>Extra Curricular Activities : (2)</strong>
-    </h2>
-    <ol>
-        <li>
-            Ex. Cadet, second-best cadet of Mohasthan Regiment at Bangladesh National Cadet Corps (BNCC)
-        </li>
-        <li>
-            Event Organizer at Rangpur Zilla School
-        </li>
-    </ol>
-    <!-- End Extra Curricular Activities -->
-    <br/>
-    <!-- Start Personal Details -->
-    <h2> Personal Details : </h2>
-    <table>
-        <tbody>
-            <tr>
-                <td> <b> Father's Name </b> </td>
-                <td> MD. Hafizar Rahman </td>
-            </tr>
-            <tr>
-                <td> <b> Mother's Name </b> </td>
-                <td> MST. Majida Begum </td>
-            </tr>
-            <tr>
-                <td> <b> Date of Birth </b> </td>
-                <td> December 16, 1998 </td>
-            </tr>
-            <tr>
-                <td> <b> Nationality </b> </td>
-                <td> Bangladeshi </td>
-            </tr>
-            <tr>
-                <td> <b> Blood Group </b> </td>
-                <td> B+ </td>
-            </tr>
-            <tr>
-                <td> <b> Religion </b> </td>
-                <td> Islam </td>
-            </tr>
-            <tr>
-                <td> <b> Permanent Address </b> </td>
-                <td> Balapara, 20 Mega Watt, Rangpur Sadar, Rangpur </td>
-            </tr>
-        </tbody>
-    </table>
-    <!-- End Personal Details -->    
-    <br/>
+<!-- quick link end -->
+
+<br/>
+<br/>
+
+<!-- skills start -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=75&height=21&lines=SKILLS" alt="skills" />
+
+<table width=100%>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- frontend start -->
+        <tr>
+            <td>
+                <b>Frontend</b>
+            </td>
+            <td>
+                JavaScript, ReactJS, NextJS, Tailwind CSS, Bootstrap, HTML5, CSS3
+            </td>
+        </tr>
+        <!-- frontend end -->
+        <!-- Backend start -->
+        <tr>
+            <td>
+                <b>Backend</b>
+            </td>
+            <td>
+                Node.js, Express.js, MongoDB
+            </td>
+        </tr>
+        <!-- backend end -->
+        <!-- devOps start -->
+        <tr>
+            <td>
+                <b>DevOps</b>
+            </td>
+            <td>
+                Git, GitHub, Chrome Dev, Tools, Firebase, Heroku, Netlify
+            </td>
+        </tr>
+        <!-- devOps end -->
+        <!-- familiar with start -->
+        <tr>
+            <td>
+                <b>Familiar With</b>
+            </td>
+            <td>
+                Typescript, REST APIs, jQuery, Microsoft Azure, Stripe, Nodemailer
+            </td>
+        </tr>
+        <!-- familiar with end -->
+        <!-- tools start -->
+        <tr>
+            <td>
+                <b>Tools</b>
+            </td>
+            <td>
+                Canva, Figma
+            </td>
+        </tr>
+        <!-- tools end -->
+    </tbody>
+</table>
+<!-- skills end -->
+
+<br/>
+
+<!-- work experience start -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=240&height=21&lines=WORK EXPERIENCE+:+%20+(2)" alt="work experience" />
+
+<table>
+    <thead>
+        <tr>
+            <th>Company</th>
+            <th>Position</th>
+            <th>Field</th>
+            <th>Duration</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a href="http://mymedicalhub.com/">MyMedicalHUB</a>
+            </td>
+            <td>Junior Frontend Developer</td>
+            <td>
+                <p>
+                    Web Development
+                </p>
+            </td>
+            <td>Nov 2022 - Present</td>
+        </tr>
+        <tr>
+            <td>
+                <a href="http://mymedicalhub.com/">MyMedicalHUB</a>
+            </td>
+            <td>Junior Frontend Developer - Intern</td>
+            <td>
+                <p>
+                    Web Development
+                </p>
+            </td>
+            <td>Aug 2022 - Oct 2022</td>
+        </tr>
+    </tbody>
+</table>
+<!-- work experience end -->
+
+<br/>
+
+<!-- academic qualification start-> -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=330&height=21&lines=ACADEMIC QUALIFICATION+:+%20+(3)" alt="academic qualification" />
+
+<table align="center">
+    <thead>
+        <tr>
+            <th>
+                <b> Exam </b>
+            </th>
+            <th>
+                <b> Concentration / Major </b>
+            </th>
+            <th>
+                <b> Institute </b>
+            </th>
+            <th>
+                <b> Result </b>
+            </th>
+            <th>
+                <b> Passing Year </b>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Bachelor of Science (B. Sc.) </td>
+            <td> Computer Science & Engineering </td>
+            <td> Bangladesh Army University of Science and Technology </td>
+            <td> 2.96 </td>
+            <td> 2021 </td>
+        </tr>
+        <tr>
+            <td> HSC </td>
+            <td> Science </td>
+            <td> Carmichael College Rangpur </td>
+            <td> 4.58 </td>
+            <td> 2016 </td>
+        </tr>
+        <tr>
+            <td> SSC </td>
+            <td> Science </td>
+            <td> Rangpur Zilla School </td>
+            <td> 5.00 </td>
+            <td> 2014 </td>
+        </tr>
+    </tbody>
+</table>      
+<!-- academic qualification end -->
+
+<br/>
+
+<!-- Start Undergraduate Thesis and Project -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=446&height=21&lines=UNDERGRADUATE+THESIS+and+PROJECT+:+%20+(1)" alt="undergraduate thesis and project" />
+
+<p>
+    <b>Hand Pose Estimation in Single RGB Image with Multiview Bootstrapping.</b>
+</p>
+
+<ul>
+    <li>
+        Deep Learning, OpenCV
+    </li>
+    <li>
+        Convolutional Neural Network (CNN)
+    </li>
+    <li>
+        Python (TensorFlow, Matplotlib, Scikit-Learn, OpenCV, Media pipe)
+    </li>
+</ul>
+<!-- End Undergraduate Thesis and Project -->
+
+<br/>
+
+<!-- Start Language Proficiency -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=305&height=21&lines=LANGUAGE PROFICIENCY+:+%20+(3)" alt="language proficency" />
+
+<table>
+    <thead>
+        <tr>
+            <th><b> Language </b></th>
+            <th><b> Reading </b></th>
+            <th><b> Writing </b></th>
+            <th><b> Speaking </b></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> English </td>
+            <td> High </td>
+            <td> High </td>
+            <td> High </td>
+        </tr>
+        <tr>
+            <td> Bangla </td>
+            <td> High </td>
+            <td> High </td>
+            <td> High </td>
+        </tr>
+        <tr>
+            <td> Hindi </td>
+            <td> None </td>
+            <td> None </td>
+            <td> Basic </td>
+        </tr>
+    </tbody>
+</table>
+<!-- End Language Proficiency -->
+
+<br/>
+
+<!-- Start Training, Participation and Certification -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=520&height=21&lines=TRAINING PARTICIPATION+and+CERTIFICATION+:+%20+(9)" alt="training, participation and certification" />
+
+<ol>
+    <li>
+        𝙼𝚘𝚋𝚒𝚕𝚎 𝙶𝚊𝚖𝚎 𝙰𝚗𝚍 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝙵𝚘𝚛 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 - 𝚊𝚝 𝙸𝙲𝚃 𝙳𝚒𝚟𝚒𝚜𝚒𝚘𝚗 𝚘𝚏 𝙱𝚊𝚗𝚐𝚕𝚊𝚍𝚎𝚜𝚑
+    </li>
+    <li>
+        𝙿𝙻𝙲 𝚃𝚛𝚊𝚒𝚗𝚒𝚗𝚐 𝙲𝚘𝚞𝚛𝚜𝚎 - 𝚊𝚝 𝙱𝙰𝚄𝚂𝚃
+    </li>
+    <li>
+        𝚃𝚑𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎 𝙲 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+    </li>
+    <li>
+        𝙲++ 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 𝚂𝚎𝚛𝚒𝚎𝚜, 𝚃𝚑𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎 𝙲𝚘𝚍𝚒𝚗𝚐 𝙶𝚞𝚒𝚍𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+    </li>
+    <li>
+        𝙻𝚎𝚊𝚛𝚗 𝙲++ 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙼𝚒𝚗𝚒 𝙲𝚘𝚞𝚛𝚜𝚎, 𝙿𝚘𝚠𝚎𝚛 𝚘𝚏 𝙰𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+    </li>
+    <li>
+        𝙷𝚃𝙼𝙻𝟻 𝙲𝚘𝚍𝚒𝚗𝚐 𝚏𝚛𝚘𝚖 𝚂𝚌𝚛𝚊𝚝𝚌𝚑 - 𝙱𝚞𝚒𝚕𝚍 𝚈𝚘𝚞𝚛 𝙾𝚠𝚗 𝚆𝚎𝚋𝚜𝚒𝚝𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+    </li>
+    <li>
+        𝙿𝚘𝚜𝚒𝚝𝚒𝚘𝚗 𝙴𝚕𝚎𝚖𝚎𝚗𝚝𝚜 𝚘𝚗 𝚊 𝙿𝚊𝚐𝚎 𝚠𝚒𝚝𝚑 𝙲𝚂𝚂 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+    </li>
+    <li>
+        𝙶𝚒𝚝 + 𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚛 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜e
+    </li>
+    <li>
+        𝚄𝚜𝚎 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚊𝚗𝚍 𝙲𝚛𝚎𝚊𝚝𝚎 𝚊 𝚁𝚎𝚖𝚘𝚝𝚎 𝙶𝚒𝚝 𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+    </li>
+    <li>
+        𝙶𝚘𝚘𝚐𝚕𝚎 𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝚂𝚎𝚊𝚛𝚌𝚑: 𝙵𝚒𝚗𝚍 𝚂𝚝𝚞𝚏𝚏 𝙻𝚒𝚔𝚎 𝚊 𝙱𝚘𝚜𝚜 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+    </li>
+    <li>
+        𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙻𝚒𝚗𝚎 𝚒𝚗 𝙻𝚒𝚗𝚞𝚡 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+    </li>
+    <li>
+        𝙻𝚎𝚊𝚛𝚗 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙻𝚒𝚗𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+    </li>
+</ol>
+<!-- End Training, Participation and Certification -->
+
+<br/>
+<br/>
+<br/>
 </details>
 <!-- my resume text end -->
 
