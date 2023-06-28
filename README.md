@@ -291,7 +291,7 @@
 <br/>
 
 <!-- skills start -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=75&height=21&lines=SKILLS" alt="skills" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=75&height=31&lines=SKILLS" alt="skills" />
 
 <table width=100%>
     <thead>
