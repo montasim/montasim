@@ -1240,6 +1240,16 @@ Let me know your thoughts down in the comments and check out my profile for more
 |  <img src="https://avatars.githubusercontent.com/u/59120780?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/95298623?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/49388297?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/77977341?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/69123486?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/19937845?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/67194380?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/23402980?s=96&v=4" width="60px"> |
 <!-- stargazers -->
 
+<br>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=180&height=61&lines=GUTHUB METRICS" alt="github metrics" />
+
+<div align="center">
+  <img width="75%" src="./metrics.svg" alt="montasim's github metrics"/>
+  <img width="75%" src="./metrics.detailed.svg" alt="montasim's details github metrics"/>
+</div>
+
 
 <br>
 <br>
