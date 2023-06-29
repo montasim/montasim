@@ -1246,6 +1246,62 @@ Let me know your thoughts down in the comments and check out my profile for more
 </details>
 <!-- find more on social media end -->
 
+<!-- Start Special Thanks To Section -->
+<details>
+<summary> SPECIAL THANKS TO </summary>
+
+<br><br>
+
+<table align="center">
+    <thead align="center">
+        <tr>
+            <td> <b> Name </b> </td>
+            <td> <b> Contribution </b> </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> </td>
+            <td> for his GitHub readme Stats </td>
+        </tr>
+        <!-- <tr>
+            <td>
+                <img src="https://gist-count.vercel.app/api?username=montasim">
+            </td>
+            <td> Github gists </td>
+        </tr> -->
+        <tr>
+            <td>
+                <a href="https://lottiefiles.com/">lottiefiles</a> 
+            </td>
+            <td> for beautiful animatated gif collection </td>
+        </tr>
+        <tr>
+            <td><a href="https://www.remove.bg/">remove.bg</a> </td>
+            <td> for background removal </td>
+        </tr>
+        <tr>
+            <td><a href="https://github-readme-quotes.herokuapp.com/">Dynamic Quotes</a> </td>
+            <td> for Github  Readme </td>
+        </tr>
+        <tr>
+            <td> <a href="https://lingojam.com/FancyLetters">lingojam.com</a> </td>
+            <td> for beautiful fonts </td>
+        </tr>
+        <tr>
+            <td> <a href="https://gifer.com/en/">gifer.com</a>  </td>
+            <td> for transparent gif </td>
+        </tr>
+        <tr>
+            <td> <a href="https://readme-typing-svg.herokuapp.com">Readme Typing SVG</a>  </td>
+            <td> for colorful SVG text </td>
+        </tr>
+    </tbody>
+</table>
+
+</details>
+<!-- End Special Thanks To Section -->
+
 <br/>
 <br/>
 <br/>
