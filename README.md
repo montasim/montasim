@@ -256,8 +256,10 @@
     <br/>
 
 <a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 
-    <img align="right" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=230&height=21&lines=DOWNLOAD+MY+RESUME" alt="download my resume" />
-    <img align="right" width="21px" src="./media/icons/cv.png" alt="resume icon" />
+    <div align="right">
+        <img width="21px" src="./media/icons/cv.png" alt="resume icon" />
+        <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=260&height=21&lines=DOWNLOAD+MY+RESUME" alt="download my resume" />
+    </div>
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line gif">
