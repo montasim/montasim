@@ -256,7 +256,7 @@
     <br/>
 
 <a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 
-    <img align="right" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=250&height=21&lines=DOWNLOAD+MY+RESUME" alt="download my resume" />
+    <img align="right" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=230&height=21&lines=DOWNLOAD+MY+RESUME" alt="download my resume" />
     <img align="right" width="21px" src="./media/icons/cv.png" alt="resume icon" />
 </a>
 
