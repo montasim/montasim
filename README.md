@@ -1046,7 +1046,7 @@
     <img align="right" alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=20348607" />
 </a>
 
-## StackOverflow Activity
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=285&height=61&lines=STACKOVERFLOW ACTIVITY" alt="stackoverflow activity" />
 
 <!-- STACKOVERFLOW:START -->
 - [Answer by ＭＯＮＴＡＳＩＭ for React firebase 9 how to delete current user account?](https://stackoverflow.com/questions/71147148/react-firebase-9-how-to-delete-current-user-account/74244739#74244739)
@@ -1054,15 +1054,12 @@
 <!-- STACKOVERFLOW:END -->
 
 <br>
+<br>
 
-<div>
-    <h2> 
-        📺 Latest YouTube Videos 
-        <a href="https://www.youtube.com/channel/UCkkBnedfjKU-toiKQ-rxvtA?sub_confirmation=1">
-            <img align="right" style="margin-right: 6px" alt="youtube subscriber" src="https://img.shields.io/youtube/channel/subscribers/UCkkBnedfjKU-toiKQ-rxvtA?label=YouTube%20Subscribers&style=social">
-        </a>
-    </h2>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=61&lines=YOUTUBE ACTIVITY" alt="youtube activity" />
+<a href="https://www.youtube.com/channel/UCkkBnedfjKU-toiKQ-rxvtA?sub_confirmation=1">
+    <img align="right" style="margin-right: 6px" alt="youtube subscriber" src="https://img.shields.io/youtube/channel/subscribers/UCkkBnedfjKU-toiKQ-rxvtA?label=YouTube%20Subscribers&style=social">
+</a>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6klo4X01SlM"><img width="140px" src="https://i.ytimg.com/vi/6klo4X01SlM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6klo4X01SlM">Sleep Detection Concept on EEG Signal</a><br/>Jul 11, 2021</td></tr></table>
@@ -1071,8 +1068,9 @@
 <!-- YOUTUBE:END -->
 
 <br>
+<br>
 
-## 📕 Latest Blog Posts
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=170&height=61&lines=BLOG ACTIVITY" alt="blog activity" />
 
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Trading Charts](https://noobtrack.blogspot.com/2020/02/understanding-trading-charts.html)
@@ -1083,8 +1081,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br>
+<br>
 
-## :zap: Wakatime Activity
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=215&height=61&lines=WAKATIME ACTIVITY" alt="wakatime activity" />
 
 
 <!--START_SECTION:waka-->
@@ -1164,8 +1163,9 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <br>
+<br>
 
-### :zap: Recent Activity
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=180&height=61&lines=RECENT ACTIVITY" alt="recent activity" />
 
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#115](https://github.com/drknzz/GitHub-Achievements/pull/115) in [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements)
@@ -1178,16 +1178,10 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:activity-->
 
 <br>
-
-## 🗒 Guestbook
-<!--START_SECTION:guestbook-->
-
-<!--END_SECTION:guestbook-->
-
 <br>
 
 <!-- twitter post -->
-## :zap: Recent Twitter Activity
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=61&lines=TWITTER ACTIVITY" alt="twitter activity" />
 
 <!-- TWITTER:START -->
 - [Thinking about my project. https://lnkd.in/gYffV3rq](https://nitter.net/montasimmamun/status/1611429494103093250#m)
@@ -1207,6 +1201,7 @@ Let me know your thoughts down in the comments and check out my profile for more
 <!-- TWITTER:END -->
 
 <br>
+<br>
 
 <!-- hello nice to meet you text start -->
 <div align="center">
@@ -1215,16 +1210,27 @@ Let me know your thoughts down in the comments and check out my profile for more
 <!-- hello nice to meet you text end -->
 
 <br>
+<br>
 
-## Recent Medium Activity
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=190&height=61&lines=MEDIUM ACTIVITY" alt="medium activity" />
 
 <!-- MEDIUM:START -->
 
 <!-- MEDIUM:END -->
 
 <br>
+<br>
 
-## ⭐ STARGAZERS ⭐
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=130&height=61&lines=GUESTBOOK" alt="guestbook" />
+
+<!--START_SECTION:guestbook-->
+
+<!--END_SECTION:guestbook-->
+
+<br>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=135&height=61&lines=STARGAZERS" alt="STARGAZERS" />
 
 <!-- stargazers -->
 |  <a href="https://github.com/Rantoryu">Rantoryu</a> | <a href="https://github.com/montasim">montasim</a> | <a href="https://github.com/DevElkami">DevElkami</a> | <a href="https://github.com/bm4578">bm4578</a> | <a href="https://github.com/ArielMAJ">ArielMAJ</a> | <a href="https://github.com/fcasamento">fcasamento</a> | <a href="https://github.com/hitblast">hitblast</a> | <a href="https://github.com/Zoltus">Zoltus</a> |
@@ -1233,11 +1239,8 @@ Let me know your thoughts down in the comments and check out my profile for more
 <!-- stargazers -->
 
 
-
 <br>
-
-![Medium Post](https://github-readme-medium.vercel.app/?username=montasim&limit=2)
-
+<br>
 <br>
 
 </details>
