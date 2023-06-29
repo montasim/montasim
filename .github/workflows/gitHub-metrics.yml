@@ -14,7 +14,7 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GH_TOKEN }}
           base: "header, activity, community, repositories"
           plugin_introduction: yes
           plugin_introduction_title: yes
@@ -68,7 +68,7 @@ jobs:
         with:
           filename: metrics.detailed.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GH_TOKEN }}
           base: "metadata"
           plugin_gists: yes
           plugin_pagespeed: yes
