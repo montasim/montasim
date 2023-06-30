@@ -1,9 +1,27 @@
----
-name: "Bug report \U0001F41B"
-about: "Create a bug report to help me improve"
-title: "Bug report:"
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=150&height=25&lines=BUG REPORT" alt="Bug report" />
 
+<br/>
+
+<table align="left">
+    <thead>
+        <tr>
+            <td> <b> Name </b> </td>
+            <td> <b> About </b> </td>
+            <td> <b> Title </b> </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Bug report \U0001F41B </td>
+            <td> Create a bug report to help me improve </td>
+            <td> Bug report: </td>
+        </tr>
+    </tbody>
+</table>
+
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
