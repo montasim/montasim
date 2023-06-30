@@ -1272,40 +1272,68 @@ Let me know your thoughts down in the comments and check out my profile for more
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> </td>
-            <td> for his GitHub readme Stats </td>
-        </tr>
-        <!-- <tr>
             <td>
-                <img src="https://gist-count.vercel.app/api?username=montasim">
+                <a href="https://github.com/anuraghazra/github-readme-stats"> 
+                    Github Readme Stats 
+                </a> 
             </td>
-            <td> Github gists </td>
-        </tr> -->
+            <td> For dynamically generated stats for your github readmes </td>
+        </tr>
         <tr>
             <td>
-                <a href="https://lottiefiles.com/">lottiefiles</a> 
+                <a href="https://github.com/omidnikrah/profile-activity-generator"> 
+                   Profile Activity Generator 
+                </a> 
             </td>
-            <td> for beautiful animatated gif collection </td>
+            <td> For generate custom profile activity for your profile README </td>
         </tr>
         <tr>
-            <td><a href="https://www.remove.bg/">remove.bg</a> </td>
-            <td> for background removal </td>
+            <td>
+                <a href="https://github.com/anmol098/waka-readme-stats"> 
+                   All Dev Stats in Readme
+                </a> 
+            </td>
+            <td> For updating most productive time during the day? </td>
         </tr>
         <tr>
-            <td><a href="https://github-readme-quotes.herokuapp.com/">Dynamic Quotes</a> </td>
-            <td> for Github  Readme </td>
+            <td>
+                <a href="https://visitor-badge.glitch.me/#docs"> 
+                   Visitor Badge 
+                </a> 
+            </td>
+            <td> For count visitors for your README.md, Issues, PRs in GitHub </td>
         </tr>
         <tr>
-            <td> <a href="https://lingojam.com/FancyLetters">lingojam.com</a> </td>
-            <td> for beautiful fonts </td>
+            <td>
+                <a href="https://shields.io/"> 
+                   Shields Project 
+                </a> 
+            </td>
+            <td> Use Shields to create profile badges, compatible with Simple Icons </td>
         </tr>
         <tr>
-            <td> <a href="https://gifer.com/en/">gifer.com</a>  </td>
-            <td> for transparent gif </td>
+            <td>
+                <a href="https://github.com/simple-icons/simple-icons#cdn-usage"> 
+                   Simple Icons 
+                </a> 
+            </td>
+            <td> USe SVG icons for popular brands for your README.md files </td>
         </tr>
         <tr>
-            <td> <a href="https://readme-typing-svg.herokuapp.com">Readme Typing SVG</a>  </td>
-            <td> for colorful SVG text </td>
+            <td>
+                <a href="https://github.com/jamesgeorge007/github-activity-readme"> 
+                   Github Activity in README
+                </a> 
+            </td>
+            <td> Use to updates README.md with the recent GitHub activity of a user </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://readme-typing-svg.herokuapp.com/"> 
+                   Readme Typing SVG
+                </a> 
+            </td>
+            <td> Used https://readme-typing-svg.herokuapp.com/ </td>
         </tr>
     </tbody>
 </table>
