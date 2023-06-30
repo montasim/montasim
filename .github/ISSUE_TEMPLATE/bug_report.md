@@ -12,7 +12,7 @@
     </thead>
     <tbody>
         <tr>
-            <td> Bug report \U0001F41B </td>
+            <td> Bug report :bug: </td>
             <td> Create a bug report to help me improve </td>
             <td> Bug report: </td>
         </tr>
