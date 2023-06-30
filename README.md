@@ -1333,7 +1333,7 @@ Let me know your thoughts down in the comments and check out my profile for more
                    Readme Typing SVG
                 </a> 
             </td>
-            <td> Used https://readme-typing-svg.herokuapp.com/ </td>
+            <td> Used for Readme Typing SVG </td>
         </tr>
     </tbody>
 </table>
