@@ -12,7 +12,7 @@
     </thead>
     <tbody>
         <tr>
-            <td> Feature request \U0001F680 </td>
+            <td> Feature request :rocket: </td>
             <td> Suggest an idea for this project </td>
             <td> Feature request: </td>
         </tr>
