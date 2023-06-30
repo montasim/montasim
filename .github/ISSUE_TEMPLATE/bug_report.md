@@ -4,6 +4,9 @@ about: "Create a bug report to help me improve"
 title: "Bug report:"
 ---
 
+<br/>
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=265&height=19&lines=A brief summary of the bug" alt="A brief summary of the bug" />
 
 <!-- A precise and clear explanation of what the bug is. -->
