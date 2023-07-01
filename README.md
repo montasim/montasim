@@ -1168,13 +1168,13 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=260&height=61&lines=RECENT GITHUB ACTIVITY" alt="recent github activity" />
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#115](https://github.com/drknzz/GitHub-Achievements/pull/115) in [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements)
-2. 🎉 Merged PR [#53](https://github.com/montasim/montasim/pull/53) in [montasim/montasim](https://github.com/montasim/montasim)
-3. 💪 Opened PR [#53](https://github.com/montasim/montasim/pull/53) in [montasim/montasim](https://github.com/montasim/montasim)
-4. 💪 Opened PR [#115](https://github.com/drknzz/GitHub-Achievements/pull/115) in [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements)
-5. 🎉 Merged PR [#13](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/13) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
-6. 💪 Opened PR [#13](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/13) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
-7. 🎉 Merged PR [#11](https://github.com/STRINGLABITSOLUTIONS/portfolio/pull/11) in [STRINGLABITSOLUTIONS/portfolio](https://github.com/STRINGLABITSOLUTIONS/portfolio)
+1. ❗ Opened issue [#57](https://github.com/montasim/montasim/issues/57) in [montasim/montasim](https://github.com/montasim/montasim)
+2. 💪 Opened PR [#1058](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1058) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+3. 🗣 Commented on [#85](https://github.com/roypriyanshu02/impressive-profile-readmes/issues/85) in [roypriyanshu02/impressive-profile-readmes](https://github.com/roypriyanshu02/impressive-profile-readmes)
+4. ❗ Opened issue [#56](https://github.com/montasim/montasim/issues/56) in [montasim/montasim](https://github.com/montasim/montasim)
+5. ❗ Opened issue [#55](https://github.com/montasim/montasim/issues/55) in [montasim/montasim](https://github.com/montasim/montasim)
+6. ❗ Opened issue [#54](https://github.com/montasim/montasim/issues/54) in [montasim/montasim](https://github.com/montasim/montasim)
+7. 💪 Opened PR [#85](https://github.com/roypriyanshu02/impressive-profile-readmes/pull/85) in [roypriyanshu02/impressive-profile-readmes](https://github.com/roypriyanshu02/impressive-profile-readmes)
 <!--END_SECTION:activity-->
 
 <br>
