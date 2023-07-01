@@ -1220,9 +1220,9 @@ Let me know your thoughts down in the comments and check out my profile for more
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=130&height=61&lines=GUESTBOOK" alt="guestbook" />
 
-<!--START:guestbook-->
+<!--START_SECTION:guestbook-->
 
-<!--END:guestbook-->
+<!--END_SECTION:guestbook-->
 
 <br>
 <br>
