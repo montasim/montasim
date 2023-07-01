@@ -1246,6 +1246,12 @@ Let me know your thoughts down in the comments and check out my profile for more
   <img width="75%" src="./metrics.detailed.svg" alt="montasim's details github metrics"/>
 </div>
 
+<br>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=190&height=61&lines=LINKEDIN+METRICS" alt="LINKEDIN METRICS" />
+
+<img src="https://github-readme-linkedin-ivory.vercel.app/experience?username=montasim" />
 
 <br>
 <br>
