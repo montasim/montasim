@@ -1130,13 +1130,13 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=260&height=61&lines=RECENT+GITHUB+ACTIVITY" alt="RECENT GITHUB ACTIVITY" />
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#58](https://github.com/montasim/montasim/issues/58) in [montasim/montasim](https://github.com/montasim/montasim)
-2. ❗ Opened issue [#8](https://github.com/soroushchehresa/github-readme-linkedin/issues/8) in [soroushchehresa/github-readme-linkedin](https://github.com/soroushchehresa/github-readme-linkedin)
-3. 🗣 Commented on [#7](https://github.com/soroushchehresa/github-readme-linkedin/issues/7) in [soroushchehresa/github-readme-linkedin](https://github.com/soroushchehresa/github-readme-linkedin)
-4. 🗣 Commented on [#3](https://github.com/soroushchehresa/github-readme-linkedin/issues/3) in [soroushchehresa/github-readme-linkedin](https://github.com/soroushchehresa/github-readme-linkedin)
-5. ❗ Opened issue [#57](https://github.com/montasim/montasim/issues/57) in [montasim/montasim](https://github.com/montasim/montasim)
-6. 💪 Opened PR [#1058](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1058) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-7. 🗣 Commented on [#85](https://github.com/roypriyanshu02/impressive-profile-readmes/issues/85) in [roypriyanshu02/impressive-profile-readmes](https://github.com/roypriyanshu02/impressive-profile-readmes)
+1. 💪 Opened PR [#497](https://github.com/coderjojo/creative-profile-readme/pull/497) in [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
+2. ❗ Opened issue [#58](https://github.com/montasim/montasim/issues/58) in [montasim/montasim](https://github.com/montasim/montasim)
+3. ❗ Opened issue [#8](https://github.com/soroushchehresa/github-readme-linkedin/issues/8) in [soroushchehresa/github-readme-linkedin](https://github.com/soroushchehresa/github-readme-linkedin)
+4. 🗣 Commented on [#7](https://github.com/soroushchehresa/github-readme-linkedin/issues/7) in [soroushchehresa/github-readme-linkedin](https://github.com/soroushchehresa/github-readme-linkedin)
+5. 🗣 Commented on [#3](https://github.com/soroushchehresa/github-readme-linkedin/issues/3) in [soroushchehresa/github-readme-linkedin](https://github.com/soroushchehresa/github-readme-linkedin)
+6. ❗ Opened issue [#57](https://github.com/montasim/montasim/issues/57) in [montasim/montasim](https://github.com/montasim/montasim)
+7. 💪 Opened PR [#1058](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1058) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
 
 <br>
