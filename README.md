@@ -1181,9 +1181,9 @@ Let me know your thoughts down in the comments and check out my profile for more
 <br>
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=130&height=61&lines=GUESTBOOK" alt="GUESTBOOK" />
 
-<!--START_SECTION:guestbook-->
+<!--GUESTBOOK:START-->
 
-<!--END_SECTION:guestbook-->
+<!--GUESTBOOK:END-->
 
 <br>
 <br>
