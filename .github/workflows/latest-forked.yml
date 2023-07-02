@@ -1,0 +1,11 @@
+name: Latest Forked
+
+on:
+  watch:
+    types: [forked]
+
+jobs:
+  forked:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: drknzz/stargazers@main

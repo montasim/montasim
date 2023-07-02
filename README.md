@@ -1195,6 +1195,16 @@ Let me know your thoughts down in the comments and check out my profile for more
 |  <img src="https://avatars.githubusercontent.com/u/107668885?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/59120780?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/95298623?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/49388297?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/77977341?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/69123486?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/19937845?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/67194380?s=96&v=4" width="60px"> |
 <!-- stargazers -->
 
+<br>
+<br>
+<img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=125&height=61&lines=FORKED" alt="FORKED" />
+
+<!-- forked -->
+|  <a href="https://github.com/karobi57">karobi57</a> | <a href="https://github.com/Rantoryu">Rantoryu</a> | <a href="https://github.com/montasim">montasim</a> | <a href="https://github.com/DevElkami">DevElkami</a> | <a href="https://github.com/bm4578">bm4578</a> | <a href="https://github.com/ArielMAJ">ArielMAJ</a> | <a href="https://github.com/fcasamento">fcasamento</a> | <a href="https://github.com/hitblast">hitblast</a> |
+|  :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|  <img src="https://avatars.githubusercontent.com/u/107668885?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/59120780?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/95298623?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/49388297?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/77977341?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/69123486?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/19937845?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/67194380?s=96&v=4" width="60px"> |
+<!-- forked -->
+
 
 <br>
 <br>
