@@ -1091,7 +1091,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-616-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-692-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.2%20million%20lines%20of%20code-blue)
 
@@ -1099,7 +1099,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 904 Contributions in the Year 2023
+> 🏆 912 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -1110,21 +1110,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4054 commits        ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
-🌆 Daytime                5382 commits        ████████░░░░░░░░░░░░░░░░░   31.66 % 
-🌃 Evening                5564 commits        ████████░░░░░░░░░░░░░░░░░   32.74 % 
-🌙 Night                  1997 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+🌞 Morning                4065 commits        ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+🌆 Daytime                5404 commits        ████████░░░░░░░░░░░░░░░░░   31.71 % 
+🌃 Evening                5574 commits        ████████░░░░░░░░░░░░░░░░░   32.71 % 
+🌙 Night                  1999 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3006 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Tuesday                  1758 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Wednesday                2490 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Thursday                 2178 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Friday                   2425 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Saturday                 2321 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Sunday                   2819 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Monday                   3006 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Tuesday                  1758 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Wednesday                2490 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Thursday                 2182 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Friday                   2459 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Saturday                 2328 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Sunday                   2819 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
 ```
 
 
@@ -1146,17 +1146,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               90 repos            ██████████████░░░░░░░░░░░   55.56 % 
-HTML                     38 repos            ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-TypeScript               8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+JavaScript               90 repos            ██████████████░░░░░░░░░░░   55.21 % 
+HTML                     38 repos            ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+TypeScript               9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 
 
 
 
- Last Updated on 01/07/2023 01:06:44 UTC
+ Last Updated on 02/07/2023 01:04:17 UTC
 <!--END_SECTION:waka-->
 
 <br>
@@ -1165,13 +1165,13 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <img  loading="lazy"src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=260&height=61&lines=RECENT GITHUB ACTIVITY" alt="recent github activity" />
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#57](https://github.com/montasim/montasim/issues/57) in [montasim/montasim](https://github.com/montasim/montasim)
-2. 💪 Opened PR [#1058](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1058) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-3. 🗣 Commented on [#85](https://github.com/roypriyanshu02/impressive-profile-readmes/issues/85) in [roypriyanshu02/impressive-profile-readmes](https://github.com/roypriyanshu02/impressive-profile-readmes)
-4. ❗ Opened issue [#56](https://github.com/montasim/montasim/issues/56) in [montasim/montasim](https://github.com/montasim/montasim)
-5. ❗ Opened issue [#55](https://github.com/montasim/montasim/issues/55) in [montasim/montasim](https://github.com/montasim/montasim)
-6. ❗ Opened issue [#54](https://github.com/montasim/montasim/issues/54) in [montasim/montasim](https://github.com/montasim/montasim)
-7. 💪 Opened PR [#85](https://github.com/roypriyanshu02/impressive-profile-readmes/pull/85) in [roypriyanshu02/impressive-profile-readmes](https://github.com/roypriyanshu02/impressive-profile-readmes)
+1. ❗ Opened issue [#58](https://github.com/montasim/montasim/issues/58) in [montasim/montasim](https://github.com/montasim/montasim)
+2. ❗ Opened issue [#8](https://github.com/soroushchehresa/github-readme-linkedin/issues/8) in [soroushchehresa/github-readme-linkedin](https://github.com/soroushchehresa/github-readme-linkedin)
+3. 🗣 Commented on [#7](https://github.com/soroushchehresa/github-readme-linkedin/issues/7) in [soroushchehresa/github-readme-linkedin](https://github.com/soroushchehresa/github-readme-linkedin)
+4. 🗣 Commented on [#3](https://github.com/soroushchehresa/github-readme-linkedin/issues/3) in [soroushchehresa/github-readme-linkedin](https://github.com/soroushchehresa/github-readme-linkedin)
+5. ❗ Opened issue [#57](https://github.com/montasim/montasim/issues/57) in [montasim/montasim](https://github.com/montasim/montasim)
+6. 💪 Opened PR [#1058](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1058) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+7. 🗣 Commented on [#85](https://github.com/roypriyanshu02/impressive-profile-readmes/issues/85) in [roypriyanshu02/impressive-profile-readmes](https://github.com/roypriyanshu02/impressive-profile-readmes)
 <!--END_SECTION:activity-->
 
 <br>
