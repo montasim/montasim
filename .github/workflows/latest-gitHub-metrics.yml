@@ -1,4 +1,4 @@
-name: Latest GitHub metrics
+name: Latest GitHub Metrics
 on:
   schedule:
     - cron: "0 0 * * *" # runs at every 12AM UTC
