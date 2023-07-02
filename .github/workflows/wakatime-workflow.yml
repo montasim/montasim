@@ -1,4 +1,4 @@
-name: Latest wakatime workflow
+name: Latest Wakatime Activity
 
 on:
   workflow_dispatch:
