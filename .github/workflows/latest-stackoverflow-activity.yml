@@ -1,4 +1,4 @@
-name: Latest stack overflow activity
+name: Latest StackOverflow Activity
 on:
   schedule:
     - cron: '0 0 * * *' # Runs at 12:00am everyday
