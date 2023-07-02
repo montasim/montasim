@@ -1,4 +1,4 @@
-name: stargazers
+name: Latest Stargazers
 
 on:
   watch:
