@@ -274,14 +274,14 @@
     <br/>
     <br/>
     <br/>
-    <!-- quick link start -->
-    <pre>
-    <b>Email     :</b> <a href="montasimmamun@gmail.com">montasimmamun@gmail.com</a> 
-    <b>Portfolio :</b> <a href="https://montasim-dev.web.app/">montasim-dev.web.app</a>
-    <b>Mobile    :</b> <a href="+8801722815469">+8801722815469</a>
-    <b>GitHub    :</b> <a href="https://github.com/montasim">github.com/montasim</a>
-    </pre>
-    <!-- quick link end -->
+<!-- quick link start -->
+<pre>
+<b>Email     :</b> <a href="montasimmamun@gmail.com">montasimmamun@gmail.com</a> 
+<b>Portfolio :</b> <a href="https://montasim-dev.web.app/">montasim-dev.web.app</a>
+<b>Mobile    :</b> <a href="+8801722815469">+8801722815469</a>
+<b>GitHub    :</b> <a href="https://github.com/montasim">github.com/montasim</a>
+</pre>
+<!-- quick link end -->
     <br/>
     <br/>
     <!-- work experience start -->
