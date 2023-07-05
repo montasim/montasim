@@ -1019,6 +1019,9 @@
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=285&height=61&lines=STACKOVERFLOW ACTIVITY" alt="stackoverflow activity" />
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by ＭＯＮＴＡＳＩＭ for How to update the profile readme automatically](https://stackoverflow.com/questions/76612610/how-to-update-the-profile-readme-automatically/76615293#76615293)
+- [Answer by ＭＯＮＴＡＳＩＭ for Search in only my repositories for files with a specific name](https://stackoverflow.com/questions/76614124/search-in-only-my-repositories-for-files-with-a-specific-name/76615074#76615074)
+- [Answer by ＭＯＮＴＡＳＩＭ for Github pages doesn&#39;t update my javascript file](https://stackoverflow.com/questions/76614820/github-pages-doesnt-update-my-javascript-file/76614908#76614908)
 - [Answer by ＭＯＮＴＡＳＩＭ for React firebase 9 how to delete current user account?](https://stackoverflow.com/questions/71147148/react-firebase-9-how-to-delete-current-user-account/74244739#74244739)
 - [Answer by ＭＯＮＴＡＳＩＭ for Tailwind cards of same height across multiple rows](https://stackoverflow.com/questions/74221710/tailwind-cards-of-same-height-across-multiple-rows/74223203#74223203)
 <!-- STACKOVERFLOW:END -->
