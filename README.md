@@ -1138,11 +1138,11 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=260&height=61&lines=RECENT+GITHUB+ACTIVITY" alt="RECENT GITHUB ACTIVITY" />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/montasim/Next-Level-Web-Development/pull/4) in [montasim/Next-Level-Web-Development](https://github.com/montasim/Next-Level-Web-Development)
-2. 💪 Opened PR [#4](https://github.com/montasim/Next-Level-Web-Development/pull/4) in [montasim/Next-Level-Web-Development](https://github.com/montasim/Next-Level-Web-Development)
-3. 🎉 Merged PR [#3](https://github.com/montasim/Next-Level-Web-Development/pull/3) in [montasim/Next-Level-Web-Development](https://github.com/montasim/Next-Level-Web-Development)
-4. 🗣 Commented on [#7](https://github.com/soroushchehresa/github-readme-linkedin/issues/7) in [soroushchehresa/github-readme-linkedin](https://github.com/soroushchehresa/github-readme-linkedin)
-5. 🗣 Commented on [#3](https://github.com/soroushchehresa/github-readme-linkedin/issues/3) in [soroushchehresa/github-readme-linkedin](https://github.com/soroushchehresa/github-readme-linkedin)
+1. 🎉 Merged PR [#7](https://github.com/montasim/Next-Level-Web-Development/pull/7) in [montasim/Next-Level-Web-Development](https://github.com/montasim/Next-Level-Web-Development)
+2. 💪 Opened PR [#7](https://github.com/montasim/Next-Level-Web-Development/pull/7) in [montasim/Next-Level-Web-Development](https://github.com/montasim/Next-Level-Web-Development)
+3. 🎉 Merged PR [#4](https://github.com/montasim/Next-Level-Web-Development/pull/4) in [montasim/Next-Level-Web-Development](https://github.com/montasim/Next-Level-Web-Development)
+4. 💪 Opened PR [#4](https://github.com/montasim/Next-Level-Web-Development/pull/4) in [montasim/Next-Level-Web-Development](https://github.com/montasim/Next-Level-Web-Development)
+5. 🎉 Merged PR [#3](https://github.com/montasim/Next-Level-Web-Development/pull/3) in [montasim/Next-Level-Web-Development](https://github.com/montasim/Next-Level-Web-Development)
 6. ❗ Opened issue [#57](https://github.com/montasim/montasim/issues/57) in [montasim/montasim](https://github.com/montasim/montasim)
 7. 💪 Opened PR [#1058](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1058) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
