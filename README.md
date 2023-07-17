@@ -1138,9 +1138,9 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=260&height=61&lines=RECENT+GITHUB+ACTIVITY" alt="RECENT GITHUB ACTIVITY" />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/montasim/Next-Level-Web-Development/pull/7) in [montasim/Next-Level-Web-Development](https://github.com/montasim/Next-Level-Web-Development)
-2. 💪 Opened PR [#7](https://github.com/montasim/Next-Level-Web-Development/pull/7) in [montasim/Next-Level-Web-Development](https://github.com/montasim/Next-Level-Web-Development)
-3. 🎉 Merged PR [#4](https://github.com/montasim/Next-Level-Web-Development/pull/4) in [montasim/Next-Level-Web-Development](https://github.com/montasim/Next-Level-Web-Development)
+1. ❌ Closed PR [#1](https://github.com/montasim/level-2-assignment-5-book-catalog-frontend/pull/1) in [montasim/level-2-assignment-5-book-catalog-frontend](https://github.com/montasim/level-2-assignment-5-book-catalog-frontend)
+2. 🎉 Merged PR [#7](https://github.com/montasim/Next-Level-Web-Development/pull/7) in [montasim/Next-Level-Web-Development](https://github.com/montasim/Next-Level-Web-Development)
+3. 💪 Opened PR [#7](https://github.com/montasim/Next-Level-Web-Development/pull/7) in [montasim/Next-Level-Web-Development](https://github.com/montasim/Next-Level-Web-Development)
 4. 💪 Opened PR [#4](https://github.com/montasim/Next-Level-Web-Development/pull/4) in [montasim/Next-Level-Web-Development](https://github.com/montasim/Next-Level-Web-Development)
 5. 🎉 Merged PR [#3](https://github.com/montasim/Next-Level-Web-Development/pull/3) in [montasim/Next-Level-Web-Development](https://github.com/montasim/Next-Level-Web-Development)
 6. ❗ Opened issue [#57](https://github.com/montasim/montasim/issues/57) in [montasim/montasim](https://github.com/montasim/montasim)
