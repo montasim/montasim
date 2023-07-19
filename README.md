@@ -187,38 +187,38 @@
     <thead align="center">
         <tr>
             <th>
-                <a href="https://www.linkedin.com/in/montasim">
-                    <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="35px">
+                <a href="https://www.linkedin.com/in/montasim" title="linkedin.com/in/montasim">
+                    <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/EB008B" width="35px">
                 </a>
             </th>
             <th>
-                <a href="https://www.github.com/montasim">
-                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/github/FFFFFF" width="35px">
+                <a href="https://www.github.com/montasim" title="github.com/montasim">
+                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/github/EB008B" width="35px">
                 </a>
             </th>
             <th>
-                <a href="https://stackoverflow.com/users/20348607/montasim">
-                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/stackoverflow/FFFFFF" width="35px">
+                <a href="https://stackoverflow.com/users/20348607/montasim" title="stackoverflow.com/users/20348607/montasim">
+                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/stackoverflow/EB008B" width="35px">
                 </a>
             </th>
             <th>
-                <a href="https://montasim-dev.web.app/">
-                    <img loading="lazy" alt="web icon" src="https://cdn.simpleicons.org/googlechrome/FFFFFF" width="35px">
+                <a href="https://montasim-dev.web.app/" title="montasim-dev.web.app">
+                    <img loading="lazy" alt="web icon" src="https://cdn.simpleicons.org/googlechrome/EB008B" width="35px">
                 </a>
             </th>
             <th>
-                <a href="mailto:montasimmamun@gmail.com">
-                    <img loading="lazy" alt="gmail icon" src="https://cdn.simpleicons.org/gmail/FFFFFF" width="35px">
+                <a href="mailto:montasimmamun@gmail.com" title="montasimmamun@gmail.com">
+                    <img loading="lazy" alt="gmail icon" src="https://cdn.simpleicons.org/gmail/EB008B" width="35px">
                 </a>
             </th>
             <th>
-                <a href="https://www.facebook.com/montasimmamun/">
-                    <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/facebook/FFFFFF" width="35px">
+                <a href="https://www.facebook.com/montasimmamun/" title="facebook.com/montasimmamun">
+                    <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/facebook/EB008B" width="35px">
                 </a>
             </th>
             <th>
-                <a href="https://twitter.com/montasimmamun">
-                    <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/twitter/FFFFFF" width="35px">
+                <a href="https://twitter.com/montasimmamun" title="twitter.com/montasimmamun">
+                    <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/twitter/EB008B" width="35px">
                 </a>
             </th>
         </tr>
