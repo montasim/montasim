@@ -1204,10 +1204,11 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=135&height=61&lines=STARGAZERS" alt="STARGAZERS" />
 
 <!-- stargazers -->
-|  <a href="https://github.com/obaydullahalmahmud">obaydullahalmahmud</a> | <a href="https://github.com/karobi57">karobi57</a> | <a href="https://github.com/Rantoryu">Rantoryu</a> | <a href="https://github.com/DevElkami">DevElkami</a> | <a href="https://github.com/bm4578">bm4578</a> | <a href="https://github.com/ArielMAJ">ArielMAJ</a> | <a href="https://github.com/fcasamento">fcasamento</a> | <a href="https://github.com/hitblast">hitblast</a> |
+|  <a href="https://github.com/sorenxysm">sorenxysm</a> | <a href="https://github.com/obaydullahalmahmud">obaydullahalmahmud</a> | <a href="https://github.com/karobi57">karobi57</a> | <a href="https://github.com/Rantoryu">Rantoryu</a> | <a href="https://github.com/DevElkami">DevElkami</a> | <a href="https://github.com/bm4578">bm4578</a> | <a href="https://github.com/ArielMAJ">ArielMAJ</a> | <a href="https://github.com/fcasamento">fcasamento</a> |
 |  :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|  <img src="https://avatars.githubusercontent.com/u/139006113?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/107668885?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/59120780?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/49388297?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/77977341?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/69123486?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/19937845?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/67194380?s=96&v=4" width="60px"> |
+|  <img src="https://avatars.githubusercontent.com/u/123979181?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/139006113?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/107668885?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/59120780?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/49388297?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/77977341?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/69123486?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/19937845?s=96&v=4" width="60px"> |
 <!-- stargazers -->
+
 
 
 
