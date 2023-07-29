@@ -1229,6 +1229,12 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
 
 <br>
 <br>
+<img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=140&height=61&lines=ROADMAP.SH" alt="ROADMAP.SH" />
+<br>
+<img loading="lazy" src="https://api.roadmap.sh/v1-badge/wide/64c515fe8bda28d99141fa50?variant=dark" alt="ROADMAP.SH" />
+
+<br>
+<br>
 <br>
 
 </details>
