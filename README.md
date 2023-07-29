@@ -1,5 +1,5 @@
 <!--
-    Montasim's Github Profile
+    Montasim's GitHub Profile
     Created on : 18/5/2021
     Author : Mohammad Montasim -Al- Mamun Shuvo
     Contact : montasimmamun@gmail.com
@@ -21,7 +21,7 @@
 
     ---------------------------------------------------------------------
 
-    What's more, you can find other awesome profile READMEs at
+    What's more, you can find other awesome profile README's at
     https://github.com/abhisheknaiidu/awesome-github-profile-readme.
     There could be a profile README that fits you better than this one.
 
@@ -36,19 +36,18 @@
 
 <!-- hello nice to meet you text start -->
 <div align="center">
-    <img loading="lazy" width="30px" src="./media/icons/code.png" alt="code png" />
+    <img loading="lazy" height="30" width="30" src="./media/icons/code.png" alt="code png" />
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=395&height=29&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
-    <img loading="lazy" width="30px" src="./media/icons/layers.png" alt="layers png" />
+    <img loading="lazy" height="30" width="30" src="./media/icons/layers.png" alt="layers png" />
 </div>
 <!-- hello nice to meet you text end -->
 
 <br/>
 
-
 <!-- about repository badges start -->
-<div align="center">
-  <img loading="lazy" style="margin-right: 6px" alt="wakatime badge"src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c.svg"/>
-  <img loading="lazy" style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/montasim?label=Followed+By&labelColor=EB008B&color=00B8B5"/>
+<div style="margin: 0">
+  <img loading="lazy" style="margin-right: 6px" alt="Wakatime badge" src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c.svg"/>
+  <img loading="lazy" style="margin-right: 6px" alt="follow badge" src="https://img.shields.io/github/followers/montasim?label=Followed+By&labelColor=EB008B&color=00B8B5"/>
   <!-- <a style="margin-right: 6px" href="https://github.com/montasim/montasim/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
     <img loading="lazy" alt="Guest Book" src="https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round&color=00B8B5" />
   </a> -->
@@ -59,7 +58,7 @@
 <br/>
 
 <!-- skills icons start -->
-<div align="center">
+<div style="margin: 0">
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/typescript/FFFFFF" alt="typescript icon"/>
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/javascript/FFFFFF" alt="javascript icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/react/FFFFFF" alt="react icon" />
@@ -78,15 +77,15 @@
 <br/>
 
 <!-- tools badge start -->
-<div align="center">
-  <img loading="lazy" style="margin-right: 6px" alt="git badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 15px" alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 6px" alt="canva badge" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 15px" alt="firebase badge" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 6px" alt="vercel badge" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=00B8B5">
+<div style="margin: 0">
+  <img loading="lazy" style="margin-right: 6px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=00B8B5" alt="git badge">
+  <img loading="lazy" style="margin-right: 6px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00B8B5" alt="GitHub badge">
+  <img loading="lazy" style="margin-right: 6px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=00B8B5" alt="vscode badge">
+  <img loading="lazy" style="margin-right: 15px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=00B8B5" alt="figma badge">
+  <img loading="lazy" style="margin-right: 6px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white&color=00B8B5" alt="canva badge">
+  <img loading="lazy" style="margin-right: 15px" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white&color=00B8B5" alt="firebase badge">
+  <img loading="lazy" style="margin-right: 6px" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&color=00B8B5" alt="vercel badge">
+  <img loading="lazy" style="margin-right: 6px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=00B8B5" alt="linux badge">
 </div>
 <!-- tools badge end -->
 
@@ -94,13 +93,13 @@
 <br/>
 <br/>
 
-<div align="center">
+<div style="margin: 0">
     <!-- weather icon start -->
-    <img loading="lazy" align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" width="100px">
+    <img loading="lazy" style="float: right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" width="100px">
     <br/>
     <!-- weather icon end -->
     <!-- about me start -->
-    <div align="left">
+    <div style="float: left">
         <img loading="lazy" width="21" src="./media/icons/charismatic.png" alt="wave png" />
         <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=120&height=21&lines=ABOUT+ME" alt="i am montasim svg" />
     </div>
@@ -127,28 +126,28 @@
 <br/>
 <br/>
 
-<!-- my github stats text start -->
-<div align="center"> 
-    <img loading="lazy" width="21" align="center" src="./media/icons/pie-chart.png" alt="pie chart png" />
-    <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
+<!-- my GitHub stats text start -->
+<div style="margin: 0"> 
+    <img loading="lazy" width="21" style="margin: 0" src="./media/icons/pie-chart.png" alt="pie chart png" />
+    <img loading="lazy" style="margin: 0" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my GitHub stats svg" />
 </div>
-<!-- my github stats text end -->
+<!-- my GitHub stats text end -->
 
 <br/>
 
-<div align="center">
-    <!-- github streak start -->
+<div style="margin: 0">
+    <!-- GitHub streak start -->
     <img loading="lazy" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=montasim&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=EB008B&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=FFFFFF" alt="current streak stats" />
-    <!-- github streak end -->
-    <!-- github stats start -->
-    <img loading="lazy" width=396 src="https://github-readme-stats-montasim.vercel.app/api?username=montasim&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=EB008B&currStreakLabel=EB008B&sideLabels=EB008B&icon_color=EB008B&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&include_all_commits=true" alt="github stats" />
-    <!-- github stats end -->
+    <!-- GitHub streak end -->
+    <!-- GitHub stats start -->
+    <img loading="lazy" width=396 src="https://github-readme-stats-montasim.vercel.app/api?username=montasim&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=EB008B&currStreakLabel=EB008B&sideLabels=EB008B&icon_color=EB008B&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+    <!-- GitHub stats end -->
 </div>
 
-<div align="center">
-    <!-- github most used languages start -->
+<div style="margin: 0">
+    <!-- GitHub most used languages start -->
     <img loading="lazy" width=325 src="https://github-readme-stats-montasim.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="most used language stats" />
-    <!-- github most used languages end -->
+    <!-- GitHub most used languages end -->
     <!-- wakatime weekly activity start -->
     <!-- <a href="https://wakatime.com/@montasim" title="Data update every midnight">
         <img loading="lazy" src="https://github-readme-stats-montasim.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&text_color=00B8B5&bg_color=0D1117&title_color=EB008B&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
@@ -156,17 +155,17 @@
     <!-- wakatime weekly activity end -->
 </div>
 
-<!-- github readme activity graph start -->
-<div align="center">
+<!-- GitHub readme activity graph start -->
+<div style="margin: 0">
     <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=montasim&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
 </div>
-<!-- github readme activity graph end -->
+<!-- GitHub readme activity graph end -->
 
-<!-- github trophy start -->
-<div align="center">
-    <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=montasim&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
+<!-- GitHub trophy start -->
+<div style="margin: 0">
+    <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=montasim&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A"  alt="GitHub profile trophy"/>
 </div>
-<!-- github trophy end -->
+<!-- GitHub trophy end -->
 
 <br/>
 <br/>
@@ -174,7 +173,7 @@
 <br/>
 
 <!-- feel free to contact me text start -->
-<div align="center"> 
+<div style="margin: 0"> 
     <img loading="lazy" width="21" src="./media/icons/link.png" alt="postbox svg" />
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=385&height=21&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
 </div>
@@ -183,8 +182,8 @@
 <br/>
 
 <!-- social media links start -->
-<table align="center">
-    <thead align="center">
+<table style="margin: 0">
+    <thead style="margin: 0">
         <tr>
             <th>
                 <a href="https://www.linkedin.com/in/montasim">
@@ -193,12 +192,12 @@
             </th>
             <th>
                 <a href="https://www.github.com/montasim">
-                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/github/FFFFFF" width="35px">
+                    <img loading="lazy" alt="GitHub icon" src="https://cdn.simpleicons.org/github/FFFFFF" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://stackoverflow.com/users/20348607/montasim">
-                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/stackoverflow/FFFFFF" width="35px">
+                    <img loading="lazy" alt="stackoverflow icon" src="https://cdn.simpleicons.org/stackoverflow/FFFFFF" width="35px">
                 </a>
             </th>
             <th>
@@ -232,7 +231,7 @@
 <br/>
 
 <!-- fun facts text start -->
-<div align="left">
+<div style="float: left">
     <img loading="lazy" width="21" src="./media/icons/confetti.png" alt="confetti svg" />
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=128&height=21&lines=FUN+FACTS" alt="fun facts svg" />
 </div>
@@ -241,7 +240,7 @@
 <br/>
 
 <!-- random jokes start -->
-<div align="center">
+<div style="margin: 0">
     <img loading="lazy" src="https://readme-jokes.vercel.app/api/?bgColor=%230D1117&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%230D1117" alt="Fun Fact" />
 </div>
 <!-- random jokes -->
@@ -255,8 +254,8 @@
     <br/>
     <br/>
     <a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 
-        <div align="right">
-            <img loading="lazy" width="21px" src="./media/icons/cv.png" alt="resume icon" />
+        <div style="float: right">
+            <img loading="lazy" width="21p" src="./media/icons/cv.png" alt="resume icon" />
             <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=260&height=21&lines=DOWNLOAD+MY+RESUME" alt="download my resume" />
         </div>
     </a>
@@ -266,7 +265,7 @@
     <br/>
     <br/>
     <!-- Montasim's Photo -->
-    <img loading="lazy" align="right" alt="Montasim's resume Photo" src="media/images/montasim.jpg" width="200px">
+    <img loading="lazy" style="float: right" alt="Montasim's resume Photo" src="media/images/montasim.jpg" width="200px">
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=475&height=21&lines=MOHAMMAD+MONTASIM+-AL-+MAMUN+SHUVO" alt="mohammad montasim -al- mamun shuvo" />
     <br/>
     <br/>
@@ -432,7 +431,7 @@
     <br/>
     <!-- academic qualification start-> -->
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=330&height=61&lines=ACADEMIC QUALIFICATION+:+%20+(3)" alt="academic qualification" />
-    <table align="center">
+    <table style="margin: 0">
         <thead>
             <tr>
                 <th>
@@ -728,7 +727,7 @@
                     <img loading="lazy" style="margin-right: 6px" alt="azure badge" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white&color=00B8B5">
                 </td>
                 <td>
-                    <img loading="lazy" style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=00B8B5">
+                    <img loading="lazy" style="margin-right: 6px" alt="GitHub badge" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=00B8B5">
                 </td>
                 <td>
                     <img loading="lazy" style="margin-right: 6px" alt="jira badge" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white&color=00B8B5">
@@ -782,7 +781,7 @@
                 CI
             </h3>
             <div>
-                <img loading="lazy" style="margin-right: 6px" alt="github action badge" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&color=00B8B5">
+                <img loading="lazy" style="margin-right: 6px" alt="GitHub action badge" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&color=00B8B5">
             </div>
         </li>
         <!-- Developer Forums start -->
@@ -1014,7 +1013,7 @@
 <br>
 <br>
 <a href="https://stackoverflow.com/users/20348607/ＭＯＮＴＡＳＩＭ" target="_blank">
-    <img loading="lazy" align="right" alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=20348607" />
+    <img loading="lazy" style="float: right" alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=20348607" />
 </a>
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=285&height=61&lines=STACKOVERFLOW ACTIVITY" alt="stackoverflow activity" />
 
@@ -1031,7 +1030,7 @@
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=61&lines=YOUTUBE+ACTIVITY" alt="YOUTUBE ACTIVITY" />
 
 <a href="https://www.youtube.com/channel/UCkkBnedfjKU-toiKQ-rxvtA?sub_confirmation=1">
-    <img loading="lazy" align="right" style="margin-right: 6px" alt="youtube subscriber" src="https://img.shields.io/youtube/channel/subscribers/UCkkBnedfjKU-toiKQ-rxvtA?label=YouTube%20Subscribers&style=social">
+    <img loading="lazy" style="margin-right: 6px" alt="youtube subscriber" src="https://img.shields.io/youtube/channel/subscribers/UCkkBnedfjKU-toiKQ-rxvtA?label=YouTube%20Subscribers&style=social">
 </a>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6klo4X01SlM"><img width="140px" src="https://i.ytimg.com/vi/6klo4X01SlM/mqdefault.jpg"></a></td>
@@ -1171,7 +1170,7 @@ Let me know your thoughts down in the comments and check out my profile for more
 <br>
 <br>
 <!-- latest tweet start -->
-<div align="center">
+<div style="margin: 0">
     <img loading="lazy" src="https://gtce.itsvg.in/api?username=montasimmamun" alt="latest tweet" />
 </div>
 <!-- latest tweet end -->
@@ -1211,17 +1210,23 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
 
 <br>
 <br>
-<img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=180&height=61&lines=GUTHUB METRICS" alt="github metrics" />
+<img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=180&height=61&lines=GUTHUB METRICS" alt="GitHub metrics" />
 
-<div align="center">
-  <img loading="lazy" width="75%" src="./metrics.svg" alt="montasim's github metrics"/>
-  <img loading="lazy" width="75%" src="./metrics.detailed.svg" alt="montasim's details github metrics"/>
+<div style="margin: 0">
+  <img loading="lazy" width="75%" src="./metrics.svg" alt="montasim's GitHub metrics"/>
+  <img loading="lazy" width="75%" src="./metrics.detailed.svg" alt="Montasim's details GitHub metrics"/>
 </div>
 
 <br>
 <br>
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=190&height=61&lines=LINKEDIN+METRICS" alt="LINKEDIN METRICS" />
-<img loading="lazy" src="https://github-readme-linkedin-black.vercel.app/experience?username=montasim" />
+<img loading="lazy" src="https://github-readme-linkedin-black.vercel.app/experience?username=montasim" alt="linkedin experience"/>
+
+<br>
+<br>
+<img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=140&height=61&lines=ROADMAP.SH" alt="ROADMAP.SH" />
+<br>
+<img loading="lazy" src="https://api.roadmap.sh/v1-badge/wide/64c515fe8bda28d99141fa50?variant=dark" alt="Roadmap.sh" />
 
 <br>
 <br>
@@ -1236,8 +1241,8 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
 
 <br><br>
 
-<table align="center">
-    <thead align="center">
+<table style="margin: 0">
+    <thead style="margin: 0">
         <tr>
             <td> <b> Name </b> </td>
             <td> <b> Contribution </b> </td>
@@ -1250,7 +1255,7 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
                     Github Readme Stats 
                 </a> 
             </td>
-            <td> For dynamically generated stats for your github readmes </td>
+            <td> For dynamically generated stats for your GitHub readmes </td>
         </tr>
         <tr>
             <td>
@@ -1319,7 +1324,7 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
 <br/>
 
 <!-- wave GIF start -->
-<div align="center">
+<div style="margin: 0">
     <img loading="lazy" width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
 </div>
 <!-- wave GIF end -->
@@ -1329,7 +1334,7 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
 <br/>
 
 <!-- build with love svg start -->
-<div align="center">
+<div style="margin: 0">
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=185&height=15&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+MONTASIM" alt="build with love svg" />
 </div>
 <!-- build with love svg end -->
