@@ -1,8 +1,8 @@
 <!--
-    Montasim's Github Profile
+    Montasim's GitHub Profile
     Created on : 18/5/2021
-    Author : Mohammad Montasim -Al- Mamun Shuvo
-    Contact : montasimmamun@gmail.com
+    Author     : Mohammad Montasim -Al- Mamun Shuvo
+    Contact    : montasimmamun@gmail.com
 
     -----------------------------------------------------------------------
     -----------------------------------------------------------------------
