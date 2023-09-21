@@ -1034,7 +1034,9 @@
     <img loading="lazy" align="right" style="margin-right: 6px" alt="youtube subscriber" src="https://img.shields.io/youtube/channel/subscribers/UCkkBnedfjKU-toiKQ-rxvtA?label=YouTube%20Subscribers&style=social">
 </a>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6klo4X01SlM"><img width="140px" src="https://i.ytimg.com/vi/6klo4X01SlM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YrJnnxbiVvQ"><img width="140px" src="https://i.ytimg.com/vi/YrJnnxbiVvQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YrJnnxbiVvQ">Debugging Facts</a><br/>Sep 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=6klo4X01SlM"><img width="140px" src="https://i.ytimg.com/vi/6klo4X01SlM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6klo4X01SlM">Sleep Detection Concept on EEG Signal</a><br/>Jul 11, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Y3Ka3HAWE9E"><img width="140px" src="https://i.ytimg.com/vi/Y3Ka3HAWE9E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Y3Ka3HAWE9E">COVID-19 SITUATION</a><br/>Apr 30, 2020</td></tr></table>
