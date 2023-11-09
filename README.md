@@ -640,7 +640,7 @@
             <!-- css frameworks start -->
             <tr>
                 <td>
-                    <b>CSS Drameworks</b>
+                    <b>CSS Frameworks</b>
                 </td>
                 <td>
                     <img loading="lazy" style="margin-right: 6px" alt="tailwind css badge" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&color=00B8B5">
