@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round&color=00B8B5" alt="Guest Book" />
   </a>
   -->
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting-!-00B8B5.svg?style=for-the-badge" alt="thanks badge" style="margin-right: 6px;" />
+  <img src="https://img.shields.io/badge/%F0%9F%91%8D-Thanks%20for%20visiting-00B8B5.svg?style=for-the-badge&logoColor=ffffff" alt="thanks badge" style="margin-right: 6px;" />
 </div>
 <!-- about repository badges end -->
 
@@ -140,7 +140,7 @@
 
 <div align="center">
     <!-- github streak start -->
-    <img loading="lazy" width=396 src="https://github-readme-streak-stats-montasim.vercel.app/?user=montasim&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=EB008B&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=FFFFFF" alt="current streak stats" />
+    <img loading="lazy" width=406 src="https://github-readme-streak-stats-montasim.vercel.app/?user=montasim&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=EB008B&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=FFFFFF" alt="current streak stats" />
     <!-- github streak end -->
     <!-- github stats start -->
     <img loading="lazy" width=396 src="https://github-readme-stats-montasim.vercel.app/api?username=montasim&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=EB008B&currStreakLabel=EB008B&sideLabels=EB008B&icon_color=EB008B&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&include_all_commits=true" alt="github stats" />
