@@ -62,18 +62,18 @@
 
 <!-- skills icons start -->
 <div align="center">
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/typescript/EB008B" alt="typescript icon"/>
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/javascript/EB008B" alt="javascript icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/react/EB008B" alt="react icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/EB008B" alt="nodejs icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/express/EB008B" alt="express icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/mongodb/EB008B" alt="mongodb icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/sass/EB008B" alt="sass icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/EB008B" alt="tailwindcss icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/EB008B" alt="bootstrap icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/html5/EB008B" alt="html5 icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/css3/EB008B" alt="css3 icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/markdown/EB008B" alt="markdown icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/typescript/00B8B5" alt="typescript icon"/>
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/javascript/00B8B5" alt="javascript icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/react/00B8B5" alt="react icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/00B8B5" alt="nodejs icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/express/00B8B5" alt="express icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/mongodb/00B8B5" alt="mongodb icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/sass/00B8B5" alt="sass icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/00B8B5" alt="tailwindcss icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/00B8B5" alt="bootstrap icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/html5/00B8B5" alt="html5 icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/css3/00B8B5" alt="css3 icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/markdown/00B8B5" alt="markdown icon" />
 </div>
 <!-- skills icons end -->
 
@@ -81,14 +81,14 @@
 
 <!-- tools badge start -->
 <div align="center">
-  <img loading="lazy" style="margin-right: 6px" alt="git badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 6px" alt="canva badge" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 6px" alt="firebase badge" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white&color=00B8BB">
-  <img loading="lazy" style="margin-right: 6px" alt="vercel badge" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&color=00B8B5">
-  <img loading="lazy" style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=00B8B5">
+  <img loading="lazy" style="margin-right: 6px" alt="git badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&labelColor=00B8B5&color=EB008B">
+  <img loading="lazy" style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=00B8B5&color=EB008B">
+  <img loading="lazy" style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=00B8B5&color=EB008B">
+  <img loading="lazy" style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=00B8B5&color=EB008B">
+  <img loading="lazy" style="margin-right: 6px" alt="canva badge" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white&labelColor=00B8B5&color=EB008B">
+  <img loading="lazy" style="margin-right: 6px" alt="firebase badge" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=00B8B5&color=EB008B">
+  <img loading="lazy" style="margin-right: 6px" alt="vercel badge" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=00B8B5&color=EB008B">
+  <img loading="lazy" style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=00B8B5&color=EB008B">
 </div>
 <!-- tools badge end -->
 
