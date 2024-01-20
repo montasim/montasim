@@ -2,7 +2,7 @@ name: Latest Contribution Graph Snake Activity
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs at 12:00am everyday
+    - cron: '0 0 * * *' # Runs at 12:00AM UTC everyday
   
   # allows to manually run the job at any time
   workflow_dispatch:
