@@ -114,15 +114,11 @@
 
 <!-- my summary start -->
 <p> 
-    Hello! My name is Mohammad Montasim -Al- Mamun Shuvo, and I enjoy creating things that live on the Internet. My interest in web development started in 2017 when I was doing a university project — it turns out this project taught me a lot about HTML & CSS!
+    I'm Mohammad Montasim -Al- Mamun Shuvo, <a href="http://montasim-dev.web.app/">a passionate Software Engineer</a> specializing in web development since 2017. My career began with a university project, leading me to <a href="https://mymedicalhub.com/">My MedicalHUB International Ltd</a>. as a Software Engineer. I focus on building accessible, inclusive digital experiences using the MERN Stack.
 </p>
 
 <p>
-    Fast-forward to today and I have had the privilege of working at a My MedicalHUB International Ltd. as a Junior Frontend Developer. My main focus these days is building accessible, inclusive products and digital experiences using MERN Stack.
-</p>
-
-<p>
-    So far, I have built some exciting full-stack projects.
+    My expertise lies in delivering complex projects, leveraging technology for business transformation, and creating innovative applications. I am dedicated to bridging research and engineering to produce impactful digital solutions.
 </p>
 <!-- my summary end -->
 
