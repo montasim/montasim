@@ -1176,9 +1176,9 @@ Let me know your thoughts down in the comments and check out my profile for more
 <br>
 
 <!-- latest tweet start -->
-<div align="center">
+<!-- <div align="center">
     <img loading="lazy" src="https://gtce.itsvg.in/api?username=montasimmamun" alt="latest tweet" />
-</div>
+</div> -->
 <!-- latest tweet end -->
 
 <br>
