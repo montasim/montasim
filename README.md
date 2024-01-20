@@ -1251,7 +1251,8 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
 <details>
 <summary> SPECIAL THANKS TO </summary>
 
-<br><br>
+<br>
+<br>
 
 <table align="center">
     <thead align="center">
