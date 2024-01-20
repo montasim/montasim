@@ -167,7 +167,7 @@
 
 <!-- github trophy start -->
 <div align="center">
-    <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=montasim&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
+    <img loading="lazy" src="https://github-profile-trophy-mnex.vercel.app?username=montasim&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
 </div>
 <!-- github trophy end -->
 
