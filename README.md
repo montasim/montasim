@@ -1064,42 +1064,42 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-104-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,935 Contributions in the Year 2023
+> 🏆 64 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 40 Public Repositories 
+> 📜 33 Public Repositories 
  > 
-> 🔑 143 Private Repositories 
+> 🔑 157 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5423 commits        ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-🌆 Daytime                7561 commits        ████████░░░░░░░░░░░░░░░░░   30.98 % 
-🌃 Evening                8184 commits        ████████░░░░░░░░░░░░░░░░░   33.53 % 
-🌙 Night                  3242 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+🌞 Morning                5426 commits        █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+🌆 Daytime                7661 commits        ████████░░░░░░░░░░░░░░░░░   30.71 % 
+🌃 Evening                8379 commits        ████████░░░░░░░░░░░░░░░░░   33.59 % 
+🌙 Night                  3482 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   3924 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Tuesday                  2852 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Wednesday                3170 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Thursday                 3621 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Friday                   4051 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Saturday                 3270 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Sunday                   3522 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Monday                   3979 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Tuesday                  2892 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Wednesday                3230 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Thursday                 3705 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Friday                   4086 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Saturday                 3433 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Sunday                   3623 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
 ```
 
 
@@ -1121,17 +1121,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               101 repos           ██████████████░░░░░░░░░░░   55.19 % 
-HTML                     37 repos            █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-TypeScript               14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-CSS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+JavaScript               104 repos           ██████████████░░░░░░░░░░░   55.91 % 
+HTML                     37 repos            █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+TypeScript               14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+CSS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 
 
 
 
- Last Updated on 11/11/2023 01:09:11 UTC
+ Last Updated on 20/01/2024 17:02:25 UTC
 <!--END_SECTION:waka-->
 
 <br>
@@ -1140,9 +1140,9 @@ PHP                      1 repo              ░░░░░░░░░░░�
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=260&height=61&lines=RECENT+GITHUB+ACTIVITY" alt="RECENT GITHUB ACTIVITY" />
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/mdjahidhasan009/Project_Management/pull/4) in [mdjahidhasan009/Project_Management](https://github.com/mdjahidhasan009/Project_Management)
-2. 🎉 Merged PR [#3](https://github.com/mdjahidhasan009/Project_Management/pull/3) in [mdjahidhasan009/Project_Management](https://github.com/mdjahidhasan009/Project_Management)
-3. 💪 Opened PR [#3](https://github.com/mdjahidhasan009/Project_Management/pull/3) in [mdjahidhasan009/Project_Management](https://github.com/mdjahidhasan009/Project_Management)
+1. ❌ Closed PR [#1058](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1058) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+2. ❌ Closed PR [#497](https://github.com/coderjojo/creative-profile-readme/pull/497) in [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme)
+3. ❌ Closed PR [#8](https://github.com/sagelga/github-achievement-cheatsheet/pull/8) in [sagelga/github-achievement-cheatsheet](https://github.com/sagelga/github-achievement-cheatsheet)
 4. 💪 Opened PR [#2](https://github.com/mdjahidhasan009/Project_Management/pull/2) in [mdjahidhasan009/Project_Management](https://github.com/mdjahidhasan009/Project_Management)
 5. 🎉 Merged PR [#3](https://github.com/montasim/Next-Level-Web-Development/pull/3) in [montasim/Next-Level-Web-Development](https://github.com/montasim/Next-Level-Web-Development)
 6. ❗ Opened issue [#57](https://github.com/montasim/montasim/issues/57) in [montasim/montasim](https://github.com/montasim/montasim)
