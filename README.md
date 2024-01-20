@@ -44,7 +44,6 @@
 
 <br/>
 
-
 <!-- about repository badges start -->
 <div align="center">
   <img src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c.svg?style=for-the-badge&color=00B8B5" alt="wakatime badge" style="margin-right: 6px;" />
@@ -96,6 +95,7 @@
 <br/>
 <br/>
 
+<!-- introduction heading start -->
 <div align="center">
     <!-- weather icon start -->
     <img loading="lazy" align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" width="100px">
@@ -108,6 +108,7 @@
     </div>
     <!-- about me end -->
 </div>
+<!-- introduction heading end -->
 
 <br/>
 
@@ -1030,6 +1031,7 @@
 
 <br>
 <br>
+
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=61&lines=YOUTUBE+ACTIVITY" alt="YOUTUBE ACTIVITY" />
 
 <a href="https://www.youtube.com/channel/UCkkBnedfjKU-toiKQ-rxvtA?sub_confirmation=1">
@@ -1044,6 +1046,7 @@
 
 <br>
 <br>
+
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=170&height=61&lines=BLOG+ACTIVITY" alt="BLOG ACTIVITY" />
 
 <!-- BLOG-POST-LIST:START -->
@@ -1056,6 +1059,7 @@
 
 <br>
 <br>
+
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=215&height=61&lines=WAKATIME+ACTIVITY" alt="WAKATIME ACTIVITY" />
 
 
@@ -1132,6 +1136,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 <br>
 <br>
+
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=260&height=61&lines=RECENT+GITHUB+ACTIVITY" alt="RECENT GITHUB ACTIVITY" />
 
 <!--START_SECTION:activity-->
@@ -1146,6 +1151,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 <br>
 <br>
+
 <!-- twitter post -->
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=61&lines=TWITTER+ACTIVITY" alt="TWITTER ACTIVITY" />
 
@@ -1168,6 +1174,7 @@ Let me know your thoughts down in the comments and check out my profile for more
 
 <br>
 <br>
+
 <!-- latest tweet start -->
 <div align="center">
     <img loading="lazy" src="https://gtce.itsvg.in/api?username=montasimmamun" alt="latest tweet" />
@@ -1176,6 +1183,7 @@ Let me know your thoughts down in the comments and check out my profile for more
 
 <br>
 <br>
+
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=190&height=61&lines=MEDIUM+ACTIVITY" alt="MEDIUM ACTIVITY" />
 
 <!-- MEDIUM:START -->
@@ -1198,6 +1206,7 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
 
 <br>
 <br>
+
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=135&height=61&lines=STARGAZERS" alt="STARGAZERS" />
 
 <!-- stargazers -->
@@ -1206,13 +1215,9 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
 |  <img src="https://avatars.githubusercontent.com/u/53188460?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/123979181?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/139006113?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/107668885?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/59120780?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/49388297?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/77977341?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/69123486?s=96&v=4" width="60px"> |
 <!-- stargazers -->
 
-
-
-
-
-
 <br>
 <br>
+
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=180&height=61&lines=GUTHUB METRICS" alt="github metrics" />
 
 <div align="center">
@@ -1222,13 +1227,17 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
 
 <br>
 <br>
+
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=190&height=61&lines=LINKEDIN+METRICS" alt="LINKEDIN METRICS" />
 <img loading="lazy" src="https://github-readme-linkedin-black.vercel.app/experience?username=montasim" />
 
 <br>
 <br>
+
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=140&height=61&lines=ROADMAP.SH" alt="ROADMAP.SH" />
+
 <br>
+
 <img loading="lazy" src="https://api.roadmap.sh/v1-badge/wide/64c515fe8bda28d99141fa50?variant=dark" alt="ROADMAP.SH" />
 
 <br>
