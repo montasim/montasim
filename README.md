@@ -103,10 +103,8 @@
     <!-- weather icon end -->
     <!-- about me start -->
     <div align="left">
-        <a align="center" href="https://montasim-dev.web.app/#about" target="_blank" rel="noopener noreferrer">
-            <img loading="lazy" width="21" src="./media/icons/charismatic.png" alt="wave png" />
-            <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=120&height=21&lines=ABOUT+ME" alt="i am montasim svg" />
-        </a>
+        <img loading="lazy" width="21" src="./media/icons/charismatic.png" alt="wave png" />
+        <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=120&height=21&lines=ABOUT+ME" alt="i am montasim svg" />
     </div>
     <!-- about me end -->
 </div>
