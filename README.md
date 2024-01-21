@@ -464,21 +464,27 @@
             <tr>
                 <td> Bachelor of Science (B. Sc.) </td>
                 <td> Computer Science & Engineering </td>
-                <td> Bangladesh Army University of Science and Technology </td>
+                <td>
+                    <a href="https://www.baust.edu.bd/" target="_blank" rel="noopener noreferrer">Bangladesh Army University of Science and Technology</a>
+                </td>
                 <td> 2.96 </td>
                 <td> 2021 </td>
             </tr>
             <tr>
                 <td> HSC </td>
                 <td> Science </td>
-                <td> Carmichael College Rangpur </td>
+                <td>
+                    <a href="https://ccr.gov.bd/" target="_blank" rel="noopener noreferrer">Carmichael College Rangpur</a>
+                </td>
                 <td> 4.58 </td>
                 <td> 2016 </td>
             </tr>
             <tr>
                 <td> SSC </td>
                 <td> Science </td>
-                <td> Rangpur Zilla School </td>
+                <td>
+                    <a href="http://www.rangpurzillaschool.edu.bd/" target="_blank" rel="noopener noreferrer">Rangpur Zilla School</a>
+                </td>
                 <td> 5.00 </td>
                 <td> 2014 </td>
             </tr>
