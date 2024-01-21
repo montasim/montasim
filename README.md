@@ -49,7 +49,7 @@
   <img src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c.svg?style=for-the-badge&color=00B8B5" alt="wakatime badge" style="margin-right: 6px;" />
   <img src="https://img.shields.io/github/followers/montasim?logo=github&style=for-the-badge&color=00B8B5" alt="follow badge" style="margin-right: 6px;" />
   <!-- Uncomment below to use the guest book badge
-  <a href="https://github.com/montasim/montasim/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook" style="margin-right: 6px">
+  <a href="https://github.com/montasim/montasim/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook" target="_blank" rel="noopener noreferrer" style="margin-right: 6px">
     <img src="https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round&color=00B8B5" alt="Guest Book" />
   </a>
   -->
@@ -114,11 +114,11 @@
 
 <!-- my summary start -->
 <p> 
-    I'm Mohammad Montasim -Al- Mamun Shuvo, <a href="http://montasim-dev.web.app/">A passionate Software Engineer</a> specializing in web development since 2017. My career began with a <a href="https://www.baust.edu.bd/">university</a> project, leading me to <a href="https://mymedicalhub.com/">My MedicalHUB International Ltd</a>. as a Software Engineer. I focus on building accessible, inclusive digital experiences using the MERN Stack.
+    I'm Mohammad Montasim -Al- Mamun Shuvo, <a href="http://montasim-dev.web.app/" target="_blank" rel="noopener noreferrer">A passionate Software Engineer</a> specializing in web development since 2017. My career began with a <a href="https://www.baust.edu.bd/" target="_blank" rel="noopener noreferrer">university</a> project, leading me to <a href="https://mymedicalhub.com/" target="_blank" rel="noopener noreferrer">My MedicalHUB International Ltd</a>. as a Software Engineer. I focus on building accessible, inclusive digital experiences using the MERN Stack.
 </p>
 
 <p>
-    <a href="https://montasim-dev.web.app/#about">My expertise</a> lies in delivering complex projects, leveraging technology for business transformation, and creating <a href="https://montasim-dev.web.app/#projects">innovative applications</a>. I am dedicated to bridging research and engineering to produce impactful digital solutions.
+    <a href="https://montasim-dev.web.app/#about" target="_blank" rel="noopener noreferrer">My expertise</a> lies in delivering complex projects, leveraging technology for business transformation, and creating <a href="https://montasim-dev.web.app/#projects" target="_blank" rel="noopener noreferrer">innovative applications</a>. I am dedicated to bridging research and engineering to produce impactful digital solutions.
 </p>
 <!-- my summary end -->
 
@@ -149,7 +149,7 @@
     <img loading="lazy" width=325 src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="most used language stats" />
     <!-- github most used languages end -->
     <!-- wakatime weekly activity start -->
-    <!-- <a href="https://wakatime.com/@montasim" title="Data update every midnight">
+    <!-- <a href="https://wakatime.com/@montasim" target="_blank" rel="noopener noreferrer" title="Data update every midnight">
         <img loading="lazy" src="https://github-readme-stats-montasim.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&text_color=00B8B5&bg_color=0D1117&title_color=EB008B&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
     </a> -->
     <!-- wakatime weekly activity end -->
@@ -186,37 +186,37 @@
     <thead align="center">
         <tr>
             <th>
-                <a href="https://www.linkedin.com/in/montasim" title="linkedin.com/in/montasim">
+                <a href="https://www.linkedin.com/in/montasim" target="_blank" rel="noopener noreferrer" title="linkedin.com/in/montasim">
                     <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/EB008B" width="35px">
                 </a>
             </th>
             <th>
-                <a href="https://www.github.com/montasim" title="github.com/montasim">
+                <a href="https://www.github.com/montasim" target="_blank" rel="noopener noreferrer" title="github.com/montasim">
                     <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/github/EB008B" width="35px">
                 </a>
             </th>
             <th>
-                <a href="https://stackoverflow.com/users/20348607/montasim" title="stackoverflow.com/users/20348607/montasim">
+                <a href="https://stackoverflow.com/users/20348607/montasim" target="_blank" rel="noopener noreferrer" title="stackoverflow.com/users/20348607/montasim">
                     <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/stackoverflow/EB008B" width="35px">
                 </a>
             </th>
             <th>
-                <a href="https://montasim-dev.web.app/" title="montasim-dev.web.app">
+                <a href="https://montasim-dev.web.app/" target="_blank" rel="noopener noreferrer" title="montasim-dev.web.app">
                     <img loading="lazy" alt="web icon" src="https://cdn.simpleicons.org/googlechrome/EB008B" width="35px">
                 </a>
             </th>
             <th>
-                <a href="mailto:montasimmamun@gmail.com" title="montasimmamun@gmail.com">
+                <a href="mailto:montasimmamun@gmail.com" target="_blank" rel="noopener noreferrer" title="montasimmamun@gmail.com">
                     <img loading="lazy" alt="gmail icon" src="https://cdn.simpleicons.org/gmail/EB008B" width="35px">
                 </a>
             </th>
             <th>
-                <a href="https://www.facebook.com/montasimmamun/" title="facebook.com/montasimmamun">
+                <a href="https://www.facebook.com/montasimmamun/" target="_blank" rel="noopener noreferrer" title="facebook.com/montasimmamun">
                     <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/facebook/EB008B" width="35px">
                 </a>
             </th>
             <th>
-                <a href="https://twitter.com/montasimmamun" title="twitter.com/montasimmamun">
+                <a href="https://twitter.com/montasimmamun" target="_blank" rel="noopener noreferrer" title="twitter.com/montasimmamun">
                     <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/twitter/EB008B" width="35px">
                 </a>
             </th>
@@ -253,7 +253,7 @@
     <summary> MY RESUME </summary>
     <br/>
     <br/>
-    <a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link"> 
+    <a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link" target="_blank" rel="noopener noreferrer"> 
         <div align="right">
             <img loading="lazy" width="21px" src="./media/icons/cv.png" alt="resume icon" />
             <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=260&height=21&lines=DOWNLOAD+MY+RESUME" alt="download my resume" />
@@ -275,10 +275,10 @@
     <br/>
 <!-- quick link start -->
 <pre>
-<b>Email     :</b> <a href="montasimmamun@gmail.com">montasimmamun@gmail.com</a> 
-<b>Portfolio :</b> <a href="https://montasim-dev.web.app/">montasim-dev.web.app</a>
-<b>Mobile    :</b> <a href="+8801722815469">+8801722815469</a>
-<b>GitHub    :</b> <a href="https://github.com/montasim">github.com/montasim</a>
+<b>Email     :</b> <a href="montasimmamun@gmail.com" target="_blank" rel="noopener noreferrer">montasimmamun@gmail.com</a> 
+<b>Portfolio :</b> <a href="https://montasim-dev.web.app/" target="_blank" rel="noopener noreferrer">montasim-dev.web.app</a>
+<b>Mobile    :</b> <a href="+8801722815469" target="_blank" rel="noopener noreferrer">+8801722815469</a>
+<b>GitHub    :</b> <a href="https://github.com/montasim" target="_blank" rel="noopener noreferrer">github.com/montasim</a>
 </pre>
 <!-- quick link end -->
     <br/>
@@ -297,7 +297,7 @@
         <tbody>
             <tr>
                 <td>
-                    <a href="http://mymedicalhub.com/">MyMedicalHUB</a>
+                    <a href="http://mymedicalhub.com/" target="_blank" rel="noopener noreferrer">MyMedicalHUB</a>
                 </td>
                 <td>Junior Frontend Developer</td>
                 <td>
@@ -309,7 +309,7 @@
             </tr>
             <tr>
                 <td>
-                    <a href="http://mymedicalhub.com/">MyMedicalHUB</a>
+                    <a href="http://mymedicalhub.com/" target="_blank" rel="noopener noreferrer">MyMedicalHUB</a>
                 </td>
                 <td>Junior Frontend Developer - Intern</td>
                 <td>
@@ -856,7 +856,7 @@
             <ul>
                 <li>
                     Processor: 
-                    <a href="https://www.amd.com/en/products/apu/amd-ryzen-3-2200g">
+                    <a href="https://www.amd.com/en/products/apu/amd-ryzen-3-2200g" target="_blank" rel="noopener noreferrer">
                         AMD Ryzen™ 3 2200G Processor with AMD Radeon™ Vega 8 Graphics
                     </a>
                 </li>
@@ -865,25 +865,25 @@
                 </li>
                 <li>
                     Motherboard: 
-                     <a href="https://www.asus.com/motherboards-components/motherboards/prime/prime-a320m-e/">
+                     <a href="https://www.asus.com/motherboards-components/motherboards/prime/prime-a320m-e/" target="_blank" rel="noopener noreferrer">
                         PRIME A320M-E
                     </a>
                 </li>
                 <li>
                     RAM: 
-                     <a href="https://www.corsair.com/ww/en/Categories/Products/Memory/VENGEANCE-LPX/p/CMK4GX4M1A2400C14">
+                     <a href="https://www.corsair.com/ww/en/Categories/Products/Memory/VENGEANCE-LPX/p/CMK4GX4M1A2400C14" target="_blank" rel="noopener noreferrer">
                         Corsair Vengeance LPX 4GB DDR4 2400MHz Black Heatsink Desktop RAM
                     </a>
                 </li>
                 <li>
                     SSD: 
-                     <a href="https://www.ryanscomputers.com/hikvision-c100-120gb-sataiii-ssd">
+                     <a href="https://www.ryanscomputers.com/hikvision-c100-120gb-sataiii-ssd" target="_blank" rel="noopener noreferrer">
                         Hikvision C100 120GB 2.5 Inch SATAIII SSD
                     </a>
                 </li>
                 <li>
                     HDD: 
-                     <a href="https://toshiba.semicon-storage.com/us/storage/product/internal-specialty/pc/articles/dt01aca-series.html">
+                     <a href="https://toshiba.semicon-storage.com/us/storage/product/internal-specialty/pc/articles/dt01aca-series.html" target="_blank" rel="noopener noreferrer">
                         Toshiba DT01ACA100 1TB Sata Desktop Hard Disk
                     </a>
                 </li>
@@ -892,7 +892,7 @@
                 </li>
                 <li>
                     UPS: 
-                     <a href="https://www.startech.com.bd/power-guard-1200va-cs-offline-ups">
+                     <a href="https://www.startech.com.bd/power-guard-1200va-cs-offline-ups" target="_blank" rel="noopener noreferrer">
                         Power Guard 1200VA CS Offline UPS (Plastic Body)
                     </a>
                 </li>
@@ -1012,7 +1012,7 @@
     <summary> FIND MORE ON SOCIAL MEDIA </summary>
 <br>
 <br>
-<a href="https://stackoverflow.com/users/20348607/ＭＯＮＴＡＳＩＭ" target="_blank">
+<a href="https://stackoverflow.com/users/20348607/ＭＯＮＴＡＳＩＭ" target="_blank" rel="noopener noreferrer">
     <img loading="lazy" align="right" alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=20348607" />
 </a>
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=285&height=61&lines=STACKOVERFLOW ACTIVITY" alt="stackoverflow activity" />
@@ -1030,7 +1030,7 @@
 
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=61&lines=YOUTUBE+ACTIVITY" alt="YOUTUBE ACTIVITY" />
 
-<a href="https://www.youtube.com/channel/UCkkBnedfjKU-toiKQ-rxvtA?sub_confirmation=1">
+<a href="https://www.youtube.com/channel/UCkkBnedfjKU-toiKQ-rxvtA?sub_confirmation=1" target="_blank" rel="noopener noreferrer">
     <img loading="lazy" align="right" style="margin-right: 6px" alt="youtube subscriber" src="https://img.shields.io/youtube/channel/subscribers/UCkkBnedfjKU-toiKQ-rxvtA?label=YouTube%20Subscribers&style=social">
 </a>
 
@@ -1260,7 +1260,7 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
     <tbody>
         <tr>
             <td>
-                <a href="https://github.com/anuraghazra/github-readme-stats"> 
+                <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer"> 
                     Github Readme Stats 
                 </a> 
             </td>
@@ -1268,7 +1268,7 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/omidnikrah/profile-activity-generator"> 
+                <a href="https://github.com/omidnikrah/profile-activity-generator" target="_blank" rel="noopener noreferrer"> 
                    Profile Activity Generator 
                 </a> 
             </td>
@@ -1276,7 +1276,7 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/anmol098/waka-readme-stats"> 
+                <a href="https://github.com/anmol098/waka-readme-stats" target="_blank" rel="noopener noreferrer"> 
                    All Dev Stats in Readme
                 </a> 
             </td>
@@ -1284,7 +1284,7 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
         </tr>
         <tr>
             <td>
-                <a href="https://visitor-badge.glitch.me/#docs"> 
+                <a href="https://visitor-badge.glitch.me/#docs" target="_blank" rel="noopener noreferrer"> 
                    Visitor Badge 
                 </a> 
             </td>
@@ -1292,7 +1292,7 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
         </tr>
         <tr>
             <td>
-                <a href="https://shields.io/"> 
+                <a href="https://shields.io/" target="_blank" rel="noopener noreferrer"> 
                    Shields Project 
                 </a> 
             </td>
@@ -1300,7 +1300,7 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/simple-icons/simple-icons#cdn-usage"> 
+                <a href="https://github.com/simple-icons/simple-icons#cdn-usage" target="_blank" rel="noopener noreferrer"> 
                    Simple Icons 
                 </a> 
             </td>
@@ -1308,7 +1308,7 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/jamesgeorge007/github-activity-readme"> 
+                <a href="https://github.com/jamesgeorge007/github-activity-readme" target="_blank" rel="noopener noreferrer"> 
                    Github Activity in README
                 </a> 
             </td>
@@ -1316,7 +1316,7 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
         </tr>
         <tr>
             <td>
-                <a href="https://readme-typing-svg.herokuapp.com/"> 
+                <a href="https://readme-typing-svg.herokuapp.com/" target="_blank" rel="noopener noreferrer"> 
                    Readme Typing SVG
                 </a> 
             </td>
