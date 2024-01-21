@@ -299,27 +299,43 @@
         <tbody>
             <tr>
                 <td>
+                    <a href="http://mymedicalhub.com/" target="_blank" rel="noopener noreferrer"> My MedicalHUB International Ltd.</a>
+                </td>
+                <td>Software Engineer</td>
+                <td>Web Development</td>
+                <td>Oct 2023 - Present</td>
+            </tr>
+            <tr>
+                <td>
                     <a href="http://mymedicalhub.com/" target="_blank" rel="noopener noreferrer">MyMedicalHUB</a>
                 </td>
                 <td>Junior Frontend Developer</td>
-                <td>
-                    <p>
-                        Web Development
-                    </p>
-                </td>
-                <td>Nov 2022 - Present</td>
+                <td>Web Development</td>
+                <td>Nov 2022 - Oct 2023</td>
             </tr>
             <tr>
                 <td>
                     <a href="http://mymedicalhub.com/" target="_blank" rel="noopener noreferrer">MyMedicalHUB</a>
                 </td>
                 <td>Junior Frontend Developer - Intern</td>
-                <td>
-                    <p>
-                        Web Development
-                    </p>
-                </td>
+                <td>Web Development</td>
                 <td>Aug 2022 - Oct 2022</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://www.drra-bd.org/" target="_blank" rel="noopener noreferrer">Disabled Rehabilitation & Research Association</a>
+                </td>
+                <td>Computer Instructor</td>
+                <td>Education</td>
+                <td>Feb 2022 - Aug 2022</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://www.drra-bd.org/" target="_blank" rel="noopener noreferrer">Disabled Rehabilitation & Research Association</a>
+                </td>
+                <td>Management Information System Officer</td>
+                <td>Information Technology</td>
+                <td>Dec 2021 - Aug 2022</td>
             </tr>
         </tbody>
     </table>
