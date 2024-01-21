@@ -357,7 +357,7 @@
                     <b>Frontend</b>
                 </td>
                 <td>
-                    JavaScript, ReactJS, NextJS, Tailwind CSS, Bootstrap, HTML5, CSS3
+                    React JS, Next JS, Tailwind CSS, Bootstrap
                 </td>
             </tr>
             <!-- frontend end -->
@@ -377,30 +377,30 @@
                     <b>DevOps</b>
                 </td>
                 <td>
-                    Git, GitHub, Chrome Dev, Tools, Firebase, Heroku, Netlify
+                    Git, GitHub
                 </td>
             </tr>
             <!-- devOps end -->
-            <!-- familiar with start -->
-            <tr>
-                <td>
-                    <b>Familiar With</b>
-                </td>
-                <td>
-                    Typescript, REST APIs, jQuery, Microsoft Azure, Stripe, Nodemailer
-                </td>
-            </tr>
-            <!-- familiar with end -->
             <!-- tools start -->
             <tr>
                 <td>
                     <b>Tools</b>
                 </td>
                 <td>
-                    Canva, Figma
+                    Figma, Adobe XD, Canva
                 </td>
             </tr>
             <!-- tools end -->
+            <!-- familiar with start -->
+            <tr>
+                <td>
+                    <b>Familiar With</b>
+                </td>
+                <td>
+                    Typescript, React Native, SASS, LESS, Stripe
+                </td>
+            </tr>
+            <!-- familiar with end -->
         </tbody>
     </table>
     <!-- skills end -->
@@ -409,40 +409,31 @@
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=520&height=61&lines=TRAINING PARTICIPATION+and+CERTIFICATION+:+%20+(9)" alt="training, participation and certification" />
     <ol>
         <li>
-            𝙼𝚘𝚋𝚒𝚕𝚎 𝙶𝚊𝚖𝚎 𝙰𝚗𝚍 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝙵𝚘𝚛 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 - 𝚊𝚝 𝙸𝙲𝚃 𝙳𝚒𝚟𝚒𝚜𝚒𝚘𝚗 𝚘𝚏 𝙱𝚊𝚗𝚐𝚕𝚊𝚍𝚎𝚜𝚑
+            <a href="https://www.coursera.org/account/accomplishments/professional-cert/8TE9CLHKPLL4" target="_blank" rel="noopener noreferrer">Meta Front-End Developer</a>
         </li>
         <li>
-            𝙿𝙻𝙲 𝚃𝚛𝚊𝚒𝚗𝚒𝚗𝚐 𝙲𝚘𝚞𝚛𝚜𝚎 - 𝚊𝚝 𝙱𝙰𝚄𝚂𝚃
+            <a href="https://www.coursera.org/account/accomplishments/specialization/KUUKAHJMJ4W5" target="_blank" rel="noopener noreferrer">Meta React Native</a>
         </li>
         <li>
-            𝚃𝚑𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎 𝙲 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+            <a href="https://www.coursera.org/account/accomplishments/verify/NBDCPNUYDDBY" target="_blank" rel="noopener noreferrer">Introduction to Unit Testing in Jest - The Fundamentals</a>
         </li>
         <li>
-            𝙲++ 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 𝚂𝚎𝚛𝚒𝚎𝚜, 𝚃𝚑𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎 𝙲𝚘𝚍𝚒𝚗𝚐 𝙶𝚞𝚒𝚍𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+            <a href="https://www.coursera.org/account/accomplishments/verify/6XGX2GV2WUPC" target="_blank" rel="noopener noreferrer">Webservices API Testing with Postman - Complete Guide</a>
         </li>
         <li>
-            𝙻𝚎𝚊𝚛𝚗 𝙲++ 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙼𝚒𝚗𝚒 𝙲𝚘𝚞𝚛𝚜𝚎, 𝙿𝚘𝚠𝚎𝚛 𝚘𝚏 𝙰𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+            <a href="https://www.coursera.org/account/accomplishments/verify/6XGX2GV2WUPC" target="_blank" rel="noopener noreferrer">Introduction to Accessible Web Development</a>
         </li>
         <li>
-            𝙷𝚃𝙼𝙻𝟻 𝙲𝚘𝚍𝚒𝚗𝚐 𝚏𝚛𝚘𝚖 𝚂𝚌𝚛𝚊𝚝𝚌𝚑 - 𝙱𝚞𝚒𝚕𝚍 𝚈𝚘𝚞𝚛 𝙾𝚠𝚗 𝚆𝚎𝚋𝚜𝚒𝚝𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+            <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/22YXRDKYEY7M" target="_blank" rel="noopener noreferrer">Google Business Intelligence</a>
         </li>
         <li>
-            𝙿𝚘𝚜𝚒𝚝𝚒𝚘𝚗 𝙴𝚕𝚎𝚖𝚎𝚗𝚝𝚜 𝚘𝚗 𝚊 𝙿𝚊𝚐𝚎 𝚠𝚒𝚝𝚑 𝙲𝚂𝚂 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+            <a href="https://www.coursera.org/account/accomplishments/verify/QBU8UZSNNBKU" target="_blank" rel="noopener noreferrer">Agile with Atlassian Jira</a>
         </li>
         <li>
-            𝙶𝚒𝚝 + 𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚛 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜e
+            <a href="https://www.coursera.org/account/accomplishments/professional-cert/AXDASTEQWFAT" target="_blank" rel="noopener noreferrer">Google Project Management</a>
         </li>
         <li>
-            𝚄𝚜𝚎 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚊𝚗𝚍 𝙲𝚛𝚎𝚊𝚝𝚎 𝚊 𝚁𝚎𝚖𝚘𝚝𝚎 𝙶𝚒𝚝 𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
-        </li>
-        <li>
-            𝙶𝚘𝚘𝚐𝚕𝚎 𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝚂𝚎𝚊𝚛𝚌𝚑: 𝙵𝚒𝚗𝚍 𝚂𝚝𝚞𝚏𝚏 𝙻𝚒𝚔𝚎 𝚊 𝙱𝚘𝚜𝚜 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
-        </li>
-        <li>
-            𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙻𝚒𝚗𝚎 𝚒𝚗 𝙻𝚒𝚗𝚞𝚡 - 𝚊𝚝 𝙲𝚘𝚞𝚛𝚜𝚎𝚛𝚊 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
-        </li>
-        <li>
-            𝙻𝚎𝚊𝚛𝚗 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙻𝚒𝚗𝚎 - 𝚊𝚝 𝚄𝚍𝚎𝚖𝚢 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚘𝚞𝚛𝚜𝚎
+            <a href="https://www.coursera.org/account/accomplishments/specialization/UT9X7HR8UDZQ" target="_blank" rel="noopener noreferrer">Microsoft Azure Fundamentals AZ-900 Exam Prep</a>
         </li>
     </ol>
     <!-- End Training, Participation and Certification -->
