@@ -286,7 +286,7 @@
     <br/>
     <br/>
     <!-- work experience start -->
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=240&height=61&lines=WORK EXPERIENCE+:+%20+(2)" alt="work experience" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=240&height=61&lines=WORK EXPERIENCE+:+%20+(5)" alt="work experience" />
     <table>
         <thead>
             <tr>
