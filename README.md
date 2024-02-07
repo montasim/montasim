@@ -1357,6 +1357,14 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
 <!-- wave GIF end -->
 
 <br/>
+
+<!--RECENT_ACTIVITY:last_update-->
+<p align="right">
+    <i>Last refresh</i> : <b>Wednesday, February 7th, 2024, 7:24:28 AM</b>
+</p>
+<!--RECENT_ACTIVITY:last_update_end-->
+
+<br/>
 <br/>
 <br/>
 
