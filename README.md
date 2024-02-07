@@ -1357,14 +1357,6 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
 <!-- wave GIF end -->
 
 <br/>
-
-<!--RECENT_ACTIVITY:last_update-->
-<p align="right">
-    <i>Last refresh</i> : <b>Wednesday, February 7th, 2024, 7:24:28 AM</b>
-</p>
-<!--RECENT_ACTIVITY:last_update_end-->
-
-<br/>
 <br/>
 <br/>
 
@@ -1373,6 +1365,16 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=185&height=15&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+MONTASIM" alt="build with love svg" />
 </div>
 <!-- build with love svg end -->
+
+<br/>
+<br/>
+<br/>
+
+<!--RECENT_ACTIVITY:last_update-->
+<p align="right">
+    <i>Last refresh</i> : <b>Wednesday, February 7th, 2024, 7:24:28 AM</b>
+</p>
+<!--RECENT_ACTIVITY:last_update_end-->
 
 <br/>
 <br/>
