@@ -216,8 +216,8 @@
                 </a>
             </th>
             <th>
-                <a href="https://twitter.com/montasimmamun" target="_blank" rel="noopener noreferrer" title="twitter.com/montasimmamun">
-                    <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/twitter/EB008B" width="35px">
+                <a href="https://x.com/montasimmamun" target="_blank" rel="noopener noreferrer" title="https://x.com/montasimmamun">
+                    <img loading="lazy" alt="x icon" src="https://cdn.simpleicons.org/x/EB008B" width="35px">
                 </a>
             </th>
         </tr>
