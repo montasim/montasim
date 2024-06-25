@@ -98,8 +98,8 @@
 <!-- introduction heading start -->
 <div align="center">
     <!-- weather icon start -->
-    <img loading="lazy" align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" width="100px">
-    <br/>
+<!--     <img loading="lazy" align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" width="100px"> -->
+    <img loading="lazy" align="right" alt="weather icon" src="https://plum-meowing-freon.glitch.me/count.svg?backgroundColor=0D1117">
     <!-- weather icon end -->
     <!-- about me start -->
     <div align="left">
