@@ -63,9 +63,11 @@
 <div align="center">
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/typescript/EB008B" alt="typescript icon"/>
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/javascript/EB008B" alt="javascript icon" />
-  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/react/EB008B" alt="react icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/react/EB008B" alt="react.js icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/nextdotjs/EB008B" alt="next.js icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/EB008B" alt="nodejs icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/express/EB008B" alt="express icon" />
+  <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/PostgreSQL/EB008B" alt="PostgreSQL icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/mongodb/EB008B" alt="mongodb icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/sass/EB008B" alt="sass icon" />
   <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/EB008B" alt="tailwindcss icon" />
@@ -80,13 +82,12 @@
 
 <!-- tools badge start -->
 <div align="center">
-  <img loading="lazy" style="margin-right: 6px" alt="git badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&labelColor=555555&color=00B8B5">
-  <img loading="lazy" style="margin-right: 6px" alt="github badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=555555&color=00B8B5">
-  <img loading="lazy" style="margin-right: 6px" alt="vscode badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=555555&color=00B8B5">
+  <img loading="lazy" style="margin-right: 6px" alt="webstorm badge" src="https://img.shields.io/badge/webstorm-0078D4?style=for-the-badge&logo=webstorm&logoColor=white&labelColor=555555&color=00B8B5">
   <img loading="lazy" style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=555555&color=00B8B5">
-  <img loading="lazy" style="margin-right: 6px" alt="canva badge" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white&labelColor=555555&color=00B8B5">
+  <img loading="lazy" style="margin-right: 6px" alt="adobexd badge" src="https://img.shields.io/badge/adobexd-F24E1E?style=for-the-badge&logo=adobexd&logoColor=white&labelColor=555555&color=00B8B5">
   <img loading="lazy" style="margin-right: 6px" alt="firebase badge" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=555555&color=00B8B5">
   <img loading="lazy" style="margin-right: 6px" alt="vercel badge" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=555555&color=00B8B5">
+  <img loading="lazy" style="margin-right: 6px" alt="canva badge" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white&labelColor=555555&color=00B8B5">
   <img loading="lazy" style="margin-right: 6px" alt="linux badge" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=555555&color=00B8B5">
 </div>
 <!-- tools badge end -->
@@ -98,8 +99,7 @@
 <!-- introduction heading start -->
 <div align="center">
     <!-- weather icon start -->
-<!--     <img loading="lazy" align="right" alt="weather icon" src="https://weather-icon.journeyad.repl.co/@dhaka?v=1" width="100px"> -->
-    <img loading="lazy" align="right" alt="weather icon" src="https://plum-meowing-freon.glitch.me/count.svg?backgroundColor=0D1117">
+    <img loading="lazy" align="right" alt="visitor count svg" src="https://plum-meowing-freon.glitch.me/count.svg?backgroundColor=0D1117">
     <!-- weather icon end -->
     <!-- about me start -->
     <div align="left">
@@ -126,28 +126,28 @@
 <br/>
 <br/>
 
-<!-- my github stats text start -->
+<!-- my GitHub stats text start -->
 <div align="center"> 
     <img loading="lazy" width="21" align="center" src="./media/icons/pie-chart.png" alt="pie chart png" />
-    <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my github stats svg" />
+    <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my GitHub stats svg" />
 </div>
-<!-- my github stats text end -->
+<!-- my GitHub stats text end -->
 
 <br/>
 
 <div align="center">
-    <!-- github streak start -->
+    <!-- GitHub streak start -->
     <img loading="lazy" width=396 src="https://github-readme-streak-stats-mnex.vercel.app?user=montasim&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=EB008B&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=FFFFFF" alt="current streak stats" />
-    <!-- github streak end -->
-    <!-- github stats start -->
+    <!-- GitHub streak end -->
+    <!-- GitHub stats start -->
     <img loading="lazy" width=396 src="https://github-readme-stats-mnex.vercel.app/api?username=montasim&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=EB008B&currStreakLabel=EB008B&sideLabels=EB008B&icon_color=EB008B&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&include_all_commits=true" alt="github stats" />
-    <!-- github stats end -->
+    <!-- GitHub stats end -->
 </div>
 
 <div align="center">
-    <!-- github most used languages start -->
+    <!-- GitHub most used languages start -->
     <img loading="lazy" width=325 src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="most used language stats" />
-    <!-- github most used languages end -->
+    <!-- GitHub most used languages end -->
     <!-- wakatime weekly activity start -->
     <!-- <a href="https://wakatime.com/@montasim" target="_blank" rel="noopener noreferrer" title="Data update every midnight">
         <img loading="lazy" src="https://github-readme-stats-montasim.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&text_color=00B8B5&bg_color=0D1117&title_color=EB008B&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
@@ -155,17 +155,17 @@
     <!-- wakatime weekly activity end -->
 </div>
 
-<!-- github readme activity graph start -->
+<!-- GitHub readme activity graph start -->
 <div align="center">
     <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph-mnex.vercel.app/graph?username=montasim&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
 </div>
-<!-- github readme activity graph end -->
+<!-- GitHub readme activity graph end -->
 
-<!-- github trophy start -->
+<!-- GitHub trophy start -->
 <div align="center">
     <img loading="lazy" src="https://github-profile-trophy-mnex.vercel.app?username=montasim&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
 </div>
-<!-- github trophy end -->
+<!-- GitHub trophy end -->
 
 <br/>
 <br/>
@@ -1234,8 +1234,8 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=180&height=61&lines=GUTHUB METRICS" alt="github metrics" />
 
 <div align="center">
-  <img loading="lazy" width="75%" src="./metrics.svg" alt="montasim's github metrics"/>
-  <img loading="lazy" width="75%" src="./metrics.detailed.svg" alt="montasim's details github metrics"/>
+  <img loading="lazy" width="75%" src="./metrics.svg" alt="montasim's GitHub metrics"/>
+  <img loading="lazy" width="75%" src="./metrics.detailed.svg" alt="montasim's details GitHub metrics"/>
 </div>
 
 <br>
@@ -1281,7 +1281,7 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
                     Github Readme Stats 
                 </a> 
             </td>
-            <td> For dynamically generated stats for your github readmes </td>
+            <td> For dynamically generated stats for your GitHub readmes </td>
         </tr>
         <tr>
             <td>
