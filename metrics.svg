@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3249" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3598" class="">
     <defs>
         <style/>
     </defs>
@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            8064 Commits
+                            8098 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -247,12 +247,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 82 commits)</small>
+                    <small class="h-details">(computed from last 81 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 49.5 characters per line of code written</li>
+                        <li>Has approximately 51.8 characters per line of code written</li>
                         <li>Mostly pushes code around 06:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -264,7 +264,7 @@
                     <div class="chart-bars">
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 7.4074074074074066px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 7.6923076923076925px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             00
                         </div>
                         <div class="entry">
@@ -283,8 +283,8 @@
                             03
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 1.9230769230769231px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             04
                         </div>
                         <div class="entry">
@@ -293,7 +293,7 @@
                             05
                         </div>
                         <div class="entry">
-                            <span class="value">27</span>
+                            <span class="value">26</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             06
                         </div>
@@ -313,48 +313,48 @@
                             09
                         </div>
                         <div class="entry">
-                            <span class="value">6</span>
-                            <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 9.615384615384617px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             10
                         </div>
                         <div class="entry">
-                            <span class="value">10</span>
-                            <div class="bar" style="height: 18.51851851851852px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">9</span>
+                            <div class="bar" style="height: 17.307692307692307px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             11
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 3.7037037037037033px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             12
                         </div>
                         <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 7.4074074074074066px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">7</span>
+                            <div class="bar" style="height: 13.461538461538462px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             13
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 3.7037037037037033px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             14
                         </div>
                         <div class="entry">
-                            <span class="value">6</span>
-                            <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">4</span>
+                            <div class="bar" style="height: 7.6923076923076925px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             15
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 3.7037037037037033px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             16
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 3.7037037037037033px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             17
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 1.8518518518518516px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 1.9230769230769231px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             18
                         </div>
                         <div class="entry">
@@ -364,22 +364,22 @@
                         </div>
                         <div class="entry">
                             <span class="value">9</span>
-                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 17.307692307692307px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             20
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 7.4074074074074066px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 7.6923076923076925px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             21
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 3.7037037037037033px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             22
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 1.8518518518518516px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 1.9230769230769231px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             23
                         </div>
                     </div>
@@ -394,8 +394,8 @@
                                 Sun
                             </div>
                             <div class="entry">
-                                <span class="value">9</span>
-                                <div class="bar" style="height: 26.47058823529412px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">8</span>
+                                <div class="bar" style="height: 23.52941176470588px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
@@ -430,7 +430,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 38.68538175279103%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 38.38629008240505%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">48%</span>
                             </div>
                         </div>
@@ -447,22 +447,22 @@
                 <div class="row">
                     <section>
                         <div class="topics fill-width">
-                            <div class="label" title="A database is a structured set of data held in a computer, usually a server.">database</div>
-                            <div class="label" title="MATLAB is a programming platform for numerical computation and visualization.">matlab</div>
-                            <div class="label" title="Automate your code review with style, quality, security, and test‑coverage checks when you need them.">code quality</div>
-                            <div class="label" title="Parsing is the process of analyzing a string of symbols conforming to the rules of a formal grammar.">parsing</div>
-                            <div class="label" title="Spring Boot is a coding and configuration model for Java applications.">spring boot</div>
-                            <div class="label" title="An awesome list is a list of awesome things curated by the community.">awesome lists</div>
-                            <div class="label" title="Kubernetes is an open source system for automating deployment, scaling, and management of containerized applications.">kubernetes</div>
-                            <div class="label" title="R is a free programming language and software environment for statistical computing and graphics.">r</div>
-                            <div class="label" title="">wagtail</div>
                             <div class="label" title="Ansible is a simple and powerful automation engine.">ansible</div>
-                            <div class="label" title="MongoDB is an open source NoSQL document-oriented database.">mongodb</div>
-                            <div class="label" title="A framework is a reusable set of libraries or classes in software.">framework</div>
-                            <div class="label" title="Crystal is a self-hosted, general purpose programming language.">crystal</div>
-                            <div class="label" title="IPFS is a peer-to-peer protocol for content-addressed sharing of data via a distributed file system.">ipfs</div>
-                            <div class="label" title="Homebrew is a package manager for macOS.">homebrew</div>
-                            <div class="label" title="C#, The Julia Language, Ember, Swift, ReactiveUI, Operating system, Java, Gradle, C++, Symfony, Markdown, Testing, Express, PHP, Continuous integration, Game engine, Terminal, Django, Vim, Electron, Homebridge, Storybook, Tensorflow, PICO-8, Hacktoberfest, LaTeX, Amazon Web Services, Redux, wordplate, HTML, Natural language processing, Docker, Terraform, Unity, Elixir, PWA, Ethereum, Emacs, Chrome extension, Publishing, API, Arduino, NoSQL, Haskell, vue, Angular, Library, CSS, REST API, GitHub API, Machine learning, Lua, webapp, Mobile, Vagrant, Documentation, Material Design, Algorithm, wordpress, npm, webpack, Git, Bash, Command-line interface, Rails, macOS, Telegram, Android, Localization (l10n), Unreal Engine, Front end, Maven, ESLint, C, .NET, Data structures, Project management, Monitoring, Qt, Minecraft, Emoji, Dependency management, Scala, Flask, windows, ASP.NET, Objective-C, HTTP, Koa, SQL, GraphQL, Google, Firebase, MvvmCross, MySQL, Raspberry Pi, Perl, Code review, Chrome, jQuery, Nim, NativeScript, Cryptocurrency, 3D, xamarin, Ajax, Jupyter Notebook, SpaceVim, PostgreSQL, Firefox, TypeScript, Babel, Go, Bitcoin, Data visualization, Gulp, Shell, Python, Laravel, Ruby, wp-cli, Clojure, iOS, Atom, Monero, Server, Package manager, React Native, Mongoose, Rust, Kotlin, Mastodon, Jekyll, OpenGL, JavaScript, scikit-learn, Linux, Amp, Twitter, Node.js, Compiler, Software-defined networking, xml, Bot, Bootstrap, COVID-19, Support, Virtual reality, Ubuntu, Sketch, Ratchet, Deployment, Pixel Art, Font, Azure, good-first-issue, Sass, web-components, Security, Serverless, Deep learning, JSON, P2P, React, Icon font">and 165 more...</div>
+                            <div class="label" title="Ajax is a technique for creating interactive web applications.">ajax</div>
+                            <div class="label" title="Homebridge is a utility for tying smart home devices together into Apple’s HomeKit framework, controlled by Siri.">homebridge</div>
+                            <div class="label" title="The coronavirus disease 2019 (COVID-19) is an infectious disease caused by SARS-CoV-2.">covid-19</div>
+                            <div class="label" title="A representational state transfer (REST) API is a way to provide compatibility between computer systems on the internet.">rest api</div>
+                            <div class="label" title="LaTeX is a document preparation system.">latex</div>
+                            <div class="label" title="Koa is an expressive middleware framework for Node.js servers that uses ES2017 async functions.">koa</div>
+                            <div class="label" title="A CLI, or command-line interface, is a console that helps users issue commands to a program.">command-line interface</div>
+                            <div class="label" title="The Raspberry Pi is a popular single-board computer.">raspberry pi</div>
+                            <div class="label" title="3D refers to the use of three-dimensional graphics, modeling, and animation in various industries.">3d</div>
+                            <div class="label" title="Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.">mongoose</div>
+                            <div class="label" title="Julia is a high-level, high-performance dynamic programming language for numerical computing.">the julia language</div>
+                            <div class="label" title="Nim is a statically typed, compiled, garbage-collected systems programming language.">nim</div>
+                            <div class="label" title="A database is a structured set of data held in a computer, usually a server.">database</div>
+                            <div class="label" title="Progressive Web Apps are traditional web sites that are enhanced with native like features.">pwa</div>
+                            <div class="label" title="Compiler, GitHub API, GraphQL, Pixel Art, SQL, Tensorflow, PICO-8, Git, Jupyter Notebook, Natural language processing, ASP.NET, Security, Angular, React, Perl, Firebase, NoSQL, NativeScript, good-first-issue, Emacs, MATLAB, Support, Parsing, Terraform, C, windows, .NET, Scala, OpenGL, Flask, Terminal, IPFS, wp-cli, Babel, Sketch, web-components, xml, Linux, Kubernetes, Markdown, MvvmCross, Serverless, Java, Server, Unreal Engine, Go, Lua, scikit-learn, Sass, API, Data visualization, Continuous integration, Framework, Homebrew, Machine learning, xamarin, Django, wordplate, ESLint, ReactiveUI, Google, Twitter, Icon font, Localization (l10n), Deep learning, Code review, Arduino, Redux, Data structures, Front end, Maven, PHP, Library, Documentation, Vim, webpack, JavaScript, Monero, Deployment, Rails, Amp, Mastodon, Azure, Bot, MySQL, Mobile, Rust, Telegram, C#, Clojure, CSS, C++, Amazon Web Services, Publishing, Vagrant, PostgreSQL, Unity, Font, Node.js, Docker, Android, Crystal, jQuery, iOS, Project management, Bash, Bootstrap, Ruby, webapp, SpaceVim, Symfony, Monitoring, vue, Emoji, React Native, Objective-C, Shell, R, Python, macOS, HTML, TypeScript, Ember, Storybook, P2P, Gradle, Laravel, Atom, npm, wagtail, Ratchet, Software-defined networking, Game engine, Haskell, wordpress, Virtual reality, Swift, Awesome Lists, Algorithm, Qt, Code quality, Hacktoberfest, Dependency management, Operating system, Material Design, Ethereum, Minecraft, MongoDB, Cryptocurrency, HTTP, Chrome, Package manager, Bitcoin, Jekyll, Spring Boot, Chrome extension, Testing, Electron, Kotlin, Express, Gulp, Firefox, JSON, Ubuntu, Elixir">and 165 more...</div>
                         </div>
                     </section>
                 </div>
@@ -506,7 +506,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 63 days
+                            Current streak 64 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -530,7 +530,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~5.64
+                            Average per day at ~5.71
                         </div>
                     </section>
                 </div>
@@ -2491,24 +2491,31 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2727272727272727 1.7,2.2727272727272725 z"/>
                             </g>
                             <g transform="translate(-5.1, 7.7727272727272725)">
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2272727272727275 0,2.2272727272727275 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2272727272727275 1.7,3.2272727272727275 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 8.227272727272727)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2272727272727275 0,2.2272727272727275 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2272727272727275 1.7,3.2272727272727275 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.772727272727273 0,2.772727272727273 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.772727272727273 1.7,3.772727272727273 z"/>
                             </g>
-                            <g transform="translate(-6.8, 8.5)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5 0,2.5 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5 1.7,3.5 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 10.727272727272727)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2727272727272725 0,1.2727272727272727 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2727272727272727 1.7,2.2727272727272725 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 11.454545454545453)">
+                            <g transform="translate(-8.5, 9.909090909090908)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.090909090909091 0,2.090909090909091 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.090909090909091 1.7,3.090909090909091 z"/>
+                            </g>
+                            <g transform="translate(-10.2, 9.681818181818182)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.318181818181818 0,3.3181818181818183 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.3181818181818183 1.7,4.318181818181818 z"/>
+                            </g>
+                        </g>
+                        <g transform="translate(90.1, 53)">
+                            <g transform="translate(0, 4.5)">
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5 0,2.5 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5 1.7,3.5 z"/>
                             </g>
                         </g>
                     </g>
@@ -2531,7 +2538,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mongoose-unique-validator/mongoose-unique-validator</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">mongoose-unique-validator is a plugin which adds pre-save validation for unique fields within a Mongoose schema.</div>
@@ -2578,7 +2585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LitoMore/simple-icons-cdn</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Colorable Simple Icons CDN</div>
@@ -2631,7 +2638,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mledoze/countries</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">World countries in JSON, CSV, XML and Yaml. Any help is welcome!</div>
@@ -2684,7 +2691,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dr5hn/countries-states-cities-database</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native language, timezones (for countries), and more. #countries #states #cities</div>
@@ -2705,7 +2712,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        6.94k
+                                        6.95k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2746,13 +2753,8 @@
                             <div class="entry">
                                 <span class="value">110</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                15
-                                <div class="bottom">July</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 16
+                                <div class="bottom">July</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2813,6 +2815,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 28
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                29
                             </div>
                         </div>
                     </section>
@@ -2822,13 +2829,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                15
-                                <div class="bottom">July</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 16
+                                <div class="bottom">July</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2889,6 +2891,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 28
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                29
                             </div>
                         </div>
                     </section>
@@ -3071,15 +3078,23 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">montasim/library-management-system-server</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">montasim/library-management-system-client</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">user</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6c119be</div>
-                                        <div class="message">refactor: Todo delete confirmation from user</div>
+                                        <div class="sha">#81c583b</div>
+                                        <div class="message">feat: merge with abid</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c08e10</div>
+                                        <div class="message">update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#493c76b</div>
+                                        <div class="message">update</div>
                                     </div>
                                 </div>
                             </section>
@@ -3096,10 +3111,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">user</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#dc4b978</div>
-                                        <div class="message">refactor: add Todo to modularized user schema</div>
+                                        <div class="sha">#9aaf8db</div>
+                                        <div class="message"> fix: Error: ENOENT: no such file or directory, open '/var/task/node_modules/geoip-lite/data/geoip-country.dat'</div>
                                     </div>
                                 </div>
                             </section>
@@ -3116,10 +3131,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">user</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ad14466</div>
-                                        <div class="message">refactor: add Todo to add default admin image</div>
+                                        <div class="sha">#ca1317a</div>
+                                        <div class="message"> fix: Error: ENOENT: no such file or directory, open '/var/task/node_modules/geoip-lite/data/geoip-country.dat'</div>
                                     </div>
                                 </div>
                             </section>
@@ -3136,10 +3151,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">user</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#607a85c</div>
-                                        <div class="message">feat: add Todo to set default user image</div>
+                                        <div class="sha">#e29df27</div>
+                                        <div class="message"> fix: Error: ENOENT: no such file or directory, open '/var/task/node_modules/geoip-lite/data/geoip-country.dat'</div>
                                     </div>
                                 </div>
                             </section>
@@ -3151,15 +3166,91 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 27 commits in
                                         <span class="repo">montasim/library-management-system-server</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">user</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#38d239c</div>
-                                        <div class="message"> fix: get user profile and delete user</div>
+                                        <div class="sha">#72d2c55</div>
+                                        <div class="message"> refactor: add comments for .env.example</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4503c38</div>
+                                        <div class="message"> feat: add SMTP_MAX_CONNECTION_RETRY_ATTEMPTS</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b2a4e0</div>
+                                        <div class="message"> refactor: error handling feature moved to service</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e9a208</div>
+                                        <div class="message"> refactor: code structure</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b15e88a</div>
+                                        <div class="message"> refactor: database feature moved to service</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b5ebf9b</div>
+                                        <div class="message"> feat: email service auto reconnect after disconnecting</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6425ecf</div>
+                                        <div class="message"> feat: fix user auth</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d91c47d</div>
+                                        <div class="message"> feat: fix user registration</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bdb9f0c</div>
+                                        <div class="message"> feat: add role for user model</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63986fd</div>
+                                        <div class="message"> feat: add address for user model</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#89ca3aa</div>
+                                        <div class="message"> refactor: add description for user model</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e947bc</div>
+                                        <div class="message"> feat: fix pronouns api</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6297d30</div>
+                                        <div class="message"> feat: add pronouns api</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20307b0</div>
+                                        <div class="message"> feat: add pronouns api</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f89adc9</div>
+                                        <div class="message"> feat: add pronouns model</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f31c1c</div>
+                                        <div class="message"> feat: user model with validations</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ac12cf</div>
+                                        <div class="message"> feat: update user model</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d0429d</div>
+                                        <div class="message"> refactor: code structure</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed401f1</div>
+                                        <div class="message">feat: update users.model.js</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b744a29</div>
+                                        <div class="message"> feat: update user model</div>
                                     </div>
                                 </div>
                             </section>
@@ -3340,7 +3431,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.75 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="8.68 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3362,10 +3453,10 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">1075</div>
+                                        <div class="value">1084</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 1075 times</div>
+                                <div class="text">Repositories have been deployed 1084 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3556,7 +3647,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 602k out of 141m users</span>
+                                    <span class="gh">ranked 603k out of 141m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">55</div>
                                     </div>
@@ -3654,7 +3745,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.22895277207392 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.44113620807666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4062,7 +4153,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
                         </div>
                     </section>
                 </div>
