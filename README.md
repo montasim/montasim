@@ -37,7 +37,7 @@
 <!-- hello nice to meet you text start -->
 <div align="center">
     <img loading="lazy" width="30px" src="./media/icons/code.png" alt="code png" />
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=395&height=29&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=395&height=50&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
     <img loading="lazy" width="30px" src="./media/icons/layers.png" alt="layers png" />
 </div>
 <!-- hello nice to meet you text end -->
@@ -104,7 +104,7 @@
     <!-- about me start -->
     <div align="left">
         <img loading="lazy" width="21" src="./media/icons/charismatic.png" alt="wave png" />
-        <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=120&height=21&lines=ABOUT+ME" alt="i am montasim svg" />
+        <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=120&height=31&lines=ABOUT+ME" alt="i am montasim svg" />
     </div>
     <!-- about me end -->
 </div>
@@ -129,7 +129,7 @@
 <!-- my GitHub stats text start -->
 <div align="center"> 
     <img loading="lazy" width="21" align="center" src="./media/icons/pie-chart.png" alt="pie chart png" />
-    <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=21&lines=MY+GITHUB+STATS" alt="my GitHub stats svg" />
+    <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=31&lines=MY+GITHUB+STATS" alt="my GitHub stats svg" />
 </div>
 <!-- my GitHub stats text end -->
 
@@ -175,7 +175,7 @@
 <!-- feel free to contact me text start -->
 <div align="center"> 
     <img loading="lazy" width="21" src="./media/icons/link.png" alt="postbox svg" />
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=385&height=21&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=385&height=31&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
 </div>
 <!-- feel free to contact me text end -->
 
@@ -233,7 +233,7 @@
 <!-- fun facts text start -->
 <div align="left">
     <img loading="lazy" width="21" src="./media/icons/confetti.png" alt="confetti svg" />
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=128&height=21&lines=FUN+FACTS" alt="fun facts svg" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=128&height=31&lines=FUN+FACTS" alt="fun facts svg" />
 </div>
 <!-- fun facts text end -->
 
@@ -256,7 +256,7 @@
     <a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link" target="_blank" rel="noopener noreferrer"> 
         <div align="right">
             <img loading="lazy" width="21px" src="./media/icons/cv.png" alt="resume icon" />
-            <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=260&height=21&lines=DOWNLOAD+MY+RESUME" alt="download my resume" />
+            <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=260&height=61&lines=DOWNLOAD+MY+RESUME" alt="DOWNLOAD MY RESUME" />
         </div>
     </a>
     <img loading="lazy" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line gif">
@@ -266,10 +266,10 @@
     <br/>
     <!-- Montasim's Photo -->
     <img loading="lazy" align="right" alt="Montasim's resume Photo" src="media/images/montasim.jpg" width="200px">
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=475&height=21&lines=MOHAMMAD+MONTASIM+-AL-+MAMUN+SHUVO" alt="mohammad montasim -al- mamun shuvo" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=475&height=31&lines=MOHAMMAD+MONTASIM+-AL-+MAMUN+SHUVO" alt="MOHAMMAD MONTASIM -AL- MAMUN SHUVO" />
     <br/>
     <br/>
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=160&height=16&lines=Frontend+Developer" alt="frontend developer" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=160&height=30&lines=Frontend+Developer" alt="frontend developer" />
     <br/>
     <br/>
     <br/>
@@ -1361,7 +1361,7 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
 
 <!-- build with love svg start -->
 <div align="center">
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=185&height=15&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+MONTASIM" alt="build with love svg" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=185&height=20&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+MONTASIM" alt="build with love svg" />
 </div>
 <!-- build with love svg end -->
 
