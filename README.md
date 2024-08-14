@@ -1153,13 +1153,13 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=260&height=61&lines=RECENT+GITHUB+ACTIVITY" alt="RECENT GITHUB ACTIVITY" />
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/montasim/node-express-boilerplate/pull/8) in [montasim/node-express-boilerplate](https://github.com/montasim/node-express-boilerplate)
-2. 🎉 Merged PR [#7](https://github.com/montasim/node-express-boilerplate/pull/7) in [montasim/node-express-boilerplate](https://github.com/montasim/node-express-boilerplate)
-3. 💪 Opened PR [#7](https://github.com/montasim/node-express-boilerplate/pull/7) in [montasim/node-express-boilerplate](https://github.com/montasim/node-express-boilerplate)
-4. 🎉 Merged PR [#6](https://github.com/montasim/node-express-boilerplate/pull/6) in [montasim/node-express-boilerplate](https://github.com/montasim/node-express-boilerplate)
-5. 💪 Opened PR [#6](https://github.com/montasim/node-express-boilerplate/pull/6) in [montasim/node-express-boilerplate](https://github.com/montasim/node-express-boilerplate)
-6. ❗ Opened issue [#57](https://github.com/montasim/montasim/issues/57) in [montasim/montasim](https://github.com/montasim/montasim)
-7. 💪 Opened PR [#1058](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1058) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+1. 🎉 Merged PR [#9](https://github.com/montasim/node-express-boilerplate/pull/9) in [montasim/node-express-boilerplate](https://github.com/montasim/node-express-boilerplate)
+2. 💪 Opened PR [#9](https://github.com/montasim/node-express-boilerplate/pull/9) in [montasim/node-express-boilerplate](https://github.com/montasim/node-express-boilerplate)
+3. 🎉 Merged PR [#8](https://github.com/montasim/node-express-boilerplate/pull/8) in [montasim/node-express-boilerplate](https://github.com/montasim/node-express-boilerplate)
+4. 💪 Opened PR [#8](https://github.com/montasim/node-express-boilerplate/pull/8) in [montasim/node-express-boilerplate](https://github.com/montasim/node-express-boilerplate)
+5. 🎉 Merged PR [#7](https://github.com/montasim/node-express-boilerplate/pull/7) in [montasim/node-express-boilerplate](https://github.com/montasim/node-express-boilerplate)
+6. 💪 Opened PR [#7](https://github.com/montasim/node-express-boilerplate/pull/7) in [montasim/node-express-boilerplate](https://github.com/montasim/node-express-boilerplate)
+7. 🎉 Merged PR [#6](https://github.com/montasim/node-express-boilerplate/pull/6) in [montasim/node-express-boilerplate](https://github.com/montasim/node-express-boilerplate)
 <!--END_SECTION:activity-->
 
 <br>
