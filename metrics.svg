@@ -30,12 +30,12 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            8170 Commits
+                            8172 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -140,7 +140,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 1043 repositories
+                            Starred 1042 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -252,7 +252,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 56.2 characters per line of code written</li>
+                        <li>Has approximately 56.3 characters per line of code written</li>
                         <li>Mostly pushes code around 06:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -430,12 +430,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 31.18985875949239%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">39%</span>
+                                <div class="bar" style="width: 32.304307673656545%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">40%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.12847246404122917%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.13418291121863557%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -452,22 +452,22 @@
                 <div class="row">
                     <section>
                         <div class="topics fill-width">
-                            <div class="label" title="The Raspberry Pi is a popular single-board computer.">raspberry pi</div>
-                            <div class="label" title="">web-components</div>
-                            <div class="label" title="Bootstrap is an HTML, CSS, and JavaScript framework.">bootstrap</div>
-                            <div class="label" title="Gulp is a toolkit for automating and streamlining web development.">gulp</div>
-                            <div class="label" title="Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.">mongoose</div>
-                            <div class="label" title="Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of views.">css</div>
-                            <div class="label" title="Azure is a cloud computing service created by Microsoft.">azure</div>
-                            <div class="label" title="Monero is a private, fungible, open source, decentralized cryptocurrency.">monero</div>
-                            <div class="label" title="Clojure is a dynamic, general-purpose programming language.">clojure</div>
-                            <div class="label" title="Go is a programming language built to resemble a simplified version of the C programming language.">go</div>
-                            <div class="label" title="Sass is a stable extension to classic CSS.">sass</div>
-                            <div class="label" title="Natural language processing (NLP) is the study of how computers and humans interact.">natural language processing</div>
-                            <div class="label" title="Parsing is the process of analyzing a string of symbols conforming to the rules of a formal grammar.">parsing</div>
-                            <div class="label" title="Ember is a framework for creating web applications.">ember</div>
+                            <div class="label" title="Linux is an open source kernel.">linux</div>
+                            <div class="label" title="NativeScript is a JavaScript-native mobile framework.">nativescript</div>
                             <div class="label" title="Lua is a lightweight, embeddable scripting language.">lua</div>
-                            <div class="label" title="Algorithm, Vim, Elixir, 3D, iOS, Ajax, PostgreSQL, Terraform, Node.js, npm, PHP, Ethereum, Google, Rust, Android, Localization (l10n), good-first-issue, JSON, Monitoring, R, Java, Data visualization, Chrome, Data structures, PICO-8, Security, Game engine, Amp, Firebase, Express, Gradle, Arduino, Haskell, jQuery, Sketch, Virtual reality, Kotlin, Python, Ratchet, LaTeX, MvvmCross, Scala, Unity, NativeScript, wagtail, Firefox, REST API, Storybook, Mobile, Ruby, Bitcoin, Jupyter Notebook, JavaScript, Command-line interface, Server, Front end, Material Design, Swift, C#, Nim, Homebrew, Minecraft, Continuous integration, Package manager, Rails, Serverless, Awesome Lists, macOS, The Julia Language, SQL, Perl, Code review, React, C++, MongoDB, React Native, Cryptocurrency, Tensorflow, HTTP, Amazon Web Services, xml, Font, GraphQL, wp-cli, Jekyll, C, Qt, Testing, PWA, Atom, vue, Markdown, .NET, Icon font, Deployment, API, Code quality, MATLAB, Unreal Engine, Django, OpenGL, ESLint, Git, MySQL, scikit-learn, Chrome extension, TypeScript, Electron, Vagrant, Framework, Flask, Bash, Emacs, webapp, ASP.NET, Kubernetes, Symfony, IPFS, Homebridge, webpack, Ansible, Laravel, Shell, Publishing, Emoji, Twitter, Babel, xamarin, Redux, Software-defined networking, P2P, windows, Project management, Pixel Art, Spring Boot, wordpress, Maven, SpaceVim, HTML, Mastodon, Ubuntu, wordplate, Database, Terminal, Linux, Telegram, Support, Compiler, Dependency management, Docker, Deep learning, Documentation, Koa, Machine learning, GitHub API, Objective-C, Library, Operating system, Hacktoberfest, ReactiveUI, Crystal, Angular, COVID-19, NoSQL, Bot">and 165 more...</div>
+                            <div class="label" title="Arduino is an open source platform for building electronic devices.">arduino</div>
+                            <div class="label" title="Babel is a compiler for writing next generation JavaScript, today.">babel</div>
+                            <div class="label" title="Machine learning is a way of modeling and interpreting data that allows a piece of software to respond intelligently.">machine learning</div>
+                            <div class="label" title="Homebrew is a package manager for macOS.">homebrew</div>
+                            <div class="label" title="Crystal is a self-hosted, general purpose programming language.">crystal</div>
+                            <div class="label" title="SQL is a standard language for storing, retrieving and manipulating data in databases.">sql</div>
+                            <div class="label" title="A cryptocurrency is a digital currency that uses cryptography.">cryptocurrency</div>
+                            <div class="label" title="Julia is a high-level, high-performance dynamic programming language for numerical computing.">the julia language</div>
+                            <div class="label" title="Emojis are graphic symbols that represent an emotion, object, or concept.">emoji</div>
+                            <div class="label" title="Go is a programming language built to resemble a simplified version of the C programming language.">go</div>
+                            <div class="label" title="Objective-C is general purpose, object-oriented programming language used for macOS and iOS operating systems.">objective-c</div>
+                            <div class="label" title="Gulp is a toolkit for automating and streamlining web development.">gulp</div>
+                            <div class="label" title="Firefox, Ajax, Twitter, web-components, xamarin, Sketch, Publishing, Jupyter Notebook, Ruby, Java, Support, Testing, Ratchet, Operating system, C#, Clojure, PostgreSQL, OpenGL, Laravel, Virtual reality, C, Server, Vagrant, Bot, Data structures, Emacs, Electron, Markdown, Express, Homebridge, webpack, HTTP, Chrome, Monitoring, Chrome extension, Minecraft, PHP, Parsing, iOS, webapp, Ember, Terminal, CSS, Font, Code quality, Bash, windows, Haskell, Project management, C++, PICO-8, wagtail, Maven, Kubernetes, HTML, Material Design, COVID-19, Serverless, Game engine, Swift, GitHub API, ReactiveUI, Library, Koa, Icon font, Pixel Art, Localization (l10n), macOS, Node.js, Rails, Unity, Unreal Engine, Security, JavaScript, Bootstrap, SpaceVim, Code review, Nim, Redux, Front end, .NET, Symfony, GraphQL, Package manager, Bitcoin, Command-line interface, good-first-issue, R, MySQL, Django, Terraform, Data visualization, MvvmCross, Ansible, TypeScript, 3D, ESLint, Python, Software-defined networking, Tensorflow, Elixir, Ubuntu, Spring Boot, Android, Framework, Atom, P2P, LaTeX, Mobile, Scala, wordpress, Compiler, Ethereum, Gradle, Deep learning, wordplate, Kotlin, Hacktoberfest, React Native, Shell, ASP.NET, Dependency management, REST API, NoSQL, Vim, MongoDB, wp-cli, Azure, Amp, Qt, vue, React, Angular, Rust, Docker, Natural language processing, Jekyll, Documentation, Flask, MATLAB, npm, Firebase, Storybook, Algorithm, Deployment, Amazon Web Services, Mastodon, Continuous integration, Mongoose, Raspberry Pi, IPFS, scikit-learn, API, Sass, xml, Perl, Telegram, jQuery, JSON, Awesome Lists, Google, Database, Git, Monero, PWA">and 165 more...</div>
                         </div>
                     </section>
                 </div>
@@ -511,13 +511,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 91 days
+                            Current streak 92 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
-                            Best streak 91 days
+                            Best streak 92 days
                         </div>
                         <h3 class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -535,7 +535,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~6.26
+                            Average per day at ~6.25
                         </div>
                     </section>
                 </div>
@@ -2516,6 +2516,13 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2105263157894737 1.7,2.2105263157894735 z"/>
                             </g>
                         </g>
+                        <g transform="translate(90.1, 53)">
+                            <g transform="translate(0, 5.7894736842105265)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2105263157894735 0,1.2105263157894737 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2105263157894737 1.7,2.2105263157894735 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
@@ -2536,7 +2543,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/jmeter</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services</div>
@@ -2589,7 +2596,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>madhums/node-express-mongoose</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A boilerplate application for building web apps using node and mongodb</div>
@@ -2642,7 +2649,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>diegohaz/rest</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">REST API generator with Node.js, Express and Mongoose</div>
@@ -2695,7 +2702,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kunalkapadia/express-mongoose-es6-rest-api</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2760,13 +2767,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                12
-                                <div class="bottom">Aug.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 13
+                                <div class="bottom">Aug.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2827,6 +2829,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 25
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                26
                             </div>
                         </div>
                     </section>
@@ -2836,13 +2843,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                12
-                                <div class="bottom">Aug.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 13
+                                <div class="bottom">Aug.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2903,6 +2905,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 25
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                26
                             </div>
                         </div>
                     </section>
@@ -3082,6 +3089,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#d1610d6</div>
+                                        <div class="message">Update metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">montasim/montasim</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#928f5c5</div>
+                                        <div class="message">Update metrics.detailed.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">montasim/montasim</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#66ad341</div>
                                         <div class="message">Update metrics.detailed.svg - [Skip GitHub Action]</div>
                                     </div>
@@ -3188,46 +3235,6 @@
 - update by id
 - delete by list
 - delete by id</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">montasim/montasim</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1229a3c</div>
-                                        <div class="message">Update metrics.detailed.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">montasim/montasim</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#06dadb1</div>
-                                        <div class="message">Update metrics.svg - [Skip GitHub Action]</div>
                                     </div>
                                 </div>
                             </section>
@@ -3373,7 +3380,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.443333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.34 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3392,10 +3399,10 @@
                                     <span class="prefix">Master</span>
                                     stargazer
                                     <div class="value-wrapper">
-                                        <div class="value">1043</div>
+                                        <div class="value">1042</div>
                                     </div>
                                 </div>
-                                <div class="text">Starred 1043 repositories</div>
+                                <div class="text">Starred 1042 repositories</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -3513,7 +3520,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 590k out of 142m users</span>
+                                    <span class="gh">ranked 590k out of 143m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">56</div>
                                     </div>
@@ -3649,7 +3656,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.59240246406571 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.80458590006845 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3759,7 +3766,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 213k out of 142m users</span>
+                                    <span class="gh">ranked 213k out of 143m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">60</div>
                                     </div>
@@ -3800,7 +3807,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 840k out of 208m repositories</span>
+                                    <span class="gh">ranked 840k out of 205m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">34</div>
                                     </div>
@@ -3964,7 +3971,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
