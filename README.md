@@ -1153,10 +1153,10 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=260&height=61&lines=RECENT+GITHUB+ACTIVITY" alt="RECENT GITHUB ACTIVITY" />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/montasim/node-express-boilerplate/pull/28) in [montasim/node-express-boilerplate](https://github.com/montasim/node-express-boilerplate)
-2. 💪 Opened PR [#28](https://github.com/montasim/node-express-boilerplate/pull/28) in [montasim/node-express-boilerplate](https://github.com/montasim/node-express-boilerplate)
-3. 🎉 Merged PR [#27](https://github.com/montasim/node-express-boilerplate/pull/27) in [montasim/node-express-boilerplate](https://github.com/montasim/node-express-boilerplate)
-4. 💪 Opened PR [#27](https://github.com/montasim/node-express-boilerplate/pull/27) in [montasim/node-express-boilerplate](https://github.com/montasim/node-express-boilerplate)
+1. 🎉 Merged PR [#2](https://github.com/montasim/url-shortener/pull/2) in [montasim/url-shortener](https://github.com/montasim/url-shortener)
+2. 💪 Opened PR [#2](https://github.com/montasim/url-shortener/pull/2) in [montasim/url-shortener](https://github.com/montasim/url-shortener)
+3. 🎉 Merged PR [#1](https://github.com/montasim/url-shortener/pull/1) in [montasim/url-shortener](https://github.com/montasim/url-shortener)
+4. 💪 Opened PR [#1](https://github.com/montasim/url-shortener/pull/1) in [montasim/url-shortener](https://github.com/montasim/url-shortener)
 5. 🎉 Merged PR [#26](https://github.com/montasim/node-express-boilerplate/pull/26) in [montasim/node-express-boilerplate](https://github.com/montasim/node-express-boilerplate)
 6. 💪 Opened PR [#26](https://github.com/montasim/node-express-boilerplate/pull/26) in [montasim/node-express-boilerplate](https://github.com/montasim/node-express-boilerplate)
 7. 🎉 Merged PR [#25](https://github.com/montasim/node-express-boilerplate/pull/25) in [montasim/node-express-boilerplate](https://github.com/montasim/node-express-boilerplate)
