@@ -1153,13 +1153,13 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=260&height=61&lines=RECENT+GITHUB+ACTIVITY" alt="RECENT GITHUB ACTIVITY" />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/montasim/url-shortener-microservice/pull/7) in [montasim/url-shortener-microservice](https://github.com/montasim/url-shortener-microservice)
-2. 💪 Opened PR [#7](https://github.com/montasim/url-shortener-microservice/pull/7) in [montasim/url-shortener-microservice](https://github.com/montasim/url-shortener-microservice)
-3. 🎉 Merged PR [#4](https://github.com/montasim/authentication-microservice/pull/4) in [montasim/authentication-microservice](https://github.com/montasim/authentication-microservice)
-4. 💪 Opened PR [#4](https://github.com/montasim/authentication-microservice/pull/4) in [montasim/authentication-microservice](https://github.com/montasim/authentication-microservice)
-5. 🎉 Merged PR [#6](https://github.com/montasim/url-shortener-microservice/pull/6) in [montasim/url-shortener-microservice](https://github.com/montasim/url-shortener-microservice)
-6. 💪 Opened PR [#6](https://github.com/montasim/url-shortener-microservice/pull/6) in [montasim/url-shortener-microservice](https://github.com/montasim/url-shortener-microservice)
-7. 🎉 Merged PR [#3](https://github.com/montasim/authentication/pull/3) in [montasim/authentication](https://github.com/montasim/authentication)
+1. 🎉 Merged PR [#4](https://github.com/montasim/library-management-system-server/pull/4) in [montasim/library-management-system-server](https://github.com/montasim/library-management-system-server)
+2. 💪 Opened PR [#4](https://github.com/montasim/library-management-system-server/pull/4) in [montasim/library-management-system-server](https://github.com/montasim/library-management-system-server)
+3. 🎉 Merged PR [#7](https://github.com/montasim/url-shortener-microservice/pull/7) in [montasim/url-shortener-microservice](https://github.com/montasim/url-shortener-microservice)
+4. 💪 Opened PR [#7](https://github.com/montasim/url-shortener-microservice/pull/7) in [montasim/url-shortener-microservice](https://github.com/montasim/url-shortener-microservice)
+5. 🎉 Merged PR [#4](https://github.com/montasim/authentication-microservice/pull/4) in [montasim/authentication-microservice](https://github.com/montasim/authentication-microservice)
+6. 💪 Opened PR [#4](https://github.com/montasim/authentication-microservice/pull/4) in [montasim/authentication-microservice](https://github.com/montasim/authentication-microservice)
+7. 🎉 Merged PR [#6](https://github.com/montasim/url-shortener-microservice/pull/6) in [montasim/url-shortener-microservice](https://github.com/montasim/url-shortener-microservice)
 <!--END_SECTION:activity-->
 
 <br>
