@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3552" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3252" class="">
     <defs>
         <style/>
     </defs>
@@ -39,10 +39,10 @@
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            9688 Commits
+                            9695 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -247,14 +247,14 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 36 commits)</small>
+                    <small class="h-details">(computed from last 41 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 93.8 characters per line of code written</li>
+                        <li>Has approximately 82.6 characters per line of code written</li>
                         <li>Mostly pushes code around 06:00</li>
-                        <li>Mostly active on Wednesday</li>
+                        <li>Mostly active on Tuesday</li>
                     </ul>
                 </div>
             </section>
@@ -293,7 +293,7 @@
                             05
                         </div>
                         <div class="entry">
-                            <span class="value">27</span>
+                            <span class="value">28</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             06
                         </div>
@@ -319,12 +319,12 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 1.8518518518518516px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 1.7857142857142856px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             11
                         </div>
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 3.7037037037037033px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 1.7857142857142856px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             12
                         </div>
                         <div class="entry">
@@ -334,7 +334,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 1.8518518518518516px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 1.7857142857142856px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             14
                         </div>
                         <div class="entry">
@@ -343,33 +343,33 @@
                             15
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 1.8518518518518516px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 5.357142857142857px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             16
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 1.7857142857142856px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             17
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 1.7857142857142856px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             18
                         </div>
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 3.7037037037037033px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 5.357142857142857px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             19
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 1.8518518518518516px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             20
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 1.8518518518518516px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             21
                         </div>
                         <div class="entry">
@@ -390,37 +390,37 @@
                         <div class="chart-bars">
                             <div class="entry">
                                 <span class="value">4</span>
-                                <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Sun
                             </div>
                             <div class="entry">
                                 <span class="value">4</span>
-                                <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">5</span>
-                                <div class="bar" style="height: 41.66666666666667px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">10</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
                                 <span class="value">6</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
                                 <span class="value">6</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
                                 <span class="value">5</span>
-                                <div class="bar" style="height: 41.66666666666667px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
                                 <span class="value">6</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Sat
                             </div>
                         </div>
@@ -430,12 +430,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 31.890251791097604%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">40%</span>
+                                <div class="bar" style="width: 36.754471732368195%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">46%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.23209207523220193%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.20320081895828593%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -452,22 +452,22 @@
                 <div class="row">
                     <section>
                         <div class="topics fill-width">
-                            <div class="label" title="Telegram is a non-profit, cloud-based instant messaging service.">telegram</div>
-                            <div class="label" title="OpenGL is a software interface that allows a programmer to communicate with graphics hardware.">opengl</div>
-                            <div class="label" title="Vagrant is an open-source software product for building and maintaining portable virtual software development environments.">vagrant</div>
-                            <div class="label" title="">vim</div>
-                            <div class="label" title=".NET is a free, cross-platform, open source developer platform.">.net</div>
-                            <div class="label" title="Ruby is a scripting language designed for simplified object-oriented programming.">ruby</div>
-                            <div class="label" title="Amazon Web Services provides on-demand cloud computing platforms on a subscription basis.">amazon web services</div>
-                            <div class="label" title="GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data.">graphql</div>
-                            <div class="label" title="Ensure your code meets quality standards and ship with confidence.">code review</div>
-                            <div class="label" title="">wp-cli</div>
-                            <div class="label" title="">virtual-reality</div>
-                            <div class="label" title="Amp is a non-blocking concurrency library for PHP.">amp</div>
-                            <div class="label" title="Ansible is a simple and powerful automation engine.">ansible</div>
+                            <div class="label" title="Maven is a build automation tool used primarily for Java projects.">maven</div>
+                            <div class="label" title="Objective-C is general purpose, object-oriented programming language used for macOS and iOS operating systems.">objective-c</div>
+                            <div class="label" title="A server is a program made to process requests and deliver data to clients.">server</div>
                             <div class="label" title="Spring Boot is a coding and configuration model for Java applications.">spring boot</div>
-                            <div class="label" title="Atom is a open source text editor built with web technologies.">atom</div>
-                            <div class="label" title="P2P, Software-defined networking, Python, xamarin, Redux, Library, Project management, Ratchet, webapp, GitHub API, Front end, Algorithm, Babel, The Julia Language, Cryptocurrency, Elixir, Tensorflow, Ubuntu, scikit-learn, Nim, Data visualization, MvvmCross, LaTeX, Perl, ASP.NET, Monitoring, Laravel, Electron, webpack, iOS, Flask, ESLint, Ember, Mongoose, Deployment, vue, Material Design, API, Raspberry Pi, Linux, IPFS, Minecraft, MongoDB, CSS, Bash, Chrome extension, Terraform, Hacktoberfest, Localization (l10n), Unity, Security, Go, React, ReactiveUI, Bootstrap, Database, Mobile, Kubernetes, xml, Arduino, Server, 3D, Icon font, Gulp, Natural language processing, macOS, Shell, Framework, Unreal Engine, Publishing, COVID-19, Jekyll, Ethereum, Terminal, MySQL, Koa, Bot, NativeScript, Maven, PICO-8, Awesome Lists, SpaceVim, Google, Gradle, Angular, Firefox, Emoji, PWA, Clojure, Node.js, PHP, Firebase, REST API, Scala, Sass, C++, Docker, TypeScript, Pixel Art, good-first-issue, Swift, npm, Ajax, Deep learning, Support, Azure, Sketch, Chrome, Haskell, HTTP, JSON, NoSQL, Monero, Homebrew, Font, wordpress, Express, wordplate, C, Twitter, JavaScript, Lua, Dependency management, Django, Jupyter Notebook, jQuery, Markdown, Parsing, Symfony, PostgreSQL, Code quality, Operating system, Rails, R, Git, windows, Documentation, Package manager, Bitcoin, SQL, Homebridge, Command-line interface, Testing, Game engine, Data structures, Crystal, Java, C#, Kotlin, Continuous integration, Emacs, Serverless, Rust, HTML, React Native, Machine learning, MATLAB, Storybook, wagtail, web-components, Objective-C, Android, Compiler, Mastodon, Qt">and 165 more...</div>
+                            <div class="label" title="The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows, and Mac.">mvvmcross</div>
+                            <div class="label" title="Crystal is a self-hosted, general purpose programming language.">crystal</div>
+                            <div class="label" title="">wordplate</div>
+                            <div class="label" title="Secure and manage your third-party dependencies.">dependency management</div>
+                            <div class="label" title="Unreal Engine is used to create awesome games, and experiences for PC, mobile, console, VR, and AR.">unreal engine</div>
+                            <div class="label" title="Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.">mongoose</div>
+                            <div class="label" title="Unity is a game engine used to create 2D/3D video games, and simulations for computers, consoles, and mobile devices.">unity</div>
+                            <div class="label" title="Telegram is a non-profit, cloud-based instant messaging service.">telegram</div>
+                            <div class="label" title="">wp-cli</div>
+                            <div class="label" title="">vue</div>
+                            <div class="label" title="Serverless architecture refers to apps that depend on third-party services or custom code.">serverless</div>
+                            <div class="label" title="Terraform, Parsing, Docker, The Julia Language, GraphQL, Angular, Mobile, HTML, COVID-19, Kubernetes, Arduino, API, Bash, Tensorflow, GitHub API, webapp, Scala, Hacktoberfest, Data visualization, Project management, JSON, Perl, Operating system, Flask, Raspberry Pi, Homebridge, ESLint, Rails, Gradle, React Native, P2P, Terminal, Awesome Lists, Software-defined networking, vim, Material Design, OpenGL, 3D, Database, Security, Bot, MySQL, scikit-learn, Chrome extension, Python, Rust, Ansible, Sketch, good-first-issue, Monitoring, Go, windows, Front end, Amp, jQuery, Icon font, Markdown, Java, Emoji, Ethereum, Game engine, Homebrew, iOS, Command-line interface, wagtail, Firebase, REST API, Deep learning, ASP.NET, xamarin, Publishing, Cryptocurrency, Lua, Google, Symfony, Jupyter Notebook, Linux, Ajax, Elixir, MongoDB, Minecraft, CSS, Git, webpack, virtual-reality, C, Atom, Bitcoin, Azure, Node.js, Ruby, Ember, Nim, Documentation, .NET, Babel, Deployment, Algorithm, Support, Font, Koa, C#, Code quality, React, Code review, Firefox, Emacs, Natural language processing, Redux, Ubuntu, Compiler, Monero, Storybook, Chrome, Machine learning, Shell, Gulp, Sass, NoSQL, Continuous integration, xml, Swift, Android, Kotlin, Twitter, IPFS, macOS, Ratchet, npm, C++, Localization (l10n), PICO-8, JavaScript, Haskell, HTTP, MATLAB, R, Amazon Web Services, Framework, Mastodon, PHP, Laravel, PWA, ReactiveUI, NativeScript, Library, TypeScript, web-components, LaTeX, PostgreSQL, Qt, Jekyll, Testing, SpaceVim, SQL, Bootstrap, Pixel Art, wordpress, Clojure, Data structures, Electron, Django, Vagrant, Package manager, Express">and 165 more...</div>
                         </div>
                     </section>
                 </div>
@@ -511,7 +511,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 55 days
+                            Current streak 56 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2481,14 +2481,19 @@
                         </g>
                         <g transform="translate(88.39999999999999, 52)">
                             <g transform="translate(0, 5.796610169491525)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2033898305084745 0,1.2033898305084745 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2033898305084745 1.7,2.2033898305084745 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2033898305084745 0,1.2033898305084745 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2033898305084745 1.7,2.2033898305084745 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.796610169491525)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2033898305084745 0,1.2033898305084745 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2033898305084745 1.7,2.2033898305084745 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 7.389830508474576)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2033898305084745 0,1.2033898305084745 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2033898305084745 1.7,2.2033898305084745 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.610169491525424 0,1.6101694915254239 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6101694915254239 1.7,2.610169491525424 z"/>
                             </g>
                         </g>
                     </g>
@@ -2511,7 +2516,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>massgravel/Microsoft-Activation-Scripts</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</div>
@@ -2545,7 +2550,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        504
+                                        507
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2732,13 +2737,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                11
-                                <div class="bottom">Dec.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 12
+                                <div class="bottom">Dec.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2799,6 +2799,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 24
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                25
                             </div>
                         </div>
                     </section>
@@ -2808,13 +2813,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                11
-                                <div class="bottom">Dec.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 12
+                                <div class="bottom">Dec.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -2875,6 +2875,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 24
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                25
                             </div>
                         </div>
                     </section>
@@ -3054,170 +3059,107 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">montasim/montasim</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8e049c7</div>
-                                        <div class="message">Update metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">montasim/montasim</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#17257f1</div>
-                                        <div class="message">Update metrics.detailed.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">montasim/montasim</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4bf4825</div>
-                                        <div class="message">Update metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">montasim/montasim</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ebc6e6d</div>
-                                        <div class="message">Update metrics.detailed.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 28 commits in
                                         <span class="repo">nDevers/school-portfolio</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">api</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e2b9d1c</div>
-                                        <div class="message">feat: achievement</div>
+                                        <div class="sha">#5d4ec5e</div>
+                                        <div class="message">docs: add comprehensive JSDoc annotations for core utility functions</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">nDevers/school-portfolio</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">api</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f8db869</div>
+                                        <div class="message">fix(upload): ensure correct file paths and links in file upload process
+
+- Fixed an issue where uploaded file URLs could contain double slashes.
+- Ensured files are correctly saved to the `public/assets/` directory.
+- Improved file link generation to produce valid URLs with proper paths.
+- Added validations for directory creation and file writing to prevent runtime errors.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">nDevers/school-portfolio</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">api</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6d146b6</div>
+                                        <div class="message">feat(api): define and organize route and permission constants
+
+- Added dynamically generated permission strings for CRUD operations.
+- Organized API route constants into a structured format, including nested sub-routes for sections like `gallery`, `home`, and `school`.
+- Included HTTP methods with corresponding permissions (POST, GET, PATCH, DELETE) for each route.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">montasim/Reactive-Accelerator</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a8beb81</div>
+                                        <div class="message">chore: update readme</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">montasim/Reactive-Accelerator</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#aeb86e8</div>
+                                        <div class="message">feat: add module 3 notes</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#de790fd</div>
-                                        <div class="message">feat: achievement</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c3baabd</div>
-                                        <div class="message">feat: school info</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f9123ad</div>
-                                        <div class="message">feat: academic api crud</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7720cba</div>
-                                        <div class="message">feat: faculty update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#532db52</div>
-                                        <div class="message">feat: update career</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#884b2ee</div>
-                                        <div class="message">feat: career crud</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8fd8c64</div>
-                                        <div class="message">feat: fix form patch</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b316e6</div>
-                                        <div class="message">feat: add faculty frontend</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#edfd548</div>
-                                        <div class="message">feat: ui</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#981f56a</div>
-                                        <div class="message">feat: edit page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#186679c</div>
-                                        <div class="message">feat: edit page for faq and about us</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb256e2</div>
-                                        <div class="message">feat: create about us</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10e232e</div>
-                                        <div class="message">feat: more about us table page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f760feb</div>
-                                        <div class="message">feat: faq added</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#489ca2e</div>
-                                        <div class="message">REMOVE previous admin page and ADD configuration page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b938376</div>
-                                        <div class="message">feat: login setup</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0bf55e0</div>
-                                        <div class="message">prisma setup</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fb3201b</div>
-                                        <div class="message">Merge branch 'api' of https://github.com/nDevers/school-portfolio into ui</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0350807</div>
-                                        <div class="message">feat: tailwind config plugin issue solved</div>
+                                        <div class="sha">#7b8bf6e</div>
+                                        <div class="message">chore: update .gitignore</div>
                                     </div>
                                 </div>
                             </section>
@@ -3503,7 +3445,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 514k out of 152m users</span>
+                                    <span class="gh">ranked 515k out of 152m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">62</div>
                                     </div>
@@ -3603,7 +3545,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.88021902806298 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.0924024640657155 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3790,7 +3732,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 876k out of 217m repositories</span>
+                                    <span class="gh">ranked 876k out of 216m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">34</div>
                                     </div>
@@ -3954,7 +3896,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
+                            <b style="color: #00CBB0">Your fortune: ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!</b>
                         </div>
                     </section>
                 </div>
