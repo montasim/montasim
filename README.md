@@ -1151,13 +1151,13 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=260&height=61&lines=RECENT+GITHUB+ACTIVITY" alt="RECENT GITHUB ACTIVITY" />
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/nDevers/school-portfolio/pull/9) in [nDevers/school-portfolio](https://github.com/nDevers/school-portfolio)
-2. 💪 Opened PR [#9](https://github.com/nDevers/school-portfolio/pull/9) in [nDevers/school-portfolio](https://github.com/nDevers/school-portfolio)
-3. 🎉 Merged PR [#8](https://github.com/nDevers/school-portfolio/pull/8) in [nDevers/school-portfolio](https://github.com/nDevers/school-portfolio)
-4. 💪 Opened PR [#8](https://github.com/nDevers/school-portfolio/pull/8) in [nDevers/school-portfolio](https://github.com/nDevers/school-portfolio)
-5. 🎉 Merged PR [#6](https://github.com/nDevers/school-portfolio/pull/6) in [nDevers/school-portfolio](https://github.com/nDevers/school-portfolio)
-6. 💪 Opened PR [#6](https://github.com/nDevers/school-portfolio/pull/6) in [nDevers/school-portfolio](https://github.com/nDevers/school-portfolio)
-7. 🎉 Merged PR [#4](https://github.com/nDevers/school-portfolio/pull/4) in [nDevers/school-portfolio](https://github.com/nDevers/school-portfolio)
+1. 🎉 Merged PR [#13](https://github.com/nDevers/school-portfolio/pull/13) in [nDevers/school-portfolio](https://github.com/nDevers/school-portfolio)
+2. 💪 Opened PR [#13](https://github.com/nDevers/school-portfolio/pull/13) in [nDevers/school-portfolio](https://github.com/nDevers/school-portfolio)
+3. 🎉 Merged PR [#12](https://github.com/nDevers/school-portfolio/pull/12) in [nDevers/school-portfolio](https://github.com/nDevers/school-portfolio)
+4. 💪 Opened PR [#12](https://github.com/nDevers/school-portfolio/pull/12) in [nDevers/school-portfolio](https://github.com/nDevers/school-portfolio)
+5. 🎉 Merged PR [#9](https://github.com/nDevers/school-portfolio/pull/9) in [nDevers/school-portfolio](https://github.com/nDevers/school-portfolio)
+6. 💪 Opened PR [#9](https://github.com/nDevers/school-portfolio/pull/9) in [nDevers/school-portfolio](https://github.com/nDevers/school-portfolio)
+7. 🎉 Merged PR [#8](https://github.com/nDevers/school-portfolio/pull/8) in [nDevers/school-portfolio](https://github.com/nDevers/school-portfolio)
 <!--END_SECTION:activity-->
 
 <br>
