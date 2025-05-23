@@ -187,12 +187,12 @@
         <tr>
             <th>
                 <a href="https://www.linkedin.com/in/montasim" target="_blank" rel="noopener noreferrer" title="linkedin.com/in/montasim">
-                    <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/EB008B" width="35px">
+                    <img loading="lazy" alt="linkedin icon" src="/media/icons/linkedin.svg" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://www.github.com/montasim" target="_blank" rel="noopener noreferrer" title="github.com/montasim">
-                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/github/EB008B" width="35px">
+                    <img loading="lazy" alt="github icon" src="/media/icons/github.svg" width="35px">
                 </a>
             </th>
             <th>
@@ -202,17 +202,17 @@
             </th>
             <th>
                 <a href="https://montasim-dev.web.app/" target="_blank" rel="noopener noreferrer" title="montasim-dev.web.app">
-                    <img loading="lazy" alt="web icon" src="https://cdn.simpleicons.org/googlechrome/EB008B" width="35px">
+                    <img loading="lazy" alt="chrome icon" src="/media/icons/chrome.svg" width="35px">
                 </a>
             </th>
             <th>
                 <a href="mailto:montasimmamun@gmail.com" target="_blank" rel="noopener noreferrer" title="montasimmamun@gmail.com">
-                    <img loading="lazy" alt="gmail icon" src="https://cdn.simpleicons.org/gmail/EB008B" width="35px">
+                    <img loading="lazy" alt="gmail icon" src="/media/icons/mail.svg" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://www.facebook.com/montasimmamun/" target="_blank" rel="noopener noreferrer" title="facebook.com/montasimmamun">
-                    <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/facebook/EB008B" width="35px">
+                    <img loading="lazy" alt="facebook icon" src="/media/icons/facebook.svg" width="35px">
                 </a>
             </th>
             <th>
