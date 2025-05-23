@@ -284,7 +284,7 @@
     <br/>
     <br/>
     <!-- work experience start -->
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=240&height=61&lines=WORK EXPERIENCE+:+%20+(5)" alt="work experience" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=240&height=61&lines=WORK+EXPERIENCE+:+%20+(5)" alt="work experience" />
     <table>
         <thead>
             <tr>
@@ -404,7 +404,7 @@
     <!-- skills end -->
     <br/>
     <!-- Start Training, Participation and Certification -->
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=520&height=61&lines=TRAINING PARTICIPATION+and+CERTIFICATION+:+%20+(9)" alt="training, participation and certification" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=520&height=61&lines=TRAINING+PARTICIPATION+and+CERTIFICATION+:+%20+(9)" alt="training, participation and certification" />
     <ol>
         <li>
             <a href="https://www.coursera.org/account/accomplishments/professional-cert/8TE9CLHKPLL4" target="_blank" rel="noopener noreferrer">Meta Front-End Developer</a>
@@ -437,7 +437,7 @@
     <!-- End Training, Participation and Certification -->
     <br/>
     <!-- academic qualification start-> -->
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=330&height=61&lines=ACADEMIC QUALIFICATION+:+%20+(3)" alt="academic qualification" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=330&height=61&lines=ACADEMIC+QUALIFICATION+:+%20+(3)" alt="academic qualification" />
     <table align="center">
         <thead>
             <tr>
@@ -509,7 +509,7 @@
     <!-- End Undergraduate Thesis and Project -->
     <br/>
     <!-- Start Language Proficiency -->
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=305&height=61&lines=LANGUAGE PROFICIENCY+:+%20+(3)" alt="language proficency" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=305&height=61&lines=LANGUAGE+PROFICIENCY+:+%20+(3)" alt="language proficency" />
     <table>
         <thead>
             <tr>
@@ -551,12 +551,12 @@
 <details>
     <summary> MORE STUFF ABOUT ME </summary>
     <br/>
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=110&height=61&lines=WHAT I DO" alt="what i do" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=110&height=61&lines=WHAT+I+DO" alt="what i do" />
     <p>
         I do Open Source. In fact, I do Open Source so much, that 95% of my work on GitHub is free and open to everyone. I am really passionate about doing web development, it is in my opinion the best combination of logical programming and (sometimes) beautiful design.
     </p>
     <br/>
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=110&height=61&lines=MY SKILLS" alt="my skills" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=110&height=61&lines=MY+SKILLS" alt="my skills" />
     <br/>
     <table>
         <thead>
@@ -752,7 +752,7 @@
     <br/>
     <br/>
     <!-- currently learning start -->
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=280&height=61&lines=I AM CURRENTLY LEARNING" alt="i am currently learning" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=280&height=61&lines=I+AM+CURRENTLY+LEARNING" alt="i am currently learning" />
     <div>
         <img loading="lazy" style="margin-right: 6px" alt="typescript badge" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=00B8B5">
         <img loading="lazy" style="margin-right: 6px" alt="redux badge" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&color=00B8B5">
@@ -776,7 +776,7 @@
     <!-- Forgetting-->
     <br/>
     <br/>
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=140&height=61&lines=THINGS I USE" alt="things i use" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=140&height=61&lines=THINGS+I+USE" alt="things i use" />
     <ol>
         <!-- integrated development environment start -->
         <li>
@@ -860,7 +860,7 @@
     </ol>
     <br/>
     <br/>
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=150&height=61&lines=THINGS I OWN" alt="things i own" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=150&height=61&lines=THINGS+I+OWN" alt="things i own" />
     <ol>
         <li>
             <h3> 
@@ -1014,7 +1014,7 @@
     <p>:white_large_square: Got a job</p>
     <p>:white_large_square: Married</p>
     <p>:white_large_square: Have children</p>
-    <p>:black_large_square: Have children</p>
+    <p>:white_large_square: Have children</p>
     <br/>
     <br/>
 </details>
@@ -1028,7 +1028,7 @@
 <a href="https://stackoverflow.com/users/20348607/ＭＯＮＴＡＳＩＭ" target="_blank" rel="noopener noreferrer">
     <img loading="lazy" align="right" alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=20348607" />
 </a>
-<img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=285&height=61&lines=STACKOVERFLOW ACTIVITY" alt="stackoverflow activity" />
+<img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=285&height=61&lines=STACKOVERFLOW+ACTIVITY" alt="stackoverflow activity" />
 
 <!-- STACKOVERFLOW:START -->
 - [Answer by ＭＯＮＴＡＳＩＭ for How to debug TypeScript server side code of NextJS using WebStorm?](https://stackoverflow.com/questions/77977728/how-to-debug-typescript-server-side-code-of-nextjs-using-webstorm/77977888#77977888)
@@ -1232,7 +1232,7 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
 <br>
 <br>
 
-<img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=180&height=61&lines=GUTHUB METRICS" alt="github metrics" />
+<img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=180&height=61&lines=GUTHUB+METRICS" alt="github metrics" />
 
 <div align="center">
   <img loading="lazy" width="75%" src="./metrics.svg" alt="montasim's GitHub metrics"/>
