@@ -10,7 +10,7 @@ jobs:
     steps:
 
       - name: Personal metrics
-        uses: montasim/metrics@master
+        uses: JayantGoel001/metrics@master
         with:
           filename: metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -59,7 +59,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Personal metrics (detailed)
-        uses: montasim/metrics@master
+        uses: JayantGoel001/metrics@master
         with:
           filename: metrics.detailed.svg
           token: ${{ secrets.GITHUB_TOKEN }}
