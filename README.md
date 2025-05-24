@@ -114,7 +114,7 @@
 
 <!-- my summary start -->
 <p> 
-    I'm Mohammad Montasim -Al- Mamun Shuvo, <a href="http://montasim-dev.web.app/" target="_blank" rel="noopener noreferrer">A passionate Software Engineer</a> specializing in web development. My career began with a <a href="https://www.baust.edu.bd/" target="_blank" rel="noopener noreferrer">university</a> project, leading me to <a href="https://mymedicalhub.com/" target="_blank" rel="noopener noreferrer">My MedicalHUB International Ltd</a>. as a Software Engineer. I focus on building accessible, inclusive digital experiences using the MERN Stack.
+    I am Mohammad Montasim -Al- Mamun Shuvo <a href="http://montasim-dev.web.app/" target="_blank" rel="noopener noreferrer">A passionate Software Engineer</a> specializing in building scalable, accessible web applications. My career began with a <a href="https://www.baust.edu.bd/" target="_blank" rel="noopener noreferrer">university</a> project, leading me to <a href="https://mymedicalhub.com/" target="_blank" rel="noopener noreferrer">My MedicalHUB International Ltd</a>. as a Software Engineer. I focus on building accessible, inclusive digital experiences using the MERN Stack.
 </p>
 
 <p>
