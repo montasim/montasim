@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=363&height=40&lines=CONTRIBUTION GUIDELINE 🗒️" alt="Contributing Guidelines 🗒️" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=320&height=40&lines=CONTRIBUTION+GUIDELINE" alt="Contributing Guidelines 🗒️" />
 
 
 Hi! I'm really excited that you're interested in contributing to our project! Before submitting your contribution, please take a moment to read through the following guidelines:
@@ -133,4 +133,4 @@ If you're experiencing a problem or have an idea for a new feature, please follo
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=15&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=330&height=15&lines=Thank you for considering contributing. 🤝" alt="Thank you for considering contributing. 🤝" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=15&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=310&height=15&lines=Thank+you+for+considering+contributing." alt="Thank you for considering contributing. 🤝" />
