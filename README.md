@@ -253,7 +253,7 @@
     <summary> MY RESUME </summary>
     <br/>
     <br/>
-    <a href="https://drive.google.com/file/d/1r77NBlzi2QWCbmLTSJPH-V0O52Z1m1a0/view?usp=share_link" target="_blank" rel="noopener noreferrer"> 
+    <a href="https://drive.google.com/file/d/1v0RP3PyBB6KdsfXhonIHJXU-wgAUSIRT/view?usp=drive_link" target="_blank" rel="noopener noreferrer"> 
         <div align="right">
             <img loading="lazy" width="21px" src="./media/icons/cv.png" alt="resume icon" />
             <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=260&height=61&lines=DOWNLOAD+MY+RESUME" alt="DOWNLOAD MY RESUME" />
@@ -860,163 +860,320 @@
     </ol>
     <br/>
     <br/>
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=150&height=61&lines=THINGS+I+OWN" alt="things i own" />
-    <ol>
-        <li>
-            <h3> 
-                :computer: Personal Computer
-            </h3>
-            <ul>
-                <li>
-                    Processor: 
-                    <a href="https://www.amd.com/en/products/apu/amd-ryzen-3-2200g" target="_blank" rel="noopener noreferrer">
-                        AMD Ryzen™ 3 2200G Processor with AMD Radeon™ Vega 8 Graphics
-                    </a>
-                </li>
-                <li>
-                    Cooler: Ryzen 3 2700X
-                </li>
-                <li>
-                    Motherboard: 
-                     <a href="https://www.asus.com/motherboards-components/motherboards/prime/prime-a320m-e/" target="_blank" rel="noopener noreferrer">
-                        PRIME A320M-E
-                    </a>
-                </li>
-                <li>
-                    RAM: 
-                     <a href="https://www.corsair.com/ww/en/Categories/Products/Memory/VENGEANCE-LPX/p/CMK4GX4M1A2400C14" target="_blank" rel="noopener noreferrer">
-                        Corsair Vengeance LPX 4GB DDR4 2400MHz Black Heatsink Desktop RAM
-                    </a>
-                </li>
-                <li>
-                    SSD: 
-                     <a href="https://www.ryanscomputers.com/hikvision-c100-120gb-sataiii-ssd" target="_blank" rel="noopener noreferrer">
-                        Hikvision C100 120GB 2.5 Inch SATAIII SSD
-                    </a>
-                </li>
-                <li>
-                    HDD: 
-                     <a href="https://toshiba.semicon-storage.com/us/storage/product/internal-specialty/pc/articles/dt01aca-series.html" target="_blank" rel="noopener noreferrer">
-                        Toshiba DT01ACA100 1TB Sata Desktop Hard Disk
-                    </a>
-                </li>
-                <li>
-                    Casing: Delux
-                </li>
-                <li>
-                    UPS: 
-                     <a href="https://www.startech.com.bd/power-guard-1200va-cs-offline-ups" target="_blank" rel="noopener noreferrer">
-                        Power Guard 1200VA CS Offline UPS (Plastic Body)
-                    </a>
-                </li>
-                <li>
-                    Sound Box: Havit
-                </li>
-                <li>
-                    Keyboard: Logitech
-                </li>
-                <li>
-                    Mouse: Logitech
-                </li>
-            </ul>
-        </li>
-        <br/>
-        <li>
-            <h3>
-                Network Device: 
-            </h3>
-            <ul>
-                <li>
-                    Router: 
-                    <ul>
-                        <li>
-                            Netgear
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    Network Adapters: 
-                    <ul>
-                        <li>
-                            Tp Link:
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    Bluetooth Adapters: 
-                    <ul>
-                        <li>
-                            Orico:
-                        </li>
-                    </ul>
-                </li>
-            </ul>
-        </li>
-        <br/>
-        <li>
-            <h3>
-                Accessories: 
-            </h3>
-            <ul>
-                <li>
-                    :camera: Webcam: 
-                    <ul>
-                        <li>
-                            Fantech
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    :headphones: Headphone: 
-                    <ul>
-                        <li>
-                            A4tech
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    Earphone: 
-                    <ul>
-                        <li>
-                            Uiscii
-                        </li>
-                    </ul>
-                </li>
-            </ul>
-        </li>
-        <br/>
-        <li>
-            <h3>
-                :iphone: SmartPhone: 
-            </h3>
-            <ul>
-                <li>
-                    Samsung Galaxy A50 4/64
-                </li>
-            </ul>
-        </li>
-        <br/>
-        <li>
-            <h3>
-                :watch: Smartwatch: 
-            </h3>
-            <ul>
-                <li>
-                    Haylu Solar LS05
-                </li>
-            </ul>
-        </li>
-    </ol>
-    <br/>
-    <br/>
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=70&height=61&lines=TASKS" alt="tasks" />
-    <p>:white_large_square: Born</p>
-    <p>:white_large_square: Got a job</p>
-    <p>:white_large_square: Married</p>
-    <p>:white_large_square: Have children</p>
-    <p>:white_large_square: Have children</p>
-    <br/>
-    <br/>
+
+[//]: # (    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=150&height=61&lines=THINGS+I+OWN" alt="things i own" />)
+
+[//]: # (    <ol>)
+
+[//]: # (        <li>)
+
+[//]: # (            <h3> )
+
+[//]: # (                :computer: Personal Computer)
+
+[//]: # (            </h3>)
+
+[//]: # (            <ul>)
+
+[//]: # (                <li>)
+
+[//]: # (                    Processor: )
+
+[//]: # (                    <a href="https://www.amd.com/en/products/apu/amd-ryzen-3-2200g" target="_blank" rel="noopener noreferrer">)
+
+[//]: # (                        AMD Ryzen™ 3 2200G Processor with AMD Radeon™ Vega 8 Graphics)
+
+[//]: # (                    </a>)
+
+[//]: # (                </li>)
+
+[//]: # (                <li>)
+
+[//]: # (                    Cooler: Ryzen 3 2700X)
+
+[//]: # (                </li>)
+
+[//]: # (                <li>)
+
+[//]: # (                    Motherboard: )
+
+[//]: # (                     <a href="https://www.asus.com/motherboards-components/motherboards/prime/prime-a320m-e/" target="_blank" rel="noopener noreferrer">)
+
+[//]: # (                        PRIME A320M-E)
+
+[//]: # (                    </a>)
+
+[//]: # (                </li>)
+
+[//]: # (                <li>)
+
+[//]: # (                    RAM: )
+
+[//]: # (                     <a href="https://www.corsair.com/ww/en/Categories/Products/Memory/VENGEANCE-LPX/p/CMK4GX4M1A2400C14" target="_blank" rel="noopener noreferrer">)
+
+[//]: # (                        Corsair Vengeance LPX 4GB DDR4 2400MHz Black Heatsink Desktop RAM)
+
+[//]: # (                    </a>)
+
+[//]: # (                </li>)
+
+[//]: # (                <li>)
+
+[//]: # (                    SSD: )
+
+[//]: # (                     <a href="https://www.ryanscomputers.com/hikvision-c100-120gb-sataiii-ssd" target="_blank" rel="noopener noreferrer">)
+
+[//]: # (                        Hikvision C100 120GB 2.5 Inch SATAIII SSD)
+
+[//]: # (                    </a>)
+
+[//]: # (                </li>)
+
+[//]: # (                <li>)
+
+[//]: # (                    HDD: )
+
+[//]: # (                     <a href="https://toshiba.semicon-storage.com/us/storage/product/internal-specialty/pc/articles/dt01aca-series.html" target="_blank" rel="noopener noreferrer">)
+
+[//]: # (                        Toshiba DT01ACA100 1TB Sata Desktop Hard Disk)
+
+[//]: # (                    </a>)
+
+[//]: # (                </li>)
+
+[//]: # (                <li>)
+
+[//]: # (                    Casing: Delux)
+
+[//]: # (                </li>)
+
+[//]: # (                <li>)
+
+[//]: # (                    UPS: )
+
+[//]: # (                     <a href="https://www.startech.com.bd/power-guard-1200va-cs-offline-ups" target="_blank" rel="noopener noreferrer">)
+
+[//]: # (                        Power Guard 1200VA CS Offline UPS &#40;Plastic Body&#41;)
+
+[//]: # (                    </a>)
+
+[//]: # (                </li>)
+
+[//]: # (                <li>)
+
+[//]: # (                    Sound Box: Havit)
+
+[//]: # (                </li>)
+
+[//]: # (                <li>)
+
+[//]: # (                    Keyboard: Logitech)
+
+[//]: # (                </li>)
+
+[//]: # (                <li>)
+
+[//]: # (                    Mouse: Logitech)
+
+[//]: # (                </li>)
+
+[//]: # (            </ul>)
+
+[//]: # (        </li>)
+
+[//]: # (        <br/>)
+
+[//]: # (        <li>)
+
+[//]: # (            <h3>)
+
+[//]: # (                Network Device: )
+
+[//]: # (            </h3>)
+
+[//]: # (            <ul>)
+
+[//]: # (                <li>)
+
+[//]: # (                    Router: )
+
+[//]: # (                    <ul>)
+
+[//]: # (                        <li>)
+
+[//]: # (                            Netgear)
+
+[//]: # (                        </li>)
+
+[//]: # (                    </ul>)
+
+[//]: # (                </li>)
+
+[//]: # (                <li>)
+
+[//]: # (                    Network Adapters: )
+
+[//]: # (                    <ul>)
+
+[//]: # (                        <li>)
+
+[//]: # (                            Tp Link:)
+
+[//]: # (                        </li>)
+
+[//]: # (                    </ul>)
+
+[//]: # (                </li>)
+
+[//]: # (                <li>)
+
+[//]: # (                    Bluetooth Adapters: )
+
+[//]: # (                    <ul>)
+
+[//]: # (                        <li>)
+
+[//]: # (                            Orico:)
+
+[//]: # (                        </li>)
+
+[//]: # (                    </ul>)
+
+[//]: # (                </li>)
+
+[//]: # (            </ul>)
+
+[//]: # (        </li>)
+
+[//]: # (        <br/>)
+
+[//]: # (        <li>)
+
+[//]: # (            <h3>)
+
+[//]: # (                Accessories: )
+
+[//]: # (            </h3>)
+
+[//]: # (            <ul>)
+
+[//]: # (                <li>)
+
+[//]: # (                    :camera: Webcam: )
+
+[//]: # (                    <ul>)
+
+[//]: # (                        <li>)
+
+[//]: # (                            Fantech)
+
+[//]: # (                        </li>)
+
+[//]: # (                    </ul>)
+
+[//]: # (                </li>)
+
+[//]: # (                <li>)
+
+[//]: # (                    :headphones: Headphone: )
+
+[//]: # (                    <ul>)
+
+[//]: # (                        <li>)
+
+[//]: # (                            A4tech)
+
+[//]: # (                        </li>)
+
+[//]: # (                    </ul>)
+
+[//]: # (                </li>)
+
+[//]: # (                <li>)
+
+[//]: # (                    Earphone: )
+
+[//]: # (                    <ul>)
+
+[//]: # (                        <li>)
+
+[//]: # (                            Uiscii)
+
+[//]: # (                        </li>)
+
+[//]: # (                    </ul>)
+
+[//]: # (                </li>)
+
+[//]: # (            </ul>)
+
+[//]: # (        </li>)
+
+[//]: # (        <br/>)
+
+[//]: # (        <li>)
+
+[//]: # (            <h3>)
+
+[//]: # (                :iphone: SmartPhone: )
+
+[//]: # (            </h3>)
+
+[//]: # (            <ul>)
+
+[//]: # (                <li>)
+
+[//]: # (                    Samsung Galaxy A50 4/64)
+
+[//]: # (                </li>)
+
+[//]: # (            </ul>)
+
+[//]: # (        </li>)
+
+[//]: # (        <br/>)
+
+[//]: # (        <li>)
+
+[//]: # (            <h3>)
+
+[//]: # (                :watch: Smartwatch: )
+
+[//]: # (            </h3>)
+
+[//]: # (            <ul>)
+
+[//]: # (                <li>)
+
+[//]: # (                    Haylu Solar LS05)
+
+[//]: # (                </li>)
+
+[//]: # (            </ul>)
+
+[//]: # (        </li>)
+
+[//]: # (    </ol>)
+
+[//]: # (    <br/>)
+
+[//]: # (    <br/>)
+
+[//]: # (    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=70&height=61&lines=TASKS" alt="tasks" />)
+
+[//]: # (    <p>:white_large_square: Born</p>)
+
+[//]: # (    <p>:white_large_square: Got a job</p>)
+
+[//]: # (    <p>:white_large_square: Married</p>)
+
+[//]: # (    <p>:white_large_square: Have children</p>)
+
+[//]: # (    <p>:white_large_square: Have children</p>)
+
+[//]: # (    <br/>)
+
+[//]: # (    <br/>)
 </details>
 <!-- things I use end -->
 
@@ -1232,15 +1389,21 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
 <br>
 <br>
 
-<img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=180&height=61&lines=GUTHUB+METRICS" alt="github metrics" />
+[//]: # (<img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=180&height=61&lines=GUTHUB+METRICS" alt="github metrics" />)
 
-<div align="center">
-  <img loading="lazy" width="75%" src="./metrics.svg" alt="montasim's GitHub metrics"/>
-  <img loading="lazy" width="75%" src="./metrics.detailed.svg" alt="montasim's details GitHub metrics"/>
-</div>
+[//]: # ()
+[//]: # (<div align="center">)
 
-<br>
-<br>
+[//]: # (  <img loading="lazy" width="75%" src="./metrics.svg" alt="montasim's GitHub metrics"/>)
+
+[//]: # (  <img loading="lazy" width="75%" src="./metrics.detailed.svg" alt="montasim's details GitHub metrics"/>)
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (<br>)
+
+[//]: # (<br>)
 
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=190&height=61&lines=LINKEDIN+METRICS" alt="LINKEDIN METRICS" />
 <img loading="lazy" src="https://github-readme-linkedin-black.vercel.app/experience?username=montasim" />
