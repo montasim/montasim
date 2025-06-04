@@ -6,13 +6,13 @@ on:
 
 jobs:
   update-readme-with-twitter:
-    name: Update this repo's README with latest tweets
+    name: Update this repo's README with the latest tweets
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "TWITTER"
-          feed_list: "https://nitter.net/search/rss?f=tweets&q=montasimmamun, https://nitter.net/search?f=tweets&q=montasimmamun"
+          feed_list: "https://nitter.net/search/rss?f=tweets&q=montasimmamun, https://nitter.net/search?f=tweets&q=montasimmamun&since=&until=&near="
           commit_message: "Updated with the latest tweets"
           committer_email: "montasimmamun@gmail.com"
