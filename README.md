@@ -37,7 +37,7 @@
 <!-- hello nice to meet you text start -->
 <div align="center">
     <img loading="lazy" width="32" src="./media/icons/code.png" alt="code png" />
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&height=32&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=410&height=32&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
     <img loading="lazy" width="32" src="./media/icons/layers.png" alt="layers png" />
 </div>
 <!-- hello nice to meet you text end -->
