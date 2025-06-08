@@ -3,7 +3,7 @@ name: Latest Wakatime Activity
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Runs at 12:00AM UTC everyday
+    - cron: '0 0 1-31/3 * *' # Every 3rd day of the month at 12:00AM UTC
 
 jobs:
   update-readme:
