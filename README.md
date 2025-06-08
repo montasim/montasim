@@ -253,12 +253,12 @@
     <summary> MY RESUME </summary>
     <br/>
     <br/>
-    <a href="https://drive.google.com/file/d/1v0RP3PyBB6KdsfXhonIHJXU-wgAUSIRT/view?usp=drive_link" target="_blank" rel="noopener noreferrer"> 
-        <div align="right">
-            <img loading="lazy" width="24" src="./media/icons/cv.png" alt="resume icon" />
+    <div align="right">
+        <img loading="lazy" width="24" src="./media/icons/cv.png" alt="resume icon" />
+        <a href="https://drive.google.com/file/d/1v0RP3PyBB6KdsfXhonIHJXU-wgAUSIRT/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
             <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=290&height=24&lines=DOWNLOAD+MY+RESUME" alt="DOWNLOAD MY RESUME" />
-        </div>
-    </a>
+        </a>
+    </div>
     <img loading="lazy" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line gif">
     <br/>
     <br/>
