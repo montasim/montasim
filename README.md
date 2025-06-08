@@ -262,12 +262,9 @@
     <img loading="lazy" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line gif">
     <br/>
     <br/>
-    <br/>
-    <br/>
     <!-- Montasim's Photo -->
     <img loading="lazy" align="right" alt="Montasim's resume Photo" src="media/images/montasim.jpg" width="200">
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=475&height=31&lines=MOHAMMAD+MONTASIM+-AL-+MAMUN+SHUVO" alt="MOHAMMAD MONTASIM -AL- MAMUN SHUVO" />
-    <br/>
     <br/>
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&repeat=false&width=160&height=30&lines=Frontend+Developer" alt="frontend developer" />
     <br/>
@@ -1046,20 +1043,6 @@ Let me know your thoughts down in the comments and check out my profile for more
 <!-- MEDIUM:START -->
 
 <!-- MEDIUM:END -->
-
-<br>
-<br>
-
-# Guestbook
-
-<!--START_SECTION:guestbook-->
-<a href="https://github.com/boloped"><img src="https://avatars.githubusercontent.com/u/53911231?u=cf0534d0c28698f9a9e57b472634dda9c4fc758f&v=4" height="30"/></a> <a href="https://github.com/MeerBiene"><img src="https://avatars.githubusercontent.com/u/60227302?u=a8e4ea9744fb1d60f6a8708b677c3d8a778706e8&v=4" height="30"/></a>
-
-* **[boloped](https://github.com/boloped) wrote on 1/12/2023:** Meerbiene is a cool guy. I really like him.
-* **[MeerBiene](https://github.com/MeerBiene) wrote on 1/15/2022:** test
-
-Do you like my project or just want to say hi? Feel free to [post](https://github.com/montasim/montasim/issues/new?title=Guestbook) to my guestbook!
-<!--END_SECTION:guestbook-->
 
 <br>
 <br>
