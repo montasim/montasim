@@ -631,7 +631,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C992%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C992%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
@@ -641,11 +641,11 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 456 Contributions in the Year 2025
+> 🏆 458 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 73 Public Repositories 
+> 📜 75 Public Repositories 
  > 
 > 🔑 166 Private Repositories 
  > 
@@ -676,14 +676,14 @@ Sunday                   4680 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    5 hrs 51 mins       █████████████████████████   99.97 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    9 hrs 21 mins       █████████████████████████   99.03 % 
+HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🔥 Editors: 
-Chrome                   5 hrs 51 mins       █████████████████████████   100.00 % 
+Chrome                   9 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 51 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -699,7 +699,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2025 00:34:16 UTC
+ Last Updated on 16/07/2025 00:32:24 UTC
 <!--END_SECTION:waka-->
 
 <br>
