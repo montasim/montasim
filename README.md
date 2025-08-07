@@ -633,7 +633,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C030%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.1%20million%20lines%20of%20code-blue)
 
@@ -676,14 +676,13 @@ Sunday                   4684 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    7 hrs 3 mins        ████████████████████████░   97.91 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Other                    2 hrs 5 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   7 hrs 12 mins       █████████████████████████   100.00 % 
+Chrome                   2 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 12 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -699,7 +698,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2025 00:35:20 UTC
+ Last Updated on 07/08/2025 00:33:59 UTC
 <!--END_SECTION:waka-->
 
 <br>
