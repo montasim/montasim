@@ -6,7 +6,7 @@
 
     -----------------------------------------------------------------------
     -----------------------------------------------------------------------
-    
+
     Thank you if you like this profile README!
 
     BUT, please DO NOT copy this and create your profile based on it.
@@ -26,7 +26,7 @@
     There could be a profile README that fits you better than this one.
 
     ---------------------------------------------------------------------
-    
+
     Wish you a good-looking profile README!
 
                                 —— montasim (https://github.com/montasim)
@@ -114,11 +114,15 @@
 
 <!-- my summary start -->
 <p> 
-    I am Mohammad Montasim -Al- Mamun Shuvo <a href="http://montasim-dev.web.app/" target="_blank" rel="noopener noreferrer">A passionate Software Engineer</a> specializing in building scalable and accessible web applications. My career began with a <a href="https://www.baust.edu.bd/" target="_blank" rel="noopener noreferrer">university</a> project, leading me to <a href="https://mymedicalhub.com/" target="_blank" rel="noopener noreferrer">My MedicalHUB International Ltd</a>. as a Software Engineer. I focus on building accessible, inclusive digital experiences using the MERN Stack.
+    I am Mohammad Montasim -Al- Mamun Shuvo <a href="http://montasim-dev.web.app/" target="_blank" rel="noopener noreferrer">A passionate Software Engineer</a> with 3+ years of experience building 𝘀𝗰𝗮𝗹𝗮𝗯𝗹𝗲, 𝗮𝗰𝗰𝗲𝘀𝘀𝗶𝗯𝗹𝗲, 𝗮𝗻𝗱 𝗵𝗶𝗴𝗵-𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝘄𝗲𝗯 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀.
+</p>
+
+<p> 
+    I specialize in 𝗥𝗲𝗮𝗰𝘁, 𝗡𝗲𝘅𝘁.𝗷𝘀, 𝗡𝗼𝗱𝗲.𝗷𝘀, 𝗮𝗻𝗱 𝗰𝗹𝗼𝘂𝗱-𝗻𝗮𝘁𝗶𝘃𝗲 𝗶𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲, delivering solutions that drive measurable business impact—𝗰𝘂𝘁𝘁𝗶𝗻𝗴 𝗰𝗼𝘀𝘁𝘀, 𝗶𝗺𝗽𝗿𝗼𝘃𝗶𝗻𝗴 𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲, 𝗮𝗻𝗱 𝘀𝗰𝗮𝗹𝗶𝗻𝗴 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀 𝘁𝗼 𝘁𝗵𝗼𝘂𝘀𝗮𝗻𝗱𝘀 𝗼𝗳 𝘂𝘀𝗲𝗿𝘀.
 </p>
 
 <p>
-    <a href="https://montasim-dev.web.app/#about" target="_blank" rel="noopener noreferrer">My expertise</a> lies in delivering complex projects, leveraging technology for business transformation, and creating <a href="https://montasim-dev.web.app/#projects" target="_blank" rel="noopener noreferrer">innovative applications</a>. I am dedicated to bridging research and engineering to produce impactful digital solutions.
+    <a href="https://montasim-dev.web.app/#about" target="_blank" rel="noopener noreferrer">My expertise</a> spans 𝗳𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 (𝗠𝗘𝗥𝗡 & 𝗣𝗿𝗶𝘀𝗺𝗮), 𝘀𝘆𝘀𝘁𝗲𝗺 𝗱𝗲𝘀𝗶𝗴𝗻, and 𝗖𝗜/𝗖𝗗 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻, with a strong focus on 𝘂𝘀𝗲𝗿 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗮𝗻𝗱 𝗮𝗰𝗰𝗲𝘀𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝘆. I enjoy bridging 𝗿𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗮𝗻𝗱 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 to create innovative digital solutions that make a difference.
 </p>
 <!-- my summary end -->
 
@@ -589,6 +593,7 @@
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=285&height=61&lines=STACKOVERFLOW+ACTIVITY" alt="stackoverflow activity" />
 
 <!-- STACKOVERFLOW:START -->
+
 - [Answer by ＭＯＮＴＡＳＩＭ for How to debug TypeScript server side code of NextJS using WebStorm?](https://stackoverflow.com/questions/77977728/how-to-debug-typescript-server-side-code-of-nextjs-using-webstorm/77977888#77977888)
 - [Answer by ＭＯＮＴＡＳＩＭ for 404 error when deploying react app in Vercel](https://stackoverflow.com/questions/76742696/404-error-when-deploying-react-app-in-vercel/76742719#76742719)
 - [Answer by ＭＯＮＴＡＳＩＭ for To add images to README.md on GitHub](https://stackoverflow.com/questions/76627549/to-add-images-to-readme-md-on-github/76633929#76633929)
@@ -617,6 +622,7 @@
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=170&height=61&lines=BLOG+ACTIVITY" alt="BLOG ACTIVITY" />
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Understanding Trading Charts](https://noobtrack.blogspot.com/2020/02/understanding-trading-charts.html)
 - [Understanding Bar Charts and Column Charts](https://noobtrack.blogspot.com/2020/02/understanding-bar-charts-and-column.html)
 - [Bullet Charts – What Is It And How To Use It](https://noobtrack.blogspot.com/2020/02/bullet-charts-what-is-it-and-how-to-use.html)
@@ -629,76 +635,74 @@
 
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=215&height=61&lines=WAKATIME+ACTIVITY" alt="WAKATIME ACTIVITY" />
 
-
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C032%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.1%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 1.1 MB Used in GitHub's Storage 
- > 
+> 📦 1.1 MB Used in GitHub's Storage
+>
 > 🏆 509 Contributions in the Year 2025
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 78 Public Repositories 
- > 
-> 🔑 167 Private Repositories 
- > 
-**I'm a Night 🦉** 
+>
+> 📜 78 Public Repositories
+>
+> 🔑 167 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning                5953 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-🌆 Daytime                9787 commits        ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-🌃 Evening                12248 commits       █████████░░░░░░░░░░░░░░░░   36.68 % 
-🌙 Night                  5403 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+🌞 Morning                5953 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.83 %
+🌆 Daytime                9787 commits        ███████░░░░░░░░░░░░░░░░░░   29.31 %
+🌃 Evening                12248 commits       █████████░░░░░░░░░░░░░░░░   36.68 %
+🌙 Night                  5403 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
 ```
-📅 **I'm Most Productive on Thursday** 
+
+📅 **I'm Most Productive on Thursday**
 
 ```text
-Monday                   4421 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Tuesday                  4527 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Wednesday                5010 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Thursday                 5183 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Friday                   4786 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Saturday                 4780 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Sunday                   4684 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Monday                   4421 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 %
+Tuesday                  4527 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 %
+Wednesday                5010 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 %
+Thursday                 5183 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
+Friday                   4786 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 %
+Saturday                 4780 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 %
+Sunday                   4684 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Dhaka
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               132 repos           ███████████████░░░░░░░░░░   58.67 % 
-HTML                     38 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-TypeScript               29 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-CSS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+JavaScript               132 repos           ███████████████░░░░░░░░░░   58.67 %
+HTML                     38 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.89 %
+TypeScript               29 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.89 %
+CSS                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
+Last Updated on 25/08/2025 00:32:23 UTC
 
-
-
- Last Updated on 25/08/2025 00:32:23 UTC
 <!--END_SECTION:waka-->
 
 <br>
@@ -707,6 +711,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=260&height=61&lines=RECENT+GITHUB+ACTIVITY" alt="RECENT GITHUB ACTIVITY" />
 
 <!--START_SECTION:activity-->
+
 1. ❗ Opened issue [#69](https://github.com/montasim/montasim/issues/69) in [montasim/montasim](https://github.com/montasim/montasim)
 2. ❗ Opened issue [#68](https://github.com/montasim/montasim/issues/68) in [montasim/montasim](https://github.com/montasim/montasim)
 3. ❗ Opened issue [#67](https://github.com/montasim/montasim/issues/67) in [montasim/montasim](https://github.com/montasim/montasim)
@@ -723,6 +728,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=61&lines=TWITTER+ACTIVITY" alt="TWITTER ACTIVITY" />
 
 <!-- TWITTER:START -->
+
 - [Thinking about my project. https://lnkd.in/gYffV3rq](https://nitter.net/montasimmamun/status/1611429494103093250#m)
 - [Check out this job at MyMedicalHUB: https://lnkd.in/gh-uGUaZ https://lnkd.in/g5NbD7ji](https://nitter.net/montasimmamun/status/1567731555648573440#m)
 - [Essential Resources for Frontend Developers
@@ -730,13 +736,16 @@ TeX                      1 repo              ░░░░░░░░░░░�
 Here are some essential website links for the Frontend Developers to design a beautiful website. Let me know your thoughts in the comments, and check my profile for more content.
 
 1. CSS framework: If you want…https://lnkd.in/gaWyxAvM](https://nitter.net/montasimmamun/status/1559042828935708674#m)
+
 - [5 Useful Resources for Junior Web Developers. Save this for future reference.
-Let me know your thoughts down in the comments and check out my profile for more coding-related content.
+  Let me know your thoughts down in the comments and check out my profile for more coding-related content.
 
 1. Diagrams - This is such a great web for drawing a lot of diagrams y…https://lnkd.in/gU5Hqtp7](https://nitter.net/montasimmamun/status/1558170708169019392#m)
-- [VAR vs LET vs CONST - Javascript  Basic
+
+- [VAR vs LET vs CONST - Javascript Basic
 
 #javascript https://lnkd.in/gzDp2WfC](https://nitter.net/montasimmamun/status/1558119151796772864#m)
+
 <!-- TWITTER:END -->
 
 <br>
@@ -763,9 +772,11 @@ Let me know your thoughts down in the comments and check out my profile for more
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=135&height=61&lines=STARGAZERS" alt="STARGAZERS" />
 
 <!-- stargazers -->
-|  <a href="https://github.com/Fahimahmedkhan">Fahimahmedkhan</a> | <a href="https://github.com/sorenxysm">sorenxysm</a> | <a href="https://github.com/obaydullahalmahmud">obaydullahalmahmud</a> | <a href="https://github.com/karobi57">karobi57</a> | <a href="https://github.com/Rantoryu">Rantoryu</a> | <a href="https://github.com/DevElkami">DevElkami</a> | <a href="https://github.com/bm4578">bm4578</a> | <a href="https://github.com/ArielMAJ">ArielMAJ</a> |
-|  :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|  <img src="https://avatars.githubusercontent.com/u/53188460?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/123979181?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/139006113?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/107668885?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/59120780?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/49388297?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/77977341?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/69123486?s=96&v=4" width="60px"> |
+
+|           <a href="https://github.com/Fahimahmedkhan">Fahimahmedkhan</a>           |                <a href="https://github.com/sorenxysm">sorenxysm</a>                 |       <a href="https://github.com/obaydullahalmahmud">obaydullahalmahmud</a>        |                 <a href="https://github.com/karobi57">karobi57</a>                  |                 <a href="https://github.com/Rantoryu">Rantoryu</a>                 |                <a href="https://github.com/DevElkami">DevElkami</a>                |                   <a href="https://github.com/bm4578">bm4578</a>                   |                 <a href="https://github.com/ArielMAJ">ArielMAJ</a>                 |
+| :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/53188460?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/123979181?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/139006113?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/107668885?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/59120780?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/49388297?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/77977341?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/69123486?s=96&v=4" width="60px"> |
+
 <!-- stargazers -->
 
 <br>
@@ -905,4 +916,3 @@ Let me know your thoughts down in the comments and check out my profile for more
 <br/>
 <br/>
 <br/>
-
