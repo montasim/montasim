@@ -710,13 +710,13 @@ Last Updated on 25/08/2025 00:32:23 UTC
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/montasim/shrnkly-url-shortener/pull/2) in [montasim/shrnkly-url-shortener](https://github.com/montasim/shrnkly-url-shortener)
-2. 💪 Opened PR [#2](https://github.com/montasim/shrnkly-url-shortener/pull/2) in [montasim/shrnkly-url-shortener](https://github.com/montasim/shrnkly-url-shortener)
-3. 🎉 Merged PR [#1](https://github.com/montasim/deen-track/pull/1) in [montasim/deen-track](https://github.com/montasim/deen-track)
-4. 💪 Opened PR [#1](https://github.com/montasim/deen-track/pull/1) in [montasim/deen-track](https://github.com/montasim/deen-track)
-5. 🎉 Merged PR [#9](https://github.com/nDevers/school-portfolio/pull/9) in [nDevers/school-portfolio](https://github.com/nDevers/school-portfolio)
-6. 💪 Opened PR [#9](https://github.com/nDevers/school-portfolio/pull/9) in [nDevers/school-portfolio](https://github.com/nDevers/school-portfolio)
-7. 🎉 Merged PR [#8](https://github.com/nDevers/school-portfolio/pull/8) in [nDevers/school-portfolio](https://github.com/nDevers/school-portfolio)
+1. ❗ Opened issue [#7](https://github.com/montasim/ramadan-clock/issues/7) in [montasim/ramadan-clock](https://github.com/montasim/ramadan-clock)
+2. ❗ Opened issue [#6](https://github.com/montasim/ramadan-clock/issues/6) in [montasim/ramadan-clock](https://github.com/montasim/ramadan-clock)
+3. ❗ Opened issue [#5](https://github.com/montasim/ramadan-clock/issues/5) in [montasim/ramadan-clock](https://github.com/montasim/ramadan-clock)
+4. ❗ Opened issue [#4](https://github.com/montasim/ramadan-clock/issues/4) in [montasim/ramadan-clock](https://github.com/montasim/ramadan-clock)
+5. ❗ Opened issue [#3](https://github.com/montasim/ramadan-clock/issues/3) in [montasim/ramadan-clock](https://github.com/montasim/ramadan-clock)
+6. ❗ Opened issue [#2](https://github.com/montasim/ramadan-clock/issues/2) in [montasim/ramadan-clock](https://github.com/montasim/ramadan-clock)
+7. ❗ Opened issue [#1](https://github.com/montasim/ramadan-clock/issues/1) in [montasim/ramadan-clock](https://github.com/montasim/ramadan-clock)
 <!--END_SECTION:activity-->
 
 <br>
