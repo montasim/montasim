@@ -710,13 +710,13 @@ Last Updated on 25/08/2025 00:32:23 UTC
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#7](https://github.com/montasim/ramadan-clock/issues/7) in [montasim/ramadan-clock](https://github.com/montasim/ramadan-clock)
-2. ❗ Opened issue [#6](https://github.com/montasim/ramadan-clock/issues/6) in [montasim/ramadan-clock](https://github.com/montasim/ramadan-clock)
-3. ❗ Opened issue [#5](https://github.com/montasim/ramadan-clock/issues/5) in [montasim/ramadan-clock](https://github.com/montasim/ramadan-clock)
-4. ❗ Opened issue [#4](https://github.com/montasim/ramadan-clock/issues/4) in [montasim/ramadan-clock](https://github.com/montasim/ramadan-clock)
-5. ❗ Opened issue [#3](https://github.com/montasim/ramadan-clock/issues/3) in [montasim/ramadan-clock](https://github.com/montasim/ramadan-clock)
-6. ❗ Opened issue [#2](https://github.com/montasim/ramadan-clock/issues/2) in [montasim/ramadan-clock](https://github.com/montasim/ramadan-clock)
-7. ❗ Opened issue [#1](https://github.com/montasim/ramadan-clock/issues/1) in [montasim/ramadan-clock](https://github.com/montasim/ramadan-clock)
+1. 🔒 Closed issue [#6](https://github.com/montasim/ramadan-clock/issues/6) in [montasim/ramadan-clock](https://github.com/montasim/ramadan-clock)
+2. 🗣 Commented on [#6](https://github.com/montasim/ramadan-clock/issues/6#issuecomment-3931865941) in [montasim/ramadan-clock](https://github.com/montasim/ramadan-clock)
+3. 🔒 Closed issue [#2](https://github.com/montasim/ramadan-clock/issues/2) in [montasim/ramadan-clock](https://github.com/montasim/ramadan-clock)
+4. 🗣 Commented on [#2](https://github.com/montasim/ramadan-clock/issues/2#issuecomment-3931264749) in [montasim/ramadan-clock](https://github.com/montasim/ramadan-clock)
+5. 🔒 Closed issue [#4](https://github.com/montasim/ramadan-clock/issues/4) in [montasim/ramadan-clock](https://github.com/montasim/ramadan-clock)
+6. 🗣 Commented on [#4](https://github.com/montasim/ramadan-clock/issues/4#issuecomment-3931206346) in [montasim/ramadan-clock](https://github.com/montasim/ramadan-clock)
+7. 🗣 Commented on [#3](https://github.com/montasim/ramadan-clock/issues/3#issuecomment-3931179013) in [montasim/ramadan-clock](https://github.com/montasim/ramadan-clock)
 <!--END_SECTION:activity-->
 
 <br>
