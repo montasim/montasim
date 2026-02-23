@@ -99,7 +99,7 @@
 <!-- introduction heading start -->
 <div align="center">
     <!-- weather icon start -->
-    <img loading="lazy" align="right" alt="visitor count svg" src="https://plum-meowing-freon.glitch.me/count.svg?backgroundColor=0D1117">
+    <img loading="lazy" align="right" alt="visitor count svg" src="https://github-readme-counter.onrender.com/count.svg?backgroundColor=0D1117">
     <!-- weather icon end -->
     <!-- about me start -->
     <div align="left">
