@@ -36,9 +36,9 @@
 
 <!-- hello nice to meet you text start -->
 <div align="center">
-    <img loading="lazy" width="32" src="./media/icons/code.png" alt="code png" />
+    <img loading="lazy" width="32" src="./media/icons/ui/code.png" alt="code png" />
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=410&height=32&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
-    <img loading="lazy" width="32" src="./media/icons/layers.png" alt="layers png" />
+    <img loading="lazy" width="32" src="./media/icons/ui/layers.png" alt="layers png" />
 </div>
 <!-- hello nice to meet you text end -->
 
@@ -107,7 +107,7 @@
     <!-- weather icon end -->
     <!-- about me start -->
     <div align="left">
-        <img loading="lazy" width="24" src="./media/icons/charismatic.png" alt="wave png" />
+        <img loading="lazy" width="24" src="./media/icons/ui/charismatic.png" alt="wave png" />
         <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=120&height=24&lines=ABOUT+ME" alt="i am montasim svg" />
     </div>
     <!-- about me end -->
@@ -136,7 +136,7 @@
 
 <!-- my GitHub stats text start -->
 <div align="center"> 
-    <img loading="lazy" width="24" align="center" src="./media/icons/pie-chart.png" alt="pie chart png" />
+    <img loading="lazy" width="24" align="center" src="./media/icons/ui/pie-chart.png" alt="pie chart png" />
     <img loading="lazy" align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=220&height=24&lines=MY+GITHUB+STATS" alt="my GitHub stats svg" />
 </div>
 <!-- my GitHub stats text end -->
@@ -182,7 +182,7 @@
 
 <!-- feel free to contact me text start -->
 <div align="center"> 
-    <img loading="lazy" width="24" src="./media/icons/link.png" alt="postbox svg" />
+    <img loading="lazy" width="24" src="./media/icons/ui/link.png" alt="postbox svg" />
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=430&height=31&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
 </div>
 <!-- feel free to contact me text end -->
@@ -195,32 +195,27 @@
         <tr>
             <th>
                 <a href="https://www.linkedin.com/in/montasim" target="_blank" rel="noopener noreferrer" title="linkedin.com/in/montasim">
-                    <img loading="lazy" alt="linkedin icon" src="/media/icons/linkedin.svg" width="35px">
+                    <img loading="lazy" alt="linkedin icon" src="/media/icons/social/linkedin.svg" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://www.github.com/montasim" target="_blank" rel="noopener noreferrer" title="github.com/montasim">
-                    <img loading="lazy" alt="github icon" src="/media/icons/github.svg" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://stackoverflow.com/users/20348607/montasim" target="_blank" rel="noopener noreferrer" title="stackoverflow.com/users/20348607/montasim">
-                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/stackoverflow/EB008B" width="35px">
+                    <img loading="lazy" alt="github icon" src="/media/icons/social/github.svg" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://montasim-dev.web.app/" target="_blank" rel="noopener noreferrer" title="montasim-dev.web.app">
-                    <img loading="lazy" alt="chrome icon" src="/media/icons/chrome.svg" width="35px">
+                    <img loading="lazy" alt="chrome icon" src="/media/icons/social/chrome.svg" width="35px">
                 </a>
             </th>
             <th>
                 <a href="mailto:montasimmamun@gmail.com" target="_blank" rel="noopener noreferrer" title="montasimmamun@gmail.com">
-                    <img loading="lazy" alt="gmail icon" src="/media/icons/mail.svg" width="35px">
+                    <img loading="lazy" alt="gmail icon" src="/media/icons/social/mail.svg" width="35px">
                 </a>
             </th>
             <th>
                 <a href="https://www.facebook.com/montasimmamun/" target="_blank" rel="noopener noreferrer" title="facebook.com/montasimmamun">
-                    <img loading="lazy" alt="facebook icon" src="/media/icons/facebook.svg" width="35px">
+                    <img loading="lazy" alt="facebook icon" src="/media/icons/social/facebook.svg" width="35px">
                 </a>
             </th>
             <th>
@@ -240,7 +235,7 @@
 
 <!-- fun facts text start -->
 <div align="center">
-    <img loading="lazy" width="24" src="./media/icons/confetti.png" alt="confetti svg" />
+    <img loading="lazy" width="24" src="./media/icons/ui/confetti.png" alt="confetti svg" />
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=138&height=31&lines=FUN+FACTS" alt="fun facts svg" />
 </div>
 <!-- fun facts text end -->
@@ -261,7 +256,7 @@
 <summary> MY RESUME </summary>
 <br/>
 <div align="center">
-    <img loading="lazy" width="24" src="./media/icons/cv.png" alt="resume icon" />
+    <img loading="lazy" width="24" src="./media/icons/ui/cv.png" alt="resume icon" />
     <a href="https://drive.google.com/file/d/1v0RP3PyBB6KdsfXhonIHJXU-wgAUSIRT/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
         <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=395&height=24&lines=DOWNLOAD+OR+VIEW+MY+RESUME" alt="DOWNLOAD OR VIEW MY RESUME" />
     </a>
