@@ -102,12 +102,12 @@
 
 <!-- introduction heading start -->
 <div align="center">
-    <!-- weather icon start -->
-    <img loading="lazy" align="right" alt="visitor count svg" src="https://github-readme-counter.onrender.com/count.svg?backgroundColor=0D1117">
-    <!-- weather icon end -->
+    <!-- visitor counter start -->
+    <img loading="lazy" align="right" alt="visitor count" src="https://github-readme-counter.onrender.com/count.svg?backgroundColor=0D1117">
+    <!-- visitor counter end -->
     <!-- about me start -->
     <div align="left">
-        <img loading="lazy" width="24" src="./media/icons/ui/charismatic.png" alt="wave png" />
+        <img loading="lazy" width="24" src="./media/icons/ui/charismatic.png" alt="about me icon" />
         <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=120&height=24&lines=ABOUT+ME" alt="i am montasim svg" />
     </div>
     <!-- about me end -->
@@ -182,7 +182,7 @@
 
 <!-- feel free to contact me text start -->
 <div align="center"> 
-    <img loading="lazy" width="24" src="./media/icons/ui/link.png" alt="postbox svg" />
+    <img loading="lazy" width="24" src="./media/icons/ui/link.png" alt="contact icon" />
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=430&height=31&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
 </div>
 <!-- feel free to contact me text end -->
@@ -227,7 +227,6 @@
     </thead>
 </table>
 <!-- social media links end -->
-<!-- connect with me end -->
 
 <br/>
 <br/>
@@ -246,7 +245,7 @@
 <div align="center">
     <img loading="lazy" src="https://montasim-github-readme-jokes.vercel.app/api?bgColor=%230D1117&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%230D1117" alt="Fun Fact" />
 </div>
-<!-- random jokes -->
+<!-- random jokes end -->
 
 <br/>
 <br/>
@@ -481,7 +480,7 @@
     <!-- currently learning end -->
     <br/>
     <br/>
-    <!-- Forgetting -->
+    <!-- forgetting start -->
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=150&height=61&lines=FORGETTINGS" alt="forgetting" />
     <div>
         <img loading="lazy" style="margin-right: 6px" alt="java badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&color=00B8B5">
@@ -491,7 +490,7 @@
         <img loading="lazy" style="margin-right: 6px" alt="flask badge" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white&color=00B8B5">
         <img loading="lazy" style="margin-right: 6px" alt="latex badge" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white&color=00B8B5">
     </div>
-    <!-- Forgetting-->
+    <!-- forgetting end -->
     <br/>
     <br/>
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=140&height=61&lines=THINGS+I+USE" alt="things i use" />
@@ -506,15 +505,16 @@
             </div>
         </li>
         <!-- integrated development environment end -->
-        <!-- CI start -->
+        <!-- CI/CD start -->
         <li>
-            <h3> 
-                CI
+            <h3>
+                CI/CD
             </h3>
             <div>
                 <img loading="lazy" style="margin-right: 6px" alt="github action badge" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&color=00B8B5">
             </div>
         </li>
+        <!-- CI/CD end -->
         <!-- Developer Forums start -->
         <li>
             <h3> 
@@ -721,7 +721,7 @@ Last Updated on 25/08/2025 00:32:23 UTC
 <br>
 <br>
 
-<!-- twitter post -->
+<!-- twitter activity start -->
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=200&height=61&lines=TWITTER+ACTIVITY" alt="TWITTER ACTIVITY" />
 
 <!-- TWITTER:START -->
@@ -748,7 +748,7 @@ Here are some essential website links for the Frontend Developers to design a be
 <br>
 <br>
 
-<!-- latest tweet start -->
+<!-- latest tweet start (commented out) -->
 <!-- <div align="center">
     <img loading="lazy" src="https://gtce.itsvg.in/api?username=montasimmamun" alt="latest tweet" />
 </div> -->
@@ -768,13 +768,13 @@ Here are some essential website links for the Frontend Developers to design a be
 
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=135&height=61&lines=STARGAZERS" alt="STARGAZERS" />
 
-<!-- stargazers -->
+<!-- stargazers start -->
 
 |           <a href="https://github.com/Fahimahmedkhan">Fahimahmedkhan</a>           |                <a href="https://github.com/sorenxysm">sorenxysm</a>                 |       <a href="https://github.com/obaydullahalmahmud">obaydullahalmahmud</a>        |                 <a href="https://github.com/karobi57">karobi57</a>                  |                 <a href="https://github.com/Rantoryu">Rantoryu</a>                 |                <a href="https://github.com/DevElkami">DevElkami</a>                |                   <a href="https://github.com/bm4578">bm4578</a>                   |                 <a href="https://github.com/ArielMAJ">ArielMAJ</a>                 |
 | :--------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
 | <img src="https://avatars.githubusercontent.com/u/53188460?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/123979181?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/139006113?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/107668885?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/59120780?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/49388297?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/77977341?s=96&v=4" width="60px"> | <img src="https://avatars.githubusercontent.com/u/69123486?s=96&v=4" width="60px"> |
 
-<!-- stargazers -->
+<!-- stargazers end -->
 
 <br>
 <br>
