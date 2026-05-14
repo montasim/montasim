@@ -30,6 +30,8 @@
   </a>
 </div>
 
+</br>
+
 <!-- Skills -->
 <table align="center">
     <thead>
@@ -66,6 +68,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 <!-- About Me -->
 <div align="center">
@@ -87,6 +90,7 @@ I build web platforms that scale. With over [4+ years of experience](https://mon
 
 I design for worst-case scenarios — building [scalable SaaS systems](https://montasim.vercel.app/#skills) with predictable state transitions, resilient lifecycles, and reliable asynchronous workflows. Check out my [projects](https://montasim.vercel.app/#projects) to see it in action.
 
+<br/>
 <br/>
 <br/>
 <br/>
@@ -136,6 +140,7 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
 <br/>
 <br/>
 <br/>
+<br/>
 
 <!-- Contact -->
 <div align="center">
@@ -177,6 +182,7 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
 <br/>
 <br/>
 <br/>
+<br/>
 
 <!-- Fun Facts -->
 <div align="center">
@@ -190,6 +196,7 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
     <img loading="lazy" src="https://montasim-github-readme-jokes.vercel.app/api?bgColor=%230D1117&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%230D1117" alt="Fun Fact" />
 </div>
 
+<br/>
 <br/>
 <br/>
 <br/>
