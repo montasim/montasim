@@ -94,7 +94,6 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
 <br/>
 <br/>
 <br/>
-<br/>
 
 <!-- Proof Is In The Numbers -->
 <div align="center">
