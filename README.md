@@ -131,7 +131,7 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
 <br/>
 
 <div align="center">
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=5000&pause=1&color=00B8B5&center=true&vCenter=true&width=600&height=16&lines=INSPIRED+BY+PROBLEM.+DRIVEN+BY+IMPACT.;DESIGNED+TO+SCALE.+BUILT+TO+LAST." alt="Built with love by Montasim" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=5000&pause=1&color=00B8B5&center=true&vCenter=true&width=600&height=16&lines=INSPIRED+BY+PROBLEM.+DRIVEN+BY+IMPACT.;DESIGNED+TO+SCALE.+BUILT+TO+LAST.;DISCOMFORT+IS+THE+PRICE+OF+GROWTH.;FOCUS+ON+PROCESS%2C+NOT+OUTCOME.;PROGRESS+NOT+PERFECTION.;LESS+EGO%2C+MORE+CURIOSITY.;CLARITY+COMES+FROM+ACTION.;SMALL+WINS+BUILD+BIG+MOMENTUM.;YOUR+ONLY+COMPETITION+IS+WHO+YOU+WERE+YESTERDAY.;EMBRACE+UNCERTAINTY+%E2%80%93+IT%27S+WHERE+GROWTH+LIVES.;PAUSE.+REFLECT.+ADAPT.+REPEAT.;DONE+IS+BETTER+THAN+PERFECT.;CONSTRAINTS+BREED+CREATIVITY.;SAY+NO+TO+MORE%2C+SO+YOU+CAN+SAY+YES+TO+BETTER.;THE+BEST+CODE+IS+CODE+THAT+NEEDS+NO+EXPLANATION.;OVERENGINEERING+IS+JUST+FEAR+IN+DISGUISE.;Simplicity+is+the+ultimate+SOPHISTICATION.;SHIPPING+BEATS+BRAINSTORMING.;EVERY+EXPERT+WAS+ONCE+A+BEGINNER.;SUSTAINED+EFFORT+BEATS+MOTIVATION+EVERY+TIME." alt="Built with love by Montasim" />
 </div>
 
 <br/>
