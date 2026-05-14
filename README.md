@@ -112,8 +112,6 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
     <img loading="lazy" width="396" src="https://montasim-github-readme-stats.vercel.app/api?username=montasim&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=EB008B&currStreakLabel=EB008B&sideLabels=EB008B&icon_color=EB008B&bg_color=00000000&text_color=00B8B5&border_color=61dafb&hide_border=true" alt="GitHub stats overview" />
 </div>
 
-<br/>
-
 <div align="center">
     <img loading="lazy" width="325" src="https://montasim-github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=00B8B5&icon_color=61dafb&bg_color=00000000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top languages used" />
     <!-- Uncomment to show Wakatime weekly activity
@@ -122,8 +120,6 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
     </a>
     -->
 </div>
-
-<br/>
 
 <!-- Activity Graph -->
 <div align="center">
