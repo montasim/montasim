@@ -33,26 +33,24 @@
 </br>
 
 <!-- Skills -->
-<table align="center">
-    <thead>
-        <tr>
-            <td><img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/react/EB008B" alt="react.js icon" /></td>
-            <td><img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/nextdotjs/EB008B" alt="next.js icon" /></td>
-            <td><img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/typescript/EB008B" alt="typescript icon" /></td>
-            <td><img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/javascript/EB008B" alt="javascript icon" /></td>
-            <td><img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/redux/EB008B" alt="redux icon" /></td>
-            <td><img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/EB008B" alt="nodejs icon" /></td>
-            <td><img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/express/EB008B" alt="express icon" /></td>
-            <td><img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/PostgreSQL/EB008B" alt="PostgreSQL icon" /></td>
-            <td><img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/mongodb/EB008B" alt="mongodb icon" /></td>
-            <td><img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/prisma/EB008B" alt="prisma icon" /></td>
-            <td><img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/jest/EB008B" alt="jest icon" /></td>
-            <td><img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/socketdotio/EB008B" alt="socket.io icon" /></td>
-            <td><img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/EB008B" alt="tailwindcss icon" /></td>
-            <td><img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/EB008B" alt="bootstrap icon" /></td>
-        </tr>
-    </thead>
-</table>
+<div align="center">
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/react/EB008B" alt="react.js icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/nextdotjs/EB008B" alt="next.js icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/typescript/EB008B" alt="typescript icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/javascript/EB008B" alt="javascript icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/redux/EB008B" alt="redux icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/nodedotjs/EB008B" alt="nodejs icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/express/EB008B" alt="express icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/PostgreSQL/EB008B" alt="PostgreSQL icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/mongodb/EB008B" alt="mongodb icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/prisma/EB008B" alt="prisma icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/jest/EB008B" alt="jest icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/socketdotio/EB008B" alt="socket.io icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/tailwindcss/EB008B" alt="tailwindcss icon" />
+    <img loading="lazy" height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/EB008B" alt="bootstrap icon" />
+</div>
+
+</br>
 
 <!-- Tools -->
 <div align="center">
