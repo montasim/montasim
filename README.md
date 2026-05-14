@@ -133,3 +133,5 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
 <div align="center">
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=5000&pause=1&color=00B8B5&center=true&vCenter=true&width=600&height=16&lines=INSPIRED+BY+PROBLEM.+DRIVEN+BY+IMPACT.;DESIGNED+TO+SCALE.+BUILT+TO+LAST." alt="Built with love by Montasim" />
 </div>
+
+<br/>
