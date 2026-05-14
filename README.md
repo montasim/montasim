@@ -132,7 +132,7 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
 
 <!-- Profile Trophy -->
 <div align="center">
-    <img loading="lazy" src="https://montasim-github-profile-trophy.vercel.app?username=montasim&theme=monokai&no-bg=true&no-frame=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A" alt="github profile trophy" />
+    <img loading="lazy" src="https://montasim-github-profile-trophy.vercel.app?username=montasim&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A" alt="github profile trophy" />
 </div>
 
 <br/>
