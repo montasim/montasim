@@ -75,7 +75,7 @@
     <img loading="lazy" align="right" alt="visitor count" src="https://github-readme-counter.onrender.com/count.svg?backgroundColor=0D1117" />
     <div align="left">
         <img loading="lazy" width="24" src="./media/icons/ui/about.png" alt="about me icon" />
-        <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=120&height=24&lines=ABOUT+ME" alt="i am montasim svg" />
+        <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=310&height=24&lines=THE+IMPACT+I+DELIVER" alt="the impact i deliver svg" />
     </div>
 </div>
 
@@ -100,7 +100,7 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
 <!-- GitHub Stats -->
 <div align="center">
     <img loading="lazy" width="24" src="./media/icons/ui/stats.png" alt="stats icon" />
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=220&height=24&lines=MY+GITHUB+STATS" alt="my GitHub stats svg" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=345&height=24&lines=PROOF+IS+IN+THE+NUMBERS" alt="proof is in the numbers svg" />
 </div>
 
 <br/>
@@ -142,52 +142,10 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
 <br/>
 <br/>
 
-<!-- Contact -->
-<div align="center">
-    <img loading="lazy" width="24" src="./media/icons/ui/contact.png" alt="contact icon" />
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=430&height=31&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
-</div>
-
-<br/>
-
-<table align="center">
-    <thead>
-        <tr>
-            <th>
-                <a href="https://www.linkedin.com/in/montasim" target="_blank" rel="noopener noreferrer" title="linkedin.com/in/montasim">
-                    <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/EB008B" width="35" />
-                </a>
-            </th>
-            <th>
-                <a href="https://www.facebook.com/montasimmamun/" target="_blank" rel="noopener noreferrer" title="facebook.com/montasimmamun">
-                    <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/facebook/EB008B" width="35" />
-                </a>
-            </th>
-            <th>
-                <a href="https://montasim.vercel.app/" target="_blank" rel="noopener noreferrer" title="montasim.vercel.app">
-                    <img loading="lazy" alt="website icon" src="https://cdn.simpleicons.org/chrome/EB008B" width="35" />
-                </a>
-            </th>
-            <th>
-                <a href="mailto:montasimmamun@gmail.com" target="_blank" rel="noopener noreferrer" title="montasimmamun@gmail.com">
-                    <img loading="lazy" alt="email icon" src="https://cdn.simpleicons.org/gmail/EB008B" width="35" />
-                </a>
-            </th>
-        </tr>
-    </thead>
-</table>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 <!-- Fun Facts -->
 <div align="center">
     <img loading="lazy" width="24" src="./media/icons/ui/fun-facts.png" alt="fun facts icon" />
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=138&height=31&lines=FUN+FACTS" alt="fun facts svg" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=260&height=31&lines=BEYOND+THE+CODE" alt="beyond the code svg" />
 </div>
 
 <br/>
