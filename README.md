@@ -106,14 +106,14 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
 <br/>
 
 <div align="center">
-    <img loading="lazy" width="396" src="https://montasim-github-readme-streak-stats.vercel.app?user=montasim&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=EB008B&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=FFFFFF" alt="current streak stats" />
-    <img loading="lazy" width="396" src="https://montasim-github-readme-stats.vercel.app/api?username=montasim&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=EB008B&currStreakLabel=EB008B&sideLabels=EB008B&icon_color=EB008B&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true" alt="github stats" />
+    <img loading="lazy" width="396" src="https://montasim-github-readme-streak-stats.vercel.app?user=montasim&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&stroke=8F33C4&border=00000000&ring=EB008B&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=FFFFFF" alt="current streak stats" />
+    <img loading="lazy" width="396" src="https://montasim-github-readme-stats.vercel.app/api?username=montasim&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=EB008B&currStreakLabel=EB008B&sideLabels=EB008B&icon_color=EB008B&bg_color=00000000&text_color=FFFFFF&border_color=61dafb&hide_border=true" alt="github stats" />
 </div>
 
 <br/>
 
 <div align="center">
-    <img loading="lazy" width="325" src="https://montasim-github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="most used language stats" />
+    <img loading="lazy" width="325" src="https://montasim-github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=00000000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="most used language stats" />
     <!-- Uncomment to show Wakatime weekly activity
     <a href="https://wakatime.com/@montasim" target="_blank" rel="noopener noreferrer" title="Data update every midnight">
         <img loading="lazy" src="https://github-readme-stats-montasim.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&text_color=00B8B5&bg_color=0D1117&title_color=EB008B&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding activity languages" />
@@ -125,7 +125,7 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
 
 <!-- Activity Graph -->
 <div align="center">
-    <img loading="lazy" alt="activity graph" src="https://montasim-github-readme-activity-graph.vercel.app/graph?username=montasim&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true" />
+    <img loading="lazy" alt="activity graph" src="https://montasim-github-readme-activity-graph.vercel.app/graph?username=montasim&bg_color=transparent&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true" />
 </div>
 
 <br/>
@@ -151,7 +151,7 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
 <br/>
 
 <div align="center">
-    <img loading="lazy" src="https://montasim-github-readme-jokes.vercel.app/api?bgColor=%230D1117&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%230D1117" alt="Fun Fact" />
+    <img loading="lazy" src="https://montasim-github-readme-jokes.vercel.app/api?bgColor=transparent&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=transparent" alt="Fun Fact" />
 </div>
 
 <br/>
