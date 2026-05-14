@@ -34,31 +34,30 @@
 
 <!-- Skills -->
 <div align="center">
-    <img loading="lazy" height="40" width="40" style="margin: 0 8px" src="https://cdn.simpleicons.org/react/EB008B" alt="react.js icon" />
-    <img loading="lazy" height="40" width="40" style="margin: 0 8px" src="https://cdn.simpleicons.org/nextdotjs/EB008B" alt="next.js icon" />
-    <img loading="lazy" height="40" width="40" style="margin: 0 8px" src="https://cdn.simpleicons.org/typescript/EB008B" alt="typescript icon" />
-    <img loading="lazy" height="40" width="40" style="margin: 0 8px" src="https://cdn.simpleicons.org/javascript/EB008B" alt="javascript icon" />
-    <img loading="lazy" height="40" width="40" style="margin: 0 8px" src="https://cdn.simpleicons.org/redux/EB008B" alt="redux icon" />
-    <img loading="lazy" height="40" width="40" style="margin: 0 8px" src="https://cdn.simpleicons.org/nodedotjs/EB008B" alt="nodejs icon" />
-    <img loading="lazy" height="40" width="40" style="margin: 0 8px" src="https://cdn.simpleicons.org/express/EB008B" alt="express icon" />
-    <img loading="lazy" height="40" width="40" style="margin: 0 8px" src="https://cdn.simpleicons.org/PostgreSQL/EB008B" alt="PostgreSQL icon" />
-    <img loading="lazy" height="40" width="40" style="margin: 0 8px" src="https://cdn.simpleicons.org/mongodb/EB008B" alt="mongodb icon" />
-    <img loading="lazy" height="40" width="40" style="margin: 0 8px" src="https://cdn.simpleicons.org/prisma/EB008B" alt="prisma icon" />
-    <img loading="lazy" height="40" width="40" style="margin: 0 8px" src="https://cdn.simpleicons.org/jest/EB008B" alt="jest icon" />
-    <img loading="lazy" height="40" width="40" style="margin: 0 8px" src="https://cdn.simpleicons.org/socketdotio/EB008B" alt="socket.io icon" />
-    <img loading="lazy" height="40" width="40" style="margin: 0 8px" src="https://cdn.simpleicons.org/tailwindcss/EB008B" alt="tailwindcss icon" />
-    <img loading="lazy" height="40" width="40" style="margin: 0 8px" src="https://cdn.simpleicons.org/bootstrap/EB008B" alt="bootstrap icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/react/EB008B" alt="react.js icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/nextdotjs/EB008B" alt="next.js icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/typescript/EB008B" alt="typescript icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/javascript/EB008B" alt="javascript icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/redux/EB008B" alt="redux icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/nodedotjs/EB008B" alt="nodejs icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/express/EB008B" alt="express icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/PostgreSQL/EB008B" alt="PostgreSQL icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/mongodb/EB008B" alt="mongodb icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/prisma/EB008B" alt="prisma icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/jest/EB008B" alt="jest icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/socketdotio/EB008B" alt="socket.io icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/tailwindcss/EB008B" alt="tailwindcss icon" />
+    <img loading="lazy" height="40" width="40" style="margin-right: 6px" src="https://cdn.simpleicons.org/bootstrap/EB008B" alt="bootstrap icon" />
 </div>
 
 </br>
 
 <!-- Tools -->
 <div align="center">
-  <img loading="lazy" style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=555555&color=00B8B5" />
-  <img loading="lazy" style="margin-right: 6px" alt="git badge" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=555555&color=00B8B5" />
-  <img loading="lazy" style="margin-right: 6px" alt="github actions badge" src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=555555&color=00B8B5" />
-  <img loading="lazy" style="margin-right: 6px" alt="vercel badge" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=555555&color=00B8B5" />
   <img loading="lazy" style="margin-right: 6px" alt="docker badge" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=555555&color=00B8B5" />
+  <img loading="lazy" style="margin-right: 6px" alt="github actions badge" src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=555555&color=00B8B5" />
+  <img loading="lazy" style="margin-right: 6px" alt="git badge" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=555555&color=00B8B5" />
+  <img loading="lazy" style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=555555&color=00B8B5" />
   <img loading="lazy" style="margin-right: 6px" alt="webrtc badge" src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white&labelColor=555555&color=00B8B5" />
   <img loading="lazy" style="margin-right: 6px" alt="azure badge" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=555555&color=00B8B5" />
 </div>
@@ -71,7 +70,7 @@
 
 <!-- The Impact I Deliver -->
 <div align="center">
-    <img loading="lazy" width="25" align="right" alt="Visitor count" src="https://github-readme-counter.onrender.com/count.svg?backgroundColor=transparent" />
+    <img loading="lazy" width="140" align="right" alt="Visitor count" src="https://github-readme-counter.onrender.com/count.svg?backgroundColor=0D1117" />
     <div align="left">
         <img loading="lazy" width="24" src="./media/icons/ui/about.png" alt="about me icon" />
         <img loading="lazy" width="220" height="20" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=245&height=20&lines=THE+IMPACT+I+DELIVER" alt="The Impact I Deliver" />
