@@ -118,41 +118,6 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
     -->
 </div>
 
-<!-- Activity Graph -->
-<div align="center">
-    <img loading="lazy" alt="GitHub contribution activity graph" src="https://montasim-github-readme-activity-graph.vercel.app/graph?username=montasim&bg_color=transparent&color=00b8b5&line=eb008b&point=00b8b5&area=true&hide_border=true&hide_title=true" />
-</div>
-
-<br/>
-
-<!-- Profile Trophy -->
-<div align="center">
-    <img loading="lazy" src="https://montasim-github-profile-trophy.vercel.app?username=montasim&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A" alt="GitHub profile trophies" />
-</div>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<!-- Beyond The Code -->
-<div align="center">
-    <img loading="lazy" width="21" src="./media/icons/ui/fun-facts.png" alt="fun facts icon" />
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=230&height=20&lines=BEYOND+THE+CODE" alt="Beyond The Code" />
-</div>
-
-<br/>
-
-<div align="center">
-    <img loading="lazy" src="https://montasim-github-readme-jokes.vercel.app/api?bgColor=transparent&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=transparent" alt="Random developer joke" />
-</div>
-
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
