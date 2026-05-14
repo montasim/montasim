@@ -9,17 +9,17 @@
 
 <!-- Greeting -->
 <div align="center">
-    <img loading="lazy" width="32" src="./media/icons/ui/code.png" alt="code png" />
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=410&height=32&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
-    <img loading="lazy" width="32" src="./media/icons/ui/layers.png" alt="layers png" />
+    <img loading="lazy" width="25" src="./media/icons/ui/code.png" alt="Code icon" />
+    <img loading="lazy" width="310" height="24" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=340&height=24&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="Hello, nice to meet you" />
+    <img loading="lazy" width="25" src="./media/icons/ui/layers.png" alt="Layers icon" />
 </div>
 
 <br/>
 
 <!-- Profile Badges -->
 <div align="center">
-  <img src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c.svg?style=for-the-badge&color=00B8B5" alt="wakatime badge" style="margin-right: 6px;" />
-  <img src="https://img.shields.io/github/followers/montasim?logo=github&style=for-the-badge&color=00B8B5" alt="follow badge" style="margin-right: 6px;" />
+  <img src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c.svg?style=for-the-badge&color=00B8B5" alt="Total coding time" style="margin-right: 6px;" />
+  <img src="https://img.shields.io/github/followers/montasim?logo=github&style=for-the-badge&color=00B8B5" alt="GitHub followers" style="margin-right: 6px;" />
   <!-- Uncomment to enable guest book badge
   <a href="https://github.com/montasim/montasim/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook" target="_blank" rel="noopener noreferrer" style="margin-right: 6px">
     <img src="https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round&color=00B8B5" alt="Guest Book" />
@@ -69,13 +69,14 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 <!-- The Impact I Deliver -->
 <div align="center">
-    <img loading="lazy" align="right" alt="visitor count" src="https://github-readme-counter.onrender.com/count.svg?backgroundColor=transparent" />
+    <img loading="lazy" width="25" align="right" alt="Visitor count" src="https://github-readme-counter.onrender.com/count.svg?backgroundColor=transparent" />
     <div align="left">
         <img loading="lazy" width="24" src="./media/icons/ui/about.png" alt="about me icon" />
-        <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=280&height=24&lines=THE+IMPACT+I+DELIVER" alt="the impact i deliver svg" />
+        <img loading="lazy" width="220" height="20" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=245&height=20&lines=THE+IMPACT+I+DELIVER" alt="The Impact I Deliver" />
     </div>
 </div>
 
@@ -96,27 +97,28 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
 <br/>
 <br/>
 <br/>
+<br/>
 
 <!-- Proof Is In The Numbers -->
 <div align="center">
-    <img loading="lazy" width="24" src="./media/icons/ui/stats.png" alt="stats icon" />
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=345&height=24&lines=PROOF+IS+IN+THE+NUMBERS" alt="proof is in the numbers svg" />
+    <img loading="lazy" width="21" src="./media/icons/ui/stats.png" alt="stats icon" />
+    <img loading="lazy" width="280" height="20" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=300&height=20&lines=PROOF+IS+IN+THE+NUMBERS" alt="Proof Is In The Numbers" />
 </div>
 
 <br/>
 
 <div align="center">
-    <img loading="lazy" width="396" src="https://montasim-github-readme-streak-stats.vercel.app?user=montasim&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&stroke=8F33C4&border=00000000&ring=EB008B&fire=00B8B5&currStreakNum=00B8B5&sideNums=00B8B5&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=00B8B5" alt="current streak stats" />
-    <img loading="lazy" width="396" src="https://montasim-github-readme-stats.vercel.app/api?username=montasim&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=EB008B&currStreakLabel=EB008B&sideLabels=EB008B&icon_color=EB008B&bg_color=00000000&text_color=00B8B5&border_color=61dafb&hide_border=true" alt="github stats" />
+    <img loading="lazy" width="396" src="https://montasim-github-readme-streak-stats.vercel.app?user=montasim&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&stroke=8F33C4&border=00000000&ring=EB008B&fire=00B8B5&currStreakNum=00B8B5&sideNums=00B8B5&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=00B8B5" alt="GitHub contribution streak" />
+    <img loading="lazy" width="396" src="https://montasim-github-readme-stats.vercel.app/api?username=montasim&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=EB008B&currStreakLabel=EB008B&sideLabels=EB008B&icon_color=EB008B&bg_color=00000000&text_color=00B8B5&border_color=61dafb&hide_border=true" alt="GitHub stats overview" />
 </div>
 
 <br/>
 
 <div align="center">
-    <img loading="lazy" width="325" src="https://montasim-github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=00B8B5&icon_color=61dafb&bg_color=00000000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="most used language stats" />
+    <img loading="lazy" width="325" src="https://montasim-github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=00B8B5&icon_color=61dafb&bg_color=00000000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top languages used" />
     <!-- Uncomment to show Wakatime weekly activity
     <a href="https://wakatime.com/@montasim" target="_blank" rel="noopener noreferrer" title="Data update every midnight">
-        <img loading="lazy" src="https://github-readme-stats-montasim.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&text_color=00B8B5&bg_color=0D1117&title_color=EB008B&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding activity languages" />
+        <img loading="lazy" src="https://github-readme-stats-montasim.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&text_color=00B8B5&bg_color=0D1117&title_color=EB008B&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding activity" />
     </a>
     -->
 </div>
@@ -125,16 +127,17 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
 
 <!-- Activity Graph -->
 <div align="center">
-    <img loading="lazy" alt="activity graph" src="https://montasim-github-readme-activity-graph.vercel.app/graph?username=montasim&bg_color=transparent&color=00b8b5&line=eb008b&point=00b8b5&area=true&hide_border=true&hide_title=true" />
+    <img loading="lazy" alt="GitHub contribution activity graph" src="https://montasim-github-readme-activity-graph.vercel.app/graph?username=montasim&bg_color=transparent&color=00b8b5&line=eb008b&point=00b8b5&area=true&hide_border=true&hide_title=true" />
 </div>
 
 <br/>
 
 <!-- Profile Trophy -->
 <div align="center">
-    <img loading="lazy" src="https://montasim-github-profile-trophy.vercel.app?username=montasim&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A" alt="github profile trophy" />
+    <img loading="lazy" src="https://montasim-github-profile-trophy.vercel.app?username=montasim&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A" alt="GitHub profile trophies" />
 </div>
 
+<br/>
 <br/>
 <br/>
 <br/>
@@ -144,14 +147,14 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
 
 <!-- Beyond The Code -->
 <div align="center">
-    <img loading="lazy" width="24" src="./media/icons/ui/fun-facts.png" alt="fun facts icon" />
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=260&height=31&lines=BEYOND+THE+CODE" alt="beyond the code svg" />
+    <img loading="lazy" width="21" src="./media/icons/ui/fun-facts.png" alt="fun facts icon" />
+    <img loading="lazy" width="210" height="20" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=230&height=20&lines=BEYOND+THE+CODE" alt="Beyond The Code" />
 </div>
 
 <br/>
 
 <div align="center">
-    <img loading="lazy" src="https://montasim-github-readme-jokes.vercel.app/api?bgColor=transparent&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=transparent" alt="Fun Fact" />
+    <img loading="lazy" src="https://montasim-github-readme-jokes.vercel.app/api?bgColor=transparent&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=transparent" alt="Random developer joke" />
 </div>
 
 <br/>
@@ -163,11 +166,13 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
 
 <!-- Footer -->
 <div align="center">
-    <img loading="lazy" width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer" />
+    <img loading="lazy" width="100%" alt="Waving footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer" />
 </div>
 
 <br/>
+<br/>
+<br/>
 
 <div align="center">
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=185&height=20&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+MONTASIM" alt="build with love svg" />
+    <img loading="lazy" width="600" height="16" src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=5000&pause=1&color=00B8B5&center=true&vCenter=true&width=600&height=16&lines=INSPIRED+BY+PROBLEM.+DRIVEN+BY+IMPACT.;DESIGNED+TO+SCALE.+BUILT+TO+LAST." alt="Built with love by Montasim" />
 </div>
