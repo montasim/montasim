@@ -10,7 +10,7 @@
 <!-- Greeting -->
 <div align="center">
     <img loading="lazy" width="25" src="./media/icons/ui/code.png" alt="Code icon" />
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=340&height=24&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="Hello, nice to meet you" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=340&height=30&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="Hello, nice to meet you" />
     <img loading="lazy" width="25" src="./media/icons/ui/layers.png" alt="Layers icon" />
 </div>
 
@@ -71,7 +71,7 @@
 <!-- The Impact I Deliver -->
 <div align="left">
     <img loading="lazy" width="24" src="./media/icons/ui/about.png" alt="about me icon" />
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=240&height=26&lines=THE+IMPACT+I+DELIVER" alt="The Impact I Deliver" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=240&height=30&lines=THE+IMPACT+I+DELIVER" alt="The Impact I Deliver" />
 </div>
 
 <br/>
@@ -92,7 +92,7 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
 <!-- Proof Is In The Numbers -->
 <div align="center">
     <img loading="lazy" width="21" src="./media/icons/ui/stats.png" alt="stats icon" />
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=300&height=26&lines=PROOF+IS+IN+THE+NUMBERS" alt="Proof Is In The Numbers" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=300&height=30&lines=PROOF+IS+IN+THE+NUMBERS" alt="Proof Is In The Numbers" />
 </div>
 
 <br/>
