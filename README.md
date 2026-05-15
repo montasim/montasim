@@ -98,15 +98,15 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
 <br/>
 
 <div align="center">
-    <img loading="lazy" width="396" src="https://montasim-github-readme-streak-stats.vercel.app?user=montasim&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&stroke=00000000&border=00000000&ring=44A7E8&fire=DB6D28&currStreakNum=44A7E8&sideNums=44A7E8&currStreakLabel=44A7E8&sideLabels=44A7E8&excludeDaysLabel=44A7E8&dates=44A7E8" alt="GitHub contribution streak" />
-    <img loading="lazy" width="396" src="https://montasim-github-readme-stats.vercel.app/api?username=montasim&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&title_color=44A7E8&icon_color=44A7E8&bg_color=00000000&text_color=44A7E8&border_color=00000000&hide_border=true" alt="GitHub stats overview" />
+    <img loading="lazy" width="396" src="https://montasim-github-readme-streak-stats.vercel.app?user=montasim&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&stroke=00000000&border=00000000&ring=527DA4&fire=DB6D28&currStreakNum=527DA4&sideNums=527DA4&currStreakLabel=527DA4&sideLabels=527DA4&excludeDaysLabel=527DA4&dates=527DA4" alt="GitHub contribution streak" />
+    <img loading="lazy" width="396" src="https://montasim-github-readme-stats.vercel.app/api?username=montasim&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&title_color=527DA4&icon_color=527DA4&bg_color=00000000&text_color=527DA4&border_color=00000000&hide_border=true" alt="GitHub stats overview" />
 </div>
 
 <div align="center">
-    <img loading="lazy" width="325" src="https://montasim-github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=44A7E8&text_color=44A7E8&icon_color=44A7E8&bg_color=00000000&langs_count=8&layout=compact&border_color=00000000&hide_border=true" alt="Top languages used" />
+    <img loading="lazy" width="325" src="https://montasim-github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=527DA4&text_color=527DA4&icon_color=527DA4&bg_color=00000000&langs_count=8&layout=compact&border_color=00000000&hide_border=true" alt="Top languages used" />
     <!-- Uncomment to show Wakatime weekly activity
     <a href="https://wakatime.com/@montasim" target="_blank" rel="noopener noreferrer" title="Data update every midnight">
-        <img loading="lazy" src="https://github-readme-stats-montasim.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&text_color=44A7E8&bg_color=00000000&title_color=44A7E8&border_color=00000000&hide_border=true" alt="Wakatime weekly coding activity" />
+        <img loading="lazy" src="https://github-readme-stats-montasim.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&text_color=527DA4&bg_color=00000000&title_color=527DA4&border_color=00000000&hide_border=true" alt="Wakatime weekly coding activity" />
     </a>
     -->
 </div>
