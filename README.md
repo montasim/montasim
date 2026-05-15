@@ -105,7 +105,7 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
 <div align="center">
     <img loading="lazy" width="325" src="https://montasim-github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=527DA4&text_color=527DA4&icon_color=527DA4&bg_color=00000000&langs_count=8&layout=compact&border_color=00000000&hide_border=true" alt="Top languages used" />
     <a href="https://wakatime.com/@montasim" target="_blank" rel="noopener noreferrer" title="Data update every midnight">
-        <img loading="lazy" width="540" src="https://montasim-github-readme-stats.vercel.app/api/wakatime/?username=montasim&hide_title=true&layout=compact&langs_count=8&text_color=527DA4&bg_color=00000000&title_color=527DA4&border_color=00000000&hide_border=true" alt="Wakatime weekly coding activity" />
+        <img loading="lazy" src="https://montasim-github-readme-stats.vercel.app/api/wakatime/?username=montasim&hide_title=true&layout=compact&langs_count=8&text_color=527DA4&bg_color=00000000&title_color=527DA4&border_color=00000000&hide_border=true" alt="Wakatime weekly coding activity" />
     </a>
 </div>
 
