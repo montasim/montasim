@@ -10,7 +10,7 @@
 <!-- Greeting -->
 <div align="center">
     <img loading="lazy" width="25" src="./media/icons/ui/code.png" alt="Code icon" />
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=340&height=30&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="Hello, nice to meet you" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=340&height=34&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="Hello, nice to meet you" />
     <img loading="lazy" width="25" src="./media/icons/ui/layers.png" alt="Layers icon" />
 </div>
 
