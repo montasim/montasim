@@ -76,12 +76,9 @@
 
 <br/>
 
-I build web platforms that scale. With over [4+ years of experience](https://montasim.vercel.app/#experience), I specialize in building multi-tenant SaaS platforms that handle real-time video, biometric assessments, and high-stakes interactions — without breaking. I don't just build features; I design deterministic systems where every state transition is intentional, and every feature toggle is tenant-aware.
+I build web platforms that scale. With over [4+ years of experience](https://montasim.vercel.app/#experience), I specialize in building multi-tenant **SaaS** platforms that handle real-time video, biometric assessments, and high-stakes interactions — without breaking. I don't just build features; I design deterministic systems where every state transition is intentional, and every feature toggle is tenant-aware.
 
-**Key highlights:**
-- Boosted React app performance by **40%** and achieved **Lighthouse 90+** scores by eliminating legacy libraries and building custom components
-- Reduced cloud infrastructure costs by **70%** by migrating Azure VMs to App Service with automated CI/CD pipelines
-- Built a real-time computer vision pipeline (MediaPipe) with **95%+** production accuracy, featuring adaptive frame rates and multi-person detection
+Key highlights: Boosted React app performance by **40%** and achieved **Lighthouse 90+** scores by eliminating legacy libraries and building custom components. Reduced cloud infrastructure costs by **70%** by migrating **Azure** VMs to App Service with automated **CI/CD** pipelines. Built a real-time **computer vision** pipeline (MediaPipe) with **95%+** production accuracy, featuring adaptive frame rates and multi-person detection.
 
 I design for worst-case scenarios — building [scalable SaaS systems](https://montasim.vercel.app/#skills) with predictable state transitions, resilient lifecycles, and reliable asynchronous workflows. Check out my [projects](https://montasim.vercel.app/#projects) to see it in action.
 
