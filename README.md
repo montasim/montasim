@@ -1,6 +1,6 @@
 <!--
     Montasim's GitHub Profile README
-    Author  : Mohammad Montasim -Al- Mamun Shuvo
+    Author  : Mohammad Montasim Al Mamun Shuvo
     Contact : montasimmamun@gmail.com
     Portfolio : https://montasim.vercel.app
 -->
@@ -14,17 +14,23 @@
     <img loading="lazy" width="25" src="./media/icons/ui/layers.png" alt="Layers icon" />
 </div>
 
+<!-- Identity -->
+<div align="center">
+    <h1>Mohammad Montasim Al Mamun Shuvo</h1>
+    <!-- <h3>Senior Software Engineer&nbsp;·&nbsp;React&nbsp;·&nbsp;Next.js&nbsp;·&nbsp;Node.js&nbsp;·&nbsp;TypeScript</h3> -->
+    <p><em>I build scalable, real-time, AI-driven web platforms that stay reliable under pressure.</em></p>
+    <p>📍 Dhaka, Bangladesh&nbsp;&nbsp;|&nbsp;&nbsp;💼 Open to senior full-stack &amp; frontend roles, freelance, and AI-tooling collaborations</p>
+</div>
+
 <br/>
 
 <!-- Profile Badges -->
 <div align="center">
   <img src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c.svg?style=for-the-badge&color=00B8B5" alt="Total coding time" style="margin-right: 6px;" />
   <img src="https://img.shields.io/github/followers/montasim?logo=github&style=for-the-badge&color=00B8B5" alt="GitHub followers" style="margin-right: 6px;" />
-  <!-- Uncomment to enable guest book badge
-  <a href="https://github.com/montasim/montasim/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook" target="_blank" rel="noopener noreferrer" style="margin-right: 6px">
-    <img src="https://img.shields.io/badge/-%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round&color=00B8B5" alt="Guest Book" />
+  <a href="https://www.linkedin.com/in/montasim" target="_blank" rel="noopener noreferrer" style="margin-right: 6px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00B8B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn" />
   </a>
-  -->
   <a href="https://drive.google.com/file/d/1v0RP3PyBB6KdsfXhonIHJXU-wgAUSIRT/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style="margin-right: 6px;">
     <img src="https://img.shields.io/badge/⬇-Download_Resume-00B8B5?style=for-the-badge&logoColor=white&labelColor=555555" alt="Download Resume" />
   </a>
@@ -47,7 +53,7 @@
     <img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/jest/EB008B" alt="jest icon" />
     <img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/socketdotio/EB008B" alt="socket.io icon" />
     <img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/tailwindcss/EB008B" alt="tailwindcss icon" />
-    <img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/bootstrap/EB008B" alt="bootstrap icon" />
+    <img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/shadcnui/EB008B" alt="shadcn/ui icon" />
 </div>
 
 </br>
@@ -60,6 +66,7 @@
   <img loading="lazy" style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=555555&color=00B8B5" />
   <img loading="lazy" style="margin-right: 6px" alt="webrtc badge" src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white&labelColor=555555&color=00B8B5" />
   <img loading="lazy" style="margin-right: 6px" alt="azure badge" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=555555&color=00B8B5" />
+  <img loading="lazy" style="margin-right: 6px" alt="aws badge" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=555555&color=00B8B5" />
 </div>
 
 <br/>
@@ -76,13 +83,12 @@
 
 <br/>
 
-I build web platforms that scale. With over [4+ years of experience](https://montasim.vercel.app/#experience), I specialize in building multi-tenant **SaaS** platforms that handle real-time video, biometric assessments, and high-stakes interactions — without breaking. I don't just build features; I design deterministic systems where every state transition is intentional, and every feature toggle is tenant-aware.
+I build full-stack web platforms that scale under pressure and stay reliable when the stakes are high. With [3+ years of experience](https://montasim.vercel.app/#experience), I work across **React, Next.js, TypeScript, and Node.js** — building scalable, multi-tenant **SaaS** and real-time systems. My deepest experience is in AI-driven healthcare (live video, computer vision, deterministic state machines), but the engineering travels anywhere reliability matters — and I build outside healthcare too, shipping developer tools and AI products.
 
-**Key highlights:** Boosted React app performance by **40%** and achieved **Lighthouse 90+** scores by eliminating legacy libraries and building custom components. Reduced cloud infrastructure costs by **70%** by migrating **Azure** VMs to App Service with automated **CI/CD** pipelines. Built a real-time **computer vision** pipeline (MediaPipe) with **95%+** production accuracy, featuring adaptive frame rates and multi-person detection.
+**Key highlights:** Cut cloud infrastructure costs **70%** by migrating **Azure** VMs to App Service with automated **CI/CD**. Boosted React app performance **40%** and reached **Lighthouse 95+** by replacing 5 legacy libraries with custom components. Built a real-time **computer-vision** pipeline (**MediaPipe**) at **95%+** production accuracy with adaptive frame rates and multi-person detection. Architected a deterministic **Finite State Machine** engine that eliminated race conditions during AI analysis.
 
-I design for worst-case scenarios — building [scalable SaaS systems](https://montasim.vercel.app/#skills) with predictable state transitions, resilient lifecycles, and reliable asynchronous workflows. Check out my [projects](https://montasim.vercel.app/#projects) to see it in action.
+I design for the worst case — predictable state transitions, resilient lifecycles, and reliable asynchronous workflows that hold up in production, not just the demo. Explore my [portfolio](https://montasim.vercel.app/#projects) to see it in action.
 
-<br/>
 <br/>
 <br/>
 <br/>
