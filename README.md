@@ -83,11 +83,11 @@
 
 <br/>
 
-I build full-stack web platforms that scale under pressure and stay reliable when the stakes are high. With [3+ years of experience](https://montasim.vercel.app/#experience), I work across **React, Next.js, TypeScript, and Node.js** — building scalable, multi-tenant **SaaS** and real-time systems. My deepest experience is in AI-driven healthcare (live video, computer vision, deterministic state machines), but the engineering travels anywhere reliability matters — and I build outside healthcare too, shipping developer tools and AI products.
+I build web platforms that scale. With over [4+ years of experience](https://montasim.vercel.app/#experience), I specialize in building multi-tenant **SaaS** platforms that handle real-time video, biometric assessments, and high-stakes interactions — without breaking. I don't just build features; I design deterministic systems where every state transition is intentional, and every feature toggle is tenant-aware.
 
-**Key highlights:** Cut cloud infrastructure costs **70%** by migrating **Azure** VMs to App Service with automated **CI/CD**. Boosted React app performance **40%** and reached **Lighthouse 95+** by replacing 5 legacy libraries with custom components. Built a real-time **computer-vision** pipeline (**MediaPipe**) at **95%+** production accuracy with adaptive frame rates and multi-person detection. Architected a deterministic **Finite State Machine** engine that eliminated race conditions during AI analysis.
+**Key highlights:** Boosted React app performance by **40%** and achieved **Lighthouse 90+** scores by eliminating legacy libraries and building custom components. Reduced cloud infrastructure costs by **70%** by migrating **Azure** VMs to App Service with automated **CI/CD** pipelines. Built a real-time **computer vision** pipeline (MediaPipe) with **95%+** production accuracy, featuring adaptive frame rates and multi-person detection.
 
-I design for the worst case — predictable state transitions, resilient lifecycles, and reliable asynchronous workflows that hold up in production, not just the demo. Explore my [portfolio](https://montasim.vercel.app/#projects) to see it in action.
+I design for worst-case scenarios — building [scalable SaaS systems](https://montasim.vercel.app/#skills) with predictable state transitions, resilient lifecycles, and reliable asynchronous workflows. Check out my [projects](https://montasim.vercel.app/#projects) to see it in action.
 
 <br/>
 <br/>
