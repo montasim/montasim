@@ -1,9 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="140" viewBox="0 0 880 140" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
   <text x="0" y="20" font-size="16" fill="#8B949E">
-    <tspan x="0" dy="0">Senior Software Engineer with </tspan><tspan font-weight="600" fill="#E6EDF3">3+ years</tspan><tspan> building real-time, AI-driven platforms across</tspan>
-    <tspan x="0" dy="26">the full stack — React, Next.js, Node.js, TypeScript. Promoted twice at a health-tech SaaS</tspan>
-    <tspan x="0" dy="26">while architecting biometric and telemedicine systems and shipping </tspan><tspan font-weight="600" fill="#E6EDF3">HIPAA-compliant</tspan>
-    <tspan x="0" dy="26">products to production. Focus: </tspan><tspan font-weight="600" fill="#E6EDF3">deterministic systems</tspan><tspan> — finite-state-machine architecture</tspan>
-    <tspan x="0" dy="26">where every transition is intentional, multi-tenant platforms where every toggle is tenant-aware.</tspan>
+    <tspan x="0" dy="0">Senior Software Engineer with </tspan><tspan font-weight="600" fill="#C9D1D9">3+ years</tspan><tspan> building real-time, AI-driven platforms across the full stack — React,</tspan>
+    <tspan x="0" dy="26">Next.js, Node.js, TypeScript. Promoted twice at a health-tech SaaS while architecting biometric and telemedicine</tspan>
+    <tspan x="0" dy="26">systems and shipping </tspan><tspan font-weight="600" fill="#C9D1D9">HIPAA-compliant</tspan><tspan> products to production. Focus: </tspan><tspan font-weight="600" fill="#C9D1D9">deterministic systems</tspan><tspan> — finite-state-machine</tspan>
+    <tspan x="0" dy="26">architecture where every transition is intentional, multi-tenant platforms where every toggle is tenant-aware.</tspan>
   </text>
 </svg>
