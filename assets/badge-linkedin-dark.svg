@@ -6,6 +6,6 @@
     <rect x="9" y="8" width="14" height="14" rx="2.5" fill="none" stroke="#00B8B5" stroke-width="1.2"/>
     <text x="13.5" y="19.5" font-size="9" fill="#00B8B5" font-weight="bold" font-family="sans-serif">in</text>
   </g>
-  <text x="33.30" y="19" font-size="12" fill="#E6EDF3" font-weight="bold">LinkedIn</text>
+  <text x="33.30" y="19" font-size="12" fill="#00B8B5" font-weight="bold">LinkedIn</text>
 </g>
 </svg>
