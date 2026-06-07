@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="86" height="28" viewBox="0 0 86 28" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">
   <rect x="0.5" y="0.5" width="85" height="27" rx="14" fill="#F6F8FA" stroke="#D0D7DE"/>
   <!-- Envelope icon -->
-  <rect x="9" y="9" width="13" height="10" rx="1.5" fill="none" stroke="#9A6F12" stroke-width="1.2"/>
-  <polyline points="9,9 15.5,15 22,9" fill="none" stroke="#9A6F12" stroke-width="1.2"/>
+  <g transform="translate(3.1, 2.8) scale(0.8)">
+    <rect x="9" y="9" width="13" height="10" rx="1.5" fill="none" stroke="#9A6F12" stroke-width="1.2"/>
+    <polyline points="9,9 15.5,15 22,9" fill="none" stroke="#9A6F12" stroke-width="1.2"/>
+  </g>
   <text x="28" y="19" font-size="12" fill="#1F2328" font-weight="bold">Email</text>
 </svg>

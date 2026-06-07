@@ -1,8 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="108" height="28" viewBox="0 0 108 28" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">
   <rect x="0.5" y="0.5" width="107" height="27" rx="14" fill="#F6F8FA" stroke="#D0D7DE"/>
   <!-- Globe icon -->
-  <circle cx="17" cy="14" r="6" fill="none" stroke="#9A6F12" stroke-width="1.2"/>
-  <ellipse cx="17" cy="14" rx="3" ry="6" fill="none" stroke="#9A6F12" stroke-width="0.8"/>
-  <line x1="11" y1="14" x2="23" y2="14" stroke="#9A6F12" stroke-width="0.8"/>
+  <g transform="translate(3.4, 2.8) scale(0.8)">
+    <circle cx="17" cy="14" r="6" fill="none" stroke="#9A6F12" stroke-width="1.2"/>
+    <ellipse cx="17" cy="14" rx="3" ry="6" fill="none" stroke="#9A6F12" stroke-width="0.8"/>
+    <line x1="11" y1="14" x2="23" y2="14" stroke="#9A6F12" stroke-width="0.8"/>
+  </g>
   <text x="28" y="19" font-size="12" fill="#1F2328" font-weight="bold">Portfolio</text>
 </svg>
