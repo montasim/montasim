@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif">
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.1" cy="1.1" r="1.1" fill="#1F2328" opacity="0.04"/>
+    </pattern>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="879" height="199" rx="16" fill="#FFFFFF" stroke="#D0D7DE"/>
+  <rect x="1" y="1" width="878" height="198" rx="15" fill="url(#dots)"/>
+
+  <!-- Row 1: Clean Architecture -->
+  <rect x="44" y="20" width="792" height="36" rx="8" fill="#F6F8FA" stroke="#D0D7DE"/>
+  <rect x="44" y="20" width="3" height="36" rx="1.5" fill="#9A6F12" opacity="0.55"/>
+  <text x="62" y="43" font-size="13" fill="#1F2328" font-weight="bold">Clean architecture by default</text>
+  <text x="290" y="43" font-size="13" fill="#656D76">— SOLID, modular boundaries, no monolithic functions.</text>
+
+  <!-- Row 2: Next.js App Router -->
+  <rect x="44" y="64" width="792" height="36" rx="8" fill="#F6F8FA" stroke="#D0D7DE"/>
+  <rect x="44" y="64" width="3" height="36" rx="1.5" fill="#9A6F12" opacity="0.55"/>
+  <text x="62" y="87" font-size="13" fill="#1F2328" font-weight="bold">Next.js App Router, done right</text>
+  <text x="318" y="87" font-size="13" fill="#656D76">— Server Components first, Client Components only for interactivity.</text>
+
+  <!-- Row 3: Deterministic State -->
+  <rect x="44" y="108" width="792" height="36" rx="8" fill="#F6F8FA" stroke="#D0D7DE"/>
+  <rect x="44" y="108" width="3" height="36" rx="1.5" fill="#9A6F12" opacity="0.55"/>
+  <text x="62" y="131" font-size="13" fill="#1F2328" font-weight="bold">Deterministic state</text>
+  <text x="232" y="131" font-size="13" fill="#656D76">— finite-state machines over ad-hoc hooks for anything safety-critical.</text>
+
+  <!-- Row 4: Tested & Measured -->
+  <rect x="44" y="152" width="792" height="36" rx="8" fill="#F6F8FA" stroke="#D0D7DE"/>
+  <rect x="44" y="152" width="3" height="36" rx="1.5" fill="#9A6F12" opacity="0.55"/>
+  <text x="62" y="175" font-size="13" fill="#1F2328" font-weight="bold">Tested &amp; measured</text>
+  <text x="234" y="175" font-size="13" fill="#656D76">— Jest / React Testing Library, Lighthouse budgets, CI/CD on every merge.</text>
+</svg>

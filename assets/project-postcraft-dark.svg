@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="210" viewBox="0 0 880 210" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif">
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.1" cy="1.1" r="1.1" fill="#E6EDF3" opacity="0.035"/>
+    </pattern>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="879" height="209" rx="16" fill="#0D1117" stroke="#30363D"/>
+  <rect x="1" y="1" width="878" height="208" rx="15" fill="url(#dots)"/>
+
+  <!-- Left accent bar -->
+  <rect x="0.5" y="0.5" width="4" height="209" rx="2" fill="#E8A838" opacity="0.6"/>
+
+  <!-- Title -->
+  <text x="44" y="46" font-size="22" fill="#E6EDF3" font-weight="bold">PostCraft</text>
+  <text x="188" y="46" font-size="13" fill="#8B949E" font-weight="normal">— AI-Powered Social Media Manager</text>
+
+  <!-- Links -->
+  <a href="https://aipostcraft.vercel.app"><text x="726" y="46" font-size="11.5" fill="#E8A838" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace" font-weight="bold">Live Demo →</text></a>
+  <a href="https://github.com/montasim/linkedIQ"><text x="826" y="46" font-size="11.5" fill="#8B949E" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Source</text></a>
+
+  <!-- Description -->
+  <text x="44" y="76" font-size="13" fill="#8B949E">
+    <tspan x="44" dy="0">Turns a single topic prompt into multiple scored, ranked post variants via Google Gemini,</tspan>
+    <tspan x="44" dy="18">governed by brand guardrails. Ships OAuth publishing &amp; scheduling to LinkedIn, Twitter, and</tspan>
+    <tspan x="44" dy="18">Facebook with Inngest background queues for a non-blocking UI.</tspan>
+  </text>
+
+  <!-- Separator -->
+  <rect x="44" y="130" width="792" height="1" fill="#30363D"/>
+
+  <!-- Tech tags -->
+  <!-- Row of rounded rect pills -->
+  <rect x="44" y="148" width="72" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="80" y="164" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Next.js 16</text>
+
+  <rect x="126" y="148" width="82" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="167" y="164" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">TypeScript</text>
+
+  <rect x="218" y="148" width="52" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="244" y="164" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Redux</text>
+
+  <rect x="280" y="148" width="62" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="311" y="164" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Gemini</text>
+
+  <rect x="352" y="148" width="60" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="382" y="164" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Inngest</text>
+
+  <rect x="422" y="148" width="68" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="456" y="164" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">MongoDB</text>
+
+  <rect x="500" y="148" width="74" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="537" y="164" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Tailwind 4</text>
+</svg>

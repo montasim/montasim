@@ -1,135 +1,118 @@
 <!--
-    Montasim's GitHub Profile README
-    Author  : Mohammad Montasim Al Mamun Shuvo
-    Contact : montasimmamun@gmail.com
-    Portfolio : https://montasim.vercel.app
+    Mohammad Montasim Al Mamun Shuvo — GitHub Profile README
+    Hand-crafted SVGs with dual-theme support via <picture> + prefers-color-scheme.
+    No generators. No shields.io. No stat cards.
 -->
 
-<br/>
-
-<!-- Greeting -->
-<div align="center">
-    <img loading="lazy" width="25" src="./media/icons/ui/code.png" alt="Code icon" />
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=340&height=34&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="Hello, nice to meet you" />
-    <img loading="lazy" width="25" src="./media/icons/ui/layers.png" alt="Layers icon" />
-</div>
-
-<!-- Identity -->
-<div align="center">
-    <h1>Mohammad Montasim Al Mamun Shuvo</h1>
-    <!-- <h3>Senior Software Engineer&nbsp;·&nbsp;React&nbsp;·&nbsp;Next.js&nbsp;·&nbsp;Node.js&nbsp;·&nbsp;TypeScript</h3> -->
-    <p><em>I build scalable, real-time, AI-driven web platforms that stay reliable under pressure.</em></p>
-    <p>📍 Dhaka, Bangladesh&nbsp;&nbsp;|&nbsp;&nbsp;💼 Open to senior full-stack &amp; frontend roles, freelance, and AI-tooling collaborations</p>
-</div>
-
-<br/>
-
-<!-- Profile Badges -->
-<div align="center">
-  <img src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c.svg?style=for-the-badge&color=00B8B5" alt="Total coding time" style="margin-right: 6px;" />
-  <!-- <img src="https://img.shields.io/github/followers/montasim?logo=github&style=for-the-badge&color=00B8B5" alt="GitHub followers" style="margin-right: 6px;" /> -->
-  <a href="https://www.linkedin.com/in/montasim" target="_blank" rel="noopener noreferrer" style="margin-right: 6px;">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-00B8B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn" />
-  </a>
-  <a href="https://drive.google.com/file/d/1v0RP3PyBB6KdsfXhonIHJXU-wgAUSIRT/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style="margin-right: 6px;">
-    <img src="https://img.shields.io/badge/⬇-Download_Resume-00B8B5?style=for-the-badge&logoColor=white&labelColor=555555" alt="Download Resume" />
-  </a>
-</div>
-
-</br>
-
-<!-- Skills -->
-<div align="center">
-    <img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/react/EB008B" alt="react.js icon" />
-    <img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/nextdotjs/EB008B" alt="next.js icon" />
-    <img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/typescript/EB008B" alt="typescript icon" />
-    <img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/javascript/EB008B" alt="javascript icon" />
-    <img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/redux/EB008B" alt="redux icon" />
-    <img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/nodedotjs/EB008B" alt="nodejs icon" />
-    <img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/express/EB008B" alt="express icon" />
-    <img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/PostgreSQL/EB008B" alt="PostgreSQL icon" />
-    <img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/mongodb/EB008B" alt="mongodb icon" />
-    <img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/prisma/EB008B" alt="prisma icon" />
-    <img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/jest/EB008B" alt="jest icon" />
-    <img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/socketdotio/EB008B" alt="socket.io icon" />
-    <img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/tailwindcss/EB008B" alt="tailwindcss icon" />
-    <img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/shadcnui/EB008B" alt="shadcn/ui icon" />
-</div>
-
-</br>
-
-<!-- Tools -->
-<div align="center">
-  <img loading="lazy" style="margin-right: 6px" alt="docker badge" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=555555&color=00B8B5" />
-  <img loading="lazy" style="margin-right: 6px" alt="github actions badge" src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=555555&color=00B8B5" />
-  <img loading="lazy" style="margin-right: 6px" alt="git badge" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=555555&color=00B8B5" />
-  <img loading="lazy" style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=555555&color=00B8B5" />
-  <img loading="lazy" style="margin-right: 6px" alt="webrtc badge" src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white&labelColor=555555&color=00B8B5" />
-  <img loading="lazy" style="margin-right: 6px" alt="azure badge" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=555555&color=00B8B5" />
-  <img loading="lazy" style="margin-right: 6px" alt="aws badge" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=555555&color=00B8B5" />
-</div>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<!-- The Impact I Deliver -->
-<div align="left">
-    <img loading="lazy" width="24" src="./media/icons/ui/about.png" alt="about me icon" />
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=240&height=30&lines=THE+IMPACT+I+DELIVER" alt="The Impact I Deliver" />
-</div>
-
-<br/>
-
-I build web platforms that scale. With over [4+ years of experience](https://montasim.vercel.app/#experience), I specialize in building multi-tenant **SaaS** platforms that handle real-time video, biometric assessments, and high-stakes interactions — without breaking. I don't just build features; I design deterministic systems where every state transition is intentional, and every feature toggle is tenant-aware.
-
-**Key highlights:** Boosted React app performance by **40%** and achieved **Lighthouse 90+** scores by eliminating legacy libraries and building custom components. Reduced cloud infrastructure costs by **70%** by migrating **Azure** VMs to App Service with automated **CI/CD** pipelines. Built a real-time **computer vision** pipeline (MediaPipe) with **95%+** production accuracy, featuring adaptive frame rates and multi-person detection.
-
-I design for worst-case scenarios — building [scalable SaaS systems](https://montasim.vercel.app/#skills) with predictable state transitions, resilient lifecycles, and reliable asynchronous workflows. Check out my [projects](https://montasim.vercel.app/#projects) to see it in action.
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<!-- Proof Is In The Numbers -->
-<div align="center">
-    <img loading="lazy" width="21" src="./media/icons/ui/stats.png" alt="stats icon" />
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=300&height=30&lines=PROOF+IS+IN+THE+NUMBERS" alt="Proof Is In The Numbers" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
+  <img src="assets/hero-dark.svg" width="100%" alt="Mohammad Montasim Al Mamun Shuvo — Senior Software Engineer" />
+</picture>
 
 <br/>
 
 <div align="center">
-    <img loading="lazy" width="396" src="https://montasim-github-readme-streak-stats.vercel.app?user=montasim&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&stroke=00000000&border=00000000&ring=527DA4&fire=DB6D28&currStreakNum=527DA4&sideNums=527DA4&currStreakLabel=527DA4&sideLabels=527DA4&excludeDaysLabel=527DA4&dates=527DA4" alt="GitHub contribution streak" />
-    <img loading="lazy" width="396" src="https://montasim-github-readme-stats.vercel.app/api?username=montasim&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&title_color=527DA4&icon_color=527DA4&bg_color=00000000&text_color=527DA4&border_color=00000000&hide_border=true" alt="GitHub stats overview" />
+  <a href="https://montasim.vercel.app"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/badge-portfolio-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/badge-portfolio-light.svg" />
+    <img src="assets/badge-portfolio-dark.svg" height="28" alt="Portfolio" />
+  </picture></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/montasim"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/badge-linkedin-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/badge-linkedin-light.svg" />
+    <img src="assets/badge-linkedin-dark.svg" height="28" alt="LinkedIn" />
+  </picture></a>&nbsp;&nbsp;
+  <a href="mailto:montasimmamun@gmail.com"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/badge-email-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/badge-email-light.svg" />
+    <img src="assets/badge-email-dark.svg" height="28" alt="Email" />
+  </picture></a>&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1v0RP3PyBB6KdsfXhonIHJXU-wgAUSIRT/view?usp=sharing"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/badge-resume-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/badge-resume-light.svg" />
+    <img src="assets/badge-resume-dark.svg" height="28" alt="Resume" />
+  </picture></a>
 </div>
+
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-whatibuild-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/heading-whatibuild-light.svg" />
+  <img src="assets/heading-whatibuild-dark.svg" width="100%" alt="What I build" />
+</picture>
+
+Senior Software Engineer with **3+ years** building real-time, AI-driven platforms across the full stack — React, Next.js, Node.js, TypeScript. Promoted twice at a health-tech SaaS while architecting biometric and telemedicine systems and shipping **HIPAA-compliant** products to production. Focus: **deterministic systems** — finite-state-machine architecture where every transition is intentional, multi-tenant platforms where every toggle is tenant-aware.
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-featuredwork-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/heading-featuredwork-light.svg" />
+  <img src="assets/heading-featuredwork-dark.svg" width="100%" alt="Featured work" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-postcraft-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-postcraft-light.svg" />
+  <img src="assets/project-postcraft-dark.svg" width="100%" alt="PostCraft — AI Social Media Manager" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-devtools-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-devtools-light.svg" />
+  <img src="assets/project-devtools-dark.svg" width="100%" alt="DevTools — Developer Tools Suite" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-mmh-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/project-mmh-light.svg" />
+  <img src="assets/project-mmh-dark.svg" width="100%" alt="MyMedicalHub — Health-Tech SaaS" />
+</picture>
+
+<div align="right"><sub><a href="https://montasim.vercel.app/#projects">more on my portfolio →</a></sub></div>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-techstack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/heading-techstack-light.svg" />
+  <img src="assets/heading-techstack-dark.svg" width="100%" alt="Tech stack" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg" />
+  <img src="assets/stack-dark.svg" width="100%" alt="Tech stack details" />
+</picture>
+
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-howiwork-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/heading-howiwork-light.svg" />
+  <img src="assets/heading-howiwork-dark.svg" width="100%" alt="How I work" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/howiwork-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/howiwork-light.svg" />
+  <img src="assets/howiwork-dark.svg" width="100%" alt="How I work" />
+</picture>
+
+<br/><br/>
 
 <div align="center">
-    <img loading="lazy" width="325" src="https://montasim-github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=527DA4&text_color=527DA4&icon_color=527DA4&bg_color=00000000&langs_count=8&layout=compact&border_color=00000000&hide_border=true" alt="Top languages used" />
-    <a href="https://wakatime.com/@montasim" target="_blank" rel="noopener noreferrer" title="Data update every midnight">
-        <img loading="lazy" src="https://montasim-github-readme-stats.vercel.app/api/wakatime/?username=montasim&hide_title=true&layout=compact&langs_count=8&text_color=527DA4&bg_color=00000000&title_color=527DA4&border_color=00000000&hide_border=true" alt="Wakatime weekly coding activity" />
-    </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" />
+  <img src="assets/footer-dark.svg" width="100%" alt="Inspired by problem. Driven by impact. Designed to scale. Built to last." />
+</picture>
 </div>
-
-<br/>
-<br/>
-<br/>
-
-<!-- Footer -->
-<div align="center">
-    <img loading="lazy" width="100%" alt="Waving footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer" />
-</div>
-
-<br/>
-<br/>
-<br/>
-
-<div align="center">
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=5000&pause=1&color=00B8B5&center=true&vCenter=true&width=600&height=24&lines=INSPIRED+BY+PROBLEM.+DRIVEN+BY+IMPACT.;DESIGNED+TO+SCALE.+BUILT+TO+LAST.;DISCOMFORT+IS+THE+PRICE+OF+GROWTH.;FOCUS+ON+PROCESS%2C+NOT+OUTCOME.;PROGRESS+NOT+PERFECTION.;LESS+EGO%2C+MORE+CURIOSITY.;CLARITY+COMES+FROM+ACTION.;SMALL+WINS+BUILD+BIG+MOMENTUM.;YOUR+ONLY+COMPETITION+IS+WHO+YOU+WERE+YESTERDAY.;EMBRACE+UNCERTAINTY+%E2%80%93+IT%27S+WHERE+GROWTH+LIVES.;PAUSE.+REFLECT.+ADAPT.+REPEAT.;DONE+IS+BETTER+THAN+PERFECT.;CONSTRAINTS+BREED+CREATIVITY.;SAY+NO+TO+MORE%2C+SO+YOU+CAN+SAY+YES+TO+BETTER.;THE+BEST+CODE+IS+CODE+THAT+NEEDS+NO+EXPLANATION.;OVERENGINEERING+IS+JUST+FEAR+IN+DISGUISE.;Simplicity+is+the+ultimate+SOPHISTICATION.;SHIPPING+BEATS+BRAINSTORMING.;EVERY+EXPERT+WAS+ONCE+A+BEGINNER.;SUSTAINED+EFFORT+BEATS+MOTIVATION+EVERY+TIME." alt="Built with love by Montasim" />
-</div>
-
-<br/>
