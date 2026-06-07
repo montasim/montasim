@@ -15,23 +15,7 @@
 
 <!-- Contact & Social Badges -->
 <div align="center">
-  <a href="https://montasim.vercel.app"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/badge-portfolio-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/badge-portfolio-light.svg" />
-    <img loading="lazy" src="assets/badge-portfolio-dark.svg" height="28" alt="Portfolio" />
-  </picture></a><a href="https://www.linkedin.com/in/montasim"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/badge-linkedin-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/badge-linkedin-light.svg" />
-    <img loading="lazy" src="assets/badge-linkedin-dark.svg" height="28" alt="LinkedIn" />
-  </picture></a><a href="mailto:montasimmamun@gmail.com"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/badge-email-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/badge-email-light.svg" />
-    <img loading="lazy" src="assets/badge-email-dark.svg" height="28" alt="Email" />
-  </picture></a><a href="https://drive.google.com/file/d/1v0RP3PyBB6KdsfXhonIHJXU-wgAUSIRT/view?usp=sharing"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/badge-resume-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/badge-resume-light.svg" />
-    <img loading="lazy" src="assets/badge-resume-dark.svg" height="28" alt="Resume" />
-  </picture></a>
+  <a href="https://montasim.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-portfolio-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/badge-portfolio-light.svg" /><img loading="lazy" src="assets/badge-portfolio-dark.svg" height="28" alt="Portfolio" /></picture></a><a href="https://www.linkedin.com/in/montasim"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/badge-linkedin-light.svg" /><img loading="lazy" src="assets/badge-linkedin-dark.svg" height="28" alt="LinkedIn" /></picture></a><a href="mailto:montasimmamun@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-email-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/badge-email-light.svg" /><img loading="lazy" src="assets/badge-email-dark.svg" height="28" alt="Email" /></picture></a><a href="https://drive.google.com/file/d/1v0RP3PyBB6KdsfXhonIHJXU-wgAUSIRT/view?usp=sharing"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-resume-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/badge-resume-light.svg" /><img loading="lazy" src="assets/badge-resume-dark.svg" height="28" alt="Resume" /></picture></a>
 </div>
 
 
@@ -67,15 +51,7 @@
 </picture>
 
 <div align="right">
-  <a href="https://aipostcraft.vercel.app"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/badge-livedemo-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/badge-livedemo-light.svg" />
-    <img loading="lazy" src="assets/badge-livedemo-dark.svg" height="28" alt="Live Demo" />
-  </picture></a><a href="https://github.com/montasim/linkedIQ"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/badge-source-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/badge-source-light.svg" />
-    <img loading="lazy" src="assets/badge-source-dark.svg" height="28" alt="Source" />
-  </picture></a>
+  <a href="https://aipostcraft.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-livedemo-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/badge-livedemo-light.svg" /><img loading="lazy" src="assets/badge-livedemo-dark.svg" height="28" alt="Live Demo" /></picture></a><a href="https://github.com/montasim/linkedIQ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-source-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/badge-source-light.svg" /><img loading="lazy" src="assets/badge-source-dark.svg" height="28" alt="Source" /></picture></a>
 </div>
 
 <br/>
@@ -88,15 +64,7 @@
 </picture>
 
 <div align="right">
-  <a href="https://devtoolsn.vercel.app"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/badge-livedemo-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/badge-livedemo-light.svg" />
-    <img loading="lazy" src="assets/badge-livedemo-dark.svg" height="28" alt="Live Demo" />
-  </picture></a><a href="https://github.com/montasim"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/badge-source-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/badge-source-light.svg" />
-    <img loading="lazy" src="assets/badge-source-dark.svg" height="28" alt="Source" />
-  </picture></a>
+  <a href="https://devtoolsn.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-livedemo-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/badge-livedemo-light.svg" /><img loading="lazy" src="assets/badge-livedemo-dark.svg" height="28" alt="Live Demo" /></picture></a><a href="https://github.com/montasim"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-source-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/badge-source-light.svg" /><img loading="lazy" src="assets/badge-source-dark.svg" height="28" alt="Source" /></picture></a>
 </div>
 
 <br/>
@@ -109,11 +77,7 @@
 </picture>
 
 <div align="right">
-  <a href="https://montasim.vercel.app/#projects"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/link-portfolio-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/link-portfolio-light.svg" />
-    <img loading="lazy" src="assets/link-portfolio-dark.svg" height="20" alt="more on my portfolio →" />
-  </picture></a>
+  <a href="https://montasim.vercel.app/#projects"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-portfolio-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/link-portfolio-light.svg" /><img loading="lazy" src="assets/link-portfolio-dark.svg" height="20" alt="more on my portfolio →" /></picture></a>
 </div>
 
 <br/><br/>
@@ -125,11 +89,9 @@
   <img loading="lazy" src="assets/heading-techstack-dark.svg" width="100%" alt="Tech stack" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg" />
-  <img loading="lazy" src="assets/stack-dark.svg" width="100%" alt="Tech stack details" />
-</picture>
+<div align="center">
+    <img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/react/EB008B" alt="react.js icon" /><img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/nextdotjs/EB008B" alt="next.js icon" /><img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/typescript/EB008B" alt="typescript icon" /><img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/javascript/EB008B" alt="javascript icon" /><img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/redux/EB008B" alt="redux icon" /><img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/nodedotjs/EB008B" alt="nodejs icon" /><img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/express/EB008B" alt="express icon" /><img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/PostgreSQL/EB008B" alt="PostgreSQL icon" /><img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/mongodb/EB008B" alt="mongodb icon" /><img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/prisma/EB008B" alt="prisma icon" /><img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/jest/EB008B" alt="jest icon" /><img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/socketdotio/EB008B" alt="socket.io icon" /><img loading="lazy" height="36" style="margin-right: 6px" src="https://cdn.simpleicons.org/tailwindcss/EB008B" alt="tailwindcss icon" /><img loading="lazy" height="36" src="https://cdn.simpleicons.org/bootstrap/EB008B" alt="bootstrap icon" />
+</div>
 
 
 <br/><br/>
