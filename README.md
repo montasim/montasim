@@ -109,7 +109,13 @@ Senior Software Engineer with **3+ years** building real-time, AI-driven platfor
   <img loading="lazy" src="assets/project-mmh-dark.svg" width="100%" alt="MyMedicalHub — Health-Tech SaaS" />
 </picture>
 
-<div align="right"><sub><a href="https://montasim.vercel.app/#projects"><font color="#E8A838">more on my portfolio →</font></a></sub></div>
+<div align="right">
+  <a href="https://montasim.vercel.app/#projects"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/link-portfolio-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/link-portfolio-light.svg" />
+    <img loading="lazy" src="assets/link-portfolio-dark.svg" height="20" alt="more on my portfolio →" />
+  </picture></a>
+</div>
 
 <br/><br/>
 
