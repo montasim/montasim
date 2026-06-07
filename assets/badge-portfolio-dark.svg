@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="108" height="28" viewBox="0 0 108 28" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="28" viewBox="0 0 124 28" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">
+  <g transform="translate(8, 0)">
   <rect x="0.5" y="0.5" width="107" height="27" rx="14" fill="#161B22" stroke="#30363D"/>
   <!-- Globe icon -->
   <g transform="translate(3.4, 2.8) scale(0.8)">
@@ -7,4 +8,5 @@
     <line x1="11" y1="14" x2="23" y2="14" stroke="#E8A838" stroke-width="0.8"/>
   </g>
   <text x="28" y="19" font-size="12" fill="#E6EDF3" font-weight="bold">Portfolio</text>
+</g>
 </svg>

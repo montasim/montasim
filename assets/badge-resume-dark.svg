@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="94" height="28" viewBox="0 0 94 28" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="28" viewBox="0 0 110 28" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">
+  <g transform="translate(8, 0)">
   <rect x="0.5" y="0.5" width="93" height="27" rx="14" fill="#161B22" stroke="#30363D"/>
   <!-- Document icon -->
   <g transform="translate(3.1, 2.8) scale(0.8)">
@@ -8,4 +9,5 @@
     <line x1="13" y1="17" x2="16" y2="17" stroke="#E8A838" stroke-width="0.9"/>
   </g>
   <text x="28" y="19" font-size="12" fill="#E8A838" font-weight="bold">Resume</text>
+</g>
 </svg>
