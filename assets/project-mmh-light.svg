@@ -12,7 +12,7 @@
 
 
   <!-- Title -->
-  <text x="28" y="46" font-size="22" fill="#1F2328" font-weight="bold">MyMedicalHub</text>
+  <text x="28" y="46" font-size="14.63" fill="#1F2328" font-weight="bold">MyMedicalHub</text>
 
   <!-- Proprietary badge -->
   <rect x="196" y="30" width="88" height="22" rx="11" fill="none" stroke="#D0D7DE"/>

@@ -12,7 +12,7 @@
 
 
   <!-- Title -->
-  <text x="28" y="46" font-size="22" fill="#E6EDF3" font-weight="bold">DevTools</text>
+  <text x="28" y="46" font-size="14.63" fill="#E6EDF3" font-weight="bold">DevTools</text>
   <text x="146" y="46" font-size="13" fill="#8B949E" font-weight="normal">— Developer Tools Suite</text>
 
   <!-- Links -->

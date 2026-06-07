@@ -11,7 +11,7 @@
     <!-- Star/sparkle icon -->
   <path d="M12 6 L13.5 11 L18 12 L13.5 13 L12 18 L10.5 13 L6 12 L10.5 11 Z" fill="none" stroke="#00B8B5" stroke-width="1.2" stroke-linejoin="round"/>
   </g>
-  <text x="24" y="20" font-size="14" fill="#00B8B5" font-weight="bold" letter-spacing="1.5">Featured work</text>
+  <text x="24" y="20" font-size="15.4" fill="#00B8B5" font-weight="bold" letter-spacing="1.5">Featured work</text>
   </g>
   <rect x="0" y="32" width="880" height="1" fill="url(#line)"/>
 </svg>

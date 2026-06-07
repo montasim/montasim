@@ -12,7 +12,7 @@
 
 
   <!-- Title -->
-  <text x="28" y="46" font-size="22" fill="#1F2328" font-weight="bold">PostCraft</text>
+  <text x="28" y="46" font-size="14.63" fill="#1F2328" font-weight="bold">PostCraft</text>
   <text x="172" y="46" font-size="13" fill="#656D76" font-weight="normal">— AI-Powered Social Media Manager</text>
 
   <!-- Links -->
