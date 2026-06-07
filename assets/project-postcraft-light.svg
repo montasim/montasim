@@ -16,8 +16,8 @@
   <text x="188" y="46" font-size="13" fill="#656D76" font-weight="normal">— AI-Powered Social Media Manager</text>
 
   <!-- Links -->
-  <a href="https://aipostcraft.vercel.app"><text x="726" y="46" font-size="11.5" fill="#9A6F12" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace" font-weight="bold">Live Demo →</text></a>
-  <a href="https://github.com/montasim/linkedIQ"><text x="826" y="46" font-size="11.5" fill="#656D76" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Source</text></a>
+  
+  
 
   <!-- Description -->
   <text x="44" y="76" font-size="13" fill="#656D76">

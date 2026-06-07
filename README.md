@@ -10,7 +10,7 @@
   <img src="assets/hero-dark.svg" width="100%" alt="Mohammad Montasim Al Mamun Shuvo — Senior Software Engineer" />
 </picture>
 
-<br/>
+<br/><br/>
 
 <div align="center">
   <a href="https://montasim.vercel.app"><picture>
@@ -60,6 +60,10 @@ Senior Software Engineer with **3+ years** building real-time, AI-driven platfor
   <img src="assets/project-postcraft-dark.svg" width="100%" alt="PostCraft — AI Social Media Manager" />
 </picture>
 
+<div align="right">
+  <a href="https://aipostcraft.vercel.app"><b>Live Demo ↗</b></a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="https://github.com/montasim/linkedIQ"><b>Source ↗</b></a>
+</div>
+
 <br/>
 
 <picture>
@@ -67,6 +71,10 @@ Senior Software Engineer with **3+ years** building real-time, AI-driven platfor
   <source media="(prefers-color-scheme: light)" srcset="assets/project-devtools-light.svg" />
   <img src="assets/project-devtools-dark.svg" width="100%" alt="DevTools — Developer Tools Suite" />
 </picture>
+
+<div align="right">
+  <a href="https://devtoolsn.vercel.app"><b>Live Demo ↗</b></a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="https://github.com/montasim"><b>Source ↗</b></a>
+</div>
 
 <br/>
 
