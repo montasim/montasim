@@ -1,86 +1,86 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="374" viewBox="0 0 880 374" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="368" viewBox="0 0 880 368" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif">
   <defs>
     <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
       <circle cx="1.1" cy="1.1" r="1.1" fill="#E6EDF3" opacity="0.035"/>
     </pattern>
   </defs>
 
-  <rect x="0.5" y="0.5" width="879" height="373" rx="16" fill="#0D1117" stroke="#30363D"/>
-  <rect x="1" y="1" width="878" height="372" rx="15" fill="url(#dots)"/>
+  <rect x="0.5" y="0.5" width="879" height="367" rx="16" fill="#0D1117" stroke="#30363D"/>
+  <rect x="1" y="1" width="878" height="366" rx="15" fill="url(#dots)"/>
 
   <!-- Languages -->
-  <text x="44" y="36" font-size="11" fill="#8B949E" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace" font-weight="bold">Languages</text>
-  <rect x="44" y="44" width="82" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="85" y="60" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">TypeScript</text>
-  <rect x="136" y="44" width="82" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="177" y="60" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">JavaScript</text>
-  <rect x="228" y="44" width="40" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="248" y="60" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">SQL</text>
+  <text x="28" y="38" font-size="11" fill="#8B949E" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace" font-weight="bold">Languages</text>
+  <rect x="28" y="46" width="82" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="69" y="62" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">TypeScript</text>
+  <rect x="120" y="46" width="82" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="161" y="62" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">JavaScript</text>
+  <rect x="212" y="46" width="40" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="232" y="62" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">SQL</text>
 
   <!-- Frontend -->
-  <text x="44" y="90" font-size="11" fill="#8B949E" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace" font-weight="bold">Frontend</text>
-  <rect x="44" y="98" width="52" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="70" y="114" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">React</text>
-  <rect x="106" y="98" width="62" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="137" y="114" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Next.js</text>
-  <rect x="178" y="98" width="88" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="222" y="114" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Redux Toolkit</text>
-  <rect x="276" y="98" width="84" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="318" y="114" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Tailwind CSS</text>
-  <rect x="370" y="98" width="66" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="403" y="114" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">WebRTC</text>
+  <text x="28" y="92" font-size="11" fill="#8B949E" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace" font-weight="bold">Frontend</text>
+  <rect x="28" y="100" width="52" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="54" y="116" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">React</text>
+  <rect x="90" y="100" width="62" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="121" y="116" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Next.js</text>
+  <rect x="162" y="100" width="88" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="206" y="116" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Redux Toolkit</text>
+  <rect x="260" y="100" width="84" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="302" y="116" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Tailwind CSS</text>
+  <rect x="354" y="100" width="66" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="387" y="116" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">WebRTC</text>
 
   <!-- Backend & Data -->
-  <text x="44" y="144" font-size="11" fill="#8B949E" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace" font-weight="bold">Backend</text>
-  <rect x="44" y="152" width="62" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="75" y="168" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Node.js</text>
-  <rect x="116" y="152" width="60" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="146" y="168" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Express</text>
-  <rect x="186" y="152" width="72" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="222" y="168" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">REST APIs</text>
-  <rect x="268" y="152" width="72" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="304" y="168" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Socket.IO</text>
-  <rect x="350" y="152" width="78" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="389" y="168" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">PostgreSQL</text>
-  <rect x="438" y="152" width="68" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="472" y="168" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">MongoDB</text>
-  <rect x="516" y="152" width="56" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="544" y="168" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Prisma</text>
+  <text x="28" y="146" font-size="11" fill="#8B949E" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace" font-weight="bold">Backend</text>
+  <rect x="28" y="154" width="62" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="59" y="170" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Node.js</text>
+  <rect x="100" y="154" width="60" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="130" y="170" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Express</text>
+  <rect x="170" y="154" width="72" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="206" y="170" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">REST APIs</text>
+  <rect x="252" y="154" width="72" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="288" y="170" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Socket.IO</text>
+  <rect x="334" y="154" width="78" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="373" y="170" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">PostgreSQL</text>
+  <rect x="422" y="154" width="68" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="456" y="170" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">MongoDB</text>
+  <rect x="500" y="154" width="56" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="528" y="170" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Prisma</text>
 
   <!-- Cloud & DevOps -->
-  <text x="44" y="198" font-size="11" fill="#8B949E" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace" font-weight="bold">Cloud</text>
-  <rect x="44" y="206" width="56" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="72" y="222" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Azure</text>
-  <rect x="110" y="206" width="58" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="139" y="222" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">AWS S3</text>
-  <rect x="178" y="206" width="56" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="206" y="222" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Docker</text>
-  <rect x="244" y="206" width="96" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="292" y="222" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">GitHub Actions</text>
-  <rect x="350" y="206" width="50" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="375" y="222" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">CI/CD</text>
+  <text x="28" y="200" font-size="11" fill="#8B949E" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace" font-weight="bold">Cloud</text>
+  <rect x="28" y="208" width="56" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="56" y="224" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Azure</text>
+  <rect x="94" y="208" width="58" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="123" y="224" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">AWS S3</text>
+  <rect x="162" y="208" width="56" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="190" y="224" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Docker</text>
+  <rect x="228" y="208" width="96" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="276" y="224" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">GitHub Actions</text>
+  <rect x="334" y="208" width="50" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="359" y="224" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">CI/CD</text>
 
   <!-- Architecture -->
-  <text x="44" y="252" font-size="11" fill="#8B949E" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace" font-weight="bold">Architecture</text>
-  <rect x="44" y="260" width="96" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="92" y="276" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">System Design</text>
-  <rect x="150" y="260" width="88" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="194" y="276" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Microservices</text>
-  <rect x="248" y="260" width="78" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="287" y="276" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">MediaPipe</text>
-  <rect x="336" y="260" width="36" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="354" y="276" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">FSM</text>
-  <rect x="382" y="260" width="74" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="419" y="276" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">SSO/OAuth</text>
+  <text x="28" y="254" font-size="11" fill="#8B949E" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace" font-weight="bold">Architecture</text>
+  <rect x="28" y="262" width="96" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="76" y="278" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">System Design</text>
+  <rect x="134" y="262" width="88" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="178" y="278" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Microservices</text>
+  <rect x="232" y="262" width="78" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="271" y="278" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">MediaPipe</text>
+  <rect x="320" y="262" width="36" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="338" y="278" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">FSM</text>
+  <rect x="366" y="262" width="74" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="403" y="278" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">SSO/OAuth</text>
 
   <!-- Testing & Tools -->
-  <text x="44" y="306" font-size="11" fill="#8B949E" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace" font-weight="bold">Testing</text>
-  <rect x="44" y="314" width="42" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="65" y="330" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Jest</text>
-  <rect x="96" y="314" width="96" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="144" y="330" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Testing Library</text>
-  <rect x="202" y="314" width="74" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="239" y="330" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Lighthouse</text>
-  <rect x="286" y="314" width="36" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
-  <text x="304" y="330" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Git</text>
+  <text x="28" y="308" font-size="11" fill="#8B949E" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace" font-weight="bold">Testing</text>
+  <rect x="28" y="316" width="42" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="49" y="332" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Jest</text>
+  <rect x="80" y="316" width="96" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="128" y="332" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Testing Library</text>
+  <rect x="186" y="316" width="74" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="223" y="332" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Lighthouse</text>
+  <rect x="270" y="316" width="36" height="24" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="288" y="332" font-size="10.5" fill="#E6EDF3" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Roboto Mono','DejaVu Sans Mono',monospace">Git</text>
 </svg>
