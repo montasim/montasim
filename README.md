@@ -47,7 +47,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/bio-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/bio-light.svg" />
-  <img loading="lazy" src="assets/bio-dark.svg" width="100%" alt="Senior Software Engineer with 3+ years building real-time, AI-driven platforms across the full stack — React, Next.js, Node.js, TypeScript. Promoted twice at a health-tech SaaS while architecting biometric and telemedicine systems and shipping HIPAA-compliant products to production. Focus: deterministic systems — finite-state-machine architecture where every transition is intentional, multi-tenant platforms where every toggle is tenant-aware." />
+  <img loading="lazy" src="assets/bio-dark.svg" width="100%" alt="Senior Software Engineer with 3+ years building real-time, AI-driven web platforms across the full stack — React, Next.js, Node.js, and TypeScript. Promoted twice at a health-tech SaaS while architecting biometric and telemedicine systems; cut cloud infrastructure costs 70% and improved application performance 40%. Focused on system design, state-machine architecture, and shipping HIPAA-compliant products to production." />
 </picture>
 
 <br/><br/>

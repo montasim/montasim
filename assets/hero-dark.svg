@@ -29,12 +29,12 @@
   </text>
 
   <!-- Tagline -->
-  <text x="44" y="128" font-size="14" fill="#8B949E">Real-time, AI-driven web platforms that stay reliable under pressure.</text>
+  <text x="44" y="128" font-size="14" fill="#8B949E">React, Next.js, Node.js, TypeScript | Cloud, Microservice | Scalable Real-Time &amp; AI-Driven SaaS | HIPAA-Grade Systems</text>
 
   <!-- Location -->
-  <path d="M48 140 C48 137.5 49.5 136 51 136 C52.5 136 54 137.5 54 140 C54 142.5 51 147 51 147 C51 147 48 142.5 48 140 Z" fill="none" stroke="#8B949E" stroke-width="1.2" opacity="0.8"/>
-  <circle cx="51" cy="140" r="1.2" fill="#8B949E" opacity="0.8"/>
-  <text x="60" y="144" font-size="11.5" fill="#8B949E" opacity="0.7">Dhaka, Bangladesh</text>
+  <path d="M48 145 C48 142.5 49.5 141 51 141 C52.5 141 54 142.5 54 145 C54 147.5 51 152 51 152 C51 152 48 147.5 48 145 Z" fill="none" stroke="#8B949E" stroke-width="1.2" opacity="0.8"/>
+  <circle cx="51" cy="145" r="1.2" fill="#8B949E" opacity="0.8"/>
+  <text x="60" y="149" font-size="11.5" fill="#8B949E" opacity="0.7">Dhaka, Bangladesh</text>
 
   <!-- Open to Work badge -->
   <rect x="700" y="28" width="140" height="26" rx="13" fill="none" stroke="#E8A838" stroke-opacity="0.5"/>
