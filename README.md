@@ -19,18 +19,15 @@
     <source media="(prefers-color-scheme: dark)" srcset="assets/badge-portfolio-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/badge-portfolio-light.svg" />
     <img loading="lazy" src="assets/badge-portfolio-dark.svg" height="28" alt="Portfolio" />
-  </picture></a>
-  <a href="https://www.linkedin.com/in/montasim"><picture>
+  </picture></a><img src="assets/gap.svg" /><a href="https://www.linkedin.com/in/montasim"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/badge-linkedin-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/badge-linkedin-light.svg" />
     <img loading="lazy" src="assets/badge-linkedin-dark.svg" height="28" alt="LinkedIn" />
-  </picture></a>
-  <a href="mailto:montasimmamun@gmail.com"><picture>
+  </picture></a><img src="assets/gap.svg" /><a href="mailto:montasimmamun@gmail.com"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/badge-email-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/badge-email-light.svg" />
     <img loading="lazy" src="assets/badge-email-dark.svg" height="28" alt="Email" />
-  </picture></a>
-  <a href="https://drive.google.com/file/d/1v0RP3PyBB6KdsfXhonIHJXU-wgAUSIRT/view?usp=sharing"><picture>
+  </picture></a><img src="assets/gap.svg" /><a href="https://drive.google.com/file/d/1v0RP3PyBB6KdsfXhonIHJXU-wgAUSIRT/view?usp=sharing"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/badge-resume-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/badge-resume-light.svg" />
     <img loading="lazy" src="assets/badge-resume-dark.svg" height="28" alt="Resume" />
@@ -70,8 +67,7 @@ Senior Software Engineer with **3+ years** building real-time, AI-driven platfor
     <source media="(prefers-color-scheme: dark)" srcset="assets/badge-livedemo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/badge-livedemo-light.svg" />
     <img loading="lazy" src="assets/badge-livedemo-dark.svg" height="28" alt="Live Demo" />
-  </picture></a>
-  <a href="https://github.com/montasim/linkedIQ"><picture>
+  </picture></a><img src="assets/gap.svg" /><a href="https://github.com/montasim/linkedIQ"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/badge-source-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/badge-source-light.svg" />
     <img loading="lazy" src="assets/badge-source-dark.svg" height="28" alt="Source" />
@@ -92,8 +88,7 @@ Senior Software Engineer with **3+ years** building real-time, AI-driven platfor
     <source media="(prefers-color-scheme: dark)" srcset="assets/badge-livedemo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/badge-livedemo-light.svg" />
     <img loading="lazy" src="assets/badge-livedemo-dark.svg" height="28" alt="Live Demo" />
-  </picture></a>
-  <a href="https://github.com/montasim"><picture>
+  </picture></a><img src="assets/gap.svg" /><a href="https://github.com/montasim"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/badge-source-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/badge-source-light.svg" />
     <img loading="lazy" src="assets/badge-source-dark.svg" height="28" alt="Source" />
