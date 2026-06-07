@@ -4,6 +4,7 @@
     No generators. No shields.io. No stat cards.
 -->
 
+<!-- Hero Section -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
@@ -12,6 +13,7 @@
 
 <br/><br/>
 
+<!-- Contact & Social Badges -->
 <div align="center">
   <a href="https://montasim.vercel.app"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/badge-portfolio-dark.svg" />
@@ -38,6 +40,7 @@
 
 <br/><br/>
 
+<!-- What I Build Section -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/heading-whatibuild-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/heading-whatibuild-light.svg" />
@@ -48,12 +51,14 @@ Senior Software Engineer with **3+ years** building real-time, AI-driven platfor
 
 <br/><br/>
 
+<!-- Featured Work Section -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/heading-featuredwork-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/heading-featuredwork-light.svg" />
   <img loading="lazy" src="assets/heading-featuredwork-dark.svg" width="100%" alt="Featured work" />
 </picture>
 
+<!-- Project 1: PostCraft -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/project-postcraft-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/project-postcraft-light.svg" />
@@ -75,6 +80,7 @@ Senior Software Engineer with **3+ years** building real-time, AI-driven platfor
 
 <br/>
 
+<!-- Project 2: DevTools -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/project-devtools-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/project-devtools-light.svg" />
@@ -96,6 +102,7 @@ Senior Software Engineer with **3+ years** building real-time, AI-driven platfor
 
 <br/>
 
+<!-- Project 3: MyMedicalHub -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/project-mmh-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/project-mmh-light.svg" />
@@ -106,6 +113,7 @@ Senior Software Engineer with **3+ years** building real-time, AI-driven platfor
 
 <br/><br/>
 
+<!-- Tech Stack Section -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/heading-techstack-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/heading-techstack-light.svg" />
@@ -121,6 +129,7 @@ Senior Software Engineer with **3+ years** building real-time, AI-driven platfor
 
 <br/><br/>
 
+<!-- How I Work Section -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/heading-howiwork-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/heading-howiwork-light.svg" />
@@ -135,6 +144,7 @@ Senior Software Engineer with **3+ years** building real-time, AI-driven platfor
 
 <br/><br/>
 
+<!-- Footer -->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />
