@@ -9,7 +9,7 @@
   <rect x="1" y="1" width="878" height="208" rx="15" fill="url(#dots)"/>
 
   <!-- Left accent bar -->
-  <rect x="0.5" y="0.5" width="4" height="209" rx="2" fill="#9A6F12" opacity="0.6"/>
+
 
   <!-- Title -->
   <text x="44" y="46" font-size="22" fill="#1F2328" font-weight="bold">PostCraft</text>
