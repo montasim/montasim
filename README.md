@@ -18,7 +18,6 @@
   <a href="https://montasim.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-portfolio-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/badge-portfolio-light.svg" /><img loading="lazy" src="assets/badge-portfolio-dark.svg" height="28" alt="Portfolio" /></picture></a><a href="https://www.linkedin.com/in/montasim"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/badge-linkedin-light.svg" /><img loading="lazy" src="assets/badge-linkedin-dark.svg" height="28" alt="LinkedIn" /></picture></a><a href="mailto:montasimmamun@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-email-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/badge-email-light.svg" /><img loading="lazy" src="assets/badge-email-dark.svg" height="28" alt="Email" /></picture></a><a href="https://drive.google.com/file/d/1v0RP3PyBB6KdsfXhonIHJXU-wgAUSIRT/view?usp=sharing"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-resume-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/badge-resume-light.svg" /><img loading="lazy" src="assets/badge-resume-dark.svg" height="28" alt="Resume" /></picture></a>
 </div>
 
-
 <br/><br/>
 
 <!-- What I Build Section -->
@@ -77,7 +76,13 @@
 </picture>
 
 <div align="right">
-  <a href="https://montasim.vercel.app/#projects"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-portfolio-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/link-portfolio-light.svg" /><img loading="lazy" src="assets/link-portfolio-dark.svg" height="20" alt="more on my portfolio →" /></picture></a>
+  <a href="https://montasim.vercel.app/#projects">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/link-portfolio-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/link-portfolio-light.svg" />
+      <img loading="lazy" src="assets/link-portfolio-dark.svg" height="20" alt="more on my portfolio →" />
+    </picture>
+  </a>
 </div>
 
 <br/><br/>
@@ -89,12 +94,196 @@
   <img loading="lazy" src="assets/heading-techstack-dark.svg" width="100%" alt="Tech stack" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg" />
-  <img loading="lazy" src="assets/stack-dark.svg" width="100%" alt="Tech stack details" />
-</picture>
+<div align="left">
+  <!-- Languages -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/category-languages.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/category-languages-light.svg" /><img loading="lazy" src="assets/stack_badges/category-languages.svg" alt="Languages" style="vertical-align: middle; margin-bottom: 8px;" />
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-typescript.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-typescript-light.svg" /><img loading="lazy" src="assets/stack_badges/badge-typescript.svg" alt="TypeScript" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-javascript.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-javascript-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-javascript.svg" alt="JavaScript" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-sql.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-sql-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-sql.svg" alt="SQL" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  
+  <br/>
 
+  <!-- Frontend -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/category-frontend.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/category-frontend-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/category-frontend.svg" alt="Frontend" style="vertical-align: middle; margin-bottom: 8px;" />
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-react.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-react-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-react.svg" alt="React" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-next-js.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-next-js-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-next-js.svg" alt="Next.js" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-redux-toolkit.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-redux-toolkit-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-redux-toolkit.svg" alt="Redux Toolkit" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-tailwind-css.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-tailwind-css-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-tailwind-css.svg" alt="Tailwind CSS" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-webrtc.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-webrtc-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-webrtc.svg" alt="WebRTC" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+
+  <br/>
+
+  <!-- Backend & Data -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/category-backend.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/category-backend-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/category-backend.svg" alt="Backend" style="vertical-align: middle; margin-bottom: 8px;" />
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-node-js.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-node-js-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-node-js.svg" alt="Node.js" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-express.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-express-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-express.svg" alt="Express" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-rest-apis.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-rest-apis-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-rest-apis.svg" alt="REST APIs" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-socket-io.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-socket-io-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-socket-io.svg" alt="Socket.IO" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-postgresql.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-postgresql-light.svg" /><img loading="lazy" src="assets/stack_badges/badge-postgresql.svg" alt="PostgreSQL" style="vertical-align: middle; margin: 4px;" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-mongodb.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-mongodb-light.svg" /><img loading="lazy" src="assets/stack_badges/badge-mongodb.svg" alt="MongoDB" style="vertical-align: middle; margin: 4px;" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-prisma.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-prisma-light.svg" /><img loading="lazy" src="assets/stack_badges/badge-prisma.svg" alt="Prisma" style="vertical-align: middle; margin: 4px;" /></picture>
+
+  <br/>
+
+  <!-- Cloud & DevOps -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/category-cloud.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/category-cloud-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/category-cloud.svg" alt="Cloud" style="vertical-align: middle; margin-bottom: 8px;" />
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-azure.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-azure-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-azure.svg" alt="Azure" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-aws-s3.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-aws-s3-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-aws-s3.svg" alt="AWS S3" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-docker.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-docker-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-docker.svg" alt="Docker" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-github-actions.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-github-actions-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-github-actions.svg" alt="GitHub Actions" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-ci-cd.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-ci-cd-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-ci-cd.svg" alt="CI/CD" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+
+  <br/>
+
+  <!-- Architecture -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/category-architecture.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/category-architecture-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/category-architecture.svg" alt="Architecture" style="vertical-align: middle; margin-bottom: 8px;" />
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-system-design.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-system-design-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-system-design.svg" alt="System Design" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-microservices.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-microservices-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-microservices.svg" alt="Microservices" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-mediapipe.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-mediapipe-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-mediapipe.svg" alt="MediaPipe" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-fsm.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-fsm-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-fsm.svg" alt="FSM" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-sso-oauth.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-sso-oauth-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-sso-oauth.svg" alt="SSO/OAuth" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+
+  <br/>
+
+  <!-- Testing & Tools -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/category-testing.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/category-testing-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/category-testing.svg" alt="Testing" style="vertical-align: middle; margin-bottom: 8px;" />
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-jest.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-jest-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-jest.svg" alt="Jest" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-testing-library.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-testing-library-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-testing-library.svg" alt="Testing Library" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-lighthouse.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-lighthouse-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-lighthouse.svg" alt="Lighthouse" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-git.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-git-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-git.svg" alt="Git" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+</div>
 
 <br/><br/>
 
