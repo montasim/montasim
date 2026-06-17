@@ -26,7 +26,6 @@
   <source media="(prefers-color-scheme: light)" srcset="assets/heading-whatibuild-light.svg" />
   <img loading="lazy" src="assets/heading-whatibuild-dark.svg" width="100%" alt="What I build" />
 </picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg" />
@@ -47,7 +46,6 @@
   <source media="(prefers-color-scheme: light)" srcset="assets/heading-featuredwork-light.svg" />
   <img loading="lazy" src="assets/heading-featuredwork-dark.svg" width="100%" alt="Featured work" />
 </picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg" />
@@ -105,7 +103,6 @@
   <source media="(prefers-color-scheme: light)" srcset="assets/heading-techstack-light.svg" />
   <img loading="lazy" src="assets/heading-techstack-dark.svg" width="100%" alt="Tech stack" />
 </picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg" />
@@ -198,9 +195,21 @@
     <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-socket-io-light.svg" />
     <img loading="lazy" src="assets/stack_badges/badge-socket-io.svg" alt="Socket.IO" style="vertical-align: middle; margin: 4px;" />
   </picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-postgresql.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-postgresql-light.svg" /><img loading="lazy" src="assets/stack_badges/badge-postgresql.svg" alt="PostgreSQL" style="vertical-align: middle; margin: 4px;" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-mongodb.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-mongodb-light.svg" /><img loading="lazy" src="assets/stack_badges/badge-mongodb.svg" alt="MongoDB" style="vertical-align: middle; margin: 4px;" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-prisma.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-prisma-light.svg" /><img loading="lazy" src="assets/stack_badges/badge-prisma.svg" alt="Prisma" style="vertical-align: middle; margin: 4px;" /></picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-postgresql.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-postgresql-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-postgresql.svg" alt="PostgreSQL" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-mongodb.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-mongodb-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-mongodb.svg" alt="MongoDB" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-prisma.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-prisma-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-prisma.svg" alt="Prisma" style="vertical-align: middle; margin: 4px;" />
+  </picture>
 
   <br/><br/>
 
@@ -311,7 +320,6 @@
   <source media="(prefers-color-scheme: light)" srcset="assets/heading-howiwork-light.svg" />
   <img loading="lazy" src="assets/heading-howiwork-dark.svg" width="100%" alt="How I work" />
 </picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg" />
