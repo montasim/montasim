@@ -116,7 +116,7 @@
     <img loading="lazy" src="assets/stack_badges/badge-sql.svg" alt="SQL" style="vertical-align: middle; margin: 4px;" />
   </picture>
   
-  <br/>
+  <br/><br/>
 
   <!-- Frontend -->
   <picture>
@@ -151,7 +151,7 @@
     <img loading="lazy" src="assets/stack_badges/badge-webrtc.svg" alt="WebRTC" style="vertical-align: middle; margin: 4px;" />
   </picture>
 
-  <br/>
+  <br/><br/>
 
   <!-- Backend & Data -->
   <picture>
@@ -184,7 +184,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-mongodb.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-mongodb-light.svg" /><img loading="lazy" src="assets/stack_badges/badge-mongodb.svg" alt="MongoDB" style="vertical-align: middle; margin: 4px;" /></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-prisma.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-prisma-light.svg" /><img loading="lazy" src="assets/stack_badges/badge-prisma.svg" alt="Prisma" style="vertical-align: middle; margin: 4px;" /></picture>
 
-  <br/>
+  <br/><br/>
 
   <!-- Cloud & DevOps -->
   <picture>
@@ -219,7 +219,7 @@
     <img loading="lazy" src="assets/stack_badges/badge-ci-cd.svg" alt="CI/CD" style="vertical-align: middle; margin: 4px;" />
   </picture>
 
-  <br/>
+  <br/><br/>
 
   <!-- Architecture -->
   <picture>
@@ -254,7 +254,7 @@
     <img loading="lazy" src="assets/stack_badges/badge-sso-oauth.svg" alt="SSO/OAuth" style="vertical-align: middle; margin: 4px;" />
   </picture>
 
-  <br/>
+  <br/><br/>
 
   <!-- Testing & Tools -->
   <picture>
