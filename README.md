@@ -22,10 +22,20 @@
 
 <!-- What I Build Section -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-whatibuild-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/heading-whatibuild-light.svg" />
-  <img loading="lazy" src="assets/heading-whatibuild-dark.svg" width="100%" alt="What I build" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-whatibuild-text-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/heading-whatibuild-text-light.svg" />
+  <img loading="lazy" src="assets/heading-whatibuild-text-dark.svg" width="100%" alt="What I build" />
 </picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-whatibuild-line-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/heading-whatibuild-line-light.svg" />
+  <img loading="lazy" src="assets/heading-whatibuild-line-dark.svg" width="100%" alt="divider" />
+</picture>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/bio-dark.svg" />
@@ -37,10 +47,20 @@
 
 <!-- Featured Work Section -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-featuredwork-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/heading-featuredwork-light.svg" />
-  <img loading="lazy" src="assets/heading-featuredwork-dark.svg" width="100%" alt="Featured work" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-featuredwork-text-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/heading-featuredwork-text-light.svg" />
+  <img loading="lazy" src="assets/heading-featuredwork-text-dark.svg" width="100%" alt="Featured work" />
 </picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-featuredwork-line-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/heading-featuredwork-line-light.svg" />
+  <img loading="lazy" src="assets/heading-featuredwork-line-dark.svg" width="100%" alt="divider" />
+</picture>
+
+<br/>
 
 <!-- Project 1: PostCraft -->
 <picture>
@@ -89,10 +109,20 @@
 
 <!-- Tech Stack Section -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-techstack-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/heading-techstack-light.svg" />
-  <img loading="lazy" src="assets/heading-techstack-dark.svg" width="100%" alt="Tech stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-techstack-text-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/heading-techstack-text-light.svg" />
+  <img loading="lazy" src="assets/heading-techstack-text-dark.svg" width="100%" alt="Tech stack" />
 </picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-techstack-line-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/heading-techstack-line-light.svg" />
+  <img loading="lazy" src="assets/heading-techstack-line-dark.svg" width="100%" alt="divider" />
+</picture>
+
+<br/>
 
 <div align="left">
   <!-- Languages -->
@@ -180,9 +210,21 @@
     <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-socket-io-light.svg" />
     <img loading="lazy" src="assets/stack_badges/badge-socket-io.svg" alt="Socket.IO" style="vertical-align: middle; margin: 4px;" />
   </picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-postgresql.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-postgresql-light.svg" /><img loading="lazy" src="assets/stack_badges/badge-postgresql.svg" alt="PostgreSQL" style="vertical-align: middle; margin: 4px;" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-mongodb.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-mongodb-light.svg" /><img loading="lazy" src="assets/stack_badges/badge-mongodb.svg" alt="MongoDB" style="vertical-align: middle; margin: 4px;" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-prisma.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-prisma-light.svg" /><img loading="lazy" src="assets/stack_badges/badge-prisma.svg" alt="Prisma" style="vertical-align: middle; margin: 4px;" /></picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-postgresql.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-postgresql-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-postgresql.svg" alt="PostgreSQL" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-mongodb.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-mongodb-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-mongodb.svg" alt="MongoDB" style="vertical-align: middle; margin: 4px;" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack_badges/badge-prisma.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack_badges/badge-prisma-light.svg" />
+    <img loading="lazy" src="assets/stack_badges/badge-prisma.svg" alt="Prisma" style="vertical-align: middle; margin: 4px;" />
+  </picture>
 
   <br/><br/>
 
@@ -289,10 +331,20 @@
 
 <!-- How I Work Section -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-howiwork-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/heading-howiwork-light.svg" />
-  <img loading="lazy" src="assets/heading-howiwork-dark.svg" width="100%" alt="How I work" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-howiwork-text-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/heading-howiwork-text-light.svg" />
+  <img loading="lazy" src="assets/heading-howiwork-text-dark.svg" width="100%" alt="How I work" />
 </picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-howiwork-line-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/heading-howiwork-line-light.svg" />
+  <img loading="lazy" src="assets/heading-howiwork-line-dark.svg" width="100%" alt="divider" />
+</picture>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/howiwork-dark.svg" />
