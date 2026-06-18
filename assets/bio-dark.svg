@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
-  <text x="0" y="20" font-size="16" fill="#8B949E">
-    <tspan x="0" dy="0">Senior Software Engineer with </tspan><tspan font-weight="600" fill="#C9D1D9">3+ years</tspan><tspan> building real-time, AI-driven web platforms across the full stack</tspan>
-    <tspan x="0" dy="26">— React, Next.js, Node.js, and TypeScript. Promoted twice at a health-tech SaaS while architecting biometric</tspan>
-    <tspan x="0" dy="26">and telemedicine systems; cut cloud infrastructure costs </tspan><tspan font-weight="600" fill="#C9D1D9">70%</tspan><tspan> and improved application performance </tspan><tspan font-weight="600" fill="#C9D1D9">40%</tspan><tspan>.</tspan>
-    <tspan x="0" dy="26">Focused on system design, state-machine architecture, and shipping </tspan><tspan font-weight="600" fill="#C9D1D9">HIPAA-compliant</tspan><tspan> products to production.</tspan>
-  </text>
-</svg>

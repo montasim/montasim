@@ -32,11 +32,11 @@
   <img loading="lazy" src="assets/divider-dark.svg" width="100%" alt="---" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/bio-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/bio-light.svg" />
-  <img loading="lazy" src="assets/bio-dark.svg" width="100%" alt="Senior Software Engineer with 3+ years building real-time, AI-driven web platforms across the full stack — React, Next.js, Node.js, and TypeScript. Promoted twice at a health-tech SaaS while architecting biometric and telemedicine systems; cut cloud infrastructure costs 70% and improved application performance 40%. Focused on system design, state-machine architecture, and shipping HIPAA-compliant products to production." />
-</picture>
+I build web platforms that scale. With over [4+ years of experience](https://montasim.vercel.app/#experience), I specialize in building multi-tenant **SaaS** platforms that handle real-time video, biometric assessments, and high-stakes interactions — without breaking. I don't just build features; I design deterministic systems where every state transition is intentional, and every feature toggle is tenant-aware.
+
+**Key highlights:** Boosted React app performance by **40%** and achieved **Lighthouse 90+** scores by eliminating legacy libraries and building custom components. Reduced cloud infrastructure costs by **70%** by migrating **Azure** VMs to App Service with automated **CI/CD** pipelines. Built a real-time **computer vision** pipeline (MediaPipe) with **95%+** production accuracy, featuring adaptive frame rates and multi-person detection.
+
+I design for worst-case scenarios — building [scalable SaaS systems](https://montasim.vercel.app/#skills) with predictable state transitions, resilient lifecycles, and reliable asynchronous workflows. Check out my [projects](https://montasim.vercel.app/#projects) to see it in action.
 
 <br/><br/>
 
