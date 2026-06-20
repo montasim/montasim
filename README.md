@@ -12,17 +12,17 @@
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/icons/code-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="assets/icons/code-light.svg" />
-        <img loading="lazy" width="25" src="assets/icons/code-dark.svg" alt="Code icon" style="vertical-align: middle; margin-right: 8px;" />
-    </picture>
+        <img loading="lazy" width="25" src="assets/icons/code-dark.svg" alt="Code icon" align="middle" />
+    </picture>&nbsp;
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=24&amp;duration=1&amp;pause=1&amp;color=EB008B&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=325&amp;height=34&amp;lines=HELLO%2C+NICE+TO+MEET+YOU" />
         <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=24&amp;duration=1&amp;pause=1&amp;color=C50074&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=325&amp;height=34&amp;lines=HELLO%2C+NICE+TO+MEET+YOU" />
-        <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=24&amp;duration=1&amp;pause=1&amp;color=EB008B&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=325&amp;height=34&amp;lines=HELLO%2C+NICE+TO+MEET+YOU" alt="Hello, nice to meet you" style="vertical-align: middle;" />
-    </picture>
+        <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=700&amp;size=24&amp;duration=1&amp;pause=1&amp;color=EB008B&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=325&amp;height=34&amp;lines=HELLO%2C+NICE+TO+MEET+YOU" alt="Hello, nice to meet you" align="middle" />
+    </picture>&nbsp;
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/icons/layers-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="assets/icons/layers-light.svg" />
-        <img loading="lazy" width="25" src="assets/icons/layers-dark.svg" alt="Layers icon" style="vertical-align: middle; margin-left: 8px;" />
+        <img loading="lazy" width="25" src="assets/icons/layers-dark.svg" alt="Layers icon" align="middle" />
     </picture>
 </div>
 
@@ -146,12 +146,12 @@
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/icons/about-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="assets/icons/about-light.svg" />
-        <img loading="lazy" width="24" src="assets/icons/about-dark.svg" alt="about me icon" style="vertical-align: middle; margin-right: 8px;" />
-    </picture>
+        <img loading="lazy" width="24" src="assets/icons/about-dark.svg" alt="about me icon" align="middle" />
+    </picture>&nbsp;
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=20&amp;duration=1&amp;pause=1&amp;color=008280&amp;vCenter=true&amp;repeat=false&amp;width=240&amp;height=30&amp;lines=The+impact+I+deliver" />
         <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=20&amp;duration=1&amp;pause=1&amp;color=008280&amp;vCenter=true&amp;repeat=false&amp;width=240&amp;height=30&amp;lines=The+impact+I+deliver" />
-        <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=20&amp;duration=1&amp;pause=1&amp;color=008280&amp;vCenter=true&amp;repeat=false&amp;width=240&amp;height=30&amp;lines=The+impact+I+deliver" alt="The Impact I Deliver" style="vertical-align: middle;" />
+        <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=20&amp;duration=1&amp;pause=1&amp;color=008280&amp;vCenter=true&amp;repeat=false&amp;width=240&amp;height=30&amp;lines=The+impact+I+deliver" alt="The Impact I Deliver" align="middle" />
     </picture>
 </div>
 
@@ -190,12 +190,12 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/icons/stats-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="assets/icons/stats-light.svg" />
-        <img loading="lazy" width="21" src="assets/icons/stats-dark.svg" alt="stats icon" style="vertical-align: middle; margin-right: 8px;" />
-    </picture>
+        <img loading="lazy" width="21" src="assets/icons/stats-dark.svg" alt="stats icon" align="middle" />
+    </picture>&nbsp;
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=20&amp;duration=1&amp;pause=1&amp;color=00B8B5&amp;vCenter=true&amp;repeat=false&amp;width=260&amp;height=30&amp;lines=Proof+is+in+the+numbers" />
         <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=20&amp;duration=1&amp;pause=1&amp;color=008280&amp;vCenter=true&amp;repeat=false&amp;width=260&amp;height=30&amp;lines=Proof+is+in+the+numbers" />
-        <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=20&amp;duration=1&amp;pause=1&amp;color=00B8B5&amp;vCenter=true&amp;repeat=false&amp;width=260&amp;height=30&amp;lines=Proof+is+in+the+numbers" alt="Proof Is In The Numbers" style="vertical-align: middle;" />
+        <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=20&amp;duration=1&amp;pause=1&amp;color=00B8B5&amp;vCenter=true&amp;repeat=false&amp;width=260&amp;height=30&amp;lines=Proof+is+in+the+numbers" alt="Proof Is In The Numbers" align="middle" />
     </picture>
 </div>
 
