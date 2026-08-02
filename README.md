@@ -1,5 +1,3 @@
-[![Support me on SupportKori](https://img.shields.io/badge/Support%20me-SupportKori-FFDD00?style=flat-square)](https://www.supportkori.com/montasim)
-
 <!--
     Montasim's GitHub Profile README
 
@@ -39,6 +37,9 @@
   </a>
   <a href="https://drive.google.com/file/d/1v0RP3PyBB6KdsfXhonIHJXU-wgAUSIRT/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style="margin-right: 6px;">
     <img src="https://img.shields.io/badge/⬇-Download_Resume-00B8B5?style=for-the-badge&logoColor=white&labelColor=555555" alt="Download Resume" />
+  </a>
+  <a href="https://www.supportkori.com/montasim" target="_blank" rel="noopener noreferrer" style="margin-right: 6px;">
+    <img src="https://img.shields.io/badge/🤝-Support_me-00B8B5?style=for-the-badge&logoColor=white&labelColor=555555" alt="Support me on SupportKori" />
   </a>
 </div>
 
@@ -232,9 +233,3 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
 </div>
 
 <br/>
-
-## Support
-
-If this project has been useful, you can support its continued maintenance:
-
-[![Support me on SupportKori](https://img.shields.io/badge/Support%20me-SupportKori-FFDD00?style=flat-square)](https://www.supportkori.com/montasim)
