@@ -8,6 +8,17 @@ Full-stack engineer in Dhaka building production-focused SaaS, developer tools, 
 
 I focus on systems whose behavior remains understandable under real production pressure: explicit state transitions, reliable async workflows, privacy-aware data handling, and interfaces that help people finish a task without learning the implementation first. I currently work at [MyMedicalHUB](https://mymedicalhub.com/) and maintain open-source packages and applications across the JavaScript ecosystem.
 
+**[See the portfolio](https://montasim.vercel.app) · [Review featured work](#featured-work) · [Connect on LinkedIn](https://www.linkedin.com/in/montasim)**
+
+## What to review first
+
+- For product and UX decisions, start with [Thoughtline](https://github.com/montasim/Thoughtline) or [Ramadan Clock](https://github.com/montasim/ramadan-clock).
+- For package API design, compatibility, and release discipline, review [http-status-lite](https://github.com/montasim/http-status-lite).
+- For source-conscious data modeling, inspect [address-bd](https://github.com/montasim/address-bd).
+- For a deployed full-stack research workflow, open [b4joinacompany](https://github.com/montasim/b4joinacompany).
+
+Each featured repository links its runnable proof, architecture, setup, limitations, quality gates, support path, and licensing status where available.
+
 ## Featured work
 
 | Project | What it delivers | Try it |
@@ -52,6 +63,12 @@ My active repositories aim to make trust visible through:
 - explicit privacy, data provenance, security, and limitation notes where they matter;
 - issue, contribution, funding, and license paths that match the files actually present;
 - small APIs and documentation generated or checked against the implementation.
+
+## Collaboration
+
+The most useful project conversations begin in the relevant repository so decisions remain connected to code and documentation. Use an issue for reproducible bugs and scoped proposals, follow each repository's contribution guide when present, and use its private security-reporting route for vulnerabilities. Please do not place credentials, private user data, or sensitive workplace information in public issues.
+
+Optional support through [SupportKori](https://www.supportkori.com/montasim) helps fund hosting, package maintenance, documentation, and continued public tooling. Bug reports, source corrections, code review, documentation, and sharing the projects are equally valuable contributions.
 
 ## GitHub activity
 
