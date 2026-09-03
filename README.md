@@ -128,8 +128,6 @@
 
 <!-- Tools -->
 <div align="center">
-  <img loading="lazy" style="margin-right: 6px" alt="docker badge" src="https://img.shields.io/badge/Docker-00B8B5?style=for-the-badge&logo=docker&logoColor=white&labelColor=555555" />
-  <img loading="lazy" style="margin-right: 6px" alt="github actions badge" src="https://img.shields.io/badge/GitHub%20Actions-00B8B5?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=555555" />
   <img loading="lazy" style="margin-right: 6px" alt="git badge" src="https://img.shields.io/badge/Git-00B8B5?style=for-the-badge&logo=git&logoColor=white&labelColor=555555" />
   <img loading="lazy" style="margin-right: 6px" alt="figma badge" src="https://img.shields.io/badge/Figma-00B8B5?style=for-the-badge&logo=figma&logoColor=white&labelColor=555555" />
   <img loading="lazy" style="margin-right: 6px" alt="azure badge" src="https://img.shields.io/badge/Azure-00B8B5?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=555555" />
