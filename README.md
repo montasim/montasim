@@ -208,8 +208,8 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
 <br/>
 
 <div align="center">
-    <img loading="lazy" width="396" src="https://github-stats-extended.vercel.app/api?username=montasim&custom_title=Montasim%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub stats overview" />
-    <img loading="lazy" width="325" src="https://github-stats-extended.vercel.app/api/wakatime?username=montasim&custom_title=Montasim%27s%20GitHub%20Stats&langs_count=6&display_format=percent&theme=transparent" alt="Top languages used" />
+    <img loading="lazy" width="396" src="https://github-stats-extended.vercel.app/api?username=montasim&rank_icon=percentile&custom_title=Montasim%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub stats overview" />
+    <img loading="lazy" width="325" src="https://github-stats-extended.vercel.app/api/wakatime?username=montasim&custom_title=Montasim%27s%20GitHub%20Stats&langs_count=6&theme=transparent" alt="Top languages used" />
 </div>
 
 <br/>
