@@ -32,12 +32,12 @@
 <div align="center">
   <img src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c.svg?style=for-the-badge&color=00B8B5" alt="Total coding time" style="margin-right: 6px;" />
   <!-- <img src="https://img.shields.io/github/followers/montasim?logo=github&style=for-the-badge&color=00B8B5" alt="GitHub followers" style="margin-right: 6px;" /> -->
-  <!-- <a href="https://www.linkedin.com/in/montasim" target="_blank" rel="noopener noreferrer" style="margin-right: 6px;">
+  <a href="https://www.linkedin.com/in/montasim" target="_blank" rel="noopener noreferrer" style="margin-right: 6px;">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-00B8B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn" />
   </a>
   <a href="https://drive.google.com/file/d/1v0RP3PyBB6KdsfXhonIHJXU-wgAUSIRT/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style="margin-right: 6px;">
     <img src="https://img.shields.io/badge/⬇-Download_Resume-00B8B5?style=for-the-badge&logoColor=white&labelColor=555555" alt="Download Resume" />
-  </a> -->
+  </a>
   <a href="https://www.supportkori.com/montasim" target="_blank" rel="noopener noreferrer" style="margin-right: 6px;">
     <img src="https://img.shields.io/badge/🤝-Support_me-00B8B5?style=for-the-badge&logoColor=white&labelColor=555555" alt="Support me on SupportKori" />
   </a>
