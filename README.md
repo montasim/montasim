@@ -165,12 +165,12 @@
 I build web platforms that scale. With over [4+ years of professional experience](https://montasim.dev/#experience), I specialize in architecting multi-tenant **SaaS** platforms, real-time media systems, and AI-driven full-stack applications. I design deterministic systems where every state transition is intentional, every performance metric is optimized, and every layout is responsive.
 
 ### What I do
-*   **Real-time Biometrics & Media:** Developed a finite-state-machine biometric engine on **MediaPipe** at **MyMedicalHub** to sustain **60 FPS** pose estimation with **99.9%** reliability. Built WebRTC video pipelines (OpenTok, self-hosted STUN/TURN) and HTML5 Canvas engines for pixel-accurate data correction.
-*   **System Optimization:** Rewrote clinical chatbot states with Redux Toolkit for dynamic routing; refactored 54+ legacy modules into presentational/container structures, eliminating critical memory leaks.
-*   **Cost-Efficient DevOps:** Migrated legacy Azure VMs to App Service with automated GitHub Actions CI/CD, reducing overall cloud infrastructure spend by **70%**.
-*   **High Performance & Security:** Optimized React render cycles to boost frontend performance by **40%** (achieving **90+ Lighthouse** scores). Deployed HIPAA-compliant SSO (OAuth, strict CSP) and JWT-based REST client layers protected against XSS/CSRF.
-
----
+* **Architecture:** Built scalable React architectures and state management engines.
+* **Computer Vision:** Built real-time motion and pose tracking for health apps.
+* **Video & Canvas:** Developed live video streaming and pixel-exact drawing tools.
+* **Performance:** Fixed memory leaks and accelerated web apps by 40%.
+* **Security:** Implemented HIPAA-compliant auth and enterprise web security.
+* **DevOps:** Reduced cloud hosting costs by 70% using automated deployments.
 
 #### Open source & projects
 
@@ -180,10 +180,6 @@ I build web platforms that scale. With over [4+ years of professional experience
     <img loading="lazy" alt="MulaLens extention overview" src="https://github-stats-extended.vercel.app/api/pin?username=montasim&repo=montasim%2FMulaLens&theme=transparent" align="middle" />
     <img loading="lazy" alt="ISPCine app overview" src="https://github-stats-extended.vercel.app/api/pin?username=montasim&repo=montasim%2FISPCine&theme=transparent" align="middle" />
 </div>
-
----
-
-I design for worst-case scenarios — building [scalable SaaS systems](https://montasim.dev/#skills) with predictable state transitions, resilient lifecycles, and reliable asynchronous workflows. Check out my repositories or visit my [portfolio](https://montasim.dev) to see them in action.
 
 <br/>
 <br/>
