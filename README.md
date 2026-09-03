@@ -137,7 +137,6 @@
   <img loading="lazy" style="margin-right: 6px" alt="ci/cd badge" src="https://img.shields.io/badge/CI%2FCD-00B8B5?style=for-the-badge&labelColor=555555" />
   <img loading="lazy" style="margin-right: 6px" alt="jest badge" src="https://img.shields.io/badge/Jest-00B8B5?style=for-the-badge&logo=jest&logoColor=white&labelColor=555555" />
   <img loading="lazy" style="margin-right: 6px" alt="testing library badge" src="https://img.shields.io/badge/Testing%20Library-00B8B5?style=for-the-badge&logo=testinglibrary&logoColor=white&labelColor=555555" />
-  <img loading="lazy" style="margin-right: 6px" alt="lighthouse badge" src="https://img.shields.io/badge/Lighthouse-00B8B5?style=for-the-badge&logo=lighthouse&logoColor=white&labelColor=555555" />
 </div>
 
 <br/>
