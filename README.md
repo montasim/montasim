@@ -164,6 +164,8 @@
 
 I build web platforms that scale. With over [4+ years of professional experience](https://montasim.dev/#experience), I specialize in architecting multi-tenant **SaaS** platforms, real-time media systems, and AI-driven full-stack applications. I design deterministic systems where every state transition is intentional, every performance metric is optimized, and every layout is responsive.
 
+<br/>
+
 ### What I do
 * **Architecture:** Built scalable React architectures and state management engines.
 * **Computer Vision:** Built real-time motion and pose tracking for health apps.
@@ -172,9 +174,12 @@ I build web platforms that scale. With over [4+ years of professional experience
 * **Security:** Implemented HIPAA-compliant auth and enterprise web security.
 * **DevOps:** Reduced cloud hosting costs by 70% using automated deployments.
 
-#### Open source & projects
 
-<div align="center">
+<br/>
+
+### Open source & projects
+
+<div align="left">
     <img loading="lazy" alt="PostCraft overview" src="https://github-stats-extended.vercel.app/api/pin?username=montasim&repo=montasim%2FPostCraft&theme=transparent" align="middle" />
     <img loading="lazy" alt="Devtools overview" src="https://github-stats-extended.vercel.app/api/pin?username=montasim&repo=montasim%2Fdevtools&theme=transparent" align="middle" />
     <img loading="lazy" alt="MulaLens extention overview" src="https://github-stats-extended.vercel.app/api/pin?username=montasim&repo=montasim%2FMulaLens&theme=transparent" align="middle" />
@@ -215,14 +220,6 @@ I build web platforms that scale. With over [4+ years of professional experience
 <!-- Footer -->
 <div align="center">
     <img loading="lazy" width="100%" alt="Waving footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer" />
-</div>
-
-<br/>
-<br/>
-<br/>
-
-<div align="center">
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=500&amp;size=16&amp;duration=5000&amp;pause=1&amp;color=00B8B5&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=24&amp;lines=Inspired+by+problem.+Driven+by+impact.;Designed+to+scale.+Built+to+last.;Discomfort+is+the+price+of+growth.;Focus+on+process%2C+not+outcome.;Progress+not+perfection.;Less+ego%2C+more+curiosity.;Clarity+comes+from+action.;Small+wins+build+big+momentum.;Your+only+competition+is+who+you+were+yesterday.;Embrace+uncertainty+%E2%80%93+it%27s+where+growth+lives.;Pause.+Reflect.+Adapt.+Repeat.;Done+is+better+than+perfect.;Constraints+breed+creativity.;Say+no+to+more%2C+so+you+can+say+yes+to+better.;The+best+code+is+code+that+needs+no+explanation.;Overengineering+is+just+fear+in+disguise.;Simplicity+is+the+ultimate+sophistication.;Shipping+beats+brainstorming.;Every+expert+was+once+a+beginner.;Sustained+effort+beats+motivation+every+time." alt="Built with love by Montasim" />
 </div>
 
 <br/>
