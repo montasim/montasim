@@ -4,7 +4,7 @@
 
     Author  : Mohammad Montasim Al Mamun Shuvo
     Contact : montasimmamun@gmail.com
-    Portfolio : https://montasim.vercel.app
+    Portfolio : https://montasim.dev
 -->
 
 <br/>
@@ -162,7 +162,7 @@
 
 <br/>
 
-I build web platforms that scale. With over [4+ years of professional experience](https://montasim.vercel.app/#experience), I specialize in architecting multi-tenant **SaaS** platforms, real-time media systems, and AI-driven full-stack applications. I design deterministic systems where every state transition is intentional, every performance metric is optimized, and every layout is responsive.
+I build web platforms that scale. With over [4+ years of professional experience](https://montasim.dev/#experience), I specialize in architecting multi-tenant **SaaS** platforms, real-time media systems, and AI-driven full-stack applications. I design deterministic systems where every state transition is intentional, every performance metric is optimized, and every layout is responsive.
 
 ### What I do
 *   **Real-time Biometrics & Media:** Developed a finite-state-machine biometric engine on **MediaPipe** at **MyMedicalHub** to sustain **60 FPS** pose estimation with **99.9%** reliability. Built WebRTC video pipelines (OpenTok, self-hosted STUN/TURN) and HTML5 Canvas engines for pixel-accurate data correction.
@@ -182,7 +182,7 @@ Here are some of the open-source projects I've built and currently maintain:
 
 ---
 
-I design for worst-case scenarios — building [scalable SaaS systems](https://montasim.vercel.app/#skills) with predictable state transitions, resilient lifecycles, and reliable asynchronous workflows. Check out my repositories or visit my [portfolio](https://montasim.vercel.app) to see them in action.
+I design for worst-case scenarios — building [scalable SaaS systems](https://montasim.dev/#skills) with predictable state transitions, resilient lifecycles, and reliable asynchronous workflows. Check out my repositories or visit my [portfolio](https://montasim.dev) to see them in action.
 
 <br/>
 <br/>
