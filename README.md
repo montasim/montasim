@@ -32,12 +32,12 @@
 <div align="center">
   <img src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c.svg?style=for-the-badge&color=00B8B5" alt="Total coding time" style="margin-right: 6px;" />
   <!-- <img src="https://img.shields.io/github/followers/montasim?logo=github&style=for-the-badge&color=00B8B5" alt="GitHub followers" style="margin-right: 6px;" /> -->
-  <a href="https://www.linkedin.com/in/montasim" target="_blank" rel="noopener noreferrer" style="margin-right: 6px;">
+  <!-- <a href="https://www.linkedin.com/in/montasim" target="_blank" rel="noopener noreferrer" style="margin-right: 6px;">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-00B8B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn" />
   </a>
   <a href="https://drive.google.com/file/d/1v0RP3PyBB6KdsfXhonIHJXU-wgAUSIRT/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style="margin-right: 6px;">
     <img src="https://img.shields.io/badge/⬇-Download_Resume-00B8B5?style=for-the-badge&logoColor=white&labelColor=555555" alt="Download Resume" />
-  </a>
+  </a> -->
   <a href="https://www.supportkori.com/montasim" target="_blank" rel="noopener noreferrer" style="margin-right: 6px;">
     <img src="https://img.shields.io/badge/🤝-Support_me-00B8B5?style=for-the-badge&logoColor=white&labelColor=555555" alt="Support me on SupportKori" />
   </a>
@@ -172,13 +172,14 @@ I build web platforms that scale. With over [4+ years of professional experience
 
 ---
 
-### Open source & projects
-Here are some of the open-source projects I've built and currently maintain:
+#### Open source & projects
 
-*   **[PostCraft](https://github.com/montasim/PostCraft) (`aipostcraft.vercel.app`):** An AI-native social-media manager that generates scored, brand-compliant post variants using Google Gemini. Powered by Inngest background queues for non-blocking UI operations.
-*   **[DevTools](https://github.com/montasim/devtools) (`devtoolsn.vercel.app`):** A privacy-first developer suite of 40+ browser utilities (differs, generators, regex) with a Next.js App Router backend.
-*   **[address-bd](https://github.com/montasim/address-bd) (`npm package`):** A zero-dependency, TypeScript-first package providing instant access to bilingual Bangladesh administrative coordinates, Divisions, Districts, and Upazilas.
-*   **Utility Packages:** Creator of lightweight, tree-shakeable npm packages like [`http-status-lite`](https://github.com/montasim/http-status-lite), [`content-types-lite`](https://github.com/montasim/content-types-lite), and [`client-parser`](https://github.com/montasim/client-parser).
+<div align="center">
+    <img loading="lazy" alt="PostCraft overview" src="https://github-stats-extended.vercel.app/api/pin?username=montasim&repo=montasim%2FPostCraft&theme=transparent" align="middle" />
+    <img loading="lazy" alt="Devtools overview" src="https://github-stats-extended.vercel.app/api/pin?username=montasim&repo=montasim%2Fdevtools&theme=transparent" align="middle" />
+    <img loading="lazy" alt="MulaLens extention overview" src="https://github-stats-extended.vercel.app/api/pin?username=montasim&repo=montasim%2FMulaLens&theme=transparent" align="middle" />
+    <img loading="lazy" alt="ISPCine app overview" src="https://github-stats-extended.vercel.app/api/pin?username=montasim&repo=montasim%2FISPCine&theme=transparent" align="middle" />
+</div>
 
 ---
 
@@ -207,12 +208,8 @@ I design for worst-case scenarios — building [scalable SaaS systems](https://m
 <br/>
 
 <div align="center">
-    <img loading="lazy" width="396" src="https://montasim-github-readme-streak-stats.vercel.app?user=montasim&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&stroke=00000000&border=00000000&ring=00B8B5&fire=EB008B&currStreakNum=EB008B&sideNums=00B8B5&currStreakLabel=00B8B5&sideLabels=00B8B5&excludeDaysLabel=00B8B5&dates=00B8B5" alt="GitHub contribution streak" />
-    <img loading="lazy" width="396" src="https://montasim-github-readme-stats.vercel.app/api?username=montasim&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&title_color=EB008B&icon_color=EB008B&bg_color=00000000&text_color=00B8B5&border_color=00000000&hide_border=true" alt="GitHub stats overview" />
-</div>
-
-<div align="center">
-    <img loading="lazy" width="325" src="https://montasim-github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=00B8B5&icon_color=EB008B&bg_color=00000000&langs_count=8&layout=compact&border_color=00000000&hide_border=true" alt="Top languages used" />
+    <img loading="lazy" width="396" src="https://github-stats-extended.vercel.app/api?username=montasim&custom_title=Montasim%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub stats overview" />
+    <img loading="lazy" width="325" src="https://github-stats-extended.vercel.app/api/wakatime?username=montasim&custom_title=Montasim%27s%20GitHub%20Stats&langs_count=6&display_format=percent&theme=transparent" alt="Top languages used" />
 </div>
 
 <br/>
