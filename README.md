@@ -21,7 +21,7 @@
 <!-- About, in the style of the CC0 "Editorial Card" template (beydemirfurkan/awesome-github-profile) -->
 ## About
 
-> *I build software that has to work under real conditions: live video, in-browser computer vision, long sessions, flaky networks.*
+> *I build production software end to end, from the interface to the infrastructure. Real-time video, in-browser computer vision, SaaS platforms, browser extensions, desktop apps: different problems, same bar. It has to hold up in front of real users.*
 
 </br>
 
