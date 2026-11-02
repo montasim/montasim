@@ -16,6 +16,7 @@
 </picture>
 
 </br>
+</br>
 
 <!-- About, in the style of the CC0 "Editorial Card" template (beydemirfurkan/awesome-github-profile) -->
 ## About
