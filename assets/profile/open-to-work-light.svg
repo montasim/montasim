@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 494" width="1200" height="494" role="img" aria-label="Mohammad Montasim Al Mamun Shuvo: open to work">
+  <title>Open to Work</title>
+  <desc>Mohammad Montasim Al Mamun Shuvo is open to full-time senior frontend or full-stack product roles.</desc>
+  <defs>
+    <linearGradient id="live" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#008280"/><stop offset="1" stop-color="#C50074"/>
+    </linearGradient>
+    <clipPath id="card"><rect x="1" y="1" width="1198" height="492" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+  <rect width="1200" height="494" fill="#F7F7F5"/>
+  <rect width="1200" height="5" fill="url(#live)"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="492" rx="18" fill="none" stroke="#E2E2DD"/>
+
+  <!-- The status dot is the one animated element: it is the one fact with a shelf life. -->
+  <rect x="64" y="64" width="172" height="32" rx="16" fill="#D5F5F4" stroke="#008280" stroke-width="1.2"/>
+  <circle cx="84" cy="80" r="5" fill="#008280">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="100" y="80" dominant-baseline="central" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#04524F" letter-spacing="2">OPEN TO WORK</text>
+
+  <text x="64" y="162" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, sans-serif" font-size="46" font-weight="800" fill="#131316" letter-spacing="-1.2">Mohammad Montasim Al Mamun Shuvo</text>
+  <text x="64" y="196" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, sans-serif" font-size="19" fill="#22222A">AI-First Full-Stack Engineer · Real-Time, AI-Driven Products · React, Next.js, Node.js, TypeScript</text>
+
+  <line x1="64" y1="226" x2="1136" y2="226" stroke="#E2E2DD"/>
+
+  <text x="64" y="260" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" fill="#008280" letter-spacing="3.5">LOOKING FOR</text>
+  <text x="624" y="260" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="10" fill="#C50074" letter-spacing="3.5">NOT LOOKING FOR</text>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, sans-serif" font-size="16">
+    <circle cx="68" cy="285" r="3.5" fill="#008280"/><text x="84" y="290" fill="#22222A">Senior frontend or full-stack product roles</text>
+    <circle cx="68" cy="313" r="3.5" fill="#008280"/><text x="84" y="318" fill="#22222A">Real-time, AI-driven or SaaS products</text>
+    <circle cx="68" cy="341" r="3.5" fill="#008280"/><text x="84" y="346" fill="#22222A">Remote, hybrid, or on-site in Dhaka</text>
+    <path d="M624 281 l8 8 M632 281 l-8 8" stroke="#C50074" stroke-width="1.6" stroke-linecap="round"/><text x="644" y="290" fill="#5A5A62">Junior or mid-level roles</text>
+  </g>
+
+  <line x1="64" y1="376" x2="1136" y2="376" stroke="#E2E2DD"/>
+  <g font-family="ui-monospace, Menlo, Consolas, monospace">
+    <text x="64" y="410" font-size="10" fill="#8A8A84" letter-spacing="2.5">AVAILABLE</text><text x="64" y="434" font-size="16" font-weight="700" fill="#131316">After notice</text>
+    <text x="344" y="410" font-size="10" fill="#8A8A84" letter-spacing="2.5">TIMEZONE</text><text x="344" y="434" font-size="16" font-weight="700" fill="#131316">UTC+6 (Dhaka)</text>
+    <text x="624" y="410" font-size="10" fill="#8A8A84" letter-spacing="2.5">TYPE</text><text x="624" y="434" font-size="16" font-weight="700" fill="#131316">Full-time</text>
+  </g>
+</svg>
