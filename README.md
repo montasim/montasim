@@ -15,10 +15,14 @@
   <img src="assets/profile/open-to-work-dark.svg" width="100%" alt="Mohammad Montasim Al Mamun Shuvo, AI-First Full-Stack Engineer, is open to work. Looking for senior frontend or full-stack product roles on real-time, AI-driven or SaaS products; remote, hybrid, or on-site in Dhaka. Not looking for junior or mid-level roles. Full-time, available after notice, timezone UTC+6." />
 </picture>
 
+</br>
+
 <!-- About, in the style of the CC0 "Editorial Card" template (beydemirfurkan/awesome-github-profile) -->
 ## About
 
 > *I build software that has to work under real conditions: live video, in-browser computer vision, long sessions, flaky networks.*
+
+</br>
 
 ## Tech stack
 
@@ -27,6 +31,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cnodejs%2Creact%2Cnextjs%2Cnestjs%2Cexpress%2Celectron%2Credux%2Ctailwind%2Cthreejs%2Cvite%2Cprisma%2Cpostgres%2Cmysql%2Csqlite%2Cmongodb%2Credis%2Csupabase%2Cfirebase%2Cazure%2Caws%2Cdocker%2Cgithubactions%2Cjest%2Cvitest&perline=13&theme=light" />
   <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Cnodejs%2Creact%2Cnextjs%2Cnestjs%2Cexpress%2Celectron%2Credux%2Ctailwind%2Cthreejs%2Cvite%2Cprisma%2Cpostgres%2Cmysql%2Csqlite%2Cmongodb%2Credis%2Csupabase%2Cfirebase%2Cazure%2Caws%2Cdocker%2Cgithubactions%2Cjest%2Cvitest&perline=13&theme=dark" alt="Languages: TypeScript, JavaScript. Runtime and frameworks: Node.js, React and React Native, Next.js, NestJS, Express, Electron. Libraries and build: Redux, Tailwind CSS, Three.js, Vite, Prisma. Databases: PostgreSQL, MySQL, SQLite, MongoDB, Redis, Supabase, Firebase. Cloud: Azure, AWS. Containers and CI/CD: Docker, GitHub Actions. Testing: Jest, Vitest." />
 </picture>
+
+</br>
+</br>
 
 ## GitHub stats
 
@@ -40,6 +47,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=montasim&layout=compact&langs_count=8&card_width=500&hide_border=true&bg_color=00000000&title_color=008280&text_color=24292F" />
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=montasim&layout=compact&langs_count=8&card_width=500&hide_border=true&bg_color=00000000&title_color=00B8B5&text_color=C9D1D9" alt="Most used languages" />
 </picture>
+
+</br>
 
 <!-- Footer -->
 <div align="center">
